@@ -1,5 +1,8 @@
 name: Generate Recipe Indexes
 
+permissions:
+  contents: write
+
 on:
   push:
     paths:
