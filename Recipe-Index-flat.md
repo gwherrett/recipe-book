@@ -203,6 +203,7 @@
 - [Tarragon & Pickle Potato Salad](recipes/tarragon-pickle-potato-salad.md)
 - [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb-with-rice.md)
 - [Tavë Kosi (Albanian Baked Lamb)](recipes/tave-kosi-albanian-baked-lamb.md)
+- [Thai Basil Ground Turkey (Pad Krapow-Style)](recipes/thai-basil-ground-turkey-pad-krapow.md)
 - [Thai Dipping Sauce](recipes/thai-dipping-sauce.md)
 - [Thai Dressing](recipes/thai-dressing.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
