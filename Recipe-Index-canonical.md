@@ -288,6 +288,7 @@
 - [Massaman Curry Paste](recipes/massaman-curry-paste.md)
 - [Momofuku Bo Ssäm](recipes/momofuku-bo-ssam.md)
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
+- [Thai Basil Ground Turkey (Pad Krapow-Style)](recipes/thai-basil-ground-turkey-pad-krapow.md)
 - [Thai Dipping Sauce](recipes/thai-dipping-sauce.md)
 - [Thai Dressing](recipes/thai-dressing.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)

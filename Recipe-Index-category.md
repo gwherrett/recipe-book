@@ -144,6 +144,7 @@
 - [Swimming Scallops with Tamarind Sweet Sauce](recipes/swimming-scallops-with-tamarind-sweet-sauce.md)
 - [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb-with-rice.md)
 - [Tavë Kosi (Albanian Baked Lamb)](recipes/tave-kosi-albanian-baked-lamb.md)
+- [Thai Basil Ground Turkey (Pad Krapow-Style)](recipes/thai-basil-ground-turkey-pad-krapow.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
 - [Udon BBQ Pork with Red Peppers](recipes/udon-bbq-pork-with-red-peppers.md)
 - [Veggie Chili](recipes/veggie-chili.md)
