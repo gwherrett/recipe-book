@@ -1,6 +1,6 @@
 ---
 title: Zhoug (Green Chili Sauce)
-cuisine: Middle East
+cuisine: Middle Eastern
 category: Sauces & Condiments
 slug: zhoug-green-chili-sauce-1
 health_rating: 0

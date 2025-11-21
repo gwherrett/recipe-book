@@ -1,6 +1,6 @@
 ---
 title: Yogurt Sauce for Fried Cauliflower
-cuisine: Middle East
+cuisine: Middle Eastern
 category: Sauces & Condiments
 slug: yogurt-sauce-for-fried-cauliflower
 health_rating: 0
