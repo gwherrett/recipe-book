@@ -20,7 +20,7 @@ health_rating_label: Unrated
 ## 🧂 Ingredients
 
 ### For the lamb:
-- **1.2 kg** lamb shoulder or leg, cut into chunks (about **2.65 lbs**)
+- **1.2 kg** lamb shoulder or leg, cut into chunks 
 - **1½ tbsp** butter or olive oil
 - **3 cloves** garlic, minced
 - **1½ tsp** salt

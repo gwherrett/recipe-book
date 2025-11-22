@@ -1,8 +1,8 @@
 ---
-title: Dry Rub for Ribs
+title: Ribs - Dry Rub
 cuisine: North American
 category: Spice Mixes & Pastes
-slug: dry-rub-for-ribs
+slug: ribs-dry-rub
 health_rating: 0
 health_rating_label: Unrated
 ---

@@ -9,7 +9,7 @@ health_rating_label: Unrated
 
 # Japanese Curry Powder
 
-A fragrant and mildly spiced curry blend used in Japanese-style curries, fried rice, noodles, and more.
+A fragrant and mildly spiced curry blend used in Japanese-style curries, fried rice, noodles, and more. Unlike Indian curry powder, it has a slightly sweeter, milder profile with warm spices that balance beautifully with savory dishes. This homemade version lets you customize the flavors to suit your taste.
 
 ## Ingredients
 

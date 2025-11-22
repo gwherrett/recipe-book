@@ -1,13 +1,13 @@
 ---
-title: Lobster Mac and Cheese
+title: Lobster Mac n Cheese
 cuisine: North American
 category: Mains
-slug: lobster-mac-and-cheese
+slug: lobster-mac-n-cheese
 health_rating: 0
 health_rating_label: Unrated
 ---
 
-# Lobster Mac and Cheese  
+# Lobster Mac n Cheese  
 *By Rob Feenie*
 
 ## Béchamel Sauce  
