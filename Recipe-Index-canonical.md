@@ -45,7 +45,7 @@
 ## Chinese
 
 - [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
-- [Cantonese Beef Brisket with Coconut](recipes/cantonese-beef-brisket-with-coconut.md)
+- [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)
 - [Chinese Five Spice Powder](recipes/chinese-five-spice-powder.md)
 - [Chinese Shrimp with Tomato Sauce](recipes/chinese-shrimp-with-tomato-sauce.md)
 - [Chinese Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
@@ -99,7 +99,7 @@
 - [Panzanella](recipes/panzanella.md)
 - [Pasta with Barese Sausage](recipes/pasta-with-barese-sausage.md)
 - [Pecorino Radicchio Cherry Salad](recipes/pecorino-radicchio-cherry-salad.md)
-- [Pesto–Ricotta Dip](recipes/pestoricotta-dip.md)
+- [Pesto–Ricotta Dip](recipes/pesto-ricotta-dip.md)
 - [Pork Chops with Sage Mushroom Sauce](recipes/pork-chops-with-sage-mushroom-sauce.md)
 - [Sage-Infused Hot Pepper Sauce](recipes/sage-infused-hot-pepper-sauce.md)
 - [Sausage, Cheese & Basil Lasagna](recipes/sausage-cheese-basil-lasagna.md)
