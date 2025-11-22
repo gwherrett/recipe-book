@@ -2,7 +2,7 @@
 title: Lobster Pasta Sauce (Busara-Style)
 slug: lobster-pasta-sauce-busara-style
 category: Pasta
-cuisine: "Italian (Friuli\u2013Venezia Giulia)"
+cuisine: Italian
 tags:
 - lobster
 - pasta
