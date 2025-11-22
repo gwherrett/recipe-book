@@ -8,12 +8,15 @@
 - [French](#french)
 - [Indian](#indian)
 - [Italian](#italian)
+- [Italian (Friuli–Venezia Giulia)](#italian-friuli-venezia-giulia)
 - [Japanese](#japanese)
 - [Mediterranean](#mediterranean)
 - [Mexican](#mexican)
 - [Middle Eastern](#middle-eastern)
+- [Middle Easterngit status](#middle-easterngit-status)
 - [North American](#north-american)
 - [Persian](#persian)
+- [Southern / Cajun](#southern-cajun)
 - [Southern / Creole](#southern-creole)
 - [Spanish](#spanish)
 - [Thai](#thai)
@@ -28,10 +31,6 @@
 - [Tarragon & Pickle Potato Salad](recipes/tarragon-pickle-potato-salad.md)
 - [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb-with-rice.md)
 - [Tavë Kosi (Albanian Baked Lamb)](recipes/tave-kosi-albanian-baked-lamb.md)
-
-## Cajun / Creole
-
-- [Cajun Jambalaya](recipes/cajun-jambalaya.md)
 
 ## Caribbean
 
@@ -173,11 +172,14 @@
 
 ## Middle Eastern
 
-- [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
 - [Baba Ganoush](recipes/baba-ganoush.md)
+- [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce-1.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
+
+## Middle Easterngit status
+
 - [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
 
 ## North American
@@ -257,6 +259,10 @@
 - [Persian Dill Rice with Fish (Sabzi Polo Mahi)](recipes/persian-dill-rice-with-fish-sabzi-polo-mahi.md)
 - [Persian Lamb Shanks](recipes/persian-lamb-shanks.md)
 - [Shirazi Salad](recipes/shirazi-salad.md)
+
+## Southern / Cajun
+
+- [Cajun Jambalaya](recipes/cajun-jambalaya.md)
 
 ## Southern / Creole
 
