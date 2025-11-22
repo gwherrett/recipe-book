@@ -189,7 +189,6 @@
 - [Japanese Slaw with Brussels Sprouts](recipes/japanese-slaw-with-brussels-sprouts.md)
 - [Kale Apple Slaw](recipes/kale-apple-slaw.md)
 - [Kale-Cabbage-Carrot Slaw](recipes/kale-cabbage-carrot-slaw.md)
-- [Lo Bak Go](recipes/lo-bak-go.md)
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
 - [Long Bean, Cucumber & Tomato Salad](recipes/long-bean-cucumber-tomato-salad.md)
 - [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
@@ -231,7 +230,6 @@
 - [Thai Dipping Sauce](recipes/thai-dipping-sauce.md)
 - [Tzatziki](recipes/tzatziki.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
-- [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce-1.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
 
 ## Soups & Stocks

@@ -52,7 +52,6 @@
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
 - [Korean Marinade for Quail](recipes/korean-marinade-for-quail.md)
-- [Lo Bak Go](recipes/lo-bak-go.md)
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
 - [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
 - [Pork Bone Soup](recipes/pork-bone-soup.md)
@@ -168,7 +167,6 @@
 - [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
-- [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce-1.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
 
 ## North American
