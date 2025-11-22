@@ -7,12 +7,9 @@ health_rating: 0
 health_rating_label: Unrated
 ---
 
-# J. Kenji López-Alt’s Jerk Chicken (Adapted for Gas Grill)
+#  Jerk Chicken 
 
-**Category:** Mains / Chicken  
-**Tags:** Jamaican, spicy, smoky, gas grill friendly  
-
----
+Kenji López-Alt’s take using a gas grill
 
 ## Ingredients
 
