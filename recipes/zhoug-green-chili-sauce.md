@@ -9,45 +9,56 @@ health_rating_label: Unrated
 
 # Zhoug (Green Chili Sauce)
 
-**Category:** Condiments & Sauces  
-**Tags:** Middle Eastern, Spicy, Vegan, Gluten-Free  
-
 ## Summary
 A vibrant Yemeni–Israeli green chili sauce made with cilantro, garlic, and spices. Zhoug adds fresh heat and herbal depth to grilled meats, shawarma, falafel, and eggs. Keeps up to a week refrigerated or can be frozen in small portions.
 
+**Ingredients:**
+- 1 cup fresh cilantro (stems okay)
+- 1/2 cup fresh parsley (optional but traditional)
+- 3–4 green chilies (jalapeño or serrano), adjust for heat
+- 2–3 garlic cloves
+- 1/2 tsp ground cumin
+- 1/4 tsp ground coriander
+- 1/4 tsp ground cardamom (optional)
+- Salt to taste (about 1/4–1/2 tsp)
+- Juice of 1/2 lemon
+- 1/4 cup olive oil
+- Optional: 1 tbsp water to adjust texture
+
+**Instructions:**
+1. Add everything except oil to a food processor and pulse to combine.
+2. Drizzle in oil slowly until it forms a loose, textured paste.
+3. Taste and adjust for salt, lemon, or spice.
+
+**Notes:**
+- This version is bold, spicy, and herb-forward with no cooling element.
+- Ideal with falafel, grilled meats, flatbreads, or eggs.
+
 ---
 
-## Ingredients
-- 2 cups fresh cilantro leaves and tender stems  
-- 1 cup fresh parsley leaves (optional)  
-- 4–6 green chilies (jalapeño or serrano)  
-- 4 cloves garlic  
-- 1 tsp ground cumin  
-- 1/2 tsp ground cardamom  
-- 1/2 tsp ground coriander  
-- 1/4 tsp ground black pepper  
-- 1/2 tsp salt  
-- Juice of 1 lemon  
-- 1/2 cup olive oil  
+## Levantine Zhoug (Mint Version)
 
----
+**Ingredients:**
+- 1 cup fresh cilantro (stems okay)
+- 1/2 cup fresh mint leaves (no stems)
+- 2–3 green chilies (like jalapeño or serrano), seeded for less heat
+- 2 garlic cloves
+- 1/2 tsp ground cumin
+- 1/4 tsp ground coriander
+- Salt to taste (start with 1/4 tsp)
+- Juice of 1/2 lemon
+- 1/4 cup olive oil
+- Optional: 1 tbsp water for thinning
 
-## Method
-1. Roughly chop herbs and chilies; remove chili seeds for milder heat.  
-2. Combine herbs, chilies, garlic, and spices in a food processor and pulse until finely chopped.  
-3. With the motor running, drizzle in lemon juice and olive oil until a coarse paste forms.  
-4. Taste and adjust seasoning. Store in a jar with a thin layer of olive oil on top.
+**Instructions:**
+1. Roughly chop the herbs, chilies, and garlic.
+2. Add all ingredients except olive oil to a food processor or blender.
+3. Pulse until finely chopped.
+4. With motor running, slowly add olive oil until emulsified and sauce-like.
+5. Adjust lemon, salt, or chili to your taste.
 
----
+**Flavor Profile:** Herby, zesty, a little spicy, and cool from the mint—pairs perfectly with lamb, chicken shawarma, or drizzled over labneh.
 
 ## Storage
 - Refrigerate up to 1 week.  
 - Freeze in ice cube trays up to 2 months.
-
----
-
-## Serving Ideas
-- Spoon over grilled lamb, chicken, or vegetables  
-- Stir into hummus or labneh  
-- Mix with olive oil and vinegar for a quick dressing  
-- Use as a spicy sandwich or wrap condiment
