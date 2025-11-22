@@ -46,7 +46,6 @@
 
 - [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
 - [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)
-- [Chinese Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
 - [Five Spice Powder](recipes/chinese-five-spice-powder.md)
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
@@ -57,6 +56,7 @@
 - [Pork Bone Soup Jobs Tears](recipes/pork-bone-soup-jobs-tears.md)
 - [Shrimp with Tomato Sauce](recipes/chinese-shrimp-with-tomato-sauce.md)
 - [Sichuan Green Beans](recipes/sichuan-green-beans.md)
+- [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Taro Root Cake](recipes/taro-root-cake.md)
 - [Udon BBQ Pork with Red Peppers](recipes/udon-bbq-pork-with-red-peppers.md)
 - [Winter Melon Soup (Cantonese)](recipes/winter-melon-soup-cantonese.md)
@@ -271,7 +271,6 @@
 - [Momofuku Bo Ssäm](recipes/momofuku-bo-ssam.md)
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
 - [Thai Basil Ground Turkey (Pad Krapow-Style)](recipes/thai-basil-ground-turkey-pad-krapow.md)
-- [Thai Dipping Sauce](recipes/thai-dipping-sauce.md)
 - [Thai Dressing](recipes/thai-dressing.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
