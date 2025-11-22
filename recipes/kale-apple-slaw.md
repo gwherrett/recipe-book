@@ -7,10 +7,7 @@ health_rating: 0
 health_rating_label: Unrated
 ---
 
-### **Kale & Apple Slaw with Honey-Mustard Dressing**
-
-**Category:** Salads & Sides  
-**Tags:** kale, apple, slaw, honey mustard, healthy, crunchy  
+### Kale & Apple Slaw with Honey-Mustard Dressing
 
 **Summary:**  
 A bright, crunchy slaw that balances earthy kale with crisp apples and a tangy honey-mustard dressing. Perfect as a side for grilled meats, sandwiches, or fall mains.

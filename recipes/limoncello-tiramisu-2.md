@@ -28,7 +28,7 @@ Note: This recipe uses uncooked eggs. If salmonella is a concern, use pasteurize
 - 2–3 tbsp unsweetened cocoa powder
 - ~1 cup shaved white chocolate
 
-## Instructions
+## Method
 
 1. In a stand mixer (whisk attachment) or using a hand mixer, beat egg yolks, powdered sugar, and lemon zest until pale and light, 3–5 minutes. Switch to the paddle attachment and add the cream and mascarpone; beat until fluffy. If using a stand mixer, transfer to a large bowl.
 
@@ -43,4 +43,3 @@ Note: This recipe uses uncooked eggs. If salmonella is a concern, use pasteurize
 6. Add a second layer of soaked ladyfingers, then spread the remaining mascarpone mixture over top.
 
 7. Chill for about 2 hours. Serve within a few hours of assembly. Dust with cocoa powder and top with shaved white chocolate.
-

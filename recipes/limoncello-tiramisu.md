@@ -9,7 +9,6 @@ health_rating_label: Unrated
 
 # Limoncello Tiramisu
 
-**Category:** Desserts → No‑Bake  
 **Time:** 25 min active, 4–12 hr chill  
 **Serves:** 8–10
 
@@ -49,9 +48,4 @@ Garnish with **lemon zest**. Slice and serve cold.
 
 ## Notes & Tips
 - **Make‑ahead:** Keeps 2–3 days refrigerated; flavor improves by day 2.
-- **Alcohol‑lighter:** Replace some or all Limoncello with lemon syrup.
-- **Texture control:** For a firmer set, add 2–3 tbsp of lemon curd to the cream, or stabilize whipped cream with 1 tsp gelatin (bloomed).
 - **Pan sizes:** Also fits an 8×10‑inch (20×25 cm) pan or 8–10 individual glasses.
-
----
-*Recipe: Limoncello Tiramisu | v1.0*

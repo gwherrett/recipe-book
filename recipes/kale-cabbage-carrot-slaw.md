@@ -7,17 +7,11 @@ health_rating: 0
 health_rating_label: Unrated
 ---
 
-# Kale-Cabbage-Carrot Taco Slaw
+### Kale-Cabbage-Carrot Taco Slaw
 
-**Category:** Condiments & Sides  
-**Tags:** Tacos, Slaw, Kale, Cabbage, Lime
-
----
-
-## 🌮 Kale-Cabbage-Carrot Taco Slaw
 A bright, crunchy, and simple slaw perfect for tacos — a lighter and fresher alternative to plain cabbage.
 
-### Ingredients
+## Ingredients
 - 1 cup finely shredded green cabbage  
 - 1 cup finely chopped kale (stems removed)  
 - 1 medium carrot, grated  
@@ -27,7 +21,7 @@ A bright, crunchy, and simple slaw perfect for tacos — a lighter and fresher a
 - ¼ tsp ground cumin *(optional)*  
 - Pinch of chili flakes or dash of hot sauce *(optional)*  
 
-### Method
+## Method
 1. In a medium bowl, combine cabbage, kale, and carrot.  
 2. Drizzle with lime juice and olive oil.  
 3. Add salt, cumin, and optional chili flakes.  
