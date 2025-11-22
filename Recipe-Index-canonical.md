@@ -13,7 +13,6 @@
 - [Mediterranean](#mediterranean)
 - [Mexican](#mexican)
 - [Middle Eastern](#middle-eastern)
-- [Middle Easterngit status](#middle-easterngit-status)
 - [North American](#north-american)
 - [Persian](#persian)
 - [Southern / Cajun](#southern-cajun)
@@ -173,14 +172,11 @@
 ## Middle Eastern
 
 - [Baba Ganoush](recipes/baba-ganoush.md)
+- [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce-1.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
-
-## Middle Easterngit status
-
-- [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
 
 ## North American
 
