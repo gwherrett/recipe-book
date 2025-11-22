@@ -1,16 +1,13 @@
 ---
-title: Chinese Shrimp with Tomato Sauce
+title: Shrimp with Tomato Sauce
 cuisine: Chinese
 category: Mains
-slug: chinese-shrimp-with-tomato-sauce
+slug: shrimp-with-tomato-sauce
 health_rating: 0
 health_rating_label: Unrated
 ---
 
-# Chinese Shrimp with Tomato Sauce (500g Version)
-
-**Category:** Mains – Chinese  
-**Tags:** shrimp, tomato, quick, stir-fry, weeknight
+# Chinese Shrimp with Tomato Sauce
 
 A classic Chinese home-style dish featuring tender shrimp in a savory-sweet tomato sauce. This version is scaled for 500g of shrimp — ideal for 2–3 servings when served with rice.
 
