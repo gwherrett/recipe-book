@@ -1,6 +1,6 @@
 ---
 title: Adobo-Marinated Pork Chops
-cuisine: Mexican
+cuisine: Chinese
 category: Mains
 slug: adobo-marinated-pork-chops
 health_rating: 0

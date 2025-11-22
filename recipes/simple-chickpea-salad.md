@@ -1,8 +1,8 @@
 ---
-title: Simple Chickpea Salad
+title: Chickpea Salad
 cuisine: Mediterranean
 category: Salads & Sides
-slug: simple-chickpea-salad
+slug: chickpea-salad
 health_rating: 0
 health_rating_label: Unrated
 ---

@@ -1,6 +1,6 @@
 ---
 title: Spaghetti Sauce
-cuisine: Japanese
+cuisine: Italian
 category: Pasta
 slug: spaghetti-sauce
 health_rating: 0
