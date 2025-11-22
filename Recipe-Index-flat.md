@@ -135,7 +135,6 @@
 - [Pasta with Barese Sausage](recipes/pasta-with-barese-sausage.md)
 - [Pecan Pie](recipes/pecan-pie.md)
 - [Pecorino Radicchio Cherry Salad](recipes/pecorino-radicchio-cherry-salad.md)
-- [Perfect Pulled Pork](recipes/perfect-pulled-pork.md)
 - [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
 - [Persian Dill Rice with Fish (Sabzi Polo Mahi)](recipes/persian-dill-rice-with-fish-sabzi-polo-mahi.md)
 - [Persian Lamb Shanks](recipes/persian-lamb-shanks.md)

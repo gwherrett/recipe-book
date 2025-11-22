@@ -215,7 +215,6 @@
 - [Montreal Steak Seasoning](recipes/montreal-steak-seasoning.md)
 - [New York Strip Loin with Pepper Marinade](recipes/new-york-strip-loin-with-pepper-marinade.md)
 - [Pecan Pie](recipes/pecan-pie.md)
-- [Perfect Pulled Pork](recipes/perfect-pulled-pork.md)
 - [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
 - [Pickled Salmon](recipes/pickled-salmon.md)
 - [Pie Crust](recipes/pie-crust.md)

@@ -115,7 +115,6 @@
 - [Moroccan Chickpea Stew — Tomato-Rich Tagine Style (with Barberries & Dates)](recipes/moroccan-chickpea-stew-tomato-rich-tagine-style-with-barberries-dates.md)
 - [New York Strip Loin with Pepper Marinade](recipes/new-york-strip-loin-with-pepper-marinade.md)
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
-- [Perfect Pulled Pork](recipes/perfect-pulled-pork.md)
 - [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
 - [Persian Lamb Shanks](recipes/persian-lamb-shanks.md)
 - [Plancha Mackerel with Peppers & Onions](recipes/plancha-mackerel-with-peppers-onions.md)
