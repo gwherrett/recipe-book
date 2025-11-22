@@ -94,7 +94,6 @@
 - [Lamb Meatballs in Tomato Sauce](recipes/lamb-meatballs-in-tomato-sauce.md)
 - [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
 - [Lamb Stew Rendang](recipes/lamb-stew-rendang.md)
-- [Lemon Cream (Pierre Hermé Adaptation)](recipes/lemon-cream-pierre-herme-adaptation.md)
 - [Lemon Risotto with Summer Squash](recipes/lemon-risotto-with-summer-squash.md)
 - [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu-2.md)

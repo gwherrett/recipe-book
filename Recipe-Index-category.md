@@ -39,7 +39,6 @@
 - [Frozen Banana Cocoa Ice Cream](recipes/frozen-banana-cocoa-ice-cream.md)
 - [Ginger-Lime syrup](recipes/ginger-lime-syrup.md)
 - [Heart-Healthy Banana Bread](recipes/heart-healthy-banana-bread.md)
-- [Lemon Cream (Pierre Hermé Adaptation)](recipes/lemon-cream-pierre-herme-adaptation.md)
 - [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu-2.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)

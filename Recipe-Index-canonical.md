@@ -64,7 +64,6 @@
 ## French
 
 - [Ginger-Lime syrup](recipes/ginger-lime-syrup.md)
-- [Lemon Cream (Pierre Hermé Adaptation)](recipes/lemon-cream-pierre-herme-adaptation.md)
 - [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)
 - [Ratatouille](recipes/ratatouille.md)
 - [Ratatouille with Celery & Corn](recipes/ratatouille-with-celery-corn.md)
