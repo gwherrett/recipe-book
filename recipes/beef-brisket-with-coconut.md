@@ -1,8 +1,8 @@
 ---
-title: Cantonese Beef Brisket with Coconut
+title: Beef Brisket with Coconut
 cuisine: Chinese
 category: Mains
-slug: cantonese-beef-brisket-with-coconut
+slug: beef-brisket-with-coconut
 health_rating: 0
 health_rating_label: Unrated
 ---
