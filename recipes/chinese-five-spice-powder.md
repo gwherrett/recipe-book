@@ -1,16 +1,14 @@
 ---
-title: Chinese Five Spice Powder
+title: Five Spice Powder
 cuisine: Chinese
 category: Spice Mixes & Pastes
-slug: chinese-five-spice-powder
+slug: five-spice-powder
 health_rating: 0
 health_rating_label: Unrated
 ---
 
-# Chinese Five Spice Powder
+# Five Spice Powder
 
-**Category:** Spice Blends\
-**Tags:** Chinese, seasoning, aromatic
 
 **Summary:**\
 A traditional Chinese spice blend balancing sweet, sour, bitter,
