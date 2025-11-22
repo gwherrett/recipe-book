@@ -1,5 +1,5 @@
 ---
-title: 'Smoking Goose: Tips & Preparation Guide'
+title: 'Smoked Goose: Tips & Preparation Guide'
 cuisine: North American
 category: Mains
 slug: smoking-goose-tips-preparation-guide

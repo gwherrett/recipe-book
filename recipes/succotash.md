@@ -1,6 +1,6 @@
 ---
 title: Succotash
-cuisine: North American
+cuisine: Southern / Cajun
 category: Salads & Sides
 slug: succotash
 health_rating: 0

@@ -1,6 +1,6 @@
 ---
 title: Low Country Boil
-cuisine: North American
+cuisine: Southern / Cajun
 category: Mains
 slug: low-country-boil
 health_rating: 0

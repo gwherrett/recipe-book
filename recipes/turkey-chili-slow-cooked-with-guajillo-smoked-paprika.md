@@ -7,7 +7,7 @@ health_rating: 0
 health_rating_label: Unrated
 ---
 
-# 🌶️ Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)
+# Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)
 
 **Category:** Mains → Chili & Stews  
 **Tags:** Ground turkey, guajillo chili, slow cooker, chili, freezer-friendly, rich & smoky  

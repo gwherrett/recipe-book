@@ -1,8 +1,8 @@
 ---
-title: Rotisserie Herb-Brined Cornish Hens (Scaled for 2 Birds)
+title: Cornish Hens (Rotisserie Herb-Brined)
 cuisine: North American
 category: Mains
-slug: rotisserie-herb-brined-cornish-hens-scaled-for-2-birds
+slug: cornish-hens-rotisserie-herb-brined
 health_rating: 0
 health_rating_label: Unrated
 ---

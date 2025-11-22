@@ -1,13 +1,13 @@
 ---
-title: Healthy Creamed Spinach
+title: Creamed Spinach
 cuisine: North American
 category: Salads & Sides
-slug: healthy-creamed-spinach
+slug: creamed-spinach
 health_rating: 0
 health_rating_label: Unrated
 ---
 
-# Healthy Creamed Spinach (Gluten-Free)
+# Creamed Spinach
 
 **Category:** Vegetables & Sides  
 **Dietary:** Gluten-Free, Vegetarian  

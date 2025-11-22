@@ -2,7 +2,7 @@
 title: Cornbread Stuffing with Andouille, Fennel, and Bell Peppers
 slug: cornbread-stuffing-andouille-fennel-bell-peppers
 category: Salads & Sides
-cuisine: Southern / Creole
+cuisine: Southern / Cajun
 summary: Savory cornbread stuffing loaded with smoky andouille sausage, sweet fennel,
   onion, and red bell pepper, baked until crisp on top and tender in the middle.
 servings: "8\u201310"
