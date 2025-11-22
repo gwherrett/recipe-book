@@ -1,20 +1,21 @@
 ---
-title: "Chinese Steamed Pork Patty (\u84B8\u8089\u9905)"
+title: "Steamed Pork Patty (\u84B8\u8089\u9905)"
 category: Mains
+cuisine: Chinese
+slug: steamed-pork-patty
 tags:
 - pork
 - steamed
 - comfort food
 - Cantonese
-summary: A tender, juicy, and savory Chinese steamed pork patty infused with soy,
+summary: A tender, juicy, and savory  steamed pork patty infused with soy,
   ginger, and sesame. A comforting Cantonese home-style dish perfect with rice.
-cuisine: Chinese
-slug: chinese-steamed-pork-patty
+
 health_rating: 0
 health_rating_label: Unrated
 ---
 
-## Chinese Steamed Pork Patty (蒸肉餅)
+## Steamed Pork Patty (蒸肉餅)
 
 ### Ingredients
 - 400 g ground pork (70% lean, 30% fat)
