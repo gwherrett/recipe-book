@@ -1,59 +1,53 @@
 ---
-title: Jamaican Oxtail stew
+title: Jamaican Oxtail Stew
+categories:
+- Mains
+- Stews & Curries
+tags:
+- Jamaican
+- oxtail
+- stew
+- braised
+servings: "4\u20136"
+time: 3 hours (mostly hands-off)
 cuisine: Caribbean
 category: Mains
-slug: jamaican-oxtail-stew
+slug: jamaican-oxtail-stew-2
 health_rating: 0
 health_rating_label: Unrated
 ---
 
-# Jamaican Oxtail Recipe
+# Jamaican Oxtail Stew
 
 ## Ingredients
-- 2 lbs oxtail, trimmed of excess fat
-- 1 onion, chopped
-- 4 cloves garlic, minced
-- 2 spring onions, chopped
-- 1 Scotch bonnet pepper, chopped (optional for heat)
-- 2 tbsp fresh thyme
-- 2 tbsp browning sauce
-- 1 tbsp soy sauce
-- 1 tbsp all-purpose seasoning
-- 1 tbsp black pepper
-- 1 tbsp paprika
-- 1 tbsp pimento (allspice) berries, crushed
-- 1 tbsp tomato ketchup
-- 2 tbsp cooking oil
-- 1 can butter beans, drained
-- 2 carrots, chopped
-- 4 cups water or beef broth
-- 1 tbsp brown sugar
-- 1 lime or lemon (for cleaning the oxtail)
+- 3 pounds oxtails, cut into segments by a butcher
+- Kosher salt and freshly ground black pepper, to taste
+- 3 tablespoons light brown sugar
+- 2 Spanish onions, peeled and chopped
+- 4 cloves garlic, peeled and minced
+- 3 tablespoons fresh ginger, peeled and chopped
+- 1 Scotch bonnet pepper, whole
+- 3 sprigs fresh thyme
+- 12 allspice berries
+- 1 bunch scallions, trimmed and chopped
+- 2 tablespoons white sugar
+- 3 tablespoons soy sauce
+- 1 tablespoon Worcestershire sauce
+- 3 tablespoons flour
+- 3 tablespoons tomato ketchup
+- 1 cup butter beans (or one 10.5-oz can, rinsed and drained)
 
-## Instructions
+## Method
+1. Pat the oxtails dry and season aggressively with salt and black pepper.
+2. Heat a Dutch oven over high heat. Add brown sugar and melt until dark and smoking. Add 2 tbsp boiling water and stir.
+3. Add oxtails in batches, browning well. Remove and keep warm.
+4. Add half the onions, garlic, ginger, Scotch bonnet, thyme, allspice, and one-third of the scallions. Cook 5 minutes.
+5. Return oxtails and add enough water to nearly submerge. Simmer covered 1 hour.
+6. Add white sugar, soy sauce, Worcestershire, remaining onions/scallions, and ketchup. Sprinkle flour and stir to dissolve.
+7. Simmer uncovered 45–60 minutes until tender and thickened.
+8. Add butter beans and simmer 10 minutes. Remove Scotch bonnet before serving.
+9. Adjust seasoning and serve.
 
-1. **Clean the oxtail:** Rub the oxtail with lime or lemon and rinse with water. Pat dry.
-
-2. **Marinate the oxtail:** Season the oxtail with browning sauce, soy sauce, thyme, all-purpose seasoning, paprika, black pepper, crushed pimento berries, and garlic. Marinate for at least 2 hours or overnight for deeper flavor.
-
-3. **Brown the oxtail:** Heat cooking oil in a large pot or Dutch oven over medium heat. Add the brown sugar and let it caramelize until it darkens. Add the oxtail and brown it on all sides, sealing in the flavors.
-
-4. **Add aromatics:** Stir in onions, spring onions, and Scotch bonnet pepper. Sauté for 5 minutes until the onions become soft and fragrant.
-
-5. **Add liquids:** Stir in tomato ketchup, then add water or beef broth. Bring to a boil, then reduce the heat to low and cover.
-
-6. **Cook slowly:** Let the oxtail simmer on low heat for 2–3 hours, or until the meat is tender and falling off the bone. You can also use a pressure cooker to reduce cooking time.
-
-7. **Add vegetables:** After about 2 hours, add the carrots and butter beans. Let it simmer for another 30 minutes to allow the vegetables to cook through and the sauce to thicken.
-
-8. **Serve:** Taste and adjust seasoning with salt and pepper. Serve the oxtail with rice and peas, dumplings, or fried plantains.
-
----
-
-## Differences Between Jamaican, Saint Lucian, and Grenadian Oxtail Recipes
-
-- **Jamaican Oxtail:** Known for its use of browning sauce and pimento (allspice), with deep, smoky flavor. Includes butter beans and caramelized brown sugar. Often spicy.
-
-- **Saint Lucian Oxtail:** Typically includes coconut milk and green seasoning, with a fresher, creamier, and herb-focused flavor. Often milder in spice.
-
-- **Grenadian Oxtail:** Uses aromatic spices like cloves, nutmeg, and cinnamon—hallmarks of the “Spice Isle.” Bold, fragrant, and richly seasoned.
+## Notes
+- Browning the sugar is essential for Jamaican depth and color.
+- Add butter beans at the end so they don’t break apart.
