@@ -3,18 +3,15 @@
 ## Cuisines
 
 - [Balkan](#balkan)
-- [Cajun / Creole](#cajun-creole)
 - [Caribbean](#caribbean)
 - [Chinese](#chinese)
 - [French](#french)
 - [Indian](#indian)
 - [Italian](#italian)
-- [Italian (Friuli–Venezia Giulia)](#italian-friuli-venezia-giulia)
 - [Japanese](#japanese)
 - [Mediterranean](#mediterranean)
 - [Mexican](#mexican)
 - [Middle Eastern](#middle-eastern)
-- [Middle Easterngit status](#middle-easterngit-status)
 - [North American](#north-american)
 - [Persian](#persian)
 - [Southern / Creole](#southern-creole)

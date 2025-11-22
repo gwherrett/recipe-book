@@ -1,7 +1,7 @@
 ---
 title: Cajun Jambalaya
 category: Mains
-cuisine: Cajun / Creole
+cuisine: Southern / Cajun
 tags:
 - rice
 - shrimp
