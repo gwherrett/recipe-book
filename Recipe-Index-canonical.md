@@ -8,7 +8,6 @@
 - [French](#french)
 - [Indian](#indian)
 - [Italian](#italian)
-- [Italian (Friuli–Venezia Giulia)](#italian-friuli-venezia-giulia)
 - [Japanese](#japanese)
 - [Mediterranean](#mediterranean)
 - [Mexican](#mexican)
@@ -96,6 +95,7 @@
 - [Lemon Risotto with Summer Squash](recipes/lemon-risotto-with-summer-squash.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu-2.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
+- [Lobster Pasta Sauce (Busara-Style)](recipes/lobster-pasta-sauce-busara-style.md)
 - [Meatballs and Peas in Tomato Sauce (Pork & Lamb Sausage, 800 g)](recipes/meatballs-and-peas-in-tomato-sauce-pork-lamb-sausage-800-g.md)
 - [Panzanella](recipes/panzanella.md)
 - [Pasta with Barese Sausage](recipes/pasta-with-barese-sausage.md)
@@ -112,10 +112,6 @@
 - [Tuscan Panzanella](recipes/tuscan-panzanella.md)
 - [White Anchovy & Egg Pizza](recipes/white-anchovy-egg-pizza.md)
 - [Zesty Italian Dressing](recipes/zesty-italian-dressing.md)
-
-## Italian (Friuli–Venezia Giulia)
-
-- [Lobster Pasta Sauce (Busara-Style)](recipes/lobster-pasta-sauce-busara-style.md)
 
 ## Japanese
 
