@@ -1,6 +1,6 @@
 ---
 title: Lamb Shawarma (Rotisserie)
-cuisine: Middle Easterngit status
+cuisine: Middle Eastern
 category: Mains
 slug: lamb-shawarma-rotisserie
 health_rating: 0
