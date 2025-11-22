@@ -256,7 +256,7 @@
 - [Barbecue Rub](recipes/barbecue-rub.md)
 - [Carrots Spice Blend](recipes/carrots-spice-blend.md)
 - [Chili Powder (Ancho-Based)](recipes/chili-powder-ancho-based.md)
-- [Chinese Five Spice Powder](recipes/chinese-five-spice-powder.md)
+- [Five Spice Powder](recipes/chinese-five-spice-powder.md)
 - [Jamaican Curry Powder](recipes/jamaican-curry-powder.md)
 - [Japanese Curry Powder](recipes/japanese-curry-powder.md)
 - [Massaman Curry Paste](recipes/massaman-curry-paste.md)

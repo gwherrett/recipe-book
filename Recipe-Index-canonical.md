@@ -46,9 +46,9 @@
 
 - [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
 - [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)
-- [Chinese Five Spice Powder](recipes/chinese-five-spice-powder.md)
 - [Chinese Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
+- [Five Spice Powder](recipes/chinese-five-spice-powder.md)
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
 - [Korean Marinade for Quail](recipes/korean-marinade-for-quail.md)
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
