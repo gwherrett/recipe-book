@@ -253,7 +253,7 @@
 
 ## Spice Mixes & Pastes
 
-- [Barbecue Rub Seasoning](recipes/barbecue-rub-seasoning.md)
+- [Barbecue Rub](recipes/barbecue-rub.md)
 - [Carrots Spice Blend](recipes/carrots-spice-blend.md)
 - [Chili Powder (Ancho-Based)](recipes/chili-powder-ancho-based.md)
 - [Chinese Five Spice Powder](recipes/chinese-five-spice-powder.md)
@@ -262,6 +262,6 @@
 - [Massaman Curry Paste](recipes/massaman-curry-paste.md)
 - [Montreal Steak Seasoning](recipes/montreal-steak-seasoning.md)
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
-- [Ribs - Dry Rub](recipes/dry-rub-for-ribs.md)
+- [Ribs - Dry Rub](recipes/rib-rub.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
 

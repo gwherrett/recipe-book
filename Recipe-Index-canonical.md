@@ -171,7 +171,7 @@
 
 ## North American
 
-- [Barbecue Rub Seasoning](recipes/barbecue-rub-seasoning.md)
+- [Barbecue Rub](recipes/barbecue-rub.md)
 - [Black Cod on Cedar Plank (Barbecue)](recipes/black-cod-on-cedar-plank-barbecue.md)
 - [Blackened Sockeye Salmon](recipes/blackened-sockeye-salmon.md)
 - [Blue Cheese Dressing](recipes/blue-cheese-dressing.md)
@@ -217,7 +217,7 @@
 - [Pulled Pork](recipes/pulled-pork.md)
 - [Pulled Pork Shoulder with Spiced Cider Mop](recipes/pulled-pork-shoulder-with-spiced-cider-mop.md)
 - [Raspberry and Blueberry Crumble](recipes/raspberry-and-blueberry-crumble.md)
-- [Ribs - Dry Rub](recipes/dry-rub-for-ribs.md)
+- [Ribs - Dry Rub](recipes/rib-rub.md)
 - [Roasted Carrots with Spice Blend](recipes/roasted-carrots-with-spice-blend.md)
 - [Salmon Chowder](recipes/salmon-chowder.md)
 - [Salmon with Anchovy-Garlic Butter](recipes/salmon-with-anchovy-garlic-butter.md)
