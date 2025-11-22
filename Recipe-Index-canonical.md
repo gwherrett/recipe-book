@@ -45,6 +45,7 @@
 
 ## Chinese
 
+- [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
 - [Cantonese Beef Brisket with Coconut](recipes/cantonese-beef-brisket-with-coconut.md)
 - [Chinese Five Spice Powder](recipes/chinese-five-spice-powder.md)
 - [Chinese Shrimp with Tomato Sauce](recipes/chinese-shrimp-with-tomato-sauce.md)
@@ -105,6 +106,7 @@
 - [Sausage, Cheese & Basil Lasagna](recipes/sausage-cheese-basil-lasagna.md)
 - [Spaetzle](recipes/spaetzle.md)
 - [Spaghetti alle Vongole](recipes/spaghetti-alle-vongole.md)
+- [Spaghetti Sauce](recipes/spaghetti-sauce.md)
 - [Tagliatelle Bolognese](recipes/tagliatelle-bolognese.md)
 - [Tapenade](recipes/tapenade.md)
 - [Tiramisu Structure](recipes/tiramisu-structure.md)
@@ -126,15 +128,14 @@
 - [Rockfish Teriyaki](recipes/rockfish-teriyaki.md)
 - [Saba No Miso-ni](recipes/saba-no-miso-ni.md)
 - [Shoyu Ramen](recipes/shoyu-ramen.md)
-- [Spaghetti Sauce](recipes/spaghetti-sauce.md)
 
 ## Mediterranean
 
 - [Avgolemono (Greek Lemon Chicken Soup)](recipes/avgolemono-greek-lemon-chicken-soup.md)
+- [Chickpea Salad](recipes/simple-chickpea-salad.md)
 - [Lobster Busara](recipes/lobster-busara.md)
 - [Moroccan Carrot Soup](recipes/moroccan-carrot-soup.md)
 - [Moroccan Chickpea Stew — Tomato-Rich Tagine Style (with Barberries & Dates)](recipes/moroccan-chickpea-stew-tomato-rich-tagine-style-with-barberries-dates.md)
-- [Simple Chickpea Salad](recipes/simple-chickpea-salad.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 - [Tzatziki](recipes/tzatziki.md)
 - [Yellow Lentil & Chicken Soup](recipes/yellow-lentil-chicken-soup.md)
@@ -142,7 +143,6 @@
 ## Mexican
 
 - [Adobo Sauce](recipes/adobo-sauce.md)
-- [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
 - [Beef Enchilada Filling Sauce](recipes/beef-enchilada-filling-sauce.md)
 - [Beef Enchiladas Verde](recipes/beef-enchiladas-verde.md)
 - [Beef Fajitas](recipes/beef-fajitas.md)
