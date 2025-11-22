@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+               {
+            "name": "Generate Indexes",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/generate_indexes.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "justMyCode": true
+        }
+    ]
+}
