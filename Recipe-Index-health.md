@@ -25,6 +25,7 @@
 - [Blackened Sockeye Salmon](recipes/blackened-sockeye-salmon.md)
 - [Brussels Sprouts Slaw](recipes/brussels-sprouts-slaw.md)
 - [Camote con Chile y Limón (Sweet Potatoes)](recipes/camote-con-chile-y-limon-sweet-potatoes.md)
+- [Cha Ca La Vong (Vietnamese Turmeric Fish with Dill)](recipes/cha-ca-la-vong-vietnamese-turmeric-fish-with-dill.md)
 
 ## 3 – Mixed / Context-Dependent
 
@@ -53,7 +54,6 @@
 - [Adobo Sauce](recipes/adobo-sauce.md)
 - [Causa Rellena (Peruvian Potato Terrine)](recipes/causa-rellena-peruvian-potato-terrine.md)
 - [Celery & Stilton Soup](recipes/celery-stilton-soup.md)
-- [Cha Ca La Vong (Vietnamese Turmeric Fish with Dill)](recipes/cha-ca-la-vong-vietnamese-turmeric-fish-with-dill.md)
 - [Chicken Mole (Oaxacan-Style)](recipes/chicken-mole-oaxacan-style.md)
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
 - [Chicken Pot Pies](recipes/chicken-pot-pies.md)
