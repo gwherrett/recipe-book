@@ -7,6 +7,7 @@ Scans the `recipes/` folder and regenerates:
 - Recipe-Index-flat.md        (alphabetical)
 - Recipe-Index-canonical.md   (by cuisine)
 - Recipe-Index-category.md    (by category)
+- Recipe-Index-health.md      (by health_rating)
 
 Run locally with:
     python generate_indexes.py
@@ -21,6 +22,17 @@ RECIPE_DIR = Path("recipes")
 FLAT_INDEX = Path("Recipe-Index-flat.md")
 CUISINE_INDEX = Path("Recipe-Index-canonical.md")
 CATEGORY_INDEX = Path("Recipe-Index-category.md")
+HEALTH_INDEX = Path("Recipe-Index-health.md")
+
+# Canonical health rating labels
+RATING_LABELS = {
+    0: "Unrated",
+    1: "Treat / Indulgent",
+    2: "Rich / Heavy",
+    3: "Mixed / Context-Dependent",
+    4: "Generally Healthy",
+    5: "Very Healthy Everyday",
+}
 
 
 def parse_markdown_with_yaml(path: Path):
@@ -57,12 +69,27 @@ def main():
         category = meta.get("category")
         rel_path = f"recipes/{md_path.name}"
 
+        raw_rating = meta.get("health_rating", 0)
+        label_from_file = meta.get("health_rating_label")
+
+        # Normalize rating to int 0–5
+        try:
+            health_rating = int(raw_rating)
+        except (TypeError, ValueError):
+            health_rating = 0
+        if health_rating < 0 or health_rating > 5:
+            health_rating = 0
+
+        health_label = label_from_file or RATING_LABELS.get(health_rating, "Unrated")
+
         entries.append(
             {
                 "title": title,
                 "cuisine": cuisine,
                 "category": category,
                 "rel_path": rel_path,
+                "health_rating": health_rating,
+                "health_label": health_label,
             }
         )
 
@@ -125,10 +152,42 @@ def main():
 
     CATEGORY_INDEX.write_text("\n".join(cat_lines) + "\n", encoding="utf-8")
 
+    # 4) By health rating
+    by_health = defaultdict(list)
+    for e in entries:
+        rating = e["health_rating"]
+        by_health[rating].append(e)
+
+    # Highest rating first: 5 → 0
+    health_keys = sorted(by_health.keys(), reverse=True)
+
+    health_lines = ["# Recipe Index (By Health Rating)", ""]
+    health_lines.append("## Health Ratings")
+    health_lines.append("")
+    for rating in health_keys:
+        label = RATING_LABELS.get(rating, "Unrated")
+        heading_text = f"{rating} – {label}"
+        anchor = anchor_from_text(heading_text)
+        health_lines.append(f"- [{heading_text}](#{anchor})")
+    health_lines.append("")
+
+    for rating in health_keys:
+        label = RATING_LABELS.get(rating, "Unrated")
+        heading_text = f"{rating} – {label}"
+        anchor = anchor_from_text(heading_text)
+        health_lines.append(f"## {heading_text}")
+        health_lines.append("")
+        for e in sorted(by_health[rating], key=lambda x: x["title"].lower()):
+            health_lines.append(f'- [{e["title"]}]({e["rel_path"]})')
+        health_lines.append("")
+
+    HEALTH_INDEX.write_text("\n".join(health_lines) + "\n", encoding="utf-8")
+
     print("Indexes regenerated:")
     print(f"  - {FLAT_INDEX}")
     print(f"  - {CUISINE_INDEX}")
     print(f"  - {CATEGORY_INDEX}")
+    print(f"  - {HEALTH_INDEX}")
 
 
 if __name__ == "__main__":
