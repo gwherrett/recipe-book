@@ -134,7 +134,7 @@
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)
 - [Lobster Busara](recipes/lobster-busara.md)
 - [Moroccan Carrot Soup](recipes/moroccan-carrot-soup.md)
-- [Moroccan Chickpea Stew — Tomato-Rich Tagine Style (with Barberries & Dates)](recipes/moroccan-chickpea-stew-tomato-rich-tagine-style-with-barberries-dates.md)
+- [Moroccan Chickpea Stew](recipes/moroccan-chickpea-stew.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 - [Tzatziki](recipes/tzatziki.md)
 - [Yellow Lentil & Chicken Soup](recipes/yellow-lentil-chicken-soup.md)
@@ -256,7 +256,7 @@
 
 - [Gambas en Escabeche (Spanish Pickled Shrimp)](recipes/gambas-en-escabeche-spanish-pickled-shrimp.md)
 - [Gazpacho](recipes/gazpacho.md)
-- [Mixed Seafood Paella (Paella de Marisco)](recipes/mixed-seafood-paella-paella-de-marisco.md)
+- [Mixed Seafood Paella (Paella de Marisco)](recipes/seafood-paella.md)
 - [Seafood Paella (Paella de Marisco)](recipes/seafood-paella-paella-de-marisco.md)
 
 ## Thai
@@ -271,8 +271,8 @@
 - [Mango Syrup](recipes/mango-syrup.md)
 - [Massaman Curry Paste](recipes/massaman-curry-paste.md)
 - [Momofuku Bo Ssäm](recipes/momofuku-bo-ssam.md)
+- [Pad Krapow (Thai Basil Ground Turkey)](recipes/pad-krapow-thai-basil-ground-turkey.md)
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
-- [Thai Basil Ground Turkey (Pad Krapow-Style)](recipes/thai-basil-ground-turkey-pad-krapow.md)
 - [Thai Dressing](recipes/thai-dressing.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
