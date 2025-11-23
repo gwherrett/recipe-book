@@ -7,8 +7,8 @@ tags: tiramisu, limoncello, no-bake, mascarpone
 source: Adapted from Il Barone Ristorante (via gailanng, 2012)
 servings: 12
 total_time: "No bake \u2014 chill 2 hrs"
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 1
+health_rating_label: Treat / Indulgent
 ---
 
 # Limoncello Tiramisu

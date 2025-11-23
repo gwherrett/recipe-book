@@ -3,8 +3,8 @@ title: Long Bean, Cucumber & Tomato Salad
 cuisine: Thai
 category: Salads & Sides
 slug: long-bean-cucumber-tomato-salad
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Long Bean, Cucumber & Tomato Salad  

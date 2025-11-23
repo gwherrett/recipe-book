@@ -1,5 +1,5 @@
 ---
-title: "Lemon Cream"
+title: Lemon Cream
 categories:
 - Desserts
 - Sauces & Fillings
@@ -12,8 +12,8 @@ tags:
 - Pastry
 time: "20\u201325 minutes + chilling"
 servings: "1.5\u20132 cups"
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 1
+health_rating_label: Treat / Indulgent
 ---
 
 # Lemon Cream  

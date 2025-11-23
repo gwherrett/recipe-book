@@ -3,8 +3,8 @@ title: Persian Lamb Shanks
 cuisine: Persian
 category: Mains
 slug: persian-lamb-shanks
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Persian Lamb Shanks (Serves 6)

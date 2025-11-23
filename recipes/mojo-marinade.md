@@ -3,8 +3,8 @@ title: Mojo Marinade
 cuisine: Caribbean
 category: Dressings & Marinades
 slug: mojo-marinade
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Mojo Marinade (Cuban-Style)

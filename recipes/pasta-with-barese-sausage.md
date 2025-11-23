@@ -13,8 +13,8 @@ serves: 4
 time: "35\u201340 minutes"
 cuisine: Italian
 slug: pasta-with-barese-sausage
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Pasta with Barese Sausage

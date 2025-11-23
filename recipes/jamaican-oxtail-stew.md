@@ -10,8 +10,8 @@ tags:
 - braised
 servings: "4\u20136"
 time: 3 hours (mostly hands-off)
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Jamaican Oxtail Stew

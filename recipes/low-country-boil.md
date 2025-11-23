@@ -3,8 +3,8 @@ title: Low Country Boil
 cuisine: Southern / Cajun
 category: Mains
 slug: low-country-boil
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Low Country Boil (Serves 3–4)

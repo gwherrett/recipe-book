@@ -3,8 +3,8 @@ title: Pork Chops with Sage Mushroom Sauce
 cuisine: Italian
 category: Mains
 slug: pork-chops-with-sage-mushroom-sauce
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Pork Chops with Sage Mushroom Sauce

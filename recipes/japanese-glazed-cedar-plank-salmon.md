@@ -3,8 +3,8 @@ title: Japanese-Glazed Cedar Plank Salmon
 cuisine: Japanese
 category: Mains
 slug: japanese-glazed-cedar-plank-salmon
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Japanese-Glazed Cedar Plank Salmon

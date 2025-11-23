@@ -3,8 +3,8 @@ title: Peri-Peri Roast Chicken with Pan Sauce
 cuisine: North American
 category: Mains
 slug: peri-peri-roast-chicken-with-pan-sauce
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Peri-Peri Roast Chicken with St-Hubert-Style Pan Sauce (KFC-Inspired Herb Blend)

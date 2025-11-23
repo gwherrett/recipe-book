@@ -3,8 +3,8 @@ title: New York Strip Loin with Pepper Marinade
 cuisine: North American
 category: Mains
 slug: new-york-strip-loin-with-pepper-marinade
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # New York Strip Loin (Bone‑In, Thick-Cut) with Multi‑Pepper Marinade

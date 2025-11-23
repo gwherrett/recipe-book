@@ -3,8 +3,8 @@ title: Japanese Curry Powder
 cuisine: Japanese
 category: Spice Mixes & Pastes
 slug: japanese-curry-powder
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Japanese Curry Powder

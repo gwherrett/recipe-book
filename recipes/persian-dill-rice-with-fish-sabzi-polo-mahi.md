@@ -3,8 +3,8 @@ title: Persian Dill Rice with Fish (Sabzi Polo Mahi)
 cuisine: Persian
 category: Mains
 slug: persian-dill-rice-with-fish-sabzi-polo-mahi
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Persian Dill Rice with Fish (Sabzi Polo Mahi)

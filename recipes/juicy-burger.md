@@ -3,8 +3,8 @@ title: Juicy Burger
 cuisine: North American
 category: Mains
 slug: juicy-burger
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Classic Juicy Burger Recipe

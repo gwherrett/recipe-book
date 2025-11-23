@@ -1,10 +1,10 @@
 ---
-title: "Moroccan Chickpea Stew"
+title: Moroccan Chickpea Stew
 cuisine: Mediterranean
 category: Mains
 slug: moroccan-chickpea-stew-tomato-rich-tagine-style-with-barberries-dates
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Moroccan Chickpea Stew — Tomato-Rich Tagine Style (with Barberries & Dates)

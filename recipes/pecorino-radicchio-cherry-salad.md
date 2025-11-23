@@ -3,8 +3,8 @@ title: Pecorino Radicchio Cherry Salad
 cuisine: Italian
 category: Salads & Sides
 slug: pecorino-radicchio-cherry-salad
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Pecorino Radicchio Cherry Salad

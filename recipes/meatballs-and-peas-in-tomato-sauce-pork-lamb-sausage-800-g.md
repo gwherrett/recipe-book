@@ -3,8 +3,8 @@ title: Meatballs and Peas in Tomato Sauce (Pork & Lamb Sausage, 800 g)
 cuisine: Italian
 category: Mains
 slug: meatballs-and-peas-in-tomato-sauce-pork-lamb-sausage-800-g
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Meatballs and Peas in Tomato Sauce (Pork & Lamb Sausage, 800 g)

@@ -3,8 +3,8 @@ title: Insalata Capricciosa
 cuisine: Italian
 category: Salads & Sides
 slug: insalata-capricciosa
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Insalata Capricciosa (Capricciosa Salad)

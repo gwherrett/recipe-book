@@ -3,8 +3,8 @@ title: Korean Marinade for Quail
 cuisine: Chinese
 category: Dressings & Marinades
 slug: korean-marinade-for-quail
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # 🐦 Korean Marinade for Quail

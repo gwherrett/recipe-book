@@ -11,8 +11,8 @@ tags:
 servings: 4 large or 6 small
 time: "45\u201360 minutes"
 source: "Marcella Hazan \u2014 Marcella Cucina (1997)"
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Lobster Pasta Sauce (Busara-Style)

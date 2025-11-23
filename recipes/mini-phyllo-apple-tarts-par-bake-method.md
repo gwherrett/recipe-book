@@ -3,8 +3,8 @@ title: Mini Phyllo Apple Tarts (Par-Bake Method)
 cuisine: Balkan
 category: Dessert
 slug: mini-phyllo-apple-tarts-par-bake-method
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 1
+health_rating_label: Treat / Indulgent
 ---
 
 # Mini Phyllo Apple Tarts (Par-Bake Method)

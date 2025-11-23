@@ -3,8 +3,8 @@ title: Mulligatawny Soup
 cuisine: Indian
 category: Soups & Stocks
 slug: mulligatawny-soup
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Classic Mulligatawny with Poached Chicken Thighs, Celery & Double Apple

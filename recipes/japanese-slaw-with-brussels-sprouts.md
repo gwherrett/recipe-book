@@ -3,8 +3,8 @@ title: Japanese Slaw with Brussels Sprouts
 cuisine: Japanese
 category: Salads & Sides
 slug: japanese-slaw-with-brussels-sprouts
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Japanese Slaw with Brussels Sprouts

@@ -13,8 +13,8 @@ servings: 4
 time: 45 minutes
 cuisine: Mediterranean
 slug: lobster-busara
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Croatian Lobster Pasta (Dalmatian-Style)

@@ -3,8 +3,8 @@ title: Japanese Lamb Curry
 cuisine: Japanese
 category: Mains
 slug: japanese-lamb-curry
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Japanese Lamb Curry with Vermont Mild Roux, Green Apple & Koji Salt

@@ -3,8 +3,8 @@ title: Lamb Stew Rendang
 cuisine: Thai
 category: Mains
 slug: lamb-stew-rendang
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Lamb Stew Rendang

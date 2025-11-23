@@ -3,8 +3,8 @@ title: Lo Bak Go (Turnip Cake)
 cuisine: Chinese
 category: Salads & Sides
 slug: lo-bak-go-turnip-cake
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Cantonese-Style Lo Bak Cake (Turnip Cake)

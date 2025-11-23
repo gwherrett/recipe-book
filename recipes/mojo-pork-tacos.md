@@ -3,8 +3,8 @@ title: Mojo Pork Tacos
 cuisine: Mexican
 category: Mains
 slug: mojo-pork-tacos
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Mojo Pork Tacos (500 g Pork Tenderloin)

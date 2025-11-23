@@ -3,8 +3,8 @@ title: Kale-Cabbage-Carrot Slaw
 cuisine: Mexican
 category: Salads & Sides
 slug: kale-cabbage-carrot-slaw
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 ### Kale-Cabbage-Carrot Taco Slaw

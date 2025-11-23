@@ -3,8 +3,8 @@ title: "Pesto\u2013Ricotta Dip"
 cuisine: Italian
 category: Appetizers
 slug: pestoricotta-dip
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Pesto–Ricotta Spread / Dip

@@ -3,8 +3,8 @@ title: "Momofuku Bo Ss\xE4m"
 cuisine: Thai
 category: Mains
 slug: momofuku-bo-ssam
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Momofuku Bo Ssäm

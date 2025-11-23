@@ -3,8 +3,8 @@ title: Mint Chutney
 cuisine: Indian
 category: Sauces & Condiments
 slug: mint-chutney
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 ## Mint Chutney (Pudina Chutney)

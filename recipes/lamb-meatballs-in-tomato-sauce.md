@@ -3,8 +3,8 @@ title: Lamb Meatballs in Tomato Sauce
 cuisine: Italian
 category: Pasta
 slug: lamb-meatballs-in-tomato-sauce
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Lamb Meatballs in Tomato Sauce with Carrots & Green Pepper
