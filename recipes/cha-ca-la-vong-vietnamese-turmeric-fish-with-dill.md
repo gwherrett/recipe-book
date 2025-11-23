@@ -3,8 +3,8 @@ title: Cha Ca La Vong (Vietnamese Turmeric Fish with Dill)
 cuisine: Thai
 category: Mains
 slug: cha-ca-la-vong-vietnamese-turmeric-fish-with-dill
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Cha Ca La Vong (Vietnamese Turmeric Fish with Dill)
