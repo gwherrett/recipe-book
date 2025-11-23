@@ -13,7 +13,6 @@
 - [Sauces & Condiments](#sauces-condiments)
 - [Soups & Stocks](#soups-stocks)
 - [Spice Mixes & Pastes](#spice-mixes-pastes)
-- [Uncategorized](#uncategorized)
 
 ## Appetizers
 
@@ -94,6 +93,7 @@
 - [Duck Oyakodon](recipes/duck-oyakodon.md)
 - [Fajitas](recipes/fajitas.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
+- [Filipino Turkey Adobo](recipes/filipino-turkey-adobo.md)
 - [Grenadian-Style Curried Goat](recipes/grenadian-style-curried-goat.md)
 - [Jamaican Goat Curry](recipes/jamaican-goat-curry.md)
 - [Jamaican Oxtail Stew](recipes/jamaican-oxtail-stew.md)
@@ -146,10 +146,11 @@
 - [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb-with-rice.md)
 - [Tavë Kosi (Albanian Baked Lamb)](recipes/tave-kosi-albanian-baked-lamb.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
+- [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 - [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)
+- [Turkey Salad with Preserved Lemon](recipes/turkey-salad.md)
 - [Udon BBQ Pork with Red Peppers](recipes/udon-bbq-pork-with-red-peppers.md)
 - [Veggie Chili](recipes/veggie-chili.md)
-- [🌶️ Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 
 ## Pasta
 
@@ -265,9 +266,4 @@
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
 - [Ribs - Dry Rub](recipes/rib-rub.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
-
-## Uncategorized
-
-- [filipino-turkey-adobo](recipes/filipino-turkey-adobo.md)
-- [turkey-salad](recipes/turkey-salad.md)
 

@@ -5,7 +5,9 @@
 - [Balkan](#balkan)
 - [Caribbean](#caribbean)
 - [Chinese](#chinese)
+- [Filipino](#filipino)
 - [French](#french)
+- [Fusion](#fusion)
 - [Indian](#indian)
 - [Italian](#italian)
 - [Japanese](#japanese)
@@ -17,7 +19,6 @@
 - [Southern / Cajun](#southern-cajun)
 - [Spanish](#spanish)
 - [Thai](#thai)
-- [Unassigned](#unassigned)
 - [Vietnamese](#vietnamese)
 
 ## Balkan
@@ -62,6 +63,10 @@
 - [Udon BBQ Pork with Red Peppers](recipes/udon-bbq-pork-with-red-peppers.md)
 - [Winter Melon Soup (Cantonese)](recipes/winter-melon-soup-cantonese.md)
 
+## Filipino
+
+- [Filipino Turkey Adobo](recipes/filipino-turkey-adobo.md)
+
 ## French
 
 - [Ginger-Lime syrup](recipes/ginger-lime-syrup.md)
@@ -70,6 +75,10 @@
 - [Ratatouille](recipes/ratatouille.md)
 - [Ratatouille with Celery & Corn](recipes/ratatouille-with-celery-corn.md)
 - [Simple Syrup](recipes/simple-syrup.md)
+
+## Fusion
+
+- [Turkey Salad with Preserved Lemon](recipes/turkey-salad.md)
 
 ## Indian
 
@@ -237,8 +246,8 @@
 - [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
+- [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 - [Veggie Chili](recipes/veggie-chili.md)
-- [🌶️ Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 
 ## Persian
 
@@ -277,11 +286,6 @@
 - [Thai Dressing](recipes/thai-dressing.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
-
-## Unassigned
-
-- [filipino-turkey-adobo](recipes/filipino-turkey-adobo.md)
-- [turkey-salad](recipes/turkey-salad.md)
 
 ## Vietnamese
 

@@ -88,6 +88,7 @@
 - [Beef Enchiladas Verde](recipes/beef-enchiladas-verde.md)
 - [Beef Fajitas](recipes/beef-fajitas.md)
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
+- [Braised Sablefish in a Casserole with Local Chanterelles and Black Truffle Butter](recipes/braised-sablefish-in-a-casserole-with-local-chanterelles-and-black-truffle-butter.md)
 - [Caesar Dressing with Anchovy](recipes/caesar-dressing-with-anchovy.md)
 - [Cajun Jambalaya](recipes/cajun-jambalaya.md)
 - [Canning Pears](recipes/canning-pears.md)
@@ -105,6 +106,7 @@
 - [Eel Sauce (Unagi Sauce)](recipes/eel-sauce-unagi-sauce.md)
 - [Fajitas](recipes/fajitas.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
+- [Filipino Turkey Adobo](recipes/filipino-turkey-adobo.md)
 - [Gallo Pinto](recipes/gallo-pinto.md)
 - [Ginger-Lime syrup](recipes/ginger-lime-syrup.md)
 - [Gnocchi](recipes/gnocchi.md)
@@ -136,7 +138,6 @@
 ## 2 – Rich / Heavy
 
 - [Blue Cheese Dressing](recipes/blue-cheese-dressing.md)
-- [Braised Sablefish in a Casserole with Local Chanterelles and Black Truffle Butter](recipes/braised-sablefish-in-a-casserole-with-local-chanterelles-and-black-truffle-butter.md)
 - [Chile Relleno](recipes/chile-relleno.md)
 - [Classic Lasagna](recipes/classic-lasagna.md)
 - [Creamy Horseradish Mashed Potatoes](recipes/creamy-horseradish-mashed-potatoes.md)
@@ -170,7 +171,6 @@
 
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)
 - [Cornish Hens (Rotisserie Herb-Brined)](recipes/rotisserie-herb-brined-cornish-hens-scaled-for-2-birds.md)
-- [filipino-turkey-adobo](recipes/filipino-turkey-adobo.md)
 - [Mixed Seafood Paella (Paella de Marisco)](recipes/seafood-paella.md)
 - [Pad Krapow (Thai Basil Ground Turkey)](recipes/pad-krapow-thai-basil-ground-turkey.md)
 - [Pozole Rojo](recipes/pozole-rojo.md)
@@ -232,8 +232,9 @@
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
 - [Tiramisu Structure](recipes/tiramisu-structure.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
+- [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 - [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)
-- [turkey-salad](recipes/turkey-salad.md)
+- [Turkey Salad with Preserved Lemon](recipes/turkey-salad.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 - [Tuscan Panzanella](recipes/tuscan-panzanella.md)
 - [Tzatziki](recipes/tzatziki.md)
@@ -245,5 +246,4 @@
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zesty Italian Dressing](recipes/zesty-italian-dressing.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
-- [🌶️ Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 
