@@ -237,7 +237,6 @@
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
 - [Veggie Chili](recipes/veggie-chili.md)
-- [🌶️ Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili-slow-cooked-with-guajillo-smoked-paprika.md)
 
 ## Persian
 

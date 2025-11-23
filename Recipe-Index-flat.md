@@ -217,4 +217,3 @@
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zesty Italian Dressing](recipes/zesty-italian-dressing.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
-- [🌶️ Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili-slow-cooked-with-guajillo-smoked-paprika.md)
