@@ -12,8 +12,8 @@ yield: "4\u20136 servings"
 time: "35\u201345 minutes"
 slug: avgolemono-greek-lemon-chicken-soup
 cuisine: Mediterranean
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Avgolemono (Greek Lemon Chicken Soup)

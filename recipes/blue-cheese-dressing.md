@@ -3,8 +3,8 @@ title: Blue Cheese Dressing
 cuisine: North American
 category: Dressings & Marinades
 slug: blue-cheese-dressing
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # 🧀 Classic Blue Cheese Dressing

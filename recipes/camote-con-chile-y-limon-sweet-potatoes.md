@@ -3,8 +3,8 @@ title: "Camote con Chile y Lim\xF3n (Sweet Potatoes)"
 cuisine: Mexican
 category: Salads & Sides
 slug: camote-con-chile-y-limon-sweet-potatoes
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Camote con Chile y Limón (Sweet Potatoes with Chile and Lime)

@@ -3,10 +3,11 @@ title: Beef Enchiladas Verde
 date: 2025-10-31
 category: Mains
 cuisine: Mexican
-summary: "Classic beef enchiladas made easy with store-bought green enchilada(salsa verde) sauce. Tangy, comforting, and ready for a weeknight."
+summary: Classic beef enchiladas made easy with store-bought green enchilada(salsa
+  verde) sauce. Tangy, comforting, and ready for a weeknight.
 slug: beef-enchiladas-verde
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 ## Ingredients

@@ -3,8 +3,8 @@ title: Canning Pears
 cuisine: North American
 category: Dessert
 slug: canning-pears
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Canning Pears (PickYourOwn.org)

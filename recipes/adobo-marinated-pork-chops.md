@@ -3,8 +3,8 @@ title: Adobo-Marinated Pork Chops
 cuisine: Chinese
 category: Mains
 slug: adobo-marinated-pork-chops
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Adobo-Marinated Pork Chops

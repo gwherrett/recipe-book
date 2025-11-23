@@ -3,8 +3,8 @@ title: Agedashi Tofu
 cuisine: Japanese
 category: Appetizers
 slug: agedashi-tofu
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Air Fryer Agedashi Tofu
