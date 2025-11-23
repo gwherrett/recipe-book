@@ -3,8 +3,8 @@ title: Five Spice Powder
 cuisine: Chinese
 category: Spice Mixes & Pastes
 slug: five-spice-powder
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Five Spice Powder

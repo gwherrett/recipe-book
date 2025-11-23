@@ -3,8 +3,8 @@ title: Classic Sugar Cookie Recipe
 cuisine: North American
 category: Dessert
 slug: classic-sugar-cookie-recipe
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 1
+health_rating_label: Treat / Indulgent
 ---
 
 # Classic Sugar Cookie Recipe

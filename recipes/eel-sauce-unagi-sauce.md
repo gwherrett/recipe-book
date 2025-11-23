@@ -3,8 +3,8 @@ title: Eel Sauce (Unagi Sauce)
 cuisine: Japanese
 category: Sauces & Condiments
 slug: eel-sauce-unagi-sauce
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Eel Sauce (Unagi Sauce)

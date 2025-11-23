@@ -2,19 +2,17 @@
 title: Filipino Chicken Adobo
 cuisine: Chinese
 category: Mains
+tags: Filipino, chicken, adobo, weeknight  
 slug: filipino-chicken-adobo
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Chicken Adobo (Filipino)
 
-**Category:** Mains → Braises & Stews  
-**Tags:** Filipino, chicken, adobo, weeknight  
+**Summary:** A classic Filipino chicken adobo—tender chicken simmered in a tangy-savory soy–vinegar–garlic sauce with peppercorns and bay. Simple, deeply flavorful, and perfect over steamed rice.
 **Time:** 55–70 minutes (plus marinating)  
 **Serves:** 4–6
-
-**Summary:** A classic Filipino chicken adobo—tender chicken simmered in a tangy-savory soy–vinegar–garlic sauce with peppercorns and bay. Simple, deeply flavorful, and perfect over steamed rice.
 
 ## Ingredients
 - 2 lb (900 g) chicken pieces (thighs/drumsticks, bone-in skin-on preferred)

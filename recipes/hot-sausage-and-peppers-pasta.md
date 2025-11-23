@@ -3,8 +3,8 @@ title: Hot Sausage and Peppers Pasta
 cuisine: Italian
 category: Pasta
 slug: hot-sausage-and-peppers-pasta
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Hot Sausage and Peppers Pasta

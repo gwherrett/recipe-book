@@ -3,8 +3,8 @@ title: Extra Stuffings for Zucchini Flowers
 cuisine: Italian
 category: Appetizers
 slug: extra-stuffings-for-zucchini-flowers
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Extra Stuffings for Zucchini Flowers

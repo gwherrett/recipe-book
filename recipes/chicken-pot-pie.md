@@ -9,8 +9,8 @@ tags:
 summary: A classic chicken pot pie wrapped in puff pastry with a creamy vegetable
   filling.
 cuisine: North American
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Chicken Pot Pie

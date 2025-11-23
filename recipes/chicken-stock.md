@@ -3,8 +3,8 @@ title: Chicken Stock
 cuisine: North American
 category: Soups & Stocks
 slug: chicken-stock
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Chicken Stock

@@ -3,8 +3,8 @@ title: Classic Lasagna
 cuisine: Italian
 category: Pasta
 slug: classic-lasagna
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Classic Lasagna with Bolognese, Ricotta, and Parmesan

@@ -3,8 +3,8 @@ title: Chicken Soup with Thai Basil
 cuisine: Thai
 category: Soups & Stocks
 slug: chicken-soup-with-thai-basil
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Chicken Soup with Thai Basil

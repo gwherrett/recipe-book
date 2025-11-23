@@ -3,8 +3,8 @@ title: Horseradish Cream Sauce
 cuisine: North American
 category: Sauces & Condiments
 slug: horseradish-cream-sauce
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Horseradish Cream Sauce for Prime Rib

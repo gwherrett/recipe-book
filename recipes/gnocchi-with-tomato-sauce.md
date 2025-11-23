@@ -3,8 +3,8 @@ title: Gnocchi with Tomato Sauce
 cuisine: Italian
 category: Pasta
 slug: gnocchi-with-tomato-sauce
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Gnocchi with Tomato Sauce (Carrot & Parsley)

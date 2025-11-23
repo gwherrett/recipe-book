@@ -3,8 +3,8 @@ title: Garlic Mashed Potatoes with Yogurt
 cuisine: North American
 category: Salads & Sides
 slug: garlic-mashed-potatoes-with-yogurt
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Garlic Mashed Potatoes with Yogurt

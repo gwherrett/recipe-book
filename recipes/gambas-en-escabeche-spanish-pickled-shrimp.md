@@ -3,8 +3,8 @@ title: Gambas en Escabeche (Spanish Pickled Shrimp)
 cuisine: Spanish
 category: Salads & Sides
 slug: gambas-en-escabeche-spanish-pickled-shrimp
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Gambas en Escabeche (Spanish Pickled Shrimp)

@@ -3,8 +3,8 @@ title: Cubano Sandwich
 cuisine: Caribbean
 category: Mains
 slug: cubano-sandwich
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # 🥪 Cuban Sandwich (Cubano)

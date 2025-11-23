@@ -3,8 +3,8 @@ title: Frozen Banana Cocoa Ice Cream
 cuisine: North American
 category: Dessert
 slug: frozen-banana-cocoa-ice-cream
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Frozen Banana Cocoa Ice Cream

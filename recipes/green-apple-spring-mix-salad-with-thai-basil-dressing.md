@@ -3,8 +3,8 @@ title: Green Apple & Spring Mix Salad with Thai Basil Dressing
 cuisine: Thai
 category: Salads & Sides
 slug: green-apple-spring-mix-salad-with-thai-basil-dressing
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Green Apple & Spring Mix Salad with Thai Basil Dressing

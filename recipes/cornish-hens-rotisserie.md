@@ -3,8 +3,8 @@ title: Cornish Hens (Rotisserie)
 cuisine: North American
 category: Mains
 slug: cornish-hens-rotisserie
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Rotisserie Cornish Hens on a Weber Grill

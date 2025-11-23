@@ -3,8 +3,8 @@ title: Heart-Healthy Banana Bread
 cuisine: North American
 category: Dessert
 slug: heart-healthy-banana-bread
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Heart-Healthy Fluffy Banana Bread (with Oats, Yogurt & Demerara Sugar)

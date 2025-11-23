@@ -3,8 +3,8 @@ title: Horseradish Corn Cheese Melt
 cuisine: North American
 category: Appetizers
 slug: horseradish-corn-cheese-melt
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Horseradish Corn Cheese Melt

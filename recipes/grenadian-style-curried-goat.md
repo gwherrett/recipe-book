@@ -11,8 +11,8 @@ tags:
 servings: 8
 time: "2.5\u20133 hours (plus 4\u20136 hours marinating)"
 slug: grenadian-style-curried-goat
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Grenadian-Style Curried Goat

@@ -3,8 +3,8 @@ title: Creamy Horseradish Mashed Potatoes
 cuisine: North American
 category: Salads & Sides
 slug: creamy-horseradish-mashed-potatoes
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Creamy Horseradish Mashed Potatoes (Half Recipe)

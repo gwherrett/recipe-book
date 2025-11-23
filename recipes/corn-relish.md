@@ -3,8 +3,8 @@ title: Corn Relish
 cuisine: North American
 category: Salads & Sides
 slug: corn-relish
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Classic Corn Relish (Water Bath Canning)

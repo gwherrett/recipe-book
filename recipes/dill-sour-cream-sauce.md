@@ -3,8 +3,8 @@ title: Dill Sour Cream Sauce
 cuisine: Balkan
 category: Sauces & Condiments
 slug: dill-sour-cream-sauce
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Dill Sour Cream Sauce for Pierogies

@@ -3,8 +3,8 @@ title: Citrus Curd (Three Ways)
 cuisine: North American
 category: Dessert
 slug: citrus-curd-three-ways
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Citrus Curd (Three Ways)

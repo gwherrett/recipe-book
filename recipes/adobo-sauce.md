@@ -3,8 +3,8 @@ title: Adobo Sauce
 cuisine: Mexican
 category: Sauces & Condiments
 slug: adobo-sauce
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 **Mexican Adobo Sauce**

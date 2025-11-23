@@ -3,8 +3,8 @@ title: "Hong Kong Caf\xE9 Macaroni Soup (Cha Chaan Teng)"
 cuisine: Chinese
 category: Soups & Stocks
 slug: hong-kong-cafe-macaroni-soup-cha-chaan-teng
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Hong Kong Café Macaroni Soup (Cha Chaan Teng)

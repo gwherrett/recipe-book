@@ -3,8 +3,8 @@ title: Chicken Mole (Oaxacan-Style)
 cuisine: Mexican
 category: Mains
 slug: chicken-mole-oaxacan-style
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Chicken Mole (Oaxacan-Style)

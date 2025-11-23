@@ -8,11 +8,10 @@ tags:
 - steamed
 - comfort food
 - Cantonese
-summary: A tender, juicy, and savory  steamed pork patty infused with soy,
-  ginger, and sesame. A comforting Cantonese home-style dish perfect with rice.
-
-health_rating: 0
-health_rating_label: Unrated
+summary: A tender, juicy, and savory  steamed pork patty infused with soy, ginger,
+  and sesame. A comforting Cantonese home-style dish perfect with rice.
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 ## Steamed Pork Patty (蒸肉餅)

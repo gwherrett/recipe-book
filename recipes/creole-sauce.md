@@ -3,8 +3,8 @@ title: Creole Sauce
 cuisine: North American
 category: Sauces & Condiments
 slug: creole-sauce
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Creole Sauce (with White Pepper)
