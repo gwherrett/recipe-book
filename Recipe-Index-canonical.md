@@ -64,6 +64,7 @@
 ## French
 
 - [Ginger-Lime syrup](recipes/ginger-lime-syrup.md)
+- [Lemon Cream](recipes/lemon-cream.md)
 - [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)
 - [Ratatouille](recipes/ratatouille.md)
 - [Ratatouille with Celery & Corn](recipes/ratatouille-with-celery-corn.md)
@@ -125,6 +126,7 @@
 - [Rockfish Teriyaki](recipes/rockfish-teriyaki.md)
 - [Saba No Miso-ni](recipes/saba-no-miso-ni.md)
 - [Shoyu Ramen](recipes/shoyu-ramen.md)
+- [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)
 
 ## Mediterranean
 
