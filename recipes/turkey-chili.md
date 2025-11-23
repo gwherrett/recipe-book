@@ -1,8 +1,8 @@
 ---
-title: "\U0001F336\uFE0F Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)"
+title: "Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)"
 cuisine: North American
 category: Mains
-slug: turkey-chili-slow-cooked-with-guajillo-smoked-paprika
+slug: turkey-chili
 health_rating: 0
 health_rating_label: Unrated
 ---

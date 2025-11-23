@@ -4,8 +4,8 @@ title: Braised Sablefish in a Casserole with Local Chanterelles and Black Truffl
 cuisine: North American
 category: Mains
 slug: braised-sablefish-in-a-casserole-with-local-chanterelles-and-black-truffle-butter
-health_rating: 2
-health_rating_label: Rich / Heavy
+health_rating: 3
+health_rating_label: 
 ---
 
 # Braised Sablefish in a Casserole with Local Chanterelles and Black Truffle Butter
