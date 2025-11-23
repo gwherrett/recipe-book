@@ -13,6 +13,7 @@
 - [Sauces & Condiments](#sauces-condiments)
 - [Soups & Stocks](#soups-stocks)
 - [Spice Mixes & Pastes](#spice-mixes-pastes)
+- [Uncategorized](#uncategorized)
 
 ## Appetizers
 
@@ -148,6 +149,7 @@
 - [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)
 - [Udon BBQ Pork with Red Peppers](recipes/udon-bbq-pork-with-red-peppers.md)
 - [Veggie Chili](recipes/veggie-chili.md)
+- [🌶️ Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 
 ## Pasta
 
@@ -263,4 +265,9 @@
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
 - [Ribs - Dry Rub](recipes/rib-rub.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
+
+## Uncategorized
+
+- [filipino-turkey-adobo](recipes/filipino-turkey-adobo.md)
+- [turkey-salad](recipes/turkey-salad.md)
 

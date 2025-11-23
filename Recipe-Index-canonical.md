@@ -17,6 +17,7 @@
 - [Southern / Cajun](#southern-cajun)
 - [Spanish](#spanish)
 - [Thai](#thai)
+- [Unassigned](#unassigned)
 - [Vietnamese](#vietnamese)
 
 ## Balkan
@@ -237,6 +238,7 @@
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
 - [Veggie Chili](recipes/veggie-chili.md)
+- [🌶️ Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 
 ## Persian
 
@@ -275,6 +277,11 @@
 - [Thai Dressing](recipes/thai-dressing.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
+
+## Unassigned
+
+- [filipino-turkey-adobo](recipes/filipino-turkey-adobo.md)
+- [turkey-salad](recipes/turkey-salad.md)
 
 ## Vietnamese
 

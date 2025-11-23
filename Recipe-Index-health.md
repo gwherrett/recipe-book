@@ -170,6 +170,7 @@
 
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)
 - [Cornish Hens (Rotisserie Herb-Brined)](recipes/rotisserie-herb-brined-cornish-hens-scaled-for-2-birds.md)
+- [filipino-turkey-adobo](recipes/filipino-turkey-adobo.md)
 - [Mixed Seafood Paella (Paella de Marisco)](recipes/seafood-paella.md)
 - [Pad Krapow (Thai Basil Ground Turkey)](recipes/pad-krapow-thai-basil-ground-turkey.md)
 - [Pozole Rojo](recipes/pozole-rojo.md)
@@ -232,6 +233,7 @@
 - [Tiramisu Structure](recipes/tiramisu-structure.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
 - [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)
+- [turkey-salad](recipes/turkey-salad.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 - [Tuscan Panzanella](recipes/tuscan-panzanella.md)
 - [Tzatziki](recipes/tzatziki.md)
@@ -243,4 +245,5 @@
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zesty Italian Dressing](recipes/zesty-italian-dressing.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
+- [🌶️ Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 
