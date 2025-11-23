@@ -1,16 +1,17 @@
 ---
 
-title: Thai Basil Ground Turkey (Pad Krapow-Style)
+title: Pad Krapow (Thai Basil Ground Turkey)
 cuisine: Thai
 category: Mains
-slug: thai-basil-ground-turkey-pad-krapow
-summary: Lean ground turkey stir-fried with garlic, chilies, and Thai basil in a light soy–fish-sauce glaze. Served with jasmine rice and a fried egg.
+slug: pad-krapow-thai-basil-ground-turkey
 tags: [turkey, lean-protein, stir-fry, basil, spicy]
 health_rating: 0            # 0–5 (0 = Unrated)
 health_rating_label: "Unrated"
 ------------------------------
 
 ## Thai Basil Ground Turkey (Pad Krapow-Style)
+
+Summary: Lean ground turkey stir-fried with garlic, chilies, and Thai basil in a light soy–fish-sauce glaze. 
 
 ### Ingredients (Serves 4)
 
@@ -47,6 +48,7 @@ health_rating_label: "Unrated"
 * Holy basil (krapow) is traditional; Thai basil works well.
 * Adjust chilies to preference.
 * For a lighter version, reduce oil and use smaller portions of rice.
+* Served with jasmine rice and a fried egg.
 
 ### Estimated Calories
 

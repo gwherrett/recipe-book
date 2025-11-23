@@ -1,6 +1,5 @@
 ---
-title: "Moroccan Chickpea Stew \u2014 Tomato-Rich Tagine Style (with Barberries &\
-  \ Dates)"
+title: "Moroccan Chickpea Stew"
 cuisine: Mediterranean
 category: Mains
 slug: moroccan-chickpea-stew-tomato-rich-tagine-style-with-barberries-dates
