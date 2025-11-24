@@ -3,8 +3,8 @@ title: Sausage, Cheese & Basil Lasagna
 cuisine: Italian
 category: Pasta
 slug: sausage-cheese-basil-lasagna
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Sausage, Cheese & Basil Lasagna

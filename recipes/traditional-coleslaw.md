@@ -5,8 +5,8 @@ summary: A classic coleslaw made with green cabbage, carrots, and a creamy dress
   Perfect for BBQs, fried chicken, or sandwiches.
 cuisine: North American
 slug: traditional-coleslaw
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 ## Ingredients

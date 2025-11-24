@@ -3,8 +3,8 @@ title: Smoked Chicken (Rotisserie)
 cuisine: North American
 category: Mains
 slug: smoked-chicken-rotisserie
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Rotisserie Chicken – Two Ways

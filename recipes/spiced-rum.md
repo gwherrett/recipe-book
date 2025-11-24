@@ -7,8 +7,8 @@ servings: 1 bottle (750 ml)
 active_time: 5 minutes
 total_time: "2\u20134 days"
 cuisine: Caribbean
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 1
+health_rating_label: Treat / Indulgent
 ---
 
 # Spiced Rum

@@ -3,8 +3,8 @@ title: Winter Melon Soup (Cantonese)
 cuisine: Chinese
 category: Soups & Stocks
 slug: winter-melon-soup-cantonese
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Winter Melon Soup (Cantonese)

@@ -1,13 +1,18 @@
 ---
-title: "Turkey Paitan Ramen (with Salt Flavouring Base)"
+title: Turkey Paitan Ramen (with Salt Flavouring Base)
 slug: turkey-paitan-ramen
-cuisine: "Japanese"
-category: "Mains"
-tags: ["ramen", "paitan", "turkey", "broth", "shio"]
+cuisine: Japanese
+category: Mains
+tags:
+- ramen
+- paitan
+- turkey
+- broth
+- shio
 servings: 1
-time: "Prep 20 mins | Cook 1 hr 15 mins (pressure cooker) or 4.5–5 hrs (stovetop)"
-health_rating: 0
-health_rating_label: "Unrated"
+time: "Prep 20 mins | Cook 1 hr 15 mins (pressure cooker) or 4.5\u20135 hrs (stovetop)"
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Turkey Paitan Ramen  

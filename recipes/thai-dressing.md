@@ -3,8 +3,8 @@ title: Thai Dressing
 cuisine: Thai
 category: Dressings & Marinades
 slug: thai-dressing
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Thai Dressing

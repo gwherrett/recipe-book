@@ -13,8 +13,8 @@ created: 2025-10-31
 serves: "4\u20136"
 time: ~45 minutes (plus 20 minutes cooking chicken)
 cuisine: Mexican
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Shredded Chicken Enchiladas (Red & Green)

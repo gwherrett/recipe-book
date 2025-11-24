@@ -3,8 +3,8 @@ title: Tiramisu Structure
 cuisine: Italian
 category: Dessert
 slug: tiramisu-structure
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Tiramisu Structure

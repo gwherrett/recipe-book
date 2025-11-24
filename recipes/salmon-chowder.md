@@ -3,8 +3,8 @@ title: Salmon Chowder
 cuisine: North American
 category: Soups & Stocks
 slug: salmon-chowder
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # No-Potato Salmon Chowder

@@ -3,8 +3,8 @@ title: Pulled Pork
 cuisine: North American
 category: Mains
 slug: pulled-pork
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 ## 🐖 Pulled Pork (Slow Cooker or Instant Pot)

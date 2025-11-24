@@ -3,8 +3,8 @@ title: Cornish Hens (Rotisserie Herb-Brined)
 cuisine: North American
 category: Mains
 slug: cornish-hens-rotisserie-herb-brined
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Rotisserie Herb-Brined Cornish Hens (Scaled for 2 Birds)

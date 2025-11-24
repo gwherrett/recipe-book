@@ -3,8 +3,8 @@ title: Saba No Miso-ni
 cuisine: Japanese
 category: Mains
 slug: saba-no-miso-ni
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Saba No Miso-ni

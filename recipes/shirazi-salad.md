@@ -3,8 +3,8 @@ title: Shirazi Salad
 cuisine: Persian
 category: Salads & Sides
 slug: shirazi-salad
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Shirazi Salad (Classic)

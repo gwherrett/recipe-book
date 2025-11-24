@@ -3,8 +3,8 @@ title: Turkish-Inspired Bolognese
 cuisine: Mediterranean
 category: Pasta
 slug: turkish-inspired-bolognese
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Turkish-Inspired Bolognese with Celery, Carrots, and Meatballs

@@ -3,8 +3,8 @@ title: Spaetzle
 cuisine: Italian
 category: Pasta
 slug: spaetzle
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Spaetzle (German Egg Noodles)

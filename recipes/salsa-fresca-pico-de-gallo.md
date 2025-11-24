@@ -11,8 +11,8 @@ tags:
 yield: ~2 cups
 time: "15 minutes (+ 15\u201330 minutes to rest)"
 cuisine: Mexican
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 ## Summary

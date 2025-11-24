@@ -3,8 +3,8 @@ title: Ratatouille with Celery & Corn
 cuisine: French
 category: Salads & Sides
 slug: ratatouille-with-celery-corn
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Ratatouille with Celery & Corn (No Eggplant)

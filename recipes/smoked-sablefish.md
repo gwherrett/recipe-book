@@ -3,8 +3,8 @@ title: Smoked Sablefish
 cuisine: North American
 category: Mains
 slug: smoked-sablefish
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Smoked Sablefish on the Barbecue

@@ -3,8 +3,8 @@ title: Southwestern Black Bean & Corn Chili
 cuisine: North American
 category: Mains
 slug: southwestern-black-bean-corn-chili
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Southwestern Black Bean & Corn Chili

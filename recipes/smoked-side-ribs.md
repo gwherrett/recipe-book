@@ -3,8 +3,8 @@ title: Smoked Side Ribs
 cuisine: North American
 category: Mains
 slug: smoked-side-ribs
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Smoked Side Ribs on the Barbecue

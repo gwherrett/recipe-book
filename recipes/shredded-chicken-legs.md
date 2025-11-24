@@ -3,8 +3,8 @@ title: Shredded Chicken Legs
 cuisine: Mexican
 category: Mains
 slug: shredded-chicken-legs
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Pressure-Cooked Shredded Chicken Legs (Mexican Flavours)

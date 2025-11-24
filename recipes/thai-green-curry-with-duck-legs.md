@@ -3,8 +3,8 @@ title: Thai Green Curry with Duck Legs
 cuisine: Thai
 category: Mains
 slug: thai-green-curry-with-duck-legs
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Thai Green Curry with Duck Legs

@@ -3,8 +3,8 @@ title: Yellow Lentil & Chicken Soup
 cuisine: Mediterranean
 category: Soups & Stocks
 slug: yellow-lentil-chicken-soup
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # mediterranean yellow lentil & chicken soup

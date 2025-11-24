@@ -3,8 +3,8 @@ title: Pozole Rojo
 cuisine: Mexican
 category: Soups & Stocks
 slug: pozole-rojo
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # 🇲🇽 Pozole Rojo (Traditional Red Pozole)

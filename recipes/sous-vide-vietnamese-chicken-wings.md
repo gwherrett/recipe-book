@@ -3,8 +3,8 @@ title: Sous Vide Vietnamese Chicken Wings
 cuisine: Vietnamese
 category: Salads & Sides
 slug: sous-vide-vietnamese-chicken-wings
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Sous Vide Vietnamese Chicken Wings (1.5 kg)

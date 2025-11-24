@@ -3,8 +3,8 @@ title: Tarragon & Pickle Potato Salad
 cuisine: Balkan
 category: Salads & Sides
 slug: tarragon-pickle-potato-salad
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Slavic Tarragon & Pickle Potato Salad

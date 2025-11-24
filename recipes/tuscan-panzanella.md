@@ -3,8 +3,8 @@ title: Tuscan Panzanella
 cuisine: Italian
 category: Salads & Sides
 slug: tuscan-panzanella
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Tuscan Panzanella (Traditional Bread Salad)

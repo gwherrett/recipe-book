@@ -3,8 +3,8 @@ title: Red Lentil Daal (Masoor Dal)
 cuisine: Indian
 category: Mains
 slug: red-lentil-daal-masoor-dal
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Red Lentil Daal (Masoor Dal)

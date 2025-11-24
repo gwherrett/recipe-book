@@ -3,8 +3,8 @@ title: Raspberry and Blueberry Crumble
 cuisine: North American
 category: Dessert
 slug: raspberry-and-blueberry-crumble
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Raspberry and Blueberry Crumble

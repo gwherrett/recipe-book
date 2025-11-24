@@ -3,8 +3,8 @@ title: Spaghetti Sauce
 cuisine: Italian
 category: Pasta
 slug: spaghetti-sauce
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Modern Red Sauce Spaghetti with Pork & Beef (1 kg Batch)

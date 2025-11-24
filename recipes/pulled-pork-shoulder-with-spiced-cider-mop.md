@@ -3,8 +3,8 @@ title: Pulled Pork Shoulder with Spiced Cider Mop
 cuisine: North American
 category: Mains
 slug: pulled-pork-shoulder-with-spiced-cider-mop
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Tasso-Inspired Pulled Pork Shoulder with Spiced Cider Mop

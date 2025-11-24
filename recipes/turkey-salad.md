@@ -1,13 +1,18 @@
 ---
-title: "Turkey Salad with Preserved Lemon"
+title: Turkey Salad with Preserved Lemon
 slug: turkey-salad-preserved-lemon
 cuisine: Fusion
 category: Mains
-tags: ["turkey", "salad", "leftovers", "pita", "sandwich"]
-servings: 2–3
-time: "15 minutes"
-health_rating: 0
-health_rating_label: "Unrated"
+tags:
+- turkey
+- salad
+- leftovers
+- pita
+- sandwich
+servings: "2\u20133"
+time: 15 minutes
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Turkey Salad with Preserved Lemon  

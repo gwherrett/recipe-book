@@ -3,8 +3,8 @@ title: Swimming Scallops with Tamarind Sweet Sauce
 cuisine: Vietnamese
 category: Mains
 slug: swimming-scallops-with-tamarind-sweet-sauce
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Swimming Scallops with Tamarind Sweet Sauce (Inspired by the Lunch Lady)

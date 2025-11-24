@@ -3,8 +3,8 @@ title: Rice and Peas
 cuisine: Caribbean
 category: Salads & Sides
 slug: rice-and-peas
-health_rating: 0
-health_rating_label: Unrated
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Rice and Peas (Jamaican Style)
