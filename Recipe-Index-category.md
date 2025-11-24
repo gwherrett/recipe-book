@@ -113,7 +113,7 @@
 - [New York Strip Loin with Pepper Marinade](recipes/new-york-strip-loin-with-pepper-marinade.md)
 - [Pad Krapow (Thai Basil Ground Turkey)](recipes/pad-krapow-thai-basil-ground-turkey.md)
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
-- [Paella de Marisco)](recipes/seafood-paella.md)
+- [Paella de Marisco](recipes/seafood-paella.md)
 - [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
 - [Persian Dill Rice with Fish (Sabzi Polo Mahi)](recipes/persian-dill-rice-with-fish-sabzi-polo-mahi.md)
 - [Persian Lamb Shanks](recipes/persian-lamb-shanks.md)

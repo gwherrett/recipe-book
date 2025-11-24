@@ -266,7 +266,7 @@
 
 - [Gambas en Escabeche (Spanish Pickled Shrimp)](recipes/gambas-en-escabeche-spanish-pickled-shrimp.md)
 - [Gazpacho](recipes/gazpacho.md)
-- [Paella de Marisco)](recipes/seafood-paella.md)
+- [Paella de Marisco](recipes/seafood-paella.md)
 - [Seafood Paella (Paella de Marisco)](recipes/seafood-paella-paella-de-marisco.md)
 
 ## Thai
