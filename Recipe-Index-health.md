@@ -19,7 +19,6 @@
 - [Chicken Stock](recipes/chicken-stock.md)
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)
 - [Chili Powder (Ancho-Based)](recipes/chili-powder-ancho-based.md)
-- [Citrus Curd (Three Ways)](recipes/citrus-curd-three-ways.md)
 - [Corn Relish with Tomato, Jalapeño & Turkish Pepper Paste](recipes/corn-relish-with-tomato-jalapeno-turkish-pepper-paste.md)
 - [Five Spice Powder](recipes/chinese-five-spice-powder.md)
 - [Fried Cauliflower with Fish Sauce Vinaigrette](recipes/fried-cauliflower-with-fish-sauce-vinaigrette.md)
@@ -232,6 +231,7 @@
 ## 1 – Treat / Indulgent
 
 - [Butter Brown Sugar Apples](recipes/butter-brown-sugar-apples.md)
+- [Citrus Curd (Three Ways)](recipes/citrus-curd-three-ways.md)
 - [Classic Sugar Cookie Recipe](recipes/classic-sugar-cookie-recipe.md)
 - [Lemon Cream](recipes/lemon-cream.md)
 - [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)
