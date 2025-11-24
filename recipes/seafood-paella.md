@@ -1,8 +1,8 @@
 ---
-title: Mixed Seafood Paella (Paella de Marisco)
+title: Paella de Marisco)
 cuisine: Spanish
 category: Mains
-slug: mixed-seafood-paella-paella-de-marisco
+slug: seafood-paella-de-marisco
 health_rating: 4
 health_rating_label: Generally Healthy
 ---
