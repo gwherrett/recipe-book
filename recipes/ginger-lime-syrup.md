@@ -3,8 +3,8 @@ title: Ginger-Lime syrup
 cuisine: French
 category: Dessert
 slug: ginger-lime-syrup
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 2
+health_rating_label: 
 ---
 
 # ginger-lime-syrup-jean-georges
