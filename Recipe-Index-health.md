@@ -2,14 +2,14 @@
 
 ## Health Ratings
 
-- [5 – 5 = Eat More                  (Light, plant-forward, or very wholesome)](#5-5-eat-more-light-plant-forward-or-very-wholesome)
-- [4 – 4 = Healthy                   (Good everyday choice)](#4-4-healthy-good-everyday-choice)
-- [3 – 3 = Manage portion size       (Balanced but energy-dense; watch servings)](#3-3-manage-portion-size-balanced-but-energy-dense-watch-servings)
-- [2 – 2 = High in Fat/Sugar/Salt    (Rich, salty, or sugary; occasional)](#2-2-high-in-fat-sugar-salt-rich-salty-or-sugary-occasional)
-- [1 – 1 = Indulgence                (Desserts, deep-fried, very rich)](#1-1-indulgence-desserts-deep-fried-very-rich)
-- [0 – 0 = Unrated                   (Not evaluated yet)](#0-0-unrated-not-evaluated-yet)
+- [5 – Eat More                  (Light, plant-forward, or very wholesome)](#5-eat-more-light-plant-forward-or-very-wholesome)
+- [4 – Healthy                   (Good everyday choice)](#4-healthy-good-everyday-choice)
+- [3 – Manage portion size       (Balanced but energy-dense; watch servings)](#3-manage-portion-size-balanced-but-energy-dense-watch-servings)
+- [2 – High in Fat/Sugar/Salt    (Rich, salty, or sugary; occasional)](#2-high-in-fat-sugar-salt-rich-salty-or-sugary-occasional)
+- [1 – Indulgence                (Desserts, deep-fried, very rich)](#1-indulgence-desserts-deep-fried-very-rich)
+- [0 – Unrated                   (Not evaluated yet)](#0-unrated-not-evaluated-yet)
 
-## 5 – 5 = Eat More                  (Light, plant-forward, or very wholesome)
+## 5 – Eat More                  (Light, plant-forward, or very wholesome)
 
 - [Adobo Sauce](recipes/adobo-sauce.md)
 - [Agedashi Tofu](recipes/agedashi-tofu.md)
@@ -53,7 +53,7 @@
 - [Yellow Lentil & Chicken Soup](recipes/yellow-lentil-chicken-soup.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 
-## 4 – 4 = Healthy                   (Good everyday choice)
+## 4 – Healthy                   (Good everyday choice)
 
 - [Aloo Gobi](recipes/aloo-gobi-2.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
@@ -124,7 +124,7 @@
 - [Zesty Italian Dressing](recipes/zesty-italian-dressing.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
 
-## 3 – 3 = Manage portion size       (Balanced but energy-dense; watch servings)
+## 3 – Manage portion size       (Balanced but energy-dense; watch servings)
 
 - [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
 - [Barbecue Rub](recipes/barbecue-rub.md)
@@ -203,7 +203,7 @@
 - [Udon BBQ Pork with Red Peppers](recipes/udon-bbq-pork-with-red-peppers.md)
 - [White Anchovy & Egg Pizza](recipes/white-anchovy-egg-pizza.md)
 
-## 2 – 2 = High in Fat/Sugar/Salt    (Rich, salty, or sugary; occasional)
+## 2 – High in Fat/Sugar/Salt    (Rich, salty, or sugary; occasional)
 
 - [Blue Cheese Dressing](recipes/blue-cheese-dressing.md)
 - [Classic Lasagna](recipes/classic-lasagna.md)
@@ -228,7 +228,7 @@
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
 - [Taro Root Cake](recipes/taro-root-cake.md)
 
-## 1 – 1 = Indulgence                (Desserts, deep-fried, very rich)
+## 1 – Indulgence                (Desserts, deep-fried, very rich)
 
 - [Butter Brown Sugar Apples](recipes/butter-brown-sugar-apples.md)
 - [Citrus Curd (Three Ways)](recipes/citrus-curd-three-ways.md)
@@ -243,7 +243,7 @@
 - [Spiced Rum](recipes/spiced-rum.md)
 - [Tiramisu Structure](recipes/tiramisu-structure.md)
 
-## 0 – 0 = Unrated                   (Not evaluated yet)
+## 0 – Unrated                   (Not evaluated yet)
 
 - [Pad Krapow (Thai Basil Ground Turkey)](recipes/pad-krapow-thai-basil-ground-turkey.md)
 
