@@ -26,12 +26,12 @@ HEALTH_INDEX = Path("Recipe-Index-health.md")
 
 # Canonical health rating labels
 RATING_LABELS = {
-    0: "Unrated",
-    1: "Treat / Indulgent",
-    2: "Rich / Heavy",
-    3: "Mixed / Context-Dependent",
-    4: "Generally Healthy",
-    5: "Very Healthy Everyday",
+    0: "0 = Unrated                   (Not evaluated yet)",
+    1: "1 = Indulgence                (Desserts, deep-fried, very rich)",
+    2: "2 = High in Fat/Sugar/Salt    (Rich, salty, or sugary; occasional)",
+    3: "3 = Manage portion size       (Balanced but energy-dense; watch servings)",
+    4: "4 = Healthy                   (Good everyday choice)",
+    5: "5 = Eat More                  (Light, plant-forward, or very wholesome)",
 }
 
 

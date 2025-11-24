@@ -55,7 +55,7 @@ def print_scale():
     """Print the full health rating system."""
     print("Health Rating System (5-Point)")
     print("=====================================")
-    print("5 = Eat Everyday              (Light, plant-forward, or very wholesome)")
+    print("5 = Eat More              (Light, plant-forward, or very wholesome)")
     print("4 = Healthy                   (Good everyday choice)")
     print("3 = Manage portion size       (Balanced but energy-dense; watch servings)")
     print("2 = High in Fat/Sugar/Salt    (Rich, salty, or sugary; occasional)")
