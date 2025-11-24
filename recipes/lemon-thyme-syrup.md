@@ -3,8 +3,8 @@ title: Lemon-Thyme Syrup
 cuisine: French
 category: Dessert
 slug: lemon-thyme-syrup
-health_rating: 1
-health_rating_label: Treat / Indulgent
+health_rating: 2
+health_rating_label: High in Fat/Sugar/Salt
 ---
 
 # Jean-Georges Lemon Thyme Syrup

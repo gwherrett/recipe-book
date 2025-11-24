@@ -3,8 +3,8 @@ title: Tzatziki
 cuisine: Mediterranean
 category: Sauces & Condiments
 slug: tzatziki
-health_rating: 4
-health_rating_label: Generally Healthy
+health_rating: 3
+health_rating_label: Manage portion size
 ---
 
 # Tzatziki (Greek Yogurt–Cucumber Dip)

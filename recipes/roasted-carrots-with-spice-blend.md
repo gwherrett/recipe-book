@@ -3,8 +3,8 @@ title: Roasted Carrots with Spice Blend
 cuisine: North American
 category: Salads & Sides
 slug: roasted-carrots-with-spice-blend
-health_rating: 4
-health_rating_label: Generally Healthy
+health_rating: 5
+health_rating_label: Eat Everyday
 ---
 
 # 🥕 Perfect Roasted Carrots with Spice Blend

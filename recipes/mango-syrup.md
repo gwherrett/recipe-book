@@ -3,8 +3,8 @@ title: Mango Syrup
 cuisine: Thai
 category: Dressings & Marinades
 slug: mango-syrup
-health_rating: 1
-health_rating_label: Treat / Indulgent
+health_rating: 2
+health_rating_label: High in Fat/Sugar/Salt
 ---
 
 # Mango Syrup

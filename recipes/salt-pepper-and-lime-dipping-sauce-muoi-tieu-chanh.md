@@ -3,8 +3,8 @@ title: "Salt, Pepper, and Lime Dipping Sauce (Mu\u1ED1i Ti\xEAu Chanh)"
 cuisine: Vietnamese
 category: Sauces & Condiments
 slug: salt-pepper-and-lime-dipping-sauce-muoi-tieu-chanh
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 4
+health_rating_label: Healthy
 ---
 
 # Salt, Pepper, and Lime Dipping Sauce (Muối Tiêu Chanh)

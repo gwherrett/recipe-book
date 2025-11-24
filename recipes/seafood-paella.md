@@ -1,5 +1,5 @@
 ---
-title: Paella de Marisco)
+title: Paella de Marisco
 cuisine: Spanish
 category: Mains
 slug: seafood-paella-de-marisco

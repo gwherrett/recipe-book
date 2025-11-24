@@ -3,8 +3,8 @@ title: Thai Green Curry Paste
 cuisine: Thai
 category: Spice Mixes & Pastes
 slug: thai-green-curry-paste
-health_rating: 4
-health_rating_label: Generally Healthy
+health_rating: 5
+health_rating_label: Eat Everyday
 ---
 
 # Thai Green Curry Paste (Halved Batch)

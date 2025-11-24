@@ -14,14 +14,14 @@ RECIPE_ROOT = Path("recipes")
 
 FRONT_MATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 
-# Canonical rating labels (matches your README exactly)
+# Updated canonical rating labels
 RATING_LABELS = {
     0: "Unrated",
-    1: "Treat / Indulgent",
-    2: "Rich / Heavy",
-    3: "Mixed / Context-Dependent",
-    4: "Generally Healthy",
-    5: "Very Healthy Everyday",
+    1: "Indulgence",
+    2: "High in Fat/Sugar/Salt",
+    3: "Manage portion size",
+    4: "Healthy",
+    5: "Eat Everyday",
 }
 
 
@@ -55,12 +55,12 @@ def print_scale():
     """Print the full health rating system."""
     print("Health Rating System (5-Point)")
     print("=====================================")
-    print("5 = Very Healthy Everyday      (Mostly plants, lean protein, whole grains)")
-    print("4 = Generally Healthy          (Good everyday choice with modest richness)")
-    print("3 = Mixed / Context-Dependent  (Balanced but may need portion control)")
-    print("2 = Rich / Heavy               (High fat/sugar/refined carbs; occasional)")
-    print("1 = Treat / Indulgent          (Deep fried, dessert, very rich)")
-    print("0 = Unrated                    (Not evaluated yet)")
+    print("5 = Eat Everyday              (Light, plant-forward, or very wholesome)")
+    print("4 = Healthy                   (Good everyday choice)")
+    print("3 = Manage portion size       (Balanced but energy-dense; watch servings)")
+    print("2 = High in Fat/Sugar/Salt    (Rich, salty, or sugary; occasional)")
+    print("1 = Indulgence                (Desserts, deep-fried, very rich)")
+    print("0 = Unrated                   (Not evaluated yet)")
     print("")
 
 

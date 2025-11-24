@@ -3,8 +3,8 @@ title: "Corn Relish with Tomato, Jalape\xF1o & Turkish Pepper Paste"
 cuisine: North American
 category: Sauces & Condiments
 slug: corn-relish-with-tomato-jalapeno-turkish-pepper-paste
-health_rating: 5
-health_rating_label: Very Healthy Everyday
+health_rating: 4
+health_rating_label: Healthy
 ---
 
 # 🌽 Corn Relish with Tomato, Jalapeño & Turkish Pepper Paste
