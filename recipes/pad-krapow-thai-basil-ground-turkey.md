@@ -1,13 +1,17 @@
 ---
-
 title: Pad Krapow (Thai Basil Ground Turkey)
 cuisine: Thai
 category: Mains
 slug: pad-krapow-thai-basil-ground-turkey
-tags: [turkey, lean-protein, stir-fry, basil, spicy]
-health_rating: 0            # 0–5 (0 = Unrated)
-health_rating_label: "Unrated"
-------------------------------
+tags:
+- turkey
+- lean-protein
+- stir-fry
+- basil
+- spicy
+health_rating: 4
+health_rating_label: Healthy
+---
 
 ## Thai Basil Ground Turkey (Pad Krapow-Style)
 
