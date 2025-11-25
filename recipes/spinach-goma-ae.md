@@ -1,13 +1,18 @@
 ---
-title: "Spinach Goma-ae"
+title: Spinach Goma-ae
 slug: spinach-goma-ae
 cuisine: Japanese
 category: Salad & Sides
-tags: [spinach, sesame, goma-ae, Japanese, side-dish]
+tags:
+- spinach
+- sesame
+- goma-ae
+- Japanese
+- side-dish
 servings: 4
-time: "15 minutes"
-health_rating: 0
-health_rating_label: "Unrated"
+time: 15 minutes
+health_rating: 5
+health_rating_label: Eat Everyday
 ---
 
 # Japanese Spinach Salad with Sesame Dressing (Gomaae)
