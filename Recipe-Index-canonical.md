@@ -2,6 +2,7 @@
 
 ## Cuisines
 
+- [American](#american)
 - [Balkan](#balkan)
 - [Caribbean](#caribbean)
 - [Chinese](#chinese)
@@ -20,6 +21,10 @@
 - [Spanish](#spanish)
 - [Thai](#thai)
 - [Vietnamese](#vietnamese)
+
+## American
+
+- [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
 
 ## Balkan
 
