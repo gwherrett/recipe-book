@@ -47,6 +47,7 @@
 - [Shirazi Salad](recipes/shirazi-salad.md)
 - [Southwest Kale Salad](recipes/southwest-kale-salad.md)
 - [Southwestern Black Bean & Corn Chili](recipes/southwestern-black-bean-corn-chili.md)
+- [Spinach Goma-ae](recipes/spinach-goma-ae.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
 - [Winter Melon Soup (Cantonese)](recipes/winter-melon-soup-cantonese.md)
 - [Yellow Lentil & Chicken Soup](recipes/yellow-lentil-chicken-soup.md)

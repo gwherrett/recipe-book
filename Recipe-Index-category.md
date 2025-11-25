@@ -9,6 +9,7 @@
 - [Drinks](#drinks)
 - [Mains](#mains)
 - [Pasta](#pasta)
+- [Salad & Sides](#salad-sides)
 - [Salads & Sides](#salads-sides)
 - [Sauces & Condiments](#sauces-condiments)
 - [Soups & Stocks](#soups-stocks)
@@ -173,6 +174,10 @@
 - [Spaghetti Sauce](recipes/spaghetti-sauce.md)
 - [Tagliatelle Bolognese](recipes/tagliatelle-bolognese.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
+
+## Salad & Sides
+
+- [Spinach Goma-ae](recipes/spinach-goma-ae.md)
 
 ## Salads & Sides
 

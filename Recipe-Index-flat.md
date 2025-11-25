@@ -191,6 +191,7 @@
 - [Spaghetti Sauce](recipes/spaghetti-sauce.md)
 - [Spiced Rum](recipes/spiced-rum.md)
 - [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
+- [Spinach Goma-ae](recipes/spinach-goma-ae.md)
 - [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Succotash](recipes/succotash.md)

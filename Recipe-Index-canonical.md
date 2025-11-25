@@ -141,6 +141,7 @@
 - [Rockfish Teriyaki](recipes/rockfish-teriyaki.md)
 - [Saba No Miso-ni](recipes/saba-no-miso-ni.md)
 - [Shoyu Ramen](recipes/shoyu-ramen.md)
+- [Spinach Goma-ae](recipes/spinach-goma-ae.md)
 - [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)
 
 ## Mediterranean
