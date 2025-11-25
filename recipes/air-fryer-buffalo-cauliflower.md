@@ -1,13 +1,17 @@
 ---
-title: "Air Fryer Buffalo Cauliflower"
+title: Air Fryer Buffalo Cauliflower
 cuisine: American
 category: Mains
-tags: ["cauliflower", "vegetarian", "buffalo", "air-fryer"]
+tags:
+- cauliflower
+- vegetarian
+- buffalo
+- air-fryer
 slug: air-fryer-buffalo-cauliflower
-servings: 2–4
-time: "25 minutes"
+servings: "2\u20134"
+time: 25 minutes
 health_rating: 4
-health_rating_label: "Generally Healthy"
+health_rating_label: Healthy
 ---
 
 # Air Fryer Buffalo Cauliflower (Classic Version)
