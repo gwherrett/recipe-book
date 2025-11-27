@@ -116,6 +116,7 @@
 - [Mini Phyllo Apple Tarts (Par-Bake Method)](recipes/mini-phyllo-apple-tarts-par-bake-method.md)
 - [Mint Chutney](recipes/mint-chutney.md)
 - [Miso Marinade for Sablefish](recipes/miso-marinade-for-sablefish.md)
+- [Moist & Tender Brown Butter Cornbread](recipes/cornbread.md)
 - [Mojo Marinade](recipes/mojo-marinade.md)
 - [Mojo Pork Tacos](recipes/mojo-pork-tacos.md)
 - [Momofuku Bo Ssäm](recipes/momofuku-bo-ssam.md)

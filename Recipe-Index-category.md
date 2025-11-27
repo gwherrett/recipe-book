@@ -12,6 +12,7 @@
 - [Salad & Sides](#salad-sides)
 - [Salads & Sides](#salads-sides)
 - [Sauces & Condiments](#sauces-condiments)
+- [Sides & Salads](#sides-salads)
 - [Soups & Stocks](#soups-stocks)
 - [Spice Mixes & Pastes](#spice-mixes-pastes)
 
@@ -239,6 +240,10 @@
 - [Tzatziki](recipes/tzatziki.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
+
+## Sides & Salads
+
+- [Moist & Tender Brown Butter Cornbread](recipes/cornbread.md)
 
 ## Soups & Stocks
 
