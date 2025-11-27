@@ -9,7 +9,6 @@
 - [Drinks](#drinks)
 - [Mains](#mains)
 - [Pasta](#pasta)
-- [Salad & Sides](#salad-sides)
 - [Salads & Sides](#salads-sides)
 - [Sauces & Condiments](#sauces-condiments)
 - [Soups & Stocks](#soups-stocks)
@@ -175,10 +174,6 @@
 - [Tagliatelle Bolognese](recipes/tagliatelle-bolognese.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 
-## Salad & Sides
-
-- [Spinach Goma-ae](recipes/spinach-goma-ae.md)
-
 ## Salads & Sides
 
 - [Brussels Sprouts Slaw](recipes/brussels-sprouts-slaw.md)
@@ -214,6 +209,7 @@
 - [Sichuan Green Beans](recipes/sichuan-green-beans.md)
 - [Sous Vide Vietnamese Chicken Wings](recipes/sous-vide-vietnamese-chicken-wings.md)
 - [Southwest Kale Salad](recipes/southwest-kale-salad.md)
+- [Spinach Goma-ae](recipes/spinach-goma-ae.md)
 - [Succotash](recipes/succotash.md)
 - [Taro Root Cake](recipes/taro-root-cake.md)
 - [Tarragon & Pickle Potato Salad](recipes/tarragon-pickle-potato-salad.md)
