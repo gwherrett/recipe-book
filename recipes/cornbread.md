@@ -1,7 +1,7 @@
 ---
 title: Moist & Tender Brown Butter Cornbread
 cuisine: Southern / Cajun
-category: Sides & Salads
+category: Salads & Sides
 tags: cornbread, cast-iron, brown butter, Southern, baking
 slug: moist-tender-brown-butter-cornbread
 health_rating: 2
