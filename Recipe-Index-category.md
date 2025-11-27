@@ -12,7 +12,6 @@
 - [Salad & Sides](#salad-sides)
 - [Salads & Sides](#salads-sides)
 - [Sauces & Condiments](#sauces-condiments)
-- [Sides & Salads](#sides-salads)
 - [Soups & Stocks](#soups-stocks)
 - [Spice Mixes & Pastes](#spice-mixes-pastes)
 
@@ -202,6 +201,7 @@
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
 - [Long Bean, Cucumber & Tomato Salad](recipes/long-bean-cucumber-tomato-salad.md)
 - [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
+- [Moist & Tender Brown Butter Cornbread](recipes/cornbread.md)
 - [Panzanella](recipes/panzanella.md)
 - [Pecorino Radicchio Cherry Salad](recipes/pecorino-radicchio-cherry-salad.md)
 - [Pickled Jalapeños](recipes/pickled-jalapenos.md)
@@ -240,10 +240,6 @@
 - [Tzatziki](recipes/tzatziki.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
-
-## Sides & Salads
-
-- [Moist & Tender Brown Butter Cornbread](recipes/cornbread.md)
 
 ## Soups & Stocks
 
