@@ -2,7 +2,7 @@
 title: Spinach Goma-ae
 slug: spinach-goma-ae
 cuisine: Japanese
-category: Salad & Sides
+category: Salads & Sides
 tags:
 - spinach
 - sesame
