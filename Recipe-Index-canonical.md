@@ -8,7 +8,6 @@
 - [Chinese](#chinese)
 - [Filipino](#filipino)
 - [French](#french)
-- [Fusion](#fusion)
 - [Indian](#indian)
 - [Italian](#italian)
 - [Japanese](#japanese)
@@ -80,10 +79,6 @@
 - [Ratatouille](recipes/ratatouille.md)
 - [Ratatouille with Celery & Corn](recipes/ratatouille-with-celery-corn.md)
 - [Simple Syrup](recipes/simple-syrup.md)
-
-## Fusion
-
-- [Turkey Salad with Preserved Lemon](recipes/turkey-salad.md)
 
 ## Indian
 
@@ -253,6 +248,7 @@
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
 - [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
+- [Turkey Salad with Preserved Lemon](recipes/turkey-salad.md)
 - [Veggie Chili](recipes/veggie-chili.md)
 
 ## Persian
