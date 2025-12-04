@@ -1,7 +1,7 @@
 # Recipe Index (Flat — Alphabetical)
 
-- [Adobo Sauce](recipes/adobo-sauce.md)
 - [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
+- [adobo-sauce](recipes/adobo-sauce.md)
 - [Agedashi Tofu](recipes/agedashi-tofu.md)
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
 - [Aloo Gobi](recipes/aloo-gobi-2.md)

@@ -7,10 +7,10 @@
 - [3 – Manage portion size       (Balanced but energy-dense; watch servings)](#3-manage-portion-size-balanced-but-energy-dense-watch-servings)
 - [2 – High in Fat/Sugar/Salt    (Rich, salty, or sugary; occasional)](#2-high-in-fat-sugar-salt-rich-salty-or-sugary-occasional)
 - [1 – Indulgence                (Desserts, deep-fried, very rich)](#1-indulgence-desserts-deep-fried-very-rich)
+- [0 – Unrated                   (Not evaluated yet)](#0-unrated-not-evaluated-yet)
 
 ## 5 – Eat More                  (Light, plant-forward, or very wholesome)
 
-- [Adobo Sauce](recipes/adobo-sauce.md)
 - [Agedashi Tofu](recipes/agedashi-tofu.md)
 - [Basil Dressing](recipes/basil-dressing.md)
 - [Carrots Spice Blend](recipes/carrots-spice-blend.md)
@@ -245,4 +245,8 @@
 - [Raspberry and Blueberry Crumble](recipes/raspberry-and-blueberry-crumble.md)
 - [Spiced Rum](recipes/spiced-rum.md)
 - [Tiramisu Structure](recipes/tiramisu-structure.md)
+
+## 0 – Unrated                   (Not evaluated yet)
+
+- [adobo-sauce](recipes/adobo-sauce.md)
 

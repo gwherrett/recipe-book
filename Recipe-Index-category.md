@@ -13,6 +13,7 @@
 - [Sauces & Condiments](#sauces-condiments)
 - [Soups & Stocks](#soups-stocks)
 - [Spice Mixes & Pastes](#spice-mixes-pastes)
+- [Uncategorized](#uncategorized)
 
 ## Appetizers
 
@@ -218,7 +219,6 @@
 
 ## Sauces & Condiments
 
-- [Adobo Sauce](recipes/adobo-sauce.md)
 - [Baba Ganoush](recipes/baba-ganoush.md)
 - [Corn Relish with Tomato, Jalapeño & Turkish Pepper Paste](recipes/corn-relish-with-tomato-jalapeno-turkish-pepper-paste.md)
 - [Creole Sauce](recipes/creole-sauce.md)
@@ -269,4 +269,8 @@
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
 - [Ribs - Dry Rub](recipes/rib-rub.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
+
+## Uncategorized
+
+- [adobo-sauce](recipes/adobo-sauce.md)
 
