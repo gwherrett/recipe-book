@@ -1,7 +1,7 @@
 ---
 title: Turkey Salad with Preserved Lemon
 slug: turkey-salad-preserved-lemon
-cuisine: Fusion
+cuisine: North American
 category: Mains
 tags:
 - turkey
