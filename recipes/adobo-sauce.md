@@ -1,4 +1,3 @@
-git add .
 ---
 title: Adobo Sauce
 cuisine: Mexican
