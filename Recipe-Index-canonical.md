@@ -19,7 +19,6 @@
 - [Southern / Cajun](#southern-cajun)
 - [Spanish](#spanish)
 - [Thai](#thai)
-- [Unassigned](#unassigned)
 - [Vietnamese](#vietnamese)
 
 ## American
@@ -153,6 +152,7 @@
 
 ## Mexican
 
+- [Adobo Sauce](recipes/adobo-sauce.md)
 - [Beef Enchilada Filling Sauce](recipes/beef-enchilada-filling-sauce.md)
 - [Beef Enchiladas Verde](recipes/beef-enchiladas-verde.md)
 - [Beef Fajitas](recipes/beef-fajitas.md)
@@ -289,10 +289,6 @@
 - [Thai Dressing](recipes/thai-dressing.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
-
-## Unassigned
-
-- [adobo-sauce](recipes/adobo-sauce.md)
 
 ## Vietnamese
 
