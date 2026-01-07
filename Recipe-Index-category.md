@@ -6,7 +6,6 @@
 - [Breads & Pastries](#breads-pastries)
 - [Breakfast & Brunch](#breakfast-brunch)
 - [Dessert](#dessert)
-- [Desserts](#desserts)
 - [Dressings & Marinades](#dressings-marinades)
 - [Drinks](#drinks)
 - [Mains](#mains)
@@ -52,6 +51,7 @@
 - [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu-2.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
+- [Maple Pudding](recipes/maple-pudding.md)
 - [Mini Phyllo Apple Tarts (Par-Bake Method)](recipes/mini-phyllo-apple-tarts-par-bake-method.md)
 - [Pecan Pie](recipes/pecan-pie.md)
 - [Phyllo Pastry Shells (Muffin Tin Method)](recipes/phyllo-pastry-shells-muffin-tin-method.md)
@@ -59,10 +59,6 @@
 - [Simple Syrup](recipes/simple-syrup.md)
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
 - [Tiramisu Structure](recipes/tiramisu-structure.md)
-
-## Desserts
-
-- [Maple Pudding](recipes/maple-pudding.md)
 - [Warm Chocolate Cake](recipes/warm-chocolate-cake.md)
 
 ## Dressings & Marinades
