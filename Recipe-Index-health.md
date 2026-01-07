@@ -57,6 +57,7 @@
 
 ## 4 – Healthy                   (Good everyday choice)
 
+- [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
 - [Aloo Gobi](recipes/aloo-gobi-2.md)

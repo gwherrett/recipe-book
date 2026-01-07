@@ -1,5 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
+- [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
 - [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
 - [adobo-sauce](recipes/adobo-sauce.md)
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
