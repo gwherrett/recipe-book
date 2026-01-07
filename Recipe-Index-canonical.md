@@ -12,6 +12,7 @@
 - [Indian](#indian)
 - [Italian](#italian)
 - [Japanese](#japanese)
+- [Medditeranean](#medditeranean)
 - [Mediterranean](#mediterranean)
 - [Mexican](#mexican)
 - [Middle Eastern](#middle-eastern)
@@ -38,6 +39,9 @@
 
 ## British
 
+- [Mini Lamb, Ale & Parsnip Pies](recipes/mini-lamb-ale-parsnip-pies.md)
+- [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
+- [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Yorkshire Pudding](recipes/yorkshire-pudding.md)
 
 ## Caribbean
@@ -154,6 +158,10 @@
 - [Spinach Goma-ae](recipes/spinach-goma-ae.md)
 - [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)
 
+## Medditeranean
+
+- [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
+
 ## Mediterranean
 
 - [Avgolemono (Greek Lemon Chicken Soup)](recipes/avgolemono-greek-lemon-chicken-soup.md)
@@ -242,17 +250,14 @@
 - [Lobster Mac n Cheese](recipes/lobster-mac-and-cheese.md)
 - [Mac n Cheese](recipes/mac-n-cheese.md)
 - [Maple Pudding](recipes/maple-pudding.md)
-- [Mini Lamb, Ale & Parsnip Pies](recipes/mini-lamb-ale-parsnip-pies.md)
 - [Mixed Greens with Pecans, Goat Cheese, and Dried Cranberries](recipes/mixed-greens-with-pecans-goat-cheese-and-dried-cranberries.md)
 - [Montreal Steak Seasoning](recipes/montreal-steak-seasoning.md)
 - [New England Clam Chowder](recipes/new-england-clam-chowder.md)
 - [New York Strip Loin with Pepper Marinade](recipes/new-york-strip-loin-with-pepper-marinade.md)
 - [Our Favourite Lemon Loaf](recipes/lemon-loaf.md)
 - [Pecan Pie](recipes/pecan-pie.md)
-- [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
 - [Pickled Salmon](recipes/pickled-salmon.md)
 - [Pie Crust](recipes/pie-crust.md)
-- [Plancha Mackerel with Peppers & Onions](recipes/plancha-mackerel-with-peppers-onions.md)
 - [Pulled Pork](recipes/pulled-pork.md)
 - [Pulled Pork Shoulder with Spiced Cider Mop](recipes/pulled-pork-shoulder-with-spiced-cider-mop.md)
 - [Raspberry and Blueberry Crumble](recipes/raspberry-and-blueberry-crumble.md)
@@ -273,8 +278,6 @@
 - [Smoked Side Ribs](recipes/smoked-side-ribs.md)
 - [Southwest Kale Salad](recipes/southwest-kale-salad.md)
 - [Southwestern Black Bean & Corn Chili](recipes/southwestern-black-bean-corn-chili.md)
-- [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
-- [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
 - [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 - [Turkey Salad with Preserved Lemon](recipes/turkey-salad.md)
@@ -299,6 +302,7 @@
 - [Gambas en Escabeche (Spanish Pickled Shrimp)](recipes/gambas-en-escabeche-spanish-pickled-shrimp.md)
 - [Gazpacho](recipes/gazpacho.md)
 - [Paella de Marisco](recipes/seafood-paella.md)
+- [Plancha Mackerel with Peppers & Onions](recipes/plancha-mackerel-with-peppers-onions.md)
 - [Seafood Paella (Paella de Marisco)](recipes/seafood-paella-paella-de-marisco.md)
 
 ## Thai
@@ -327,3 +331,4 @@
 - [Sous Vide Vietnamese Chicken Wings](recipes/sous-vide-vietnamese-chicken-wings.md)
 - [Swimming Scallops with Tamarind Sweet Sauce](recipes/swimming-scallops-with-tamarind-sweet-sauce.md)
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
+
