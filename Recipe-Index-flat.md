@@ -1,5 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
+- [Adobo Sauce](recipes/adobo-sauce.md)
 - [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
 - [adobo-sauce](recipes/adobo-sauce.md)
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
