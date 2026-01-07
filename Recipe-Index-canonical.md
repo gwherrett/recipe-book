@@ -12,7 +12,6 @@
 - [Indian](#indian)
 - [Italian](#italian)
 - [Japanese](#japanese)
-- [Medditeranean](#medditeranean)
 - [Mediterranean](#mediterranean)
 - [Mexican](#mexican)
 - [Middle Eastern](#middle-eastern)
@@ -158,10 +157,6 @@
 - [Spinach Goma-ae](recipes/spinach-goma-ae.md)
 - [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)
 
-## Medditeranean
-
-- [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
-
 ## Mediterranean
 
 - [Avgolemono (Greek Lemon Chicken Soup)](recipes/avgolemono-greek-lemon-chicken-soup.md)
@@ -169,6 +164,7 @@
 - [Lobster Busara](recipes/lobster-busara.md)
 - [Moroccan Carrot Soup](recipes/moroccan-carrot-soup.md)
 - [Moroccan Chickpea Stew](recipes/moroccan-chickpea-stew.md)
+- [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
 - [Rosemary-Roasted Leg of Lamb with Balsamic Sauce](recipes/rosemary-roasted-leg-of-lamb-with-balsamic-sauce.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 - [Tzatziki](recipes/tzatziki.md)
