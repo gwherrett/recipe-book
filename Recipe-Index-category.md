@@ -19,6 +19,7 @@
 ## Appetizers
 
 - [Agedashi Tofu](recipes/agedashi-tofu.md)
+- [Cheese Crackers](recipes/cheese-crackers.md)
 - [Extra Stuffings for Zucchini Flowers](recipes/extra-stuffings-for-zucchini-flowers.md)
 - [Horseradish Corn Cheese Melt](recipes/horseradish-corn-cheese-melt.md)
 - [Mini Lamb, Ale & Parsnip Pies](recipes/mini-lamb-ale-parsnip-pies.md)
@@ -30,11 +31,14 @@
 ## Breads & Pastries
 
 - [Naan for Breadmaker](recipes/naan-for-breadmaker.md)
+- [Our Favourite Lemon Loaf](recipes/lemon-loaf.md)
 - [Pie Crust](recipes/pie-crust.md)
+- [Yorkshire Pudding](recipes/yorkshire-pudding.md)
 
 ## Breakfast & Brunch
 
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
+- [Egg Strata](recipes/egg-strata.md)
 
 ## Dessert
 
@@ -53,6 +57,7 @@
 - [Pecan Pie](recipes/pecan-pie.md)
 - [Phyllo Pastry Shells (Muffin Tin Method)](recipes/phyllo-pastry-shells-muffin-tin-method.md)
 - [Raspberry and Blueberry Crumble](recipes/raspberry-and-blueberry-crumble.md)
+- [Sherry Cake](recipes/sherry-cake.md)
 - [Simple Syrup](recipes/simple-syrup.md)
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
 - [Tiramisu Structure](recipes/tiramisu-structure.md)
@@ -121,6 +126,7 @@
 - [Momofuku Bo Ssäm](recipes/momofuku-bo-ssam.md)
 - [Moroccan Chickpea Stew](recipes/moroccan-chickpea-stew.md)
 - [New York Strip Loin with Pepper Marinade](recipes/new-york-strip-loin-with-pepper-marinade.md)
+- [Osso Buco](recipes/osso-buco.md)
 - [Pad Krapow (Thai Basil Ground Turkey)](recipes/pad-krapow-thai-basil-ground-turkey.md)
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
 - [Paella de Marisco](recipes/seafood-paella.md)
@@ -163,6 +169,7 @@
 - [Turkey Salad with Preserved Lemon](recipes/turkey-salad.md)
 - [Udon BBQ Pork with Red Peppers](recipes/udon-bbq-pork-with-red-peppers.md)
 - [Veggie Chili](recipes/veggie-chili.md)
+- [Wine-Braised Lamb Shanks with Herbes de Provence](recipes/wine-braised-lamb-shanks-with-herbes-de-provence.md)
 
 ## Pasta
 
@@ -177,6 +184,7 @@
 - [Lobster Pasta Sauce (Busara-Style)](recipes/lobster-pasta-sauce-busara-style.md)
 - [Mac n Cheese](recipes/mac-n-cheese.md)
 - [Pasta with Barese Sausage](recipes/pasta-with-barese-sausage.md)
+- [Rigatoni with Sausages and Red Peppers](recipes/rigatoni-with-sausages-and-red-peppers.md)
 - [Sausage, Cheese & Basil Lasagna](recipes/sausage-cheese-basil-lasagna.md)
 - [Smoked Gouda Mac n Cheese](recipes/smoked-gouda-mac-n-cheese.md)
 - [Spaetzle](recipes/spaetzle.md)
@@ -187,14 +195,17 @@
 
 ## Salads & Sides
 
+- [Asian Grilled Steak Salad](recipes/asian-grilled-steak-salad.md)
 - [Brussels Sprouts Slaw](recipes/brussels-sprouts-slaw.md)
 - [Camote con Chile y Limón (Sweet Potatoes)](recipes/camote-con-chile-y-limon-sweet-potatoes.md)
 - [Causa Rellena (Peruvian Potato Terrine)](recipes/causa-rellena-peruvian-potato-terrine.md)
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)
+- [Coleslaw with Apples & Dried Cranberries](recipes/coleslaw-with-apples-and-dried-cranberries.md)
 - [Corn Relish](recipes/corn-relish.md)
 - [Cornbread Stuffing with Andouille, Fennel, and Bell Peppers](recipes/cornbread-stuffing-andouille-fennel-bell-peppers.md)
 - [Creamed Spinach](recipes/healthy-creamed-spinach.md)
 - [Creamy Horseradish Mashed Potatoes](recipes/creamy-horseradish-mashed-potatoes.md)
+- [Farro Salad with Tomatoes and Herbs](recipes/farro-salad-with-tomatoes-and-herbs.md)
 - [Fried Cauliflower with Fish Sauce Vinaigrette](recipes/fried-cauliflower-with-fish-sauce-vinaigrette.md)
 - [Gallo Pinto](recipes/gallo-pinto.md)
 - [Gambas en Escabeche (Spanish Pickled Shrimp)](recipes/gambas-en-escabeche-spanish-pickled-shrimp.md)
@@ -217,6 +228,7 @@
 - [Ratatouille with Celery & Corn](recipes/ratatouille-with-celery-corn.md)
 - [Rice and Peas](recipes/rice-and-peas.md)
 - [Roasted Carrots with Spice Blend](recipes/roasted-carrots-with-spice-blend.md)
+- [Seared Duck Breast Salad](recipes/seared-duck-breast-salad.md)
 - [Shirazi Salad](recipes/shirazi-salad.md)
 - [Sichuan Green Beans](recipes/sichuan-green-beans.md)
 - [Sous Vide Vietnamese Chicken Wings](recipes/sous-vide-vietnamese-chicken-wings.md)
@@ -231,6 +243,7 @@
 ## Sauces & Condiments
 
 - [Baba Ganoush](recipes/baba-ganoush.md)
+- [Chocolate Sauce](recipes/chocolate-sauce.md)
 - [Corn Relish with Tomato, Jalapeño & Turkish Pepper Paste](recipes/corn-relish-with-tomato-jalapeno-turkish-pepper-paste.md)
 - [Creole Sauce](recipes/creole-sauce.md)
 - [Dill Sour Cream Sauce](recipes/dill-sour-cream-sauce.md)
@@ -251,6 +264,7 @@
 
 ## Soups & Stocks
 
+- [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
 - [Avgolemono (Greek Lemon Chicken Soup)](recipes/avgolemono-greek-lemon-chicken-soup.md)
 - [Celery & Stilton Soup](recipes/celery-stilton-soup.md)
 - [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
@@ -258,14 +272,17 @@
 - [Chicken Soup with Thai Basil](recipes/chicken-soup-with-thai-basil.md)
 - [Chicken Stock](recipes/chicken-stock.md)
 - [Corn Chowder](recipes/corn-chowder.md)
+- [French Onion Soup](recipes/french-onion-soup.md)
 - [Gazpacho](recipes/gazpacho.md)
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
 - [Moroccan Carrot Soup](recipes/moroccan-carrot-soup.md)
 - [Mulligatawny Soup](recipes/mulligatawny-soup.md)
+- [New England Clam Chowder](recipes/new-england-clam-chowder.md)
 - [Pork Bone Soup](recipes/pork-bone-soup.md)
 - [Pork Bone Soup Jobs Tears](recipes/pork-bone-soup-jobs-tears.md)
 - [Pozole Rojo](recipes/pozole-rojo.md)
 - [Salmon Chowder](recipes/salmon-chowder.md)
+- [Shrimp Bisque](recipes/shrimp-bisque.md)
 - [Winter Melon Soup (Cantonese)](recipes/winter-melon-soup-cantonese.md)
 - [Yellow Lentil & Chicken Soup](recipes/yellow-lentil-chicken-soup.md)
 

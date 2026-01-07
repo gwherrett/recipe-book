@@ -2,8 +2,11 @@
 
 ## Cuisines
 
+- [African](#african)
 - [American](#american)
+- [Asian Fusion](#asian-fusion)
 - [Balkan](#balkan)
+- [British](#british)
 - [Caribbean](#caribbean)
 - [Chinese](#chinese)
 - [Filipino](#filipino)
@@ -22,9 +25,17 @@
 - [Unassigned](#unassigned)
 - [Vietnamese](#vietnamese)
 
+## African
+
+- [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
+
 ## American
 
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
+
+## Asian Fusion
+
+- [Asian Grilled Steak Salad](recipes/asian-grilled-steak-salad.md)
 
 ## Balkan
 
@@ -35,6 +46,10 @@
 - [Tarragon & Pickle Potato Salad](recipes/tarragon-pickle-potato-salad.md)
 - [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb-with-rice.md)
 - [Tavë Kosi (Albanian Baked Lamb)](recipes/tave-kosi-albanian-baked-lamb.md)
+
+## British
+
+- [Yorkshire Pudding](recipes/yorkshire-pudding.md)
 
 ## Caribbean
 
@@ -74,13 +89,16 @@
 
 ## French
 
+- [French Onion Soup](recipes/french-onion-soup.md)
 - [Ginger-Lime syrup](recipes/ginger-lime-syrup.md)
 - [Lemon Cream](recipes/lemon-cream.md)
 - [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)
 - [Ratatouille](recipes/ratatouille.md)
 - [Ratatouille with Celery & Corn](recipes/ratatouille-with-celery-corn.md)
+- [Shrimp Bisque](recipes/shrimp-bisque.md)
 - [Simple Syrup](recipes/simple-syrup.md)
 - [Warm Chocolate Cake](recipes/warm-chocolate-cake.md)
+- [Wine-Braised Lamb Shanks with Herbes de Provence](recipes/wine-braised-lamb-shanks-with-herbes-de-provence.md)
 
 ## Indian
 
@@ -99,6 +117,7 @@
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
 - [Classic Lasagna](recipes/classic-lasagna.md)
 - [Extra Stuffings for Zucchini Flowers](recipes/extra-stuffings-for-zucchini-flowers.md)
+- [Farro Salad with Tomatoes and Herbs](recipes/farro-salad-with-tomatoes-and-herbs.md)
 - [Gnocchi](recipes/gnocchi.md)
 - [Gnocchi with Tomato Sauce](recipes/gnocchi-with-tomato-sauce.md)
 - [Hot Sausage and Peppers Pasta](recipes/hot-sausage-and-peppers-pasta.md)
@@ -109,11 +128,13 @@
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
 - [Lobster Pasta Sauce (Busara-Style)](recipes/lobster-pasta-sauce-busara-style.md)
 - [Meatballs and Peas in Tomato Sauce (Pork & Lamb Sausage, 800 g)](recipes/meatballs-and-peas-in-tomato-sauce-pork-lamb-sausage-800-g.md)
+- [Osso Buco](recipes/osso-buco.md)
 - [Panzanella](recipes/panzanella.md)
 - [Pasta with Barese Sausage](recipes/pasta-with-barese-sausage.md)
 - [Pecorino Radicchio Cherry Salad](recipes/pecorino-radicchio-cherry-salad.md)
 - [Pesto–Ricotta Dip](recipes/pesto-ricotta-dip.md)
 - [Pork Chops with Sage Mushroom Sauce](recipes/pork-chops-with-sage-mushroom-sauce.md)
+- [Rigatoni with Sausages and Red Peppers](recipes/rigatoni-with-sausages-and-red-peppers.md)
 - [Sage-Infused Hot Pepper Sauce](recipes/sage-infused-hot-pepper-sauce.md)
 - [Sausage, Cheese & Basil Lasagna](recipes/sausage-cheese-basil-lasagna.md)
 - [Spaetzle](recipes/spaetzle.md)
@@ -199,13 +220,16 @@
 - [Canning Pears](recipes/canning-pears.md)
 - [Carrots Spice Blend](recipes/carrots-spice-blend.md)
 - [Celery & Stilton Soup](recipes/celery-stilton-soup.md)
+- [Cheese Crackers](recipes/cheese-crackers.md)
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
 - [Chicken Pot Pies](recipes/chicken-pot-pies.md)
 - [Chicken Stock](recipes/chicken-stock.md)
 - [Chili Powder (Ancho-Based)](recipes/chili-powder-ancho-based.md)
+- [Chocolate Sauce](recipes/chocolate-sauce.md)
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
 - [Citrus Curd (Three Ways)](recipes/citrus-curd-three-ways.md)
 - [Classic Sugar Cookie Recipe](recipes/classic-sugar-cookie-recipe.md)
+- [Coleslaw with Apples & Dried Cranberries](recipes/coleslaw-with-apples-and-dried-cranberries.md)
 - [Corn Chip-Crusted Chicken](recipes/corn-chip-crusted-chicken.md)
 - [Corn Chowder](recipes/corn-chowder.md)
 - [Corn Relish](recipes/corn-relish.md)
@@ -215,6 +239,7 @@
 - [Creamed Spinach](recipes/healthy-creamed-spinach.md)
 - [Creamy Horseradish Mashed Potatoes](recipes/creamy-horseradish-mashed-potatoes.md)
 - [Creole Sauce](recipes/creole-sauce.md)
+- [Egg Strata](recipes/egg-strata.md)
 - [Frozen Banana Cocoa Ice Cream](recipes/frozen-banana-cocoa-ice-cream.md)
 - [Garlic Mashed Potatoes with Yogurt](recipes/garlic-mashed-potatoes-with-yogurt.md)
 - [Ginger–Honey Sparkler (Mocktail)](recipes/ginger-honey-sparkler-mocktail.md)
@@ -229,7 +254,9 @@
 - [Mini Lamb, Ale & Parsnip Pies](recipes/mini-lamb-ale-parsnip-pies.md)
 - [Mixed Greens with Pecans, Goat Cheese, and Dried Cranberries](recipes/mixed-greens-with-pecans-goat-cheese-and-dried-cranberries.md)
 - [Montreal Steak Seasoning](recipes/montreal-steak-seasoning.md)
+- [New England Clam Chowder](recipes/new-england-clam-chowder.md)
 - [New York Strip Loin with Pepper Marinade](recipes/new-york-strip-loin-with-pepper-marinade.md)
+- [Our Favourite Lemon Loaf](recipes/lemon-loaf.md)
 - [Pecan Pie](recipes/pecan-pie.md)
 - [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
 - [Pickled Salmon](recipes/pickled-salmon.md)
@@ -243,6 +270,8 @@
 - [Salmon Chowder](recipes/salmon-chowder.md)
 - [Salmon with Anchovy-Garlic Butter](recipes/salmon-with-anchovy-garlic-butter.md)
 - [Salmon With Dijon Brown Sugar](recipes/salmon-with-dijon-brown-sugar.md)
+- [Seared Duck Breast Salad](recipes/seared-duck-breast-salad.md)
+- [Sherry Cake](recipes/sherry-cake.md)
 - [Slow Cooker Chili](recipes/slow-cooker-chili.md)
 - [Smoked Chicken (Rotisserie)](recipes/smoked-chicken-rotisserie.md)
 - [Smoked Goose (Rotisserie)](recipes/smoked-goose-rotisserie.md)
