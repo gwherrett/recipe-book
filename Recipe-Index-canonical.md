@@ -80,11 +80,13 @@
 - [Ratatouille](recipes/ratatouille.md)
 - [Ratatouille with Celery & Corn](recipes/ratatouille-with-celery-corn.md)
 - [Simple Syrup](recipes/simple-syrup.md)
+- [Warm Chocolate Cake](recipes/warm-chocolate-cake.md)
 
 ## Indian
 
 - [Aloo Gobi](recipes/aloo-gobi-2.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
+- [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
 - [Mint Chutney](recipes/mint-chutney.md)
 - [Mulligatawny Soup](recipes/mulligatawny-soup.md)
 - [Naan for Breadmaker](recipes/naan-for-breadmaker.md)
@@ -92,6 +94,7 @@
 
 ## Italian
 
+- [Baked Sausage-Stuffed Shells](recipes/baked-sausage-stuffed-shells.md)
 - [Basil Dressing](recipes/basil-dressing.md)
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
 - [Classic Lasagna](recipes/classic-lasagna.md)
@@ -117,6 +120,7 @@
 - [Spaghetti alle Vongole](recipes/spaghetti-alle-vongole.md)
 - [Spaghetti Sauce](recipes/spaghetti-sauce.md)
 - [Tagliatelle Bolognese](recipes/tagliatelle-bolognese.md)
+- [Tagliatelle with Lemon, Shrimp and Arugula](recipes/tagliatelle-with-lemon-shrimp-and-arugula.md)
 - [Tapenade](recipes/tapenade.md)
 - [Tiramisu Structure](recipes/tiramisu-structure.md)
 - [Tuscan Panzanella](recipes/tuscan-panzanella.md)
@@ -147,6 +151,7 @@
 - [Lobster Busara](recipes/lobster-busara.md)
 - [Moroccan Carrot Soup](recipes/moroccan-carrot-soup.md)
 - [Moroccan Chickpea Stew](recipes/moroccan-chickpea-stew.md)
+- [Rosemary-Roasted Leg of Lamb with Balsamic Sauce](recipes/rosemary-roasted-leg-of-lamb-with-balsamic-sauce.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 - [Tzatziki](recipes/tzatziki.md)
 - [Yellow Lentil & Chicken Soup](recipes/yellow-lentil-chicken-soup.md)
@@ -176,6 +181,7 @@
 ## Middle Eastern
 
 - [Baba Ganoush](recipes/baba-ganoush.md)
+- [Duck Breasts with Pomegranate Barberry Sauce](recipes/duck-breasts-with-pomegranate-barberry-sauce.md)
 - [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
@@ -197,6 +203,7 @@
 - [Chicken Pot Pies](recipes/chicken-pot-pies.md)
 - [Chicken Stock](recipes/chicken-stock.md)
 - [Chili Powder (Ancho-Based)](recipes/chili-powder-ancho-based.md)
+- [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
 - [Citrus Curd (Three Ways)](recipes/citrus-curd-three-ways.md)
 - [Classic Sugar Cookie Recipe](recipes/classic-sugar-cookie-recipe.md)
 - [Corn Chip-Crusted Chicken](recipes/corn-chip-crusted-chicken.md)
@@ -218,7 +225,9 @@
 - [Kale Apple Slaw](recipes/kale-apple-slaw.md)
 - [Lobster Mac n Cheese](recipes/lobster-mac-and-cheese.md)
 - [Mac n Cheese](recipes/mac-n-cheese.md)
+- [Maple Pudding](recipes/maple-pudding.md)
 - [Mini Lamb, Ale & Parsnip Pies](recipes/mini-lamb-ale-parsnip-pies.md)
+- [Mixed Greens with Pecans, Goat Cheese, and Dried Cranberries](recipes/mixed-greens-with-pecans-goat-cheese-and-dried-cranberries.md)
 - [Montreal Steak Seasoning](recipes/montreal-steak-seasoning.md)
 - [New York Strip Loin with Pepper Marinade](recipes/new-york-strip-loin-with-pepper-marinade.md)
 - [Pecan Pie](recipes/pecan-pie.md)
