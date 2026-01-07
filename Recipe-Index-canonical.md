@@ -3,8 +3,6 @@
 ## Cuisines
 
 - [African](#african)
-- [American](#american)
-- [Asian Fusion](#asian-fusion)
 - [Balkan](#balkan)
 - [British](#british)
 - [Caribbean](#caribbean)
@@ -27,14 +25,6 @@
 ## African
 
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
-
-## American
-
-- [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
-
-## Asian Fusion
-
-- [Asian Grilled Steak Salad](recipes/asian-grilled-steak-salad.md)
 
 ## Balkan
 
@@ -210,6 +200,7 @@
 
 ## North American
 
+- [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
 - [Barbecue Rub](recipes/barbecue-rub.md)
 - [Black Cod on Cedar Plank (Barbecue)](recipes/black-cod-on-cedar-plank-barbecue.md)
 - [Blackened Sockeye Salmon](recipes/blackened-sockeye-salmon.md)
@@ -330,6 +321,7 @@
 
 ## Vietnamese
 
+- [Asian Grilled Steak Salad](recipes/asian-grilled-steak-salad.md)
 - [Fried Cauliflower with Fish Sauce Vinaigrette](recipes/fried-cauliflower-with-fish-sauce-vinaigrette.md)
 - [Salt, Pepper, and Lime Dipping Sauce (Muối Tiêu Chanh)](recipes/salt-pepper-and-lime-dipping-sauce-muoi-tieu-chanh.md)
 - [Sous Vide Vietnamese Chicken Wings](recipes/sous-vide-vietnamese-chicken-wings.md)
