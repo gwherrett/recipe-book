@@ -2,7 +2,6 @@
 
 - [Adobo Sauce](recipes/adobo-sauce.md)
 - [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
-- [adobo-sauce](recipes/adobo-sauce.md)
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
 - [Agedashi Tofu](recipes/agedashi-tofu.md)
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
