@@ -2,7 +2,7 @@
 title: Mixed Greens with Pecans, Goat Cheese, and Dried Cranberries
 slug: mixed-greens-with-pecans-goat-cheese-and-dried-cranberries
 cuisine: North American
-category: Salads
+category: Salads & Sides
 health_rating: 3
 health_rating_label: Mixed / Context-Dependent
 ---

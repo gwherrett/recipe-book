@@ -1,17 +1,13 @@
 ---
 title: Lemon-Thyme Syrup
 cuisine: French
-category: Dessert
+category: Sauces & Condiments
 slug: lemon-thyme-syrup
 health_rating: 2
-health_rating_label: High in Fat/Sugar/Salt
+health_rating_label: Rich / Heavy
 ---
 
 # Jean-Georges Lemon Thyme Syrup
-slug: jean-georges-lemon-thyme-syrup
-date: 2025-10-29
-category: Condiments & Syrups
-tags: cocktails, dessert, lemon, thyme
 
 ## Summary
 A bright, herbaceous simple syrup inspired by Jean‑Georges—perfect for cocktails, lemonades, and drizzling over cakes or fresh fruit.

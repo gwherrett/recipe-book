@@ -2,7 +2,7 @@
 title: Chicken Mulligatawny
 slug: chicken-mulligatawny
 cuisine: Indian
-category: Soups & Stews
+category: Soups & Stocks
 health_rating: 4
 health_rating_label: Generally Healthy
 ---
