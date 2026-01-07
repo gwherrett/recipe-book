@@ -2,7 +2,7 @@
 title: Maple Pudding
 slug: maple-pudding
 cuisine: North American
-category: Desserts
+category: Dessert
 health_rating: 1
 health_rating_label: Treat / Indulgent
 ---

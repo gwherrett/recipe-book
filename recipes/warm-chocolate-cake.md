@@ -2,7 +2,7 @@
 title: Warm Chocolate Cake
 slug: warm-chocolate-cake
 cuisine: French
-category: Desserts
+category: Dessert
 health_rating: 1
 health_rating_label: Treat / Indulgent
 ---
