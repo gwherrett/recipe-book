@@ -4,13 +4,17 @@
 
 - [Appetizers](#appetizers)
 - [Breads & Pastries](#breads-pastries)
+- [Breakfast & Brunch](#breakfast-brunch)
 - [Dessert](#dessert)
+- [Desserts](#desserts)
 - [Dressings & Marinades](#dressings-marinades)
 - [Drinks](#drinks)
 - [Mains](#mains)
 - [Pasta](#pasta)
+- [Salads](#salads)
 - [Salads & Sides](#salads-sides)
 - [Sauces & Condiments](#sauces-condiments)
+- [Soups & Stews](#soups-stews)
 - [Soups & Stocks](#soups-stocks)
 - [Spice Mixes & Pastes](#spice-mixes-pastes)
 
@@ -29,6 +33,10 @@
 
 - [Naan for Breadmaker](recipes/naan-for-breadmaker.md)
 - [Pie Crust](recipes/pie-crust.md)
+
+## Breakfast & Brunch
+
+- [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
 
 ## Dessert
 
@@ -50,6 +58,11 @@
 - [Simple Syrup](recipes/simple-syrup.md)
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
 - [Tiramisu Structure](recipes/tiramisu-structure.md)
+
+## Desserts
+
+- [Maple Pudding](recipes/maple-pudding.md)
+- [Warm Chocolate Cake](recipes/warm-chocolate-cake.md)
 
 ## Dressings & Marinades
 
@@ -74,6 +87,7 @@
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
 - [Aloo Gobi](recipes/aloo-gobi-2.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
+- [Baked Sausage-Stuffed Shells](recipes/baked-sausage-stuffed-shells.md)
 - [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)
 - [Beef Enchilada Filling Sauce](recipes/beef-enchilada-filling-sauce.md)
 - [Beef Enchiladas Verde](recipes/beef-enchiladas-verde.md)
@@ -91,6 +105,7 @@
 - [Cornish Hens (Rotisserie Herb-Brined)](recipes/rotisserie-herb-brined-cornish-hens-scaled-for-2-birds.md)
 - [Cornish Hens (Rotisserie)](recipes/cornish-hens-rotisserie.md)
 - [Cubano Sandwich](recipes/cubano-sandwich.md)
+- [Duck Breasts with Pomegranate Barberry Sauce](recipes/duck-breasts-with-pomegranate-barberry-sauce.md)
 - [Duck Oyakodon](recipes/duck-oyakodon.md)
 - [Fajitas](recipes/fajitas.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
@@ -125,6 +140,7 @@
 - [Red Lentil Daal (Masoor Dal)](recipes/red-lentil-daal-masoor-dal.md)
 - [Rockfish Teriyaki](recipes/rockfish-teriyaki.md)
 - [Ropa Vieja](recipes/ropa-vieja.md)
+- [Rosemary-Roasted Leg of Lamb with Balsamic Sauce](recipes/rosemary-roasted-leg-of-lamb-with-balsamic-sauce.md)
 - [Saba No Miso-ni](recipes/saba-no-miso-ni.md)
 - [Salmon with Anchovy-Garlic Butter](recipes/salmon-with-anchovy-garlic-butter.md)
 - [Salmon With Dijon Brown Sugar](recipes/salmon-with-dijon-brown-sugar.md)
@@ -144,6 +160,7 @@
 - [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Swimming Scallops with Tamarind Sweet Sauce](recipes/swimming-scallops-with-tamarind-sweet-sauce.md)
+- [Tagliatelle with Lemon, Shrimp and Arugula](recipes/tagliatelle-with-lemon-shrimp-and-arugula.md)
 - [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb-with-rice.md)
 - [Tavë Kosi (Albanian Baked Lamb)](recipes/tave-kosi-albanian-baked-lamb.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
@@ -173,6 +190,10 @@
 - [Spaghetti Sauce](recipes/spaghetti-sauce.md)
 - [Tagliatelle Bolognese](recipes/tagliatelle-bolognese.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
+
+## Salads
+
+- [Mixed Greens with Pecans, Goat Cheese, and Dried Cranberries](recipes/mixed-greens-with-pecans-goat-cheese-and-dried-cranberries.md)
 
 ## Salads & Sides
 
@@ -236,6 +257,10 @@
 - [Tzatziki](recipes/tzatziki.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
+
+## Soups & Stews
+
+- [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
 
 ## Soups & Stocks
 
