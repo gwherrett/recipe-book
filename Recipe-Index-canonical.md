@@ -327,4 +327,3 @@
 - [Sous Vide Vietnamese Chicken Wings](recipes/sous-vide-vietnamese-chicken-wings.md)
 - [Swimming Scallops with Tamarind Sweet Sauce](recipes/swimming-scallops-with-tamarind-sweet-sauce.md)
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
-

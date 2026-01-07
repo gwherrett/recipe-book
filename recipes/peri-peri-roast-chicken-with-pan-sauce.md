@@ -1,6 +1,6 @@
 ---
 title: Peri-Peri Roast Chicken with Pan Sauce
-cuisine: North American
+cuisine: Medditeranean
 category: Mains
 slug: peri-peri-roast-chicken-with-pan-sauce
 health_rating: 3
