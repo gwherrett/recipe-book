@@ -10,10 +10,8 @@
 - [Drinks](#drinks)
 - [Mains](#mains)
 - [Pasta](#pasta)
-- [Salads](#salads)
 - [Salads & Sides](#salads-sides)
 - [Sauces & Condiments](#sauces-condiments)
-- [Soups & Stews](#soups-stews)
 - [Soups & Stocks](#soups-stocks)
 - [Spice Mixes & Pastes](#spice-mixes-pastes)
 - [Uncategorized](#uncategorized)
@@ -48,7 +46,6 @@
 - [Ginger-Lime syrup](recipes/ginger-lime-syrup.md)
 - [Heart-Healthy Banana Bread](recipes/heart-healthy-banana-bread.md)
 - [Lemon Cream](recipes/lemon-cream.md)
-- [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu-2.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
 - [Maple Pudding](recipes/maple-pudding.md)
@@ -188,10 +185,6 @@
 - [Tagliatelle Bolognese](recipes/tagliatelle-bolognese.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 
-## Salads
-
-- [Mixed Greens with Pecans, Goat Cheese, and Dried Cranberries](recipes/mixed-greens-with-pecans-goat-cheese-and-dried-cranberries.md)
-
 ## Salads & Sides
 
 - [Brussels Sprouts Slaw](recipes/brussels-sprouts-slaw.md)
@@ -214,6 +207,7 @@
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
 - [Long Bean, Cucumber & Tomato Salad](recipes/long-bean-cucumber-tomato-salad.md)
 - [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
+- [Mixed Greens with Pecans, Goat Cheese, and Dried Cranberries](recipes/mixed-greens-with-pecans-goat-cheese-and-dried-cranberries.md)
 - [Moist & Tender Brown Butter Cornbread](recipes/cornbread.md)
 - [Panzanella](recipes/panzanella.md)
 - [Pecorino Radicchio Cherry Salad](recipes/pecorino-radicchio-cherry-salad.md)
@@ -243,6 +237,7 @@
 - [Eel Sauce (Unagi Sauce)](recipes/eel-sauce-unagi-sauce.md)
 - [Greek Yogurt Tartar Sauce](recipes/greek-yogurt-tartar-sauce.md)
 - [Horseradish Cream Sauce](recipes/horseradish-cream-sauce.md)
+- [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)
 - [Mango Salsa](recipes/mango-salsa.md)
 - [Mint Chutney](recipes/mint-chutney.md)
 - [Sage-Infused Hot Pepper Sauce](recipes/sage-infused-hot-pepper-sauce.md)
@@ -254,14 +249,11 @@
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
 
-## Soups & Stews
-
-- [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
-
 ## Soups & Stocks
 
 - [Avgolemono (Greek Lemon Chicken Soup)](recipes/avgolemono-greek-lemon-chicken-soup.md)
 - [Celery & Stilton Soup](recipes/celery-stilton-soup.md)
+- [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
 - [Chicken Pot Pies](recipes/chicken-pot-pies.md)
 - [Chicken Soup with Thai Basil](recipes/chicken-soup-with-thai-basil.md)
 - [Chicken Stock](recipes/chicken-stock.md)
