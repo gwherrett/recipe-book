@@ -94,7 +94,6 @@
 
 ## Indian
 
-- [Aloo Gobi](recipes/aloo-gobi-2.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
 - [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
 - [Mint Chutney](recipes/mint-chutney.md)

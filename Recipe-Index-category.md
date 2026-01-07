@@ -83,7 +83,6 @@
 
 - [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
-- [Aloo Gobi](recipes/aloo-gobi-2.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
 - [Baked Sausage-Stuffed Shells](recipes/baked-sausage-stuffed-shells.md)
 - [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)

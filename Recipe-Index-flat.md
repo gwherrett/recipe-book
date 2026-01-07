@@ -5,7 +5,6 @@
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
 - [Agedashi Tofu](recipes/agedashi-tofu.md)
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
-- [Aloo Gobi](recipes/aloo-gobi-2.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
 - [Asian Grilled Steak Salad](recipes/asian-grilled-steak-salad.md)
 - [Avgolemono (Greek Lemon Chicken Soup)](recipes/avgolemono-greek-lemon-chicken-soup.md)
