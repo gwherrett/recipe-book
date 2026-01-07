@@ -82,6 +82,7 @@
 
 ## Mains
 
+- [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
 - [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
 - [Aloo Gobi](recipes/aloo-gobi-2.md)
