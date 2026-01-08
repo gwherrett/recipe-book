@@ -3,8 +3,6 @@
 ## Cuisines
 
 - [African](#african)
-- [American](#american)
-- [Asian Fusion](#asian-fusion)
 - [Balkan](#balkan)
 - [British](#british)
 - [Caribbean](#caribbean)
@@ -22,20 +20,11 @@
 - [Southern / Cajun](#southern-cajun)
 - [Spanish](#spanish)
 - [Thai](#thai)
-- [Unassigned](#unassigned)
 - [Vietnamese](#vietnamese)
 
 ## African
 
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
-
-## American
-
-- [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
-
-## Asian Fusion
-
-- [Asian Grilled Steak Salad](recipes/asian-grilled-steak-salad.md)
 
 ## Balkan
 
@@ -49,6 +38,9 @@
 
 ## British
 
+- [Mini Lamb, Ale & Parsnip Pies](recipes/mini-lamb-ale-parsnip-pies.md)
+- [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
+- [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Yorkshire Pudding](recipes/yorkshire-pudding.md)
 
 ## Caribbean
@@ -105,7 +97,6 @@
 
 ## Indian
 
-- [Aloo Gobi](recipes/aloo-gobi-2.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
 - [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
 - [Mint Chutney](recipes/mint-chutney.md)
@@ -175,6 +166,7 @@
 - [Lobster Busara](recipes/lobster-busara.md)
 - [Moroccan Carrot Soup](recipes/moroccan-carrot-soup.md)
 - [Moroccan Chickpea Stew](recipes/moroccan-chickpea-stew.md)
+- [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
 - [Rosemary-Roasted Leg of Lamb with Balsamic Sauce](recipes/rosemary-roasted-leg-of-lamb-with-balsamic-sauce.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 - [Tzatziki](recipes/tzatziki.md)
@@ -182,6 +174,7 @@
 
 ## Mexican
 
+- [Adobo Sauce](recipes/adobo-sauce.md)
 - [Beef Enchilada Filling Sauce](recipes/beef-enchilada-filling-sauce.md)
 - [Beef Enchiladas Verde](recipes/beef-enchiladas-verde.md)
 - [Beef Fajitas](recipes/beef-fajitas.md)
@@ -213,6 +206,7 @@
 
 ## North American
 
+- [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
 - [Barbecue Rub](recipes/barbecue-rub.md)
 - [Black Cod on Cedar Plank (Barbecue)](recipes/black-cod-on-cedar-plank-barbecue.md)
 - [Blackened Sockeye Salmon](recipes/blackened-sockeye-salmon.md)
@@ -254,17 +248,14 @@
 - [Lobster Mac n Cheese](recipes/lobster-mac-and-cheese.md)
 - [Mac n Cheese](recipes/mac-n-cheese.md)
 - [Maple Pudding](recipes/maple-pudding.md)
-- [Mini Lamb, Ale & Parsnip Pies](recipes/mini-lamb-ale-parsnip-pies.md)
 - [Mixed Greens with Pecans, Goat Cheese, and Dried Cranberries](recipes/mixed-greens-with-pecans-goat-cheese-and-dried-cranberries.md)
 - [Montreal Steak Seasoning](recipes/montreal-steak-seasoning.md)
 - [New England Clam Chowder](recipes/new-england-clam-chowder.md)
 - [New York Strip Loin with Pepper Marinade](recipes/new-york-strip-loin-with-pepper-marinade.md)
 - [Our Favourite Lemon Loaf](recipes/lemon-loaf.md)
 - [Pecan Pie](recipes/pecan-pie.md)
-- [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
 - [Pickled Salmon](recipes/pickled-salmon.md)
 - [Pie Crust](recipes/pie-crust.md)
-- [Plancha Mackerel with Peppers & Onions](recipes/plancha-mackerel-with-peppers-onions.md)
 - [Pulled Pork](recipes/pulled-pork.md)
 - [Pulled Pork Shoulder with Spiced Cider Mop](recipes/pulled-pork-shoulder-with-spiced-cider-mop.md)
 - [Raspberry and Blueberry Crumble](recipes/raspberry-and-blueberry-crumble.md)
@@ -285,8 +276,6 @@
 - [Smoked Side Ribs](recipes/smoked-side-ribs.md)
 - [Southwest Kale Salad](recipes/southwest-kale-salad.md)
 - [Southwestern Black Bean & Corn Chili](recipes/southwestern-black-bean-corn-chili.md)
-- [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
-- [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
 - [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 - [Turkey Salad with Preserved Lemon](recipes/turkey-salad.md)
@@ -312,6 +301,7 @@
 - [Gambas en Escabeche (Spanish Pickled Shrimp)](recipes/gambas-en-escabeche-spanish-pickled-shrimp.md)
 - [Gazpacho](recipes/gazpacho.md)
 - [Paella de Marisco](recipes/seafood-paella.md)
+- [Plancha Mackerel with Peppers & Onions](recipes/plancha-mackerel-with-peppers-onions.md)
 - [Seafood Paella (Paella de Marisco)](recipes/seafood-paella-paella-de-marisco.md)
 
 ## Thai
@@ -333,12 +323,9 @@
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
 
-## Unassigned
-
-- [adobo-sauce](recipes/adobo-sauce.md)
-
 ## Vietnamese
 
+- [Asian Grilled Steak Salad](recipes/asian-grilled-steak-salad.md)
 - [Fried Cauliflower with Fish Sauce Vinaigrette](recipes/fried-cauliflower-with-fish-sauce-vinaigrette.md)
 - [Salt, Pepper, and Lime Dipping Sauce (Muối Tiêu Chanh)](recipes/salt-pepper-and-lime-dipping-sauce-muoi-tieu-chanh.md)
 - [Sous Vide Vietnamese Chicken Wings](recipes/sous-vide-vietnamese-chicken-wings.md)

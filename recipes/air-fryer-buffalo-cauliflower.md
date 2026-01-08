@@ -1,6 +1,6 @@
 ---
 title: Air Fryer Buffalo Cauliflower
-cuisine: American
+cuisine: North American
 category: Mains
 tags:
 - cauliflower

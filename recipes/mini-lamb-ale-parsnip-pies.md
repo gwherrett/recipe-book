@@ -1,6 +1,6 @@
 ---
 title: Mini Lamb, Ale & Parsnip Pies
-cuisine: North American
+cuisine: British
 category: Appetizers
 slug: mini-lamb-ale-parsnip-pies
 health_rating: 3

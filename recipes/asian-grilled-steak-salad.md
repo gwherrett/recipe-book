@@ -1,7 +1,7 @@
 ---
 title: Asian Grilled Steak Salad
 slug: asian-grilled-steak-salad
-cuisine: Asian Fusion
+cuisine: Vietnamese
 category: Salads & Sides
 health_rating: 5
 health_rating_label: Very Healthy Everyday

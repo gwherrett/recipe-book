@@ -1,6 +1,6 @@
 ---
 title: Stout-Marinated Steak Tips
-cuisine: North American
+cuisine: British
 category: Mains
 slug: stout-marinated-steak-tips
 health_rating: 3

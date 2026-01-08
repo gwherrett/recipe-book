@@ -1,6 +1,6 @@
 ---
 title: Plancha Mackerel with Peppers & Onions
-cuisine: North American
+cuisine: Spanish
 category: Mains
 slug: plancha-mackerel-with-peppers-onions
 health_rating: 4

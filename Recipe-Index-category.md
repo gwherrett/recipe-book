@@ -14,7 +14,6 @@
 - [Sauces & Condiments](#sauces-condiments)
 - [Soups & Stocks](#soups-stocks)
 - [Spice Mixes & Pastes](#spice-mixes-pastes)
-- [Uncategorized](#uncategorized)
 
 ## Appetizers
 
@@ -88,7 +87,6 @@
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
 - [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
-- [Aloo Gobi](recipes/aloo-gobi-2.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
 - [Baked Sausage-Stuffed Shells](recipes/baked-sausage-stuffed-shells.md)
 - [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)
@@ -247,6 +245,7 @@
 
 ## Sauces & Condiments
 
+- [Adobo Sauce](recipes/adobo-sauce.md)
 - [Baba Ganoush](recipes/baba-ganoush.md)
 - [Chocolate Sauce](recipes/chocolate-sauce.md)
 - [Corn Relish with Tomato, Jalapeño & Turkish Pepper Paste](recipes/corn-relish-with-tomato-jalapeno-turkish-pepper-paste.md)
@@ -304,8 +303,4 @@
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
 - [Ribs - Dry Rub](recipes/rib-rub.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
-
-## Uncategorized
-
-- [adobo-sauce](recipes/adobo-sauce.md)
 

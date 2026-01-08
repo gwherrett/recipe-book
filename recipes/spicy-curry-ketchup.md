@@ -1,6 +1,6 @@
 ---
 title: Spicy Curry Ketchup
-cuisine: North American
+cuisine: British
 category: Sauces & Condiments
 slug: spicy-curry-ketchup
 health_rating: 2
