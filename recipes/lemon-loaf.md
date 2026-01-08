@@ -1,5 +1,5 @@
 ---
-title: Our Favourite Lemon Loaf
+title: Lemon Loaf
 slug: lemon-loaf
 cuisine: North American
 category: Dessert
