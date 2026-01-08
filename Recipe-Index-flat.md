@@ -146,6 +146,7 @@
 - [Our Favourite Lemon Loaf](recipes/lemon-loaf.md)
 - [Pad Krapow (Thai Basil Ground Turkey)](recipes/pad-krapow-thai-basil-ground-turkey.md)
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
+- [Pad Thai](recipes/pad-thai.md)
 - [Paella de Marisco](recipes/seafood-paella.md)
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
 - [Panzanella](recipes/panzanella.md)

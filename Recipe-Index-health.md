@@ -186,6 +186,7 @@
 - [New England Clam Chowder](recipes/new-england-clam-chowder.md)
 - [Osso Buco](recipes/osso-buco.md)
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
+- [Pad Thai](recipes/pad-thai.md)
 - [Panzanella](recipes/panzanella.md)
 - [Pasta with Barese Sausage](recipes/pasta-with-barese-sausage.md)
 - [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
