@@ -32,7 +32,6 @@
 ## Breads & Pastries
 
 - [Naan for Breadmaker](recipes/naan-for-breadmaker.md)
-- [Our Favourite Lemon Loaf](recipes/lemon-loaf.md)
 - [Pie Crust](recipes/pie-crust.md)
 - [Yorkshire Pudding](recipes/yorkshire-pudding.md)
 
@@ -56,6 +55,7 @@
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
 - [Maple Pudding](recipes/maple-pudding.md)
 - [Mini Phyllo Apple Tarts (Par-Bake Method)](recipes/mini-phyllo-apple-tarts-par-bake-method.md)
+- [Our Favourite Lemon Loaf](recipes/lemon-loaf.md)
 - [Pecan Pie](recipes/pecan-pie.md)
 - [Phyllo Pastry Shells (Muffin Tin Method)](recipes/phyllo-pastry-shells-muffin-tin-method.md)
 - [Raspberry and Blueberry Crumble](recipes/raspberry-and-blueberry-crumble.md)
