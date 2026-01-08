@@ -2,7 +2,7 @@
 title: Our Favourite Lemon Loaf
 slug: lemon-loaf
 cuisine: North American
-category: Breads & Pastries
+category: Dessert
 health_rating: 1
 health_rating_label: Treat / Indulgent
 ---
