@@ -226,6 +226,8 @@
 ## 2 – High in Fat/Sugar/Salt    (Rich, salty, or sugary; occasional)
 
 - [Baked Sausage-Stuffed Shells](recipes/baked-sausage-stuffed-shells.md)
+- [BBQ Pork Pastry](recipes/bbq-pork-pastry.md)
+- [Beef Curry Puff](recipes/beef-curry-puff.md)
 - [Blue Cheese Dressing](recipes/blue-cheese-dressing.md)
 - [Cheese Crackers](recipes/cheese-crackers.md)
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
@@ -260,6 +262,7 @@
 - [Chocolate Sauce](recipes/chocolate-sauce.md)
 - [Citrus Curd (Three Ways)](recipes/citrus-curd-three-ways.md)
 - [Classic Sugar Cookie Recipe](recipes/classic-sugar-cookie-recipe.md)
+- [Egg Tart](recipes/egg-tart.md)
 - [Lemon Cream](recipes/lemon-cream.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu-2.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)

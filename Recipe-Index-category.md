@@ -19,6 +19,8 @@
 ## Appetizers
 
 - [Agedashi Tofu](recipes/agedashi-tofu.md)
+- [BBQ Pork Pastry](recipes/bbq-pork-pastry.md)
+- [Beef Curry Puff](recipes/beef-curry-puff.md)
 - [Cheese Crackers](recipes/cheese-crackers.md)
 - [Extra Stuffings for Zucchini Flowers](recipes/extra-stuffings-for-zucchini-flowers.md)
 - [Horseradish Corn Cheese Melt](recipes/horseradish-corn-cheese-melt.md)
@@ -46,6 +48,7 @@
 - [Canning Pears](recipes/canning-pears.md)
 - [Citrus Curd (Three Ways)](recipes/citrus-curd-three-ways.md)
 - [Classic Sugar Cookie Recipe](recipes/classic-sugar-cookie-recipe.md)
+- [Egg Tart](recipes/egg-tart.md)
 - [Frozen Banana Cocoa Ice Cream](recipes/frozen-banana-cocoa-ice-cream.md)
 - [Ginger-Lime syrup](recipes/ginger-lime-syrup.md)
 - [Heart-Healthy Banana Bread](recipes/heart-healthy-banana-bread.md)
