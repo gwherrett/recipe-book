@@ -18,6 +18,8 @@
 ## Appetizers
 
 - [Agedashi Tofu](recipes/agedashi-tofu.md)
+- [BBQ Pork Pastry](recipes/bbq-pork-pastry.md)
+- [Beef Curry Puff](recipes/beef-curry-puff.md)
 - [Cheese Crackers](recipes/cheese-crackers.md)
 - [Extra Stuffings for Zucchini Flowers](recipes/extra-stuffings-for-zucchini-flowers.md)
 - [Horseradish Corn Cheese Melt](recipes/horseradish-corn-cheese-melt.md)
@@ -45,6 +47,7 @@
 - [Canning Pears](recipes/canning-pears.md)
 - [Citrus Curd (Three Ways)](recipes/citrus-curd-three-ways.md)
 - [Classic Sugar Cookie Recipe](recipes/classic-sugar-cookie-recipe.md)
+- [Egg Tart](recipes/egg-tart.md)
 - [Frozen Banana Cocoa Ice Cream](recipes/frozen-banana-cocoa-ice-cream.md)
 - [Ginger-Lime syrup](recipes/ginger-lime-syrup.md)
 - [Heart-Healthy Banana Bread](recipes/heart-healthy-banana-bread.md)
@@ -81,6 +84,7 @@
 
 ## Mains
 
+- [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
 - [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
@@ -127,6 +131,7 @@
 - [Osso Buco](recipes/osso-buco.md)
 - [Pad Krapow (Thai Basil Ground Turkey)](recipes/pad-krapow-thai-basil-ground-turkey.md)
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
+- [Pad Thai](recipes/pad-thai.md)
 - [Paella de Marisco](recipes/seafood-paella.md)
 - [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
 - [Persian Dill Rice with Fish (Sabzi Polo Mahi)](recipes/persian-dill-rice-with-fish-sabzi-polo-mahi.md)

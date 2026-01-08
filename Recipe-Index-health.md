@@ -57,6 +57,7 @@
 
 ## 4 – Healthy                   (Good everyday choice)
 
+- [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
@@ -184,6 +185,7 @@
 - [New England Clam Chowder](recipes/new-england-clam-chowder.md)
 - [Osso Buco](recipes/osso-buco.md)
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
+- [Pad Thai](recipes/pad-thai.md)
 - [Panzanella](recipes/panzanella.md)
 - [Pasta with Barese Sausage](recipes/pasta-with-barese-sausage.md)
 - [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
@@ -223,6 +225,8 @@
 ## 2 – High in Fat/Sugar/Salt    (Rich, salty, or sugary; occasional)
 
 - [Baked Sausage-Stuffed Shells](recipes/baked-sausage-stuffed-shells.md)
+- [BBQ Pork Pastry](recipes/bbq-pork-pastry.md)
+- [Beef Curry Puff](recipes/beef-curry-puff.md)
 - [Blue Cheese Dressing](recipes/blue-cheese-dressing.md)
 - [Cheese Crackers](recipes/cheese-crackers.md)
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
@@ -257,6 +261,7 @@
 - [Chocolate Sauce](recipes/chocolate-sauce.md)
 - [Citrus Curd (Three Ways)](recipes/citrus-curd-three-ways.md)
 - [Classic Sugar Cookie Recipe](recipes/classic-sugar-cookie-recipe.md)
+- [Egg Tart](recipes/egg-tart.md)
 - [Lemon Cream](recipes/lemon-cream.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu-2.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)

@@ -59,7 +59,10 @@
 ## Chinese
 
 - [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
+- [BBQ Pork Pastry](recipes/bbq-pork-pastry.md)
 - [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)
+- [Beef Curry Puff](recipes/beef-curry-puff.md)
+- [Egg Tart](recipes/egg-tart.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
 - [Five Spice Powder](recipes/chinese-five-spice-powder.md)
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
@@ -280,6 +283,7 @@
 
 ## Persian
 
+- [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
 - [Persian Dill Rice with Fish (Sabzi Polo Mahi)](recipes/persian-dill-rice-with-fish-sabzi-polo-mahi.md)
 - [Persian Lamb Shanks](recipes/persian-lamb-shanks.md)
 - [Shirazi Salad](recipes/shirazi-salad.md)
@@ -314,6 +318,7 @@
 - [Momofuku Bo Ssäm](recipes/momofuku-bo-ssam.md)
 - [Pad Krapow (Thai Basil Ground Turkey)](recipes/pad-krapow-thai-basil-ground-turkey.md)
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
+- [Pad Thai](recipes/pad-thai.md)
 - [Thai Dressing](recipes/thai-dressing.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
