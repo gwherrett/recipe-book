@@ -235,6 +235,7 @@
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
 - [Tiramisu Structure](recipes/tiramisu-structure.md)
+- [Tostones (Fried Green Plantains)](recipes/tostones.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
 - [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 - [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)

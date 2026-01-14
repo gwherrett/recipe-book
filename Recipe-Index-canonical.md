@@ -55,6 +55,7 @@
 - [Rice and Peas](recipes/rice-and-peas.md)
 - [Ropa Vieja](recipes/ropa-vieja.md)
 - [Spiced Rum](recipes/spiced-rum.md)
+- [Tostones (Fried Green Plantains)](recipes/tostones.md)
 
 ## Chinese
 
