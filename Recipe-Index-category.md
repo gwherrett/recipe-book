@@ -240,6 +240,7 @@
 - [Succotash](recipes/succotash.md)
 - [Taro Root Cake](recipes/taro-root-cake.md)
 - [Tarragon & Pickle Potato Salad](recipes/tarragon-pickle-potato-salad.md)
+- [Tostones (Fried Green Plantains)](recipes/tostones.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
 - [Tuscan Panzanella](recipes/tuscan-panzanella.md)
 

@@ -254,6 +254,7 @@
 - [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
 - [Taro Root Cake](recipes/taro-root-cake.md)
+- [Tostones (Fried Green Plantains)](recipes/tostones.md)
 
 ## 1 – Indulgence                (Desserts, deep-fried, very rich)
 
