@@ -133,6 +133,7 @@
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
 - [Pad Thai](recipes/pad-thai.md)
 - [Paella de Marisco](recipes/seafood-paella.md)
+- [Palak Paneer](recipes/palak-paneer.md)
 - [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
 - [Persian Dill Rice with Fish (Sabzi Polo Mahi)](recipes/persian-dill-rice-with-fish-sabzi-polo-mahi.md)
 - [Persian Lamb Shanks](recipes/persian-lamb-shanks.md)
