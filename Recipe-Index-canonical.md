@@ -100,9 +100,11 @@
 
 - [Aloo Gobi](recipes/aloo-gobi.md)
 - [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
+- [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
 - [Mint Chutney](recipes/mint-chutney.md)
 - [Mulligatawny Soup](recipes/mulligatawny-soup.md)
 - [Naan for Breadmaker](recipes/naan-for-breadmaker.md)
+- [Palak Paneer](recipes/palak-paneer.md)
 - [Red Lentil Daal (Masoor Dal)](recipes/red-lentil-daal-masoor-dal.md)
 
 ## Italian
