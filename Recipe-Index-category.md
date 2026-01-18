@@ -100,6 +100,7 @@
 - [Cha Ca La Vong (Vietnamese Turmeric Fish with Dill)](recipes/cha-ca-la-vong-vietnamese-turmeric-fish-with-dill.md)
 - [Chicken Mole (Oaxacan-Style)](recipes/chicken-mole-oaxacan-style.md)
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
+- [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
 - [Chile Relleno](recipes/chile-relleno.md)
 - [Claypot Lobster Maenam](recipes/claypot-lobster-maenam.md)
 - [Corn Chip-Crusted Chicken](recipes/corn-chip-crusted-chicken.md)

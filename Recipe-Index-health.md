@@ -149,6 +149,7 @@
 - [Celery & Stilton Soup](recipes/celery-stilton-soup.md)
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
 - [Chicken Pot Pies](recipes/chicken-pot-pies.md)
+- [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
 - [Chile Relleno](recipes/chile-relleno.md)
 - [Claypot Lobster Maenam](recipes/claypot-lobster-maenam.md)
 - [Cornbread Stuffing with Andouille, Fennel, and Bell Peppers](recipes/cornbread-stuffing-andouille-fennel-bell-peppers.md)
