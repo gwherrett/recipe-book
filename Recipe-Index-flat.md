@@ -150,6 +150,7 @@
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
 - [Pad Thai](recipes/pad-thai.md)
 - [Paella de Marisco](recipes/seafood-paella.md)
+- [Palak Paneer](recipes/palak-paneer.md)
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
 - [Panzanella](recipes/panzanella.md)
 - [Pasta with Barese Sausage](recipes/pasta-with-barese-sausage.md)
