@@ -139,7 +139,6 @@
 - [Spaghetti Sauce](recipes/spaghetti-sauce.md)
 - [Tagliatelle Bolognese](recipes/tagliatelle-bolognese.md)
 - [Tagliatelle with Lemon, Shrimp and Arugula](recipes/tagliatelle-with-lemon-shrimp-and-arugula.md)
-- [Tapenade](recipes/tapenade.md)
 - [Tiramisu Structure](recipes/tiramisu-structure.md)
 - [Tuscan Panzanella](recipes/tuscan-panzanella.md)
 - [White Anchovy & Egg Pizza](recipes/white-anchovy-egg-pizza.md)

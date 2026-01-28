@@ -26,7 +26,6 @@
 - [Mini Lamb, Ale & Parsnip Pies](recipes/mini-lamb-ale-parsnip-pies.md)
 - [Pesto–Ricotta Dip](recipes/pesto-ricotta-dip.md)
 - [Pickled Salmon](recipes/pickled-salmon.md)
-- [Tapenade](recipes/tapenade.md)
 - [White Anchovy & Egg Pizza](recipes/white-anchovy-egg-pizza.md)
 
 ## Breads & Pastries
