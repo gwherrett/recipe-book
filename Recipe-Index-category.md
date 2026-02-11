@@ -26,7 +26,6 @@
 - [Mini Lamb, Ale & Parsnip Pies](recipes/mini-lamb-ale-parsnip-pies.md)
 - [Pesto–Ricotta Dip](recipes/pesto-ricotta-dip.md)
 - [Pickled Salmon](recipes/pickled-salmon.md)
-- [Tapenade](recipes/tapenade.md)
 - [White Anchovy & Egg Pizza](recipes/white-anchovy-egg-pizza.md)
 
 ## Breads & Pastries
@@ -100,6 +99,7 @@
 - [Cha Ca La Vong (Vietnamese Turmeric Fish with Dill)](recipes/cha-ca-la-vong-vietnamese-turmeric-fish-with-dill.md)
 - [Chicken Mole (Oaxacan-Style)](recipes/chicken-mole-oaxacan-style.md)
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
+- [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
 - [Chile Relleno](recipes/chile-relleno.md)
 - [Claypot Lobster Maenam](recipes/claypot-lobster-maenam.md)
 - [Corn Chip-Crusted Chicken](recipes/corn-chip-crusted-chicken.md)
@@ -133,6 +133,7 @@
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
 - [Pad Thai](recipes/pad-thai.md)
 - [Paella de Marisco](recipes/seafood-paella.md)
+- [Palak Paneer](recipes/palak-paneer.md)
 - [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
 - [Persian Dill Rice with Fish (Sabzi Polo Mahi)](recipes/persian-dill-rice-with-fish-sabzi-polo-mahi.md)
 - [Persian Lamb Shanks](recipes/persian-lamb-shanks.md)
