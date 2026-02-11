@@ -125,6 +125,7 @@
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
 - [Lobster Pasta Sauce (Busara-Style)](recipes/lobster-pasta-sauce-busara-style.md)
 - [Meatballs and Peas in Tomato Sauce (Pork & Lamb Sausage, 800 g)](recipes/meatballs-and-peas-in-tomato-sauce-pork-lamb-sausage-800-g.md)
+- [Minestrone](recipes/minestrone.md)
 - [Osso Buco](recipes/osso-buco.md)
 - [Panzanella](recipes/panzanella.md)
 - [Pasta with Barese Sausage](recipes/pasta-with-barese-sausage.md)

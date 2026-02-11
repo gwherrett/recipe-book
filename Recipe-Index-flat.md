@@ -130,6 +130,7 @@
 - [Maple Pudding](recipes/maple-pudding.md)
 - [Massaman Curry Paste](recipes/massaman-curry-paste.md)
 - [Meatballs and Peas in Tomato Sauce (Pork & Lamb Sausage, 800 g)](recipes/meatballs-and-peas-in-tomato-sauce-pork-lamb-sausage-800-g.md)
+- [Minestrone](recipes/minestrone.md)
 - [Mini Lamb, Ale & Parsnip Pies](recipes/mini-lamb-ale-parsnip-pies.md)
 - [Mini Phyllo Apple Tarts (Par-Bake Method)](recipes/mini-phyllo-apple-tarts-par-bake-method.md)
 - [Mint Chutney](recipes/mint-chutney.md)

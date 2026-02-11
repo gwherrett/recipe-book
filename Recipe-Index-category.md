@@ -281,6 +281,7 @@
 - [French Onion Soup](recipes/french-onion-soup.md)
 - [Gazpacho](recipes/gazpacho.md)
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
+- [Minestrone](recipes/minestrone.md)
 - [Moroccan Carrot Soup](recipes/moroccan-carrot-soup.md)
 - [Mulligatawny Soup](recipes/mulligatawny-soup.md)
 - [New England Clam Chowder](recipes/new-england-clam-chowder.md)

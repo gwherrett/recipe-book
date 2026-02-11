@@ -89,6 +89,7 @@
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
 - [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
 - [Mango Salsa](recipes/mango-salsa.md)
+- [Minestrone](recipes/minestrone.md)
 - [Miso Marinade for Sablefish](recipes/miso-marinade-for-sablefish.md)
 - [Mojo Marinade](recipes/mojo-marinade.md)
 - [Mulligatawny Soup](recipes/mulligatawny-soup.md)
