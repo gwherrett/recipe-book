@@ -148,7 +148,7 @@
 - [Causa Rellena (Peruvian Potato Terrine)](recipes/causa-rellena-peruvian-potato-terrine.md)
 - [Celery & Stilton Soup](recipes/celery-stilton-soup.md)
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
-- [Chicken Pot Pies](recipes/chicken-pot-pies.md)
+- [Chicken Pot Pie](recipes/chicken-pot-pies.md)
 - [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
 - [Chile Relleno](recipes/chile-relleno.md)
 - [Claypot Lobster Maenam](recipes/claypot-lobster-maenam.md)

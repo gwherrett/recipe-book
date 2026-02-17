@@ -38,7 +38,7 @@
 - [Chicken Mole (Oaxacan-Style)](recipes/chicken-mole-oaxacan-style.md)
 - [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
-- [Chicken Pot Pies](recipes/chicken-pot-pies.md)
+- [Chicken Pot Pie](recipes/chicken-pot-pies.md)
 - [Chicken Soup with Thai Basil](recipes/chicken-soup-with-thai-basil.md)
 - [Chicken Stock](recipes/chicken-stock.md)
 - [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
