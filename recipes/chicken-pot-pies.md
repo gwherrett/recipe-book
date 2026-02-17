@@ -1,7 +1,7 @@
 ---
-title: Chicken Pot Pies
+title: Chicken Pot Pie
 cuisine: North American
-category: Soups & Stocks
+category: Mains
 slug: chicken-pot-pies
 health_rating: 3
 health_rating_label: Mixed / Context-Dependent
