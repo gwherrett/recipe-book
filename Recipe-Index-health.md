@@ -121,6 +121,7 @@
 - [Spaghetti alle Vongole](recipes/spaghetti-alle-vongole.md)
 - [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Succotash](recipes/succotash.md)
+- [Sweet Potato Blinis](recipes/sweet-potato-blinis.md)
 - [Swimming Scallops with Tamarind Sweet Sauce](recipes/swimming-scallops-with-tamarind-sweet-sauce.md)
 - [Tagliatelle with Lemon, Shrimp and Arugula](recipes/tagliatelle-with-lemon-shrimp-and-arugula.md)
 - [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb-with-rice.md)

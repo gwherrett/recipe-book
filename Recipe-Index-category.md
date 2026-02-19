@@ -12,6 +12,7 @@
 - [Pasta](#pasta)
 - [Salads & Sides](#salads-sides)
 - [Sauces & Condiments](#sauces-condiments)
+- [Snacks](#snacks)
 - [Soups & Stocks](#soups-stocks)
 - [Spice Mixes & Pastes](#spice-mixes-pastes)
 
@@ -270,6 +271,10 @@
 - [Tzatziki](recipes/tzatziki.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
+
+## Snacks
+
+- [Sweet Potato Blinis](recipes/sweet-potato-blinis.md)
 
 ## Soups & Stocks
 

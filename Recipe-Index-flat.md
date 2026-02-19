@@ -226,6 +226,7 @@
 - [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Succotash](recipes/succotash.md)
+- [Sweet Potato Blinis](recipes/sweet-potato-blinis.md)
 - [Swimming Scallops with Tamarind Sweet Sauce](recipes/swimming-scallops-with-tamarind-sweet-sauce.md)
 - [Tagliatelle Bolognese](recipes/tagliatelle-bolognese.md)
 - [Tagliatelle with Lemon, Shrimp and Arugula](recipes/tagliatelle-with-lemon-shrimp-and-arugula.md)

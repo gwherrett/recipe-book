@@ -284,6 +284,7 @@
 - [Smoked Side Ribs](recipes/smoked-side-ribs.md)
 - [Southwest Kale Salad](recipes/southwest-kale-salad.md)
 - [Southwestern Black Bean & Corn Chili](recipes/southwestern-black-bean-corn-chili.md)
+- [Sweet Potato Blinis](recipes/sweet-potato-blinis.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
 - [Tuna Burger](recipes/tuna-burger.md)
 - [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
