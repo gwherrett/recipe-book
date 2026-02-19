@@ -250,6 +250,7 @@
 - [Tzatziki](recipes/tzatziki.md)
 - [Udon BBQ Pork with Red Peppers](recipes/udon-bbq-pork-with-red-peppers.md)
 - [Veggie Chili](recipes/veggie-chili.md)
+- [Vermicelli Noodle Bowls](recipes/vermicelli-noodle-bowls.md)
 - [Warm Chocolate Cake](recipes/warm-chocolate-cake.md)
 - [White Anchovy & Egg Pizza](recipes/white-anchovy-egg-pizza.md)
 - [Wine-Braised Lamb Shanks with Herbes de Provence](recipes/wine-braised-lamb-shanks-with-herbes-de-provence.md)
