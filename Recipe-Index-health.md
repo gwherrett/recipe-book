@@ -142,6 +142,7 @@
 - [Beef Enchilada Filling Sauce](recipes/beef-enchilada-filling-sauce.md)
 - [Beef Enchiladas Verde](recipes/beef-enchiladas-verde.md)
 - [Beef Fajitas](recipes/beef-fajitas.md)
+- [Beyond Meat Dumplings](recipes/beyond-meat-dumplings.md)
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
 - [Caesar Dressing with Anchovy](recipes/caesar-dressing-with-anchovy.md)
 - [Cajun Jambalaya](recipes/cajun-jambalaya.md)

@@ -3,6 +3,7 @@
 ## Cuisines
 
 - [African](#african)
+- [Asian](#asian)
 - [Balkan](#balkan)
 - [British](#british)
 - [Caribbean](#caribbean)
@@ -25,6 +26,10 @@
 ## African
 
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
+
+## Asian
+
+- [Beyond Meat Dumplings](recipes/beyond-meat-dumplings.md)
 
 ## Balkan
 
