@@ -280,6 +280,7 @@
 - [Southwest Kale Salad](recipes/southwest-kale-salad.md)
 - [Southwestern Black Bean & Corn Chili](recipes/southwestern-black-bean-corn-chili.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
+- [Tuna Burger](recipes/tuna-burger.md)
 - [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 - [Turkey Salad with Preserved Lemon](recipes/turkey-salad.md)
 - [Veggie Chili](recipes/veggie-chili.md)

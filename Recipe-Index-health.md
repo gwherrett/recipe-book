@@ -126,6 +126,7 @@
 - [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb-with-rice.md)
 - [Tavë Kosi (Albanian Baked Lamb)](recipes/tave-kosi-albanian-baked-lamb.md)
 - [Thai Dressing](recipes/thai-dressing.md)
+- [Tuna Burger](recipes/tuna-burger.md)
 - [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 - [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)
 - [Tuscan Panzanella](recipes/tuscan-panzanella.md)
