@@ -12,6 +12,7 @@
 - [Pasta](#pasta)
 - [Salads & Sides](#salads-sides)
 - [Sauces & Condiments](#sauces-condiments)
+- [Snacks](#snacks)
 - [Soups & Stocks](#soups-stocks)
 - [Spice Mixes & Pastes](#spice-mixes-pastes)
 
@@ -53,6 +54,7 @@
 - [Lemon Loaf](recipes/lemon-loaf.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu-2.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
+- [Mango Pudding](recipes/mango-pudding.md)
 - [Maple Pudding](recipes/maple-pudding.md)
 - [Mini Phyllo Apple Tarts (Par-Bake Method)](recipes/mini-phyllo-apple-tarts-par-bake-method.md)
 - [Pecan Pie](recipes/pecan-pie.md)
@@ -92,6 +94,7 @@
 - [Beef Enchilada Filling Sauce](recipes/beef-enchilada-filling-sauce.md)
 - [Beef Enchiladas Verde](recipes/beef-enchiladas-verde.md)
 - [Beef Fajitas](recipes/beef-fajitas.md)
+- [Beyond Meat Dumplings](recipes/beyond-meat-dumplings.md)
 - [Black Cod on Cedar Plank (Barbecue)](recipes/black-cod-on-cedar-plank-barbecue.md)
 - [Blackened Sockeye Salmon](recipes/blackened-sockeye-salmon.md)
 - [Braised Sablefish in a Casserole with Local Chanterelles and Black Truffle Butter](recipes/braised-sablefish-in-a-casserole-with-local-chanterelles-and-black-truffle-butter.md)
@@ -169,11 +172,13 @@
 - [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb-with-rice.md)
 - [Tavë Kosi (Albanian Baked Lamb)](recipes/tave-kosi-albanian-baked-lamb.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
+- [Tuna Burger](recipes/tuna-burger.md)
 - [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 - [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)
 - [Turkey Salad with Preserved Lemon](recipes/turkey-salad.md)
 - [Udon BBQ Pork with Red Peppers](recipes/udon-bbq-pork-with-red-peppers.md)
 - [Veggie Chili](recipes/veggie-chili.md)
+- [Vermicelli Noodle Bowls](recipes/vermicelli-noodle-bowls.md)
 - [Wine-Braised Lamb Shanks with Herbes de Provence](recipes/wine-braised-lamb-shanks-with-herbes-de-provence.md)
 
 ## Pasta
@@ -268,6 +273,10 @@
 - [Tzatziki](recipes/tzatziki.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
+
+## Snacks
+
+- [Sweet Potato Blinis](recipes/sweet-potato-blinis.md)
 
 ## Soups & Stocks
 

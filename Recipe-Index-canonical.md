@@ -3,6 +3,7 @@
 ## Cuisines
 
 - [African](#african)
+- [Asian](#asian)
 - [Balkan](#balkan)
 - [British](#british)
 - [Caribbean](#caribbean)
@@ -25,6 +26,10 @@
 ## African
 
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
+
+## Asian
+
+- [Beyond Meat Dumplings](recipes/beyond-meat-dumplings.md)
 
 ## Balkan
 
@@ -70,6 +75,7 @@
 - [Korean Marinade for Quail](recipes/korean-marinade-for-quail.md)
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
 - [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
+- [Mango Pudding](recipes/mango-pudding.md)
 - [Pork Bone Soup](recipes/pork-bone-soup.md)
 - [Pork Bone Soup Jobs Tears](recipes/pork-bone-soup-jobs-tears.md)
 - [Shrimp with Tomato Sauce](recipes/chinese-shrimp-with-tomato-sauce.md)
@@ -279,7 +285,9 @@
 - [Smoked Side Ribs](recipes/smoked-side-ribs.md)
 - [Southwest Kale Salad](recipes/southwest-kale-salad.md)
 - [Southwestern Black Bean & Corn Chili](recipes/southwestern-black-bean-corn-chili.md)
+- [Sweet Potato Blinis](recipes/sweet-potato-blinis.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
+- [Tuna Burger](recipes/tuna-burger.md)
 - [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 - [Turkey Salad with Preserved Lemon](recipes/turkey-salad.md)
 - [Veggie Chili](recipes/veggie-chili.md)
@@ -334,4 +342,5 @@
 - [Sous Vide Vietnamese Chicken Wings](recipes/sous-vide-vietnamese-chicken-wings.md)
 - [Swimming Scallops with Tamarind Sweet Sauce](recipes/swimming-scallops-with-tamarind-sweet-sauce.md)
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
+- [Vermicelli Noodle Bowls](recipes/vermicelli-noodle-bowls.md)
 
