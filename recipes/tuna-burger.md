@@ -35,6 +35,12 @@ A fresh, Asian-inspired tuna burger with a light, savory depth from soy sauce an
 - 4 burger buns, toasted
 - Lettuce, tomato, avocado, and toppings of your choice
 
+### Wasabi Mayo (optional)
+- ½ cup mayonnaise
+- 1–2 teaspoons wasabi paste (adjust to taste)
+- ½ teaspoon rice vinegar
+- ¼ teaspoon soy sauce
+
 ## Instructions
 
 1. **Mix the patty base.**
@@ -49,8 +55,11 @@ A fresh, Asian-inspired tuna burger with a light, savory depth from soy sauce an
 4. **Cook.**
    Cook patties 3–4 minutes per side until lightly browned and cooked through (internal temperature 145°F).
 
-5. **Serve.**
-   Place on toasted buns with lettuce, tomato, avocado, and your choice of toppings.
+5. **Make wasabi mayo (if using).**
+   Whisk together mayonnaise, wasabi paste, rice vinegar, and soy sauce until smooth. Adjust wasabi to your heat preference.
+
+6. **Serve.**
+   Place on toasted buns with lettuce, tomato, avocado, and your choice of toppings. Spread with wasabi mayo if desired.
 
 ## Notes
 
