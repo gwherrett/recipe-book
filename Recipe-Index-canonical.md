@@ -75,6 +75,7 @@
 - [Korean Marinade for Quail](recipes/korean-marinade-for-quail.md)
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
 - [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
+- [Mango Pudding](recipes/mango-pudding.md)
 - [Pork Bone Soup](recipes/pork-bone-soup.md)
 - [Pork Bone Soup Jobs Tears](recipes/pork-bone-soup-jobs-tears.md)
 - [Shrimp with Tomato Sauce](recipes/chinese-shrimp-with-tomato-sauce.md)

@@ -126,6 +126,7 @@
 - [Low Country Boil](recipes/low-country-boil.md)
 - [Mac n Cheese](recipes/mac-n-cheese.md)
 - [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
+- [Mango Pudding](recipes/mango-pudding.md)
 - [Mango Salsa](recipes/mango-salsa.md)
 - [Mango Syrup](recipes/mango-syrup.md)
 - [Maple Pudding](recipes/maple-pudding.md)

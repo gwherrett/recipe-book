@@ -273,6 +273,7 @@
 - [Lemon Loaf](recipes/lemon-loaf.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu-2.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
+- [Mango Pudding](recipes/mango-pudding.md)
 - [Maple Pudding](recipes/maple-pudding.md)
 - [Mini Phyllo Apple Tarts (Par-Bake Method)](recipes/mini-phyllo-apple-tarts-par-bake-method.md)
 - [Pecan Pie](recipes/pecan-pie.md)
