@@ -261,6 +261,7 @@
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
 - [Taro Root Cake](recipes/taro-root-cake.md)
 - [Tostones (Fried Green Plantains)](recipes/tostones.md)
+- [Turkey Tetrazzini with Macaroni & Pita Chip Crust](recipes/turkey-tetrazzini-with-macaroni.md)
 
 ## 1 – Indulgence                (Desserts, deep-fried, very rich)
 
