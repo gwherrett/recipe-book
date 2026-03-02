@@ -3,8 +3,8 @@ title: Fried Cauliflower with Fish Sauce Vinaigrette
 cuisine: Vietnamese
 category: Salads & Sides
 slug: fried-cauliflower-with-fish-sauce-vinaigrette
-health_rating: 5
-health_rating_label: Very Healthy Everyday
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Fried Cauliflower with Fish Sauce Vinaigrette

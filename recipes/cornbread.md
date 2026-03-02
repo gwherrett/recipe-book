@@ -5,7 +5,7 @@ category: Salads & Sides
 tags: cornbread, cast-iron, brown butter, Southern, baking
 slug: moist-tender-brown-butter-cornbread
 health_rating: 2
-health_rating_label: 
+health_rating_label: Rich / Heavy
 ---
 
 # Moist & Tender Brown Butter Cornbread

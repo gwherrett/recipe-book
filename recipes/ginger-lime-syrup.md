@@ -4,7 +4,7 @@ cuisine: French
 category: Dessert
 slug: ginger-lime-syrup
 health_rating: 2
-health_rating_label: 
+health_rating_label: Rich / Heavy
 ---
 
 # ginger-lime-syrup-jean-georges

@@ -3,8 +3,8 @@ title: Spicy Curry Ketchup
 cuisine: British
 category: Sauces & Condiments
 slug: spicy-curry-ketchup
-health_rating: 2
-health_rating_label: Rich / Heavy
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Spicy Curry Ketchup
