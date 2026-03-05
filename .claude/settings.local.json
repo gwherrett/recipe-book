@@ -4,7 +4,25 @@
       "Bash(ls:*)",
       "Bash(git pull:*)",
       "Bash(git push:*)",
-      "Bash(gh pr create:*)"
+      "Bash(gh pr create:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd wasabi mayo ingredients and instructions to tuna burger recipe\n\nCo-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(python3 -c \"import PyPDF2; print\\(''PyPDF2 available''\\)\")",
+      "Bash(python3 -c \"import pdfplumber; print\\(''pdfplumber available''\\)\")",
+      "Bash(python3 -c \"import fitz; print\\(''fitz/PyMuPDF available''\\)\")",
+      "Bash(pip install pdfplumber)",
+      "Bash(pip3 install pdfplumber)",
+      "Bash(python3 -m pip install pdfplumber)",
+      "Bash(python3 -c \":*)",
+      "Bash(grep -h \"health_rating_label:\" /c/Repos/recipe-book/recipes/*.md)",
+      "Bash(grep -h \"category:\" /c/Repos/recipe-book/recipes/*.md)",
+      "Bash(grep -h \"cuisine:\" /c/Repos/recipe-book/recipes/*.md)",
+      "Bash(python3 generate_indexes.py)",
+      "Bash(grep -h \"title:\\\\|health_rating:\\\\|health_rating_label:\" /c/Repos/recipe-book/recipes/*.md)",
+      "Bash(git commit:*)",
+      "Bash(gh run list --limit 3)",
+      "Bash(git checkout -- Recipe-Index-canonical.md Recipe-Index-category.md Recipe-Index-flat.md Recipe-Index-health.md)",
+      "WebFetch(domain:drive.google.com)"
     ]
   }
 }
