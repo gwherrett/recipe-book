@@ -40,6 +40,7 @@
 
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
 - [Egg Strata](recipes/egg-strata.md)
+- [Puffy Cakes (Kelly's Version of a Dutch Baby)](recipes/puffy-cakes-kellys-version-of-a-dutch-baby.md)
 
 ## Dessert
 
@@ -129,6 +130,7 @@
 - [Juicy Burger](recipes/juicy-burger.md)
 - [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
 - [Lamb Stew Rendang](recipes/lamb-stew-rendang.md)
+- [Litti Chokha](recipes/litti-chokha.md)
 - [Lobster Mac n Cheese](recipes/lobster-mac-and-cheese.md)
 - [Low Country Boil](recipes/low-country-boil.md)
 - [Meatballs and Peas in Tomato Sauce (Pork & Lamb Sausage, 800 g)](recipes/meatballs-and-peas-in-tomato-sauce-pork-lamb-sausage-800-g.md)
