@@ -274,6 +274,7 @@
 - [Smoked Gouda Mac n Cheese](recipes/smoked-gouda-mac-n-cheese.md)
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
 - [Taro Root Cake](recipes/taro-root-cake.md)
+- [Tomatillo Jam](recipes/tomatillo-jam.md)
 - [Tostones (Fried Green Plantains)](recipes/tostones.md)
 - [Turkey Tetrazzini with Macaroni & Pita Chip Crust](recipes/turkey-tetrazzini-with-macaroni.md)
 

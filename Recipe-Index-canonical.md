@@ -213,6 +213,7 @@
 - [Salsa Roja](recipes/salsa-roja.md)
 - [Shredded Chicken Enchiladas](recipes/shredded-chicken-enchiladas.md)
 - [Shredded Chicken Legs](recipes/shredded-chicken-legs.md)
+- [Tomatillo Jam](recipes/tomatillo-jam.md)
 
 ## Middle Eastern
 

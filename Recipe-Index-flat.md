@@ -255,6 +255,7 @@
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
 - [Tiramisu Structure](recipes/tiramisu-structure.md)
+- [Tomatillo Jam](recipes/tomatillo-jam.md)
 - [Tostones (Fried Green Plantains)](recipes/tostones.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
 - [Tuna Burger](recipes/tuna-burger.md)

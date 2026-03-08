@@ -287,6 +287,7 @@
 - [Salsa Roja](recipes/salsa-roja.md)
 - [Salt, Pepper, and Lime Dipping Sauce (Muối Tiêu Chanh)](recipes/salt-pepper-and-lime-dipping-sauce-muoi-tieu-chanh.md)
 - [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
+- [Tomatillo Jam](recipes/tomatillo-jam.md)
 - [Tzatziki](recipes/tzatziki.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
