@@ -216,6 +216,7 @@
 
 ## Salads & Sides
 
+- [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Aromatic Rice](recipes/aromatic-rice.md)
 - [Asian Grilled Steak Salad](recipes/asian-grilled-steak-salad.md)
 - [Brussels Sprouts Slaw](recipes/brussels-sprouts-slaw.md)

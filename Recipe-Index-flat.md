@@ -1,5 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
+- [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
 - [Adobo Sauce](recipes/adobo-sauce.md)
 - [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)

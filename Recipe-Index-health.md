@@ -10,6 +10,7 @@
 
 ## 5 – Eat More                  (Light, plant-forward, or very wholesome)
 
+- [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adobo Sauce](recipes/adobo-sauce.md)
 - [Asian Grilled Steak Salad](recipes/asian-grilled-steak-salad.md)
 - [Basil Dressing](recipes/basil-dressing.md)
