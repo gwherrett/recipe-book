@@ -69,6 +69,7 @@
 - [Camote con Chile y Limón (Sweet Potatoes)](recipes/camote-con-chile-y-limon-sweet-potatoes.md)
 - [Chicken Mole (Oaxacan-Style)](recipes/chicken-mole-oaxacan-style.md)
 - [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
+- [Chicken with Dates, Saffron and Freekeh](recipes/chicken-with-dates-saffron-and-freekeh.md)
 - [Coleslaw with Apples & Dried Cranberries](recipes/coleslaw-with-apples-and-dried-cranberries.md)
 - [Corn Chip-Crusted Chicken](recipes/corn-chip-crusted-chicken.md)
 - [Corn Chowder](recipes/corn-chowder.md)

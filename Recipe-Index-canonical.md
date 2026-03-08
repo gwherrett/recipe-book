@@ -218,6 +218,7 @@
 - [Aromatic Rice](recipes/aromatic-rice.md)
 - [Baba Ganoush](recipes/baba-ganoush.md)
 - [Black Chickpeas with Baharat and Orange](recipes/black-chickpeas-with-baharat-and-orange.md)
+- [Chicken with Dates, Saffron and Freekeh](recipes/chicken-with-dates-saffron-and-freekeh.md)
 - [Duck Breasts with Pomegranate Barberry Sauce](recipes/duck-breasts-with-pomegranate-barberry-sauce.md)
 - [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)

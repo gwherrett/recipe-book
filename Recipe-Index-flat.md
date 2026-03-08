@@ -45,6 +45,7 @@
 - [Chicken Soup with Thai Basil](recipes/chicken-soup-with-thai-basil.md)
 - [Chicken Stock](recipes/chicken-stock.md)
 - [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
+- [Chicken with Dates, Saffron and Freekeh](recipes/chicken-with-dates-saffron-and-freekeh.md)
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)
 - [Chile Relleno](recipes/chile-relleno.md)
 - [Chili Powder (Ancho-Based)](recipes/chili-powder-ancho-based.md)
