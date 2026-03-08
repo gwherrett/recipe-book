@@ -207,6 +207,7 @@
 - [Spaetzle](recipes/spaetzle.md)
 - [Spaghetti alle Vongole](recipes/spaghetti-alle-vongole.md)
 - [Spaghetti Sauce](recipes/spaghetti-sauce.md)
+- [Spicy Cumin Lamb Biang Biang Noodles](recipes/cumin-lamb-biang-biang-noodles.md)
 - [Tagliatelle Bolognese](recipes/tagliatelle-bolognese.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 

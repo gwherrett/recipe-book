@@ -224,6 +224,7 @@
 - [Sous Vide Vietnamese Chicken Wings](recipes/sous-vide-vietnamese-chicken-wings.md)
 - [Spaetzle](recipes/spaetzle.md)
 - [Spaghetti Sauce](recipes/spaghetti-sauce.md)
+- [Spicy Cumin Lamb Biang Biang Noodles](recipes/cumin-lamb-biang-biang-noodles.md)
 - [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Tagliatelle Bolognese](recipes/tagliatelle-bolognese.md)

@@ -87,6 +87,7 @@
 - [Pork Bone Soup Jobs Tears](recipes/pork-bone-soup-jobs-tears.md)
 - [Shrimp with Tomato Sauce](recipes/chinese-shrimp-with-tomato-sauce.md)
 - [Sichuan Green Beans](recipes/sichuan-green-beans.md)
+- [Spicy Cumin Lamb Biang Biang Noodles](recipes/cumin-lamb-biang-biang-noodles.md)
 - [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Taro Root Cake](recipes/taro-root-cake.md)
 - [Udon BBQ Pork with Red Peppers](recipes/udon-bbq-pork-with-red-peppers.md)
