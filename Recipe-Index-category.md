@@ -29,6 +29,7 @@
 - [Pesto–Ricotta Dip](recipes/pesto-ricotta-dip.md)
 - [Pickled Salmon](recipes/pickled-salmon.md)
 - [White Anchovy & Egg Pizza](recipes/white-anchovy-egg-pizza.md)
+- [White Bean Dip](recipes/white-bean-dip.md)
 
 ## Breads & Pastries
 

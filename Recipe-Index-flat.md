@@ -269,6 +269,7 @@
 - [Vermicelli Noodle Bowls](recipes/vermicelli-noodle-bowls.md)
 - [Warm Chocolate Cake](recipes/warm-chocolate-cake.md)
 - [White Anchovy & Egg Pizza](recipes/white-anchovy-egg-pizza.md)
+- [White Bean Dip](recipes/white-bean-dip.md)
 - [Wine-Braised Lamb Shanks with Herbes de Provence](recipes/wine-braised-lamb-shanks-with-herbes-de-provence.md)
 - [Winter Melon Soup (Cantonese)](recipes/winter-melon-soup-cantonese.md)
 - [Yellow Lentil & Chicken Soup](recipes/yellow-lentil-chicken-soup.md)

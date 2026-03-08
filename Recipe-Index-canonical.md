@@ -188,6 +188,7 @@
 - [Rosemary-Roasted Leg of Lamb with Balsamic Sauce](recipes/rosemary-roasted-leg-of-lamb-with-balsamic-sauce.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 - [Tzatziki](recipes/tzatziki.md)
+- [White Bean Dip](recipes/white-bean-dip.md)
 - [Yellow Lentil & Chicken Soup](recipes/yellow-lentil-chicken-soup.md)
 
 ## Mexican
