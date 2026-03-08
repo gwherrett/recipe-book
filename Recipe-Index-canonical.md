@@ -286,6 +286,7 @@
 - [Salmon Chowder](recipes/salmon-chowder.md)
 - [Salmon with Anchovy-Garlic Butter](recipes/salmon-with-anchovy-garlic-butter.md)
 - [Salmon With Dijon Brown Sugar](recipes/salmon-with-dijon-brown-sugar.md)
+- [Salted Chocolate Chip Cookies](recipes/salted-chocolate-chip-cookies.md)
 - [Seared Duck Breast Salad](recipes/seared-duck-breast-salad.md)
 - [Sherry Cake](recipes/sherry-cake.md)
 - [Slow Cooker Chili](recipes/slow-cooker-chili.md)

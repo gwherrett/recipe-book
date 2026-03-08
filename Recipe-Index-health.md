@@ -293,6 +293,7 @@
 - [Pie Crust](recipes/pie-crust.md)
 - [Raspberry and Blueberry Crumble](recipes/raspberry-and-blueberry-crumble.md)
 - [Roasted Strawberry Mess with Sumac and Mint](recipes/roasted-strawberry-mess-with-sumac-and-mint.md)
+- [Salted Chocolate Chip Cookies](recipes/salted-chocolate-chip-cookies.md)
 - [Sherry Cake](recipes/sherry-cake.md)
 - [Spiced Rum](recipes/spiced-rum.md)
 - [Tiramisu Structure](recipes/tiramisu-structure.md)
