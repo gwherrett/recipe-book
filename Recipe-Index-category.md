@@ -29,6 +29,7 @@
 - [Pesto–Ricotta Dip](recipes/pesto-ricotta-dip.md)
 - [Pickled Salmon](recipes/pickled-salmon.md)
 - [White Anchovy & Egg Pizza](recipes/white-anchovy-egg-pizza.md)
+- [White Bean Dip](recipes/white-bean-dip.md)
 
 ## Breads & Pastries
 
@@ -63,6 +64,7 @@
 - [Phyllo Pastry Shells (Muffin Tin Method)](recipes/phyllo-pastry-shells-muffin-tin-method.md)
 - [Raspberry and Blueberry Crumble](recipes/raspberry-and-blueberry-crumble.md)
 - [Roasted Strawberry Mess with Sumac and Mint](recipes/roasted-strawberry-mess-with-sumac-and-mint.md)
+- [Salted Chocolate Chip Cookies](recipes/salted-chocolate-chip-cookies.md)
 - [Sherry Cake](recipes/sherry-cake.md)
 - [Simple Syrup](recipes/simple-syrup.md)
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
@@ -109,6 +111,7 @@
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
 - [Chicken Pot Pie](recipes/chicken-pot-pies.md)
 - [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
+- [Chicken with Dates, Saffron and Freekeh](recipes/chicken-with-dates-saffron-and-freekeh.md)
 - [Chile Relleno](recipes/chile-relleno.md)
 - [Claypot Lobster Maenam](recipes/claypot-lobster-maenam.md)
 - [Corn Chip-Crusted Chicken](recipes/corn-chip-crusted-chicken.md)
@@ -209,11 +212,13 @@
 - [Spaetzle](recipes/spaetzle.md)
 - [Spaghetti alle Vongole](recipes/spaghetti-alle-vongole.md)
 - [Spaghetti Sauce](recipes/spaghetti-sauce.md)
+- [Spicy Cumin Lamb Biang Biang Noodles](recipes/cumin-lamb-biang-biang-noodles.md)
 - [Tagliatelle Bolognese](recipes/tagliatelle-bolognese.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 
 ## Salads & Sides
 
+- [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Aromatic Rice](recipes/aromatic-rice.md)
 - [Asian Grilled Steak Salad](recipes/asian-grilled-steak-salad.md)
 - [Brussels Sprouts Slaw](recipes/brussels-sprouts-slaw.md)
@@ -284,6 +289,7 @@
 - [Salsa Roja](recipes/salsa-roja.md)
 - [Salt, Pepper, and Lime Dipping Sauce (Muối Tiêu Chanh)](recipes/salt-pepper-and-lime-dipping-sauce-muoi-tieu-chanh.md)
 - [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
+- [Tomatillo Jam](recipes/tomatillo-jam.md)
 - [Tzatziki](recipes/tzatziki.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)

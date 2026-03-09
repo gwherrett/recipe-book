@@ -10,6 +10,7 @@
 
 ## 5 – Eat More                  (Light, plant-forward, or very wholesome)
 
+- [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adobo Sauce](recipes/adobo-sauce.md)
 - [Asian Grilled Steak Salad](recipes/asian-grilled-steak-salad.md)
 - [Basil Dressing](recipes/basil-dressing.md)
@@ -49,6 +50,7 @@
 - [Spinach Goma-ae](recipes/spinach-goma-ae.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
 - [Vermicelli Noodle Bowls](recipes/vermicelli-noodle-bowls.md)
+- [White Bean Dip](recipes/white-bean-dip.md)
 - [Winter Melon Soup (Cantonese)](recipes/winter-melon-soup-cantonese.md)
 - [Yellow Lentil & Chicken Soup](recipes/yellow-lentil-chicken-soup.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
@@ -69,6 +71,7 @@
 - [Camote con Chile y Limón (Sweet Potatoes)](recipes/camote-con-chile-y-limon-sweet-potatoes.md)
 - [Chicken Mole (Oaxacan-Style)](recipes/chicken-mole-oaxacan-style.md)
 - [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
+- [Chicken with Dates, Saffron and Freekeh](recipes/chicken-with-dates-saffron-and-freekeh.md)
 - [Coleslaw with Apples & Dried Cranberries](recipes/coleslaw-with-apples-and-dried-cranberries.md)
 - [Corn Chip-Crusted Chicken](recipes/corn-chip-crusted-chicken.md)
 - [Corn Chowder](recipes/corn-chowder.md)
@@ -225,6 +228,7 @@
 - [Sous Vide Vietnamese Chicken Wings](recipes/sous-vide-vietnamese-chicken-wings.md)
 - [Spaetzle](recipes/spaetzle.md)
 - [Spaghetti Sauce](recipes/spaghetti-sauce.md)
+- [Spicy Cumin Lamb Biang Biang Noodles](recipes/cumin-lamb-biang-biang-noodles.md)
 - [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Tagliatelle Bolognese](recipes/tagliatelle-bolognese.md)
@@ -272,6 +276,7 @@
 - [Smoked Gouda Mac n Cheese](recipes/smoked-gouda-mac-n-cheese.md)
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
 - [Taro Root Cake](recipes/taro-root-cake.md)
+- [Tomatillo Jam](recipes/tomatillo-jam.md)
 - [Tostones (Fried Green Plantains)](recipes/tostones.md)
 - [Turkey Tetrazzini with Macaroni & Pita Chip Crust](recipes/turkey-tetrazzini-with-macaroni.md)
 
@@ -293,6 +298,7 @@
 - [Pie Crust](recipes/pie-crust.md)
 - [Raspberry and Blueberry Crumble](recipes/raspberry-and-blueberry-crumble.md)
 - [Roasted Strawberry Mess with Sumac and Mint](recipes/roasted-strawberry-mess-with-sumac-and-mint.md)
+- [Salted Chocolate Chip Cookies](recipes/salted-chocolate-chip-cookies.md)
 - [Sherry Cake](recipes/sherry-cake.md)
 - [Spiced Rum](recipes/spiced-rum.md)
 - [Tiramisu Structure](recipes/tiramisu-structure.md)

@@ -87,6 +87,7 @@
 - [Pork Bone Soup Jobs Tears](recipes/pork-bone-soup-jobs-tears.md)
 - [Shrimp with Tomato Sauce](recipes/chinese-shrimp-with-tomato-sauce.md)
 - [Sichuan Green Beans](recipes/sichuan-green-beans.md)
+- [Spicy Cumin Lamb Biang Biang Noodles](recipes/cumin-lamb-biang-biang-noodles.md)
 - [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Taro Root Cake](recipes/taro-root-cake.md)
 - [Udon BBQ Pork with Red Peppers](recipes/udon-bbq-pork-with-red-peppers.md)
@@ -188,6 +189,7 @@
 - [Rosemary-Roasted Leg of Lamb with Balsamic Sauce](recipes/rosemary-roasted-leg-of-lamb-with-balsamic-sauce.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 - [Tzatziki](recipes/tzatziki.md)
+- [White Bean Dip](recipes/white-bean-dip.md)
 - [Yellow Lentil & Chicken Soup](recipes/yellow-lentil-chicken-soup.md)
 
 ## Mexican
@@ -212,12 +214,14 @@
 - [Salsa Roja](recipes/salsa-roja.md)
 - [Shredded Chicken Enchiladas](recipes/shredded-chicken-enchiladas.md)
 - [Shredded Chicken Legs](recipes/shredded-chicken-legs.md)
+- [Tomatillo Jam](recipes/tomatillo-jam.md)
 
 ## Middle Eastern
 
 - [Aromatic Rice](recipes/aromatic-rice.md)
 - [Baba Ganoush](recipes/baba-ganoush.md)
 - [Black Chickpeas with Baharat and Orange](recipes/black-chickpeas-with-baharat-and-orange.md)
+- [Chicken with Dates, Saffron and Freekeh](recipes/chicken-with-dates-saffron-and-freekeh.md)
 - [Duck Breasts with Pomegranate Barberry Sauce](recipes/duck-breasts-with-pomegranate-barberry-sauce.md)
 - [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
@@ -227,6 +231,7 @@
 
 ## North American
 
+- [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
 - [Barbecue Rub](recipes/barbecue-rub.md)
 - [Black Cod on Cedar Plank (Barbecue)](recipes/black-cod-on-cedar-plank-barbecue.md)
@@ -286,6 +291,7 @@
 - [Salmon Chowder](recipes/salmon-chowder.md)
 - [Salmon with Anchovy-Garlic Butter](recipes/salmon-with-anchovy-garlic-butter.md)
 - [Salmon With Dijon Brown Sugar](recipes/salmon-with-dijon-brown-sugar.md)
+- [Salted Chocolate Chip Cookies](recipes/salted-chocolate-chip-cookies.md)
 - [Seared Duck Breast Salad](recipes/seared-duck-breast-salad.md)
 - [Sherry Cake](recipes/sherry-cake.md)
 - [Slow Cooker Chili](recipes/slow-cooker-chili.md)
