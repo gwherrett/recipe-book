@@ -3,8 +3,8 @@ title: Palestinian Chicken Spice Mix (Musakhan)
 cuisine: Middle Eastern
 category: Spice Mixes & Pastes
 slug: palestinian-chicken-spice-mix-musakhan
-health_rating: 5
-health_rating_label: Very Healthy Everyday
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Palestinian Roast Chicken Spice Mix (Musakhan-Style)

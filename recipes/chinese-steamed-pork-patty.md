@@ -1,7 +1,7 @@
 ---
 title: "Steamed Pork Patty (\u84B8\u8089\u9905)"
 category: Mains
-cuisine: Chinese
+cuisine: Cantonese
 slug: steamed-pork-patty
 tags:
 - pork

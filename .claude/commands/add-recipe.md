@@ -29,9 +29,15 @@ health_rating_label: <matching label>
 
 ### Canonical cuisines
 
-African, Asian, Balkan, British, Caribbean, Chinese, Filipino, French, Indian, Italian, Japanese, Mediterranean, Mexican, Middle Eastern, North American, Persian, Southern / Cajun, Spanish, Thai, Vietnamese
+African, Asian, Balkan, British, Cantonese, Caribbean, Chinese, Filipino, French, Indian, Italian, Japanese, Mediterranean, Mexican, Middle Eastern, North American, Persian, Southern / Cajun, Spanish, Thai, Vietnamese
 
 Pick the closest match. If the recipe blends two cuisines, choose the dominant one or the most specific fit.
+
+**Cuisine notes:**
+- Use **Cantonese** for Cantonese, Hong Kong, and Macau dishes — not Chinese.
+- **Asian** is a fallback for pan-Asian dishes that don't fit a more specific cuisine.
+
+**If the recipe's cuisine is not in this list:** stop and ask the user whether to use the closest existing cuisine or add a new one. Do not silently pick a match.
 
 ### Canonical categories
 

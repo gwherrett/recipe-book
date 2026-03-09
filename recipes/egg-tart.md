@@ -1,7 +1,7 @@
 ---
 title: Egg Tart
 slug: egg-tart
-cuisine: Chinese
+cuisine: Cantonese
 category: Dessert
 health_rating: 1
 health_rating_label: Treat / Indulgent

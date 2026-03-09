@@ -1,6 +1,6 @@
 ---
 title: Beef Brisket with Coconut
-cuisine: Chinese
+cuisine: Cantonese
 category: Mains
 slug: beef-brisket-with-coconut
 health_rating: 3

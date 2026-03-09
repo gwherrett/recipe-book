@@ -6,6 +6,7 @@
 - [Asian](#asian)
 - [Balkan](#balkan)
 - [British](#british)
+- [Cantonese](#cantonese)
 - [Caribbean](#caribbean)
 - [Chinese](#chinese)
 - [Filipino](#filipino)

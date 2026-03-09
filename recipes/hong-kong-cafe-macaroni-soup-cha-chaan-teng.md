@@ -1,6 +1,6 @@
 ---
 title: "Hong Kong Caf\xE9 Macaroni Soup (Cha Chaan Teng)"
-cuisine: Chinese
+cuisine: Cantonese
 category: Soups & Stocks
 slug: hong-kong-cafe-macaroni-soup-cha-chaan-teng
 health_rating: 4

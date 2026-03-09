@@ -1,7 +1,7 @@
 ---
 title: Beyond Meat Dumplings
 slug: beyond-meat-dumplings
-cuisine: Asian
+cuisine: Chinese
 category: Mains
 tags:
 - dumplings

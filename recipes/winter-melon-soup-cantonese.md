@@ -1,6 +1,6 @@
 ---
 title: Winter Melon Soup (Cantonese)
-cuisine: Chinese
+cuisine: Cantonese
 category: Soups & Stocks
 slug: winter-melon-soup-cantonese
 health_rating: 5

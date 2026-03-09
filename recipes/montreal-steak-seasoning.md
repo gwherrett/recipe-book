@@ -3,8 +3,8 @@ title: Montreal Steak Seasoning
 cuisine: North American
 category: Spice Mixes & Pastes
 slug: montreal-steak-seasoning
-health_rating: 5
-health_rating_label: Very Healthy Everyday
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Montreal Steak Seasoning

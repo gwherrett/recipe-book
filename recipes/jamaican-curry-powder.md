@@ -3,8 +3,8 @@ title: Jamaican Curry Powder
 cuisine: Caribbean
 category: Spice Mixes & Pastes
 slug: jamaican-curry-powder
-health_rating: 5
-health_rating_label: Very Healthy Everyday
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Jamaican Curry Powder

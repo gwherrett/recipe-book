@@ -3,8 +3,8 @@ title: Chili Powder (Ancho-Based)
 cuisine: North American
 category: Spice Mixes & Pastes
 slug: chili-powder-ancho-based
-health_rating: 5
-health_rating_label: Very Healthy Everyday
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Chili Powder (Ancho-Based)
