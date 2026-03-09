@@ -1,36 +1,70 @@
 ---
 title: Mango Salsa
-cuisine: Thai
-category: Sauces & Condiments
 slug: mango-salsa
-health_rating: 4
-health_rating_label: Generally Healthy
+cuisine: Mexican
+category: Sauces & Condiments
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Mango Salsa
 
-**Category:** Condiments & Sauces → Salsas  
-**Tags:** mango, salsa, cilantro, jalapeño, lime, summer
+A bright, refreshing salsa perfect with grilled fish, chicken, or as a topping for tacos and nachos.
 
-**Summary:** A bright, refreshing mango salsa with lime, cilantro, and a touch of heat from jalapeño. Perfect with tacos, grilled fish or chicken, or simply with tortilla chips.
+---
 
 ## Ingredients
-- 2 ripe mangoes, peeled, pitted, and diced
-- 1/2 red bell pepper, finely chopped
-- 1/2 small red onion, finely chopped
-- 1 jalapeño, seeded and finely chopped (adjust to taste)
-- 1/4 cup fresh cilantro, chopped
-- Juice of 1 lime
-- 1/2 tsp salt (to taste)
-- 1/4 tsp black pepper (to taste)
 
-## Method
-1. In a medium bowl, combine mango, red bell pepper, red onion, and jalapeño.
-2. Add cilantro, lime juice, salt, and pepper. Toss gently to combine.
-3. Taste and adjust lime, salt, or heat as desired.
-4. Chill 20–30 minutes to let flavors meld, then serve.
+- 2 ripe mangoes, diced
+- ½ red onion, finely diced
+- 1 red bell pepper, diced
+- 1 jalapeño, minced (remove seeds for less heat)
+- ¼ cup fresh cilantro, chopped (or Thai basil for a different flavor)
+- 2 tablespoons fresh Thai basil, thinly sliced (optional, in addition to cilantro)
+- Juice of 1 lime
+- Salt to taste
+- ¼ teaspoon cumin (optional)
+- Pinch of black pepper
+
+---
+
+## Instructions
+
+1. **Dice the mangoes:** Peel and dice the mangoes. To easily dice a mango, slice down each side of the pit, score the flesh in a crosshatch pattern, then scoop the cubes out with a spoon.
+
+2. **Prep the onion:** Finely dice the red onion and place in a bowl.
+
+3. **Add the pepper:** Dice the red bell pepper and add to the bowl.
+
+4. **Add the jalapeño:** Mince the jalapeño (adjust amount based on heat preference) and add to the bowl.
+
+5. **Add the mango:** Add the diced mango to the bowl.
+
+6. **Add cilantro:** Chop the fresh cilantro and add to the salsa.
+
+7. **Add lime juice:** Squeeze the lime juice over everything.
+
+8. **Season:** Add salt, cumin, and black pepper to taste.
+
+9. **Toss:** Gently toss all ingredients together.
+
+10. **Rest:** Let sit for 10–15 minutes before serving to allow flavors to meld.
+
+---
 
 ## Notes
-- Adds great contrast to rich dishes like carnitas, grilled salmon, or jerk chicken.
-- Variations: fold in 1 small diced avocado, 1/2 cup diced pineapple, or 1/2 cup diced cucumber.
-- Storage: Refrigerate in an airtight container up to 2 days (best day-of).
+
+- Use mangoes that are ripe but still firm for the best texture
+- **Thai Basil Variation**: Replace cilantro with Thai basil for a more aromatic, slightly anise-like flavor. This pairs especially well with Southeast Asian dishes and coconut-based sauces. Thai basil has smaller leaves and a more peppery, licorice-forward taste than regular cilantro.
+- Can be made up to 2 hours ahead; prepare just before serving if you prefer maximum freshness
+- For a chunkier texture, keep pieces larger
+- For a smoother consistency, dice finely and let sit longer
+- Pairs well with ceviche, tacos, grilled fish, or as a side with chips
+
+## Serving Suggestions
+
+- With grilled mahi-mahi or sea bass
+- On fish tacos with white crema
+- As a topping for baked chicken
+- With tortilla chips as an appetizer
+- With shrimp or ceviche
