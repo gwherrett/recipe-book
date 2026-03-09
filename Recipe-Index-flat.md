@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**286 recipes**
+**285 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -74,7 +74,9 @@
 - [Creole Sauce](recipes/creole-sauce.md)
 - [Crispy Roast Potatoes with Rosemary and Za'atar](recipes/crispy-roast-potatoes-with-rosemary-and-zaatar.md)
 - [Cubano Sandwich](recipes/cubano-sandwich.md)
-- [Curry Mutton or Goat](recipes/curry-mutton-or-goat-2.md)
+- [Curried Goat - Grenada Style](recipes/curried-goat-grenada-style.md)
+- [Curried Goat - Jamaica Style](recipes/curried-goat-jamaica-style.md)
+- [Curried Goat - Trinidad Style](recipes/curried-goat-trinidad-style.md)
 - [Dill Sour Cream Sauce](recipes/dill-sour-cream-sauce.md)
 - [Duck Breasts with Pomegranate Barberry Sauce](recipes/duck-breasts-with-pomegranate-barberry-sauce.md)
 - [Duck Oyakodon](recipes/duck-oyakodon.md)
@@ -100,7 +102,6 @@
 - [Gnocchi with Tomato Sauce](recipes/gnocchi-with-tomato-sauce.md)
 - [Greek Yogurt Tartar Sauce](recipes/greek-yogurt-tartar-sauce.md)
 - [Green Apple & Spring Mix Salad with Thai Basil Dressing](recipes/green-apple-spring-mix-salad-with-thai-basil-dressing.md)
-- [Grenadian-Style Curried Goat](recipes/grenadian-style-curried-goat.md)
 - [Heart-Healthy Banana Bread](recipes/heart-healthy-banana-bread.md)
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
 - [Horseradish Corn Cheese Melt](recipes/horseradish-corn-cheese-melt.md)
@@ -108,7 +109,6 @@
 - [Hot Sausage and Peppers Pasta](recipes/hot-sausage-and-peppers-pasta.md)
 - [Insalata Capricciosa](recipes/insalata-capricciosa.md)
 - [Jamaican Curry Powder](recipes/jamaican-curry-powder.md)
-- [Jamaican Goat Curry](recipes/jamaican-goat-curry.md)
 - [Jamaican Oxtail Stew](recipes/jamaican-oxtail-stew.md)
 - [Japanese Curry](recipes/japanese-curry.md)
 - [Japanese Curry Powder](recipes/japanese-curry-powder.md)
@@ -266,7 +266,6 @@
 - [Tomatillo Jam](recipes/tomatillo-jam.md)
 - [Tostones (Fried Green Plantains)](recipes/tostones.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
-- [Trinidadian Coconut-Curried Goat](recipes/trinidadian-coconut-curried-goat.md)
 - [Tuna Burger](recipes/tuna-burger.md)
 - [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 - [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)

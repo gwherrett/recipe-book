@@ -53,7 +53,9 @@
 ## Cantonese
 
 - [Baked Portuguese Chicken (Macau Style)](recipes/baked-portuguese-chicken-macau-style.md)
+- [BBQ Pork Pastry](recipes/bbq-pork-pastry.md)
 - [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)
+- [Beef Curry Puff](recipes/beef-curry-puff.md)
 - [Cantonese Steamed Egg with Chinese Doughnuts](recipes/cantonese-steamed-egg-with-chinese-doughnuts.md)
 - [Egg Tart](recipes/egg-tart.md)
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
@@ -66,10 +68,10 @@
 
 - [Barbancourt Chicken](recipes/barbancourt-chicken.md)
 - [Cubano Sandwich](recipes/cubano-sandwich.md)
-- [Curry Mutton or Goat](recipes/curry-mutton-or-goat-2.md)
-- [Grenadian-Style Curried Goat](recipes/grenadian-style-curried-goat.md)
+- [Curried Goat - Grenada Style](recipes/curried-goat-grenada-style.md)
+- [Curried Goat - Jamaica Style](recipes/curried-goat-jamaica-style.md)
+- [Curried Goat - Trinidad Style](recipes/curried-goat-trinidad-style.md)
 - [Jamaican Curry Powder](recipes/jamaican-curry-powder.md)
-- [Jamaican Goat Curry](recipes/jamaican-goat-curry.md)
 - [Jamaican Oxtail Stew](recipes/jamaican-oxtail-stew.md)
 - [Jerk Chicken](recipes/jerk-chicken.md)
 - [Mojo Marinade](recipes/mojo-marinade.md)
@@ -77,13 +79,10 @@
 - [Ropa Vieja](recipes/ropa-vieja.md)
 - [Spiced Rum](recipes/spiced-rum.md)
 - [Tostones (Fried Green Plantains)](recipes/tostones.md)
-- [Trinidadian Coconut-Curried Goat](recipes/trinidadian-coconut-curried-goat.md)
 
 ## Chinese
 
 - [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
-- [BBQ Pork Pastry](recipes/bbq-pork-pastry.md)
-- [Beef Curry Puff](recipes/beef-curry-puff.md)
 - [Beyond Meat Dumplings](recipes/beyond-meat-dumplings.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
 - [Five Spice Powder](recipes/chinese-five-spice-powder.md)

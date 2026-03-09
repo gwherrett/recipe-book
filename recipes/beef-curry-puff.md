@@ -1,7 +1,7 @@
 ---
 title: Beef Curry Puff
 slug: beef-curry-puff
-cuisine: Chinese
+cuisine: Cantonese
 category: Appetizers
 health_rating: 2
 health_rating_label: Rich / Heavy
