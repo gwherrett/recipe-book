@@ -42,6 +42,7 @@
 - [Cantonese Steamed Egg with Chinese Doughnuts](recipes/cantonese-steamed-egg-with-chinese-doughnuts.md)
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
 - [Egg Strata](recipes/egg-strata.md)
+- [Puffy Cakes](recipes/puffy-cakes.md)
 - [Puffy Cakes (Kelly's Version of a Dutch Baby)](recipes/puffy-cakes-kellys-version-of-a-dutch-baby.md)
 
 ## Dessert
