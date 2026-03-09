@@ -14,7 +14,7 @@ health_rating_label: Rich/Heavy
 **Total Time:** 1 hour 5 minutes
 **Yield:** 9 servings
 
-Creamy leftover turkey tetrazzini with spinach, adapted to use macaroni in place of spaghetti and evaporated milk for a slightly lighter cream sauce. A crunchy topping of crushed pita chips and Parmesan replaces the classic mozzarella for extra texture and flavour.
+Creamy leftover turkey tetrazzini with spinach, adapted to use macaroni in place of spaghetti and evaporated milk for a slightly lighter cream sauce. Cheddar is stirred into the sauce for richness, and a crunchy topping of crushed pita chips and Parmesan replaces the classic mozzarella for extra texture and flavour.
 
 ---
 
@@ -33,6 +33,7 @@ Creamy leftover turkey tetrazzini with spinach, adapted to use macaroni in place
 - 2 cups evaporated milk (approximately two 354 ml / 12 oz cans)
 - 2 cups fresh baby spinach (about 60 g / 2 oz)
 - 1 lb (450 g) shredded cooked turkey (about 3 cups)
+- 1 cup (100 g) sharp cheddar cheese, shredded
 
 ### Topping
 
@@ -54,7 +55,7 @@ Creamy leftover turkey tetrazzini with spinach, adapted to use macaroni in place
 
 5. **Add liquid:** Pour in chicken broth and lemon juice and whisk until smooth. The mixture may look clumpy at first.
 
-6. **Make the sauce:** Whisk in evaporated milk and bring to a simmer over medium heat. Stir occasionally and simmer until thickened, about 8–12 minutes — the sauce should coat the back of a spoon. (Evaporated milk thickens more slowly than heavy cream; be patient and stir frequently to prevent scorching.) Remove from heat and stir in spinach until wilted, about 1 minute.
+6. **Make the sauce:** Whisk in evaporated milk and bring to a simmer over medium heat. Stir occasionally and simmer until thickened, about 8–12 minutes — the sauce should coat the back of a spoon. (Evaporated milk thickens more slowly than heavy cream; be patient and stir frequently to prevent scorching.) Remove from heat and stir in shredded cheddar until fully melted and smooth. Stir in spinach until wilted, about 1 minute.
 
 7. **Combine:** Add cooked macaroni and shredded turkey to the sauce. Toss until fully combined and evenly coated.
 
