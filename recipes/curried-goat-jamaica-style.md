@@ -1,8 +1,8 @@
 ---
-title: Jamaican Goat Curry
+title: Curried Goat - Jamaica Style
 cuisine: Caribbean
 category: Mains
-slug: jamaican-goat-curry
+slug: curried-goat-jamaica-style
 health_rating: 3
 health_rating_label: Mixed / Context-Dependent
 ---

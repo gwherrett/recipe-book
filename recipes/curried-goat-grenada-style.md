@@ -1,5 +1,5 @@
 ---
-title: Grenadian-Style Curried Goat
+title: Curried Goat - Grenada Style
 category: Mains
 cuisine: Caribbean
 tags:
@@ -10,7 +10,7 @@ tags:
 - stew
 servings: 8
 time: "2.5\u20133 hours (plus 4\u20136 hours marinating)"
-slug: grenadian-style-curried-goat
+slug: curried-goat-grenada-style
 health_rating: 3
 health_rating_label: Mixed / Context-Dependent
 ---
