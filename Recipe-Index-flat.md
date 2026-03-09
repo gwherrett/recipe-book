@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**285 recipes**
+**284 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -128,7 +128,6 @@
 - [Lemon Risotto with Summer Squash](recipes/lemon-risotto-with-summer-squash.md)
 - [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)
 - [Lemony Marinated Feta](recipes/lemony-marinated-feta.md)
-- [Limoncello Tiramisu](recipes/limoncello-tiramisu-2.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
 - [Litti Chokha](recipes/litti-chokha.md)
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
@@ -262,7 +261,7 @@
 - [Thai Dressing](recipes/thai-dressing.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
-- [Tiramisu Structure](recipes/tiramisu-structure.md)
+- [Tiramisu](recipes/tiramisu.md)
 - [Tomatillo Jam](recipes/tomatillo-jam.md)
 - [Tostones (Fried Green Plantains)](recipes/tostones.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)

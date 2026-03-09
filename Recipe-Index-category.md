@@ -56,7 +56,6 @@
 - [Heart-Healthy Banana Bread](recipes/heart-healthy-banana-bread.md)
 - [Lemon Cream](recipes/lemon-cream.md)
 - [Lemon Loaf](recipes/lemon-loaf.md)
-- [Limoncello Tiramisu](recipes/limoncello-tiramisu-2.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
 - [Mango Pudding](recipes/mango-pudding.md)
 - [Maple Pudding](recipes/maple-pudding.md)
@@ -69,7 +68,7 @@
 - [Sherry Cake](recipes/sherry-cake.md)
 - [Simple Syrup](recipes/simple-syrup.md)
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
-- [Tiramisu Structure](recipes/tiramisu-structure.md)
+- [Tiramisu](recipes/tiramisu.md)
 - [Warm Chocolate Cake](recipes/warm-chocolate-cake.md)
 
 ## Dressings & Marinades

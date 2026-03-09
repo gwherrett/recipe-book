@@ -293,7 +293,6 @@
 - [Egg Tart](recipes/egg-tart.md)
 - [Lemon Cream](recipes/lemon-cream.md)
 - [Lemon Loaf](recipes/lemon-loaf.md)
-- [Limoncello Tiramisu](recipes/limoncello-tiramisu-2.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
 - [Mango Pudding](recipes/mango-pudding.md)
 - [Maple Pudding](recipes/maple-pudding.md)
@@ -305,6 +304,6 @@
 - [Salted Chocolate Chip Cookies](recipes/salted-chocolate-chip-cookies.md)
 - [Sherry Cake](recipes/sherry-cake.md)
 - [Spiced Rum](recipes/spiced-rum.md)
-- [Tiramisu Structure](recipes/tiramisu-structure.md)
+- [Tiramisu](recipes/tiramisu.md)
 - [Warm Chocolate Cake](recipes/warm-chocolate-cake.md)
 
