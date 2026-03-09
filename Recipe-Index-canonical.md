@@ -3,7 +3,6 @@
 ## Cuisines
 
 - [African](#african)
-- [Asian](#asian)
 - [Balkan](#balkan)
 - [British](#british)
 - [Cantonese](#cantonese)
@@ -28,11 +27,6 @@
 
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
 
-## Asian
-
-- [Beyond Meat Dumplings](recipes/beyond-meat-dumplings.md)
-- [Sesame and Miso Dressing](recipes/sesame-and-miso-dressing.md)
-
 ## Balkan
 
 - [Dill Sour Cream Sauce](recipes/dill-sour-cream-sauce.md)
@@ -56,9 +50,23 @@
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Yorkshire Pudding](recipes/yorkshire-pudding.md)
 
+## Cantonese
+
+- [Baked Portuguese Chicken (Macau Style)](recipes/baked-portuguese-chicken-macau-style.md)
+- [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)
+- [Cantonese Steamed Egg with Chinese Doughnuts](recipes/cantonese-steamed-egg-with-chinese-doughnuts.md)
+- [Egg Tart](recipes/egg-tart.md)
+- [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
+- [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
+- [Mango Pudding](recipes/mango-pudding.md)
+- [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
+- [Winter Melon Soup (Cantonese)](recipes/winter-melon-soup-cantonese.md)
+
 ## Caribbean
 
+- [Barbancourt Chicken](recipes/barbancourt-chicken.md)
 - [Cubano Sandwich](recipes/cubano-sandwich.md)
+- [Curry Mutton or Goat](recipes/curry-mutton-or-goat-2.md)
 - [Grenadian-Style Curried Goat](recipes/grenadian-style-curried-goat.md)
 - [Jamaican Curry Powder](recipes/jamaican-curry-powder.md)
 - [Jamaican Goat Curry](recipes/jamaican-goat-curry.md)
@@ -69,30 +77,25 @@
 - [Ropa Vieja](recipes/ropa-vieja.md)
 - [Spiced Rum](recipes/spiced-rum.md)
 - [Tostones (Fried Green Plantains)](recipes/tostones.md)
+- [Trinidadian Coconut-Curried Goat](recipes/trinidadian-coconut-curried-goat.md)
 
 ## Chinese
 
 - [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
 - [BBQ Pork Pastry](recipes/bbq-pork-pastry.md)
-- [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)
 - [Beef Curry Puff](recipes/beef-curry-puff.md)
-- [Egg Tart](recipes/egg-tart.md)
+- [Beyond Meat Dumplings](recipes/beyond-meat-dumplings.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
 - [Five Spice Powder](recipes/chinese-five-spice-powder.md)
-- [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
 - [Korean Marinade for Quail](recipes/korean-marinade-for-quail.md)
-- [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
 - [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
-- [Mango Pudding](recipes/mango-pudding.md)
 - [Pork Bone Soup](recipes/pork-bone-soup.md)
 - [Pork Bone Soup Jobs Tears](recipes/pork-bone-soup-jobs-tears.md)
 - [Shrimp with Tomato Sauce](recipes/chinese-shrimp-with-tomato-sauce.md)
 - [Sichuan Green Beans](recipes/sichuan-green-beans.md)
 - [Spicy Cumin Lamb Biang Biang Noodles](recipes/cumin-lamb-biang-biang-noodles.md)
-- [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Taro Root Cake](recipes/taro-root-cake.md)
 - [Udon BBQ Pork with Red Peppers](recipes/udon-bbq-pork-with-red-peppers.md)
-- [Winter Melon Soup (Cantonese)](recipes/winter-melon-soup-cantonese.md)
 
 ## Filipino
 
@@ -174,6 +177,7 @@
 - [Miso Marinade for Sablefish](recipes/miso-marinade-for-sablefish.md)
 - [Rockfish Teriyaki](recipes/rockfish-teriyaki.md)
 - [Saba No Miso-ni](recipes/saba-no-miso-ni.md)
+- [Sesame and Miso Dressing](recipes/sesame-and-miso-dressing.md)
 - [Shoyu Ramen](recipes/shoyu-ramen.md)
 - [Spinach Goma-ae](recipes/spinach-goma-ae.md)
 - [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)

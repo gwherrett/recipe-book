@@ -94,7 +94,8 @@ def main():
         )
 
     # 1) Flat index (alphabetical)
-    flat_lines = ["# Recipe Index (Flat — Alphabetical)", ""]
+    total = len(entries)
+    flat_lines = ["# Recipe Index (Flat — Alphabetical)", "", f"**{total} recipes**", ""]
     for e in sorted(entries, key=lambda x: x["title"].lower()):
         flat_lines.append(f'- [{e["title"]}]({e["rel_path"]})')
 

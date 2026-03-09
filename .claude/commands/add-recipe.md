@@ -43,6 +43,8 @@ Pick the closest match. If the recipe blends two cuisines, choose the dominant o
 
 Appetizers, Breads & Pastries, Breakfast & Brunch, Dessert, Dressings & Marinades, Drinks, Mains, Pasta, Salads & Sides, Sauces & Condiments, Snacks, Soups & Stocks, Spice Mixes & Pastes
 
+**If the recipe's category is not in this list:** stop and ask the user whether to use the closest existing category or add a new one. Do not silently pick a match.
+
 ### Health rating scale
 
 | Rating | Label                 | When to use                                      |
