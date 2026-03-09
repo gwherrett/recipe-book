@@ -54,6 +54,7 @@
 
 - [Baked Portuguese Chicken (Macau Style)](recipes/baked-portuguese-chicken-macau-style.md)
 - [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)
+- [Beef Curry Puff](recipes/beef-curry-puff.md)
 - [Cantonese Steamed Egg with Chinese Doughnuts](recipes/cantonese-steamed-egg-with-chinese-doughnuts.md)
 - [Egg Tart](recipes/egg-tart.md)
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
@@ -82,7 +83,6 @@
 
 - [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
 - [BBQ Pork Pastry](recipes/bbq-pork-pastry.md)
-- [Beef Curry Puff](recipes/beef-curry-puff.md)
 - [Beyond Meat Dumplings](recipes/beyond-meat-dumplings.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
 - [Five Spice Powder](recipes/chinese-five-spice-powder.md)
