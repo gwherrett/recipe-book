@@ -60,6 +60,7 @@
 - [Egg Tart](recipes/egg-tart.md)
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
+- [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go.md)
 - [Mango Pudding](recipes/mango-pudding.md)
 - [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Winter Melon Soup (Cantonese)](recipes/winter-melon-soup-cantonese.md)
@@ -79,6 +80,7 @@
 - [Ropa Vieja](recipes/ropa-vieja.md)
 - [Spiced Rum](recipes/spiced-rum.md)
 - [Tostones (Fried Green Plantains)](recipes/tostones.md)
+- [Yucca with Garlic Sauce (Yuca con Mojo)](recipes/yuca-con-mojo.md)
 
 ## Chinese
 
@@ -123,7 +125,11 @@
 - [Mulligatawny Soup](recipes/mulligatawny-soup.md)
 - [Naan for Breadmaker](recipes/naan-for-breadmaker.md)
 - [Palak Paneer](recipes/palak-paneer.md)
+- [Prawns in Coconut Masala](recipes/prawns-in-coconut-masala.md)
 - [Red Lentil Daal (Masoor Dal)](recipes/red-lentil-daal-masoor-dal.md)
+- [Rice Pudding](recipes/rice-pudding.md)
+- [Stewed Cinnamon-Scented Goat or Lamb Curry](recipes/stewed-cinnamon-scented-goat-or-lamb-curry.md)
+- [Vij Family's Chicken Curry](recipes/vij-familys-chicken-curry.md)
 
 ## Italian
 

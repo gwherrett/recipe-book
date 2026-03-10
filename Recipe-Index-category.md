@@ -25,6 +25,7 @@
 - [Extra Stuffings for Zucchini Flowers](recipes/extra-stuffings-for-zucchini-flowers.md)
 - [Horseradish Corn Cheese Melt](recipes/horseradish-corn-cheese-melt.md)
 - [Lemony Marinated Feta](recipes/lemony-marinated-feta.md)
+- [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go.md)
 - [Mini Lamb, Ale & Parsnip Pies](recipes/mini-lamb-ale-parsnip-pies.md)
 - [Pesto–Ricotta Dip](recipes/pesto-ricotta-dip.md)
 - [Pickled Salmon](recipes/pickled-salmon.md)
@@ -64,6 +65,7 @@
 - [Pecan Pie](recipes/pecan-pie.md)
 - [Phyllo Pastry Shells (Muffin Tin Method)](recipes/phyllo-pastry-shells-muffin-tin-method.md)
 - [Raspberry and Blueberry Crumble](recipes/raspberry-and-blueberry-crumble.md)
+- [Rice Pudding](recipes/rice-pudding.md)
 - [Roasted Strawberry Mess with Sumac and Mint](recipes/roasted-strawberry-mess-with-sumac-and-mint.md)
 - [Salted Chocolate Chip Cookies](recipes/salted-chocolate-chip-cookies.md)
 - [Sherry Cake](recipes/sherry-cake.md)
@@ -156,6 +158,7 @@
 - [Persian Lamb Shanks](recipes/persian-lamb-shanks.md)
 - [Plancha Mackerel with Peppers & Onions](recipes/plancha-mackerel-with-peppers-onions.md)
 - [Pork Chops with Sage Mushroom Sauce](recipes/pork-chops-with-sage-mushroom-sauce.md)
+- [Prawns in Coconut Masala](recipes/prawns-in-coconut-masala.md)
 - [Pulled Pork](recipes/pulled-pork.md)
 - [Pulled Pork Shoulder with Spiced Cider Mop](recipes/pulled-pork-shoulder-with-spiced-cider-mop.md)
 - [Red Lentil Daal (Masoor Dal)](recipes/red-lentil-daal-masoor-dal.md)
@@ -180,6 +183,7 @@
 - [Smoked Side Ribs](recipes/smoked-side-ribs.md)
 - [Southwestern Black Bean & Corn Chili](recipes/southwestern-black-bean-corn-chili.md)
 - [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
+- [Stewed Cinnamon-Scented Goat or Lamb Curry](recipes/stewed-cinnamon-scented-goat-or-lamb-curry.md)
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Swimming Scallops with Tamarind Sweet Sauce](recipes/swimming-scallops-with-tamarind-sweet-sauce.md)
 - [Tagliatelle with Lemon, Shrimp and Arugula](recipes/tagliatelle-with-lemon-shrimp-and-arugula.md)
@@ -194,6 +198,7 @@
 - [Udon BBQ Pork with Red Peppers](recipes/udon-bbq-pork-with-red-peppers.md)
 - [Veggie Chili](recipes/veggie-chili.md)
 - [Vermicelli Noodle Bowls](recipes/vermicelli-noodle-bowls.md)
+- [Vij Family's Chicken Curry](recipes/vij-familys-chicken-curry.md)
 - [Wine-Braised Lamb Shanks with Herbes de Provence](recipes/wine-braised-lamb-shanks-with-herbes-de-provence.md)
 
 ## Pasta
@@ -272,6 +277,7 @@
 - [Tostones (Fried Green Plantains)](recipes/tostones.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
 - [Tuscan Panzanella](recipes/tuscan-panzanella.md)
+- [Yucca with Garlic Sauce (Yuca con Mojo)](recipes/yuca-con-mojo.md)
 
 ## Sauces & Condiments
 
