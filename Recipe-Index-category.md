@@ -34,6 +34,7 @@
 
 ## Breads & Pastries
 
+- [Kol Böreği (Potato, Spinach & Cheese Filo Pie)](recipes/kol-boregi-potato-spinach-cheese-filo-pie.md)
 - [Naan for Breadmaker](recipes/naan-for-breadmaker.md)
 - [Pie Crust](recipes/pie-crust.md)
 - [Yorkshire Pudding](recipes/yorkshire-pudding.md)

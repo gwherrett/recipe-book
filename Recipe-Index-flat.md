@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**291 recipes**
+**292 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -119,6 +119,7 @@
 - [Juicy Burger](recipes/juicy-burger.md)
 - [Kale Apple Slaw](recipes/kale-apple-slaw.md)
 - [Kale-Cabbage-Carrot Slaw](recipes/kale-cabbage-carrot-slaw.md)
+- [Kol Böreği (Potato, Spinach & Cheese Filo Pie)](recipes/kol-boregi-potato-spinach-cheese-filo-pie.md)
 - [Korean Marinade for Quail](recipes/korean-marinade-for-quail.md)
 - [Lamb Meatballs in Tomato Sauce](recipes/lamb-meatballs-in-tomato-sauce.md)
 - [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)

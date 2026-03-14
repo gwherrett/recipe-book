@@ -270,6 +270,7 @@
 - [Horseradish Corn Cheese Melt](recipes/horseradish-corn-cheese-melt.md)
 - [Horseradish Cream Sauce](recipes/horseradish-cream-sauce.md)
 - [Juicy Burger](recipes/juicy-burger.md)
+- [Kol Böreği (Potato, Spinach & Cheese Filo Pie)](recipes/kol-boregi-potato-spinach-cheese-filo-pie.md)
 - [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)
 - [Lobster Mac n Cheese](recipes/lobster-mac-and-cheese.md)
 - [Mac & Cheese with Za'atar Pesto](recipes/mac-and-cheese-with-zaatar-pesto.md)
