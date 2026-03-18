@@ -48,6 +48,7 @@ health_rating_label: Generally Healthy
 ## Uses
 - Tacos, tostadas, burritos, quesadillas, tortas, taco salads, nachos.
 - Breakfast: skillet hash with potatoes & eggs, or chilaquiles.
+- **Enchiladas:** use as the filling in [Chicken Enchiladas](chicken-enchiladas.md) with [Salsa Roja](salsa-roja.md) for the red sauce.
 
 ## Tips & Variations
 - **Tinga‑style:** Add ½ thinly sliced white onion at the end and ½ tsp dried thyme.  

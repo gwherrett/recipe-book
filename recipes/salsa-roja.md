@@ -36,3 +36,7 @@ A mild, rich red chile sauce perfect for enchiladas, chilaquiles, or braised dis
 ---
 
 Let cool slightly before using or refrigerate for up to 1 week.
+
+## Uses
+- Red sauce for [Chicken Enchiladas](chicken-enchiladas.md)
+- Chilaquiles, braised dishes, or as a general dipping/table salsa

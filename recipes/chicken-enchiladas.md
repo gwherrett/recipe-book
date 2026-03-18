@@ -1,6 +1,6 @@
 ---
-title: Shredded Chicken Enchiladas
-slug: shredded-chicken-enchiladas
+title: Chicken Enchiladas
+slug: chicken-enchiladas
 category: Mains
 tags:
 - enchiladas
@@ -17,7 +17,7 @@ health_rating: 3
 health_rating_label: Mixed / Context-Dependent
 ---
 
-# Shredded Chicken Enchiladas (Red & Green)
+# Chicken Enchiladas (Red & Green)
 
 A flexible, crowd‑pleasing pan of enchiladas where half are sauced **rojo** (red) and half **verde** (green). You mentioned you already have **tomatillo (green) sauce**—perfect! Use it as‑is for the green side and make the quick red sauce below.
 
@@ -33,16 +33,8 @@ A flexible, crowd‑pleasing pan of enchiladas where half are sauced **rojo** (r
 ### Green (Tomatillo) Sauce
 - 2 cups **prepared tomatillo/green enchilada sauce** *(use what you have)*
 
-### Quick Red Enchilada Sauce
-- 1 tbsp **olive oil**
-- 1/2 **onion**, finely chopped
-- 2 **garlic** cloves, minced
-- 1 tsp **ground cumin**
-- 1 tsp **mild chili powder** or **paprika**
-- 1/2 tsp **dried oregano**
-- 2 cups **tomato sauce** (or crushed tomatoes, blended smooth)
-- **Salt & pepper**, to taste
-- Optional: pinch **sugar** or splash **apple cider vinegar** to balance
+### Red Enchilada Sauce
+- 1 batch **[Salsa Roja](salsa-roja.md)** (make ahead or while chicken poaches)
 
 ### To Assemble
 - 8–12 **corn tortillas**
@@ -57,11 +49,8 @@ A flexible, crowd‑pleasing pan of enchiladas where half are sauced **rojo** (r
    2. Bring to a boil, then simmer gently **15–20 min** until cooked through.
    3. Remove chicken; cool slightly and **shred** with two forks. Reserve 1/2 cup poaching liquid for loosening fillings if needed.
 
-2. **Make the Quick Red Sauce**
-   1. Heat oil over medium. Sauté onion **4–5 min** until translucent; add garlic **30 sec**.
-   2. Stir in cumin, chili powder/paprika, oregano **30–60 sec** to bloom.
-   3. Add tomato sauce; season with salt & pepper. Simmer **8–10 min**. 
-   4. Taste and balance with a pinch of sugar or splash of vinegar if desired.
+2. **Make the Salsa Roja**
+   - Follow the [Salsa Roja](salsa-roja.md) recipe. Can be made up to a week ahead and refrigerated.
 
 3. **Prep Tortillas**
    - Lightly **pan‑fry** each tortilla in a film of oil **10–15 sec/side** to make pliable, or steam/microwave wrapped in a damp towel.
@@ -79,6 +68,7 @@ A flexible, crowd‑pleasing pan of enchiladas where half are sauced **rojo** (r
    - Rest 5 minutes. Top with cilantro, crema, onion, avocado, and lime. Serve with rice and beans if you like.
 
 ## Notes & Swaps
+- **Better filling:** use **[Shredded Chicken Legs](shredded-chicken-legs.md)** instead of plain poached chicken for a much more flavourful, chipotle-spiced filling — skip the poaching step entirely.
 - **Chicken alternatives:** use rotisserie chicken or leftover roast turkey; skip poaching step.
 - **Extra juicy filling:** mix 1/4–1/2 cup green or red sauce into the shredded chicken.
 - **Heat level:** add minced jalapeño/serrano to red sauce or a few dashes of hot sauce.
