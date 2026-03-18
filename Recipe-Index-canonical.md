@@ -211,6 +211,7 @@
 - [Caesar Dressing with Anchovy](recipes/caesar-dressing-with-anchovy.md)
 - [Camote con Chile y Limón (Sweet Potatoes)](recipes/camote-con-chile-y-limon-sweet-potatoes.md)
 - [Causa Rellena (Peruvian Potato Terrine)](recipes/causa-rellena-peruvian-potato-terrine.md)
+- [Chicken Enchiladas](recipes/chicken-enchiladas.md)
 - [Chicken Mole (Oaxacan-Style)](recipes/chicken-mole-oaxacan-style.md)
 - [Chile Relleno](recipes/chile-relleno.md)
 - [Fajitas](recipes/fajitas.md)
@@ -224,7 +225,6 @@
 - [Pozole Rojo](recipes/pozole-rojo.md)
 - [Salsa Fresca (Pico de Gallo)](recipes/salsa-fresca-pico-de-gallo.md)
 - [Salsa Roja](recipes/salsa-roja.md)
-- [Shredded Chicken Enchiladas](recipes/shredded-chicken-enchiladas.md)
 - [Shredded Chicken Legs](recipes/shredded-chicken-legs.md)
 - [Tomatillo Jam](recipes/tomatillo-jam.md)
 
