@@ -139,6 +139,7 @@
 - [Jerk Chicken](recipes/jerk-chicken.md)
 - [Juicy Burger](recipes/juicy-burger.md)
 - [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
+- [Lamb Shoulder Tacos (Cordero Guisado)](recipes/lamb-shoulder-tacos.md)
 - [Lamb Stew Rendang](recipes/lamb-stew-rendang.md)
 - [Litti Chokha](recipes/litti-chokha.md)
 - [Lobster Mac n Cheese](recipes/lobster-mac-and-cheese.md)

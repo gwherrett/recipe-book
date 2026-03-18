@@ -216,6 +216,7 @@
 - [Fajitas](recipes/fajitas.md)
 - [Gallo Pinto](recipes/gallo-pinto.md)
 - [Kale-Cabbage-Carrot Slaw](recipes/kale-cabbage-carrot-slaw.md)
+- [Lamb Shoulder Tacos (Cordero Guisado)](recipes/lamb-shoulder-tacos.md)
 - [Mango Salsa](recipes/mango-salsa.md)
 - [Mojo Pork Tacos](recipes/mojo-pork-tacos.md)
 - [Pickled Jalapeños](recipes/pickled-jalapenos.md)

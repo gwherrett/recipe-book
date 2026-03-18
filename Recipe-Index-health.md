@@ -187,6 +187,7 @@
 - [Jerk Chicken](recipes/jerk-chicken.md)
 - [Lamb Meatballs in Tomato Sauce](recipes/lamb-meatballs-in-tomato-sauce.md)
 - [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
+- [Lamb Shoulder Tacos (Cordero Guisado)](recipes/lamb-shoulder-tacos.md)
 - [Lamb Stew Rendang](recipes/lamb-stew-rendang.md)
 - [Lemony Marinated Feta](recipes/lemony-marinated-feta.md)
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go.md)
