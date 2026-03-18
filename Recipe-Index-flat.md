@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**292 recipes**
+**293 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -276,6 +276,7 @@
 - [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)
 - [Turkey Salad with Preserved Lemon](recipes/turkey-salad.md)
 - [Turkey Tetrazzini with Macaroni & Pita Chip Crust](recipes/turkey-tetrazzini-with-macaroni.md)
+- [Turkish Salad](recipes/turkish-salad.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 - [Tuscan Panzanella](recipes/tuscan-panzanella.md)
 - [Tzatziki](recipes/tzatziki.md)

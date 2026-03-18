@@ -277,6 +277,7 @@
 - [Tarragon & Pickle Potato Salad](recipes/tarragon-pickle-potato-salad.md)
 - [Tostones (Fried Green Plantains)](recipes/tostones.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
+- [Turkish Salad](recipes/turkish-salad.md)
 - [Tuscan Panzanella](recipes/tuscan-panzanella.md)
 - [Yucca with Garlic Sauce (Yuca con Mojo)](recipes/yuca-con-mojo.md)
 
