@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**292 recipes**
+**293 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -212,6 +212,7 @@
 - [Rosemary-Roasted Leg of Lamb with Balsamic Sauce](recipes/rosemary-roasted-leg-of-lamb-with-balsamic-sauce.md)
 - [Saba No Miso-ni](recipes/saba-no-miso-ni.md)
 - [Sage-Infused Hot Pepper Sauce](recipes/sage-infused-hot-pepper-sauce.md)
+- [Salata Salad](recipes/salata-salad.md)
 - [Salmon Chowder](recipes/salmon-chowder.md)
 - [Salmon with Anchovy-Garlic Butter](recipes/salmon-with-anchovy-garlic-butter.md)
 - [Salmon With Dijon Brown Sugar](recipes/salmon-with-dijon-brown-sugar.md)

@@ -266,6 +266,7 @@
 - [Roasted Carrots with Spice Blend](recipes/roasted-carrots-with-spice-blend.md)
 - [Roasted Celeriac with Thyme and Lemon](recipes/roasted-celeriac-with-thyme-and-lemon.md)
 - [Roasted Hispi Cabbage with Pine Nut Vinaigrette](recipes/roasted-hispi-cabbage-with-pine-nut-vinaigrette.md)
+- [Salata Salad](recipes/salata-salad.md)
 - [Seared Duck Breast Salad](recipes/seared-duck-breast-salad.md)
 - [Shirazi Salad](recipes/shirazi-salad.md)
 - [Sichuan Green Beans](recipes/sichuan-green-beans.md)
