@@ -1,13 +1,13 @@
 ---
-title: Salata Salad
-slug: salata-salad
+title: Turkish Salad
+slug: turkish-salad
 cuisine: Middle Eastern
 category: Salads & Sides
 health_rating: 4
 health_rating_label: Generally Healthy
 ---
 
-# Salata Salad
+# Turkish Salad
 
 **Yield:** 6–8 servings
 
