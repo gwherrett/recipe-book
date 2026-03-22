@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**294 recipes**
+**295 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -225,6 +225,7 @@
 - [Seafood Paella (Paella de Marisco)](recipes/seafood-paella-paella-de-marisco.md)
 - [Seared Duck Breast Salad](recipes/seared-duck-breast-salad.md)
 - [Sesame and Miso Dressing](recipes/sesame-and-miso-dressing.md)
+- [Shanghai Fried Noodles (Cu Chao Mian)](recipes/shanghai-fried-noodles.md)
 - [Sherry Cake](recipes/sherry-cake.md)
 - [Shirazi Salad](recipes/shirazi-salad.md)
 - [Shoyu Ramen](recipes/shoyu-ramen.md)

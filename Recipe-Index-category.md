@@ -219,6 +219,7 @@
 - [Pasta with Barese Sausage](recipes/pasta-with-barese-sausage.md)
 - [Rigatoni with Sausages and Red Peppers](recipes/rigatoni-with-sausages-and-red-peppers.md)
 - [Sausage, Cheese & Basil Lasagna](recipes/sausage-cheese-basil-lasagna.md)
+- [Shanghai Fried Noodles (Cu Chao Mian)](recipes/shanghai-fried-noodles.md)
 - [Smoked Gouda Mac n Cheese](recipes/smoked-gouda-mac-n-cheese.md)
 - [Spaetzle](recipes/spaetzle.md)
 - [Spaghetti alle Vongole](recipes/spaghetti-alle-vongole.md)

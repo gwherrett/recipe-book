@@ -224,6 +224,7 @@
 - [Rosemary-Roasted Leg of Lamb with Balsamic Sauce](recipes/rosemary-roasted-leg-of-lamb-with-balsamic-sauce.md)
 - [Salmon Chowder](recipes/salmon-chowder.md)
 - [Sesame and Miso Dressing](recipes/sesame-and-miso-dressing.md)
+- [Shanghai Fried Noodles (Cu Chao Mian)](recipes/shanghai-fried-noodles.md)
 - [Shrimp Bisque](recipes/shrimp-bisque.md)
 - [Shrimp with Tomato Sauce](recipes/chinese-shrimp-with-tomato-sauce.md)
 - [Slow Cooker Chili](recipes/slow-cooker-chili.md)
