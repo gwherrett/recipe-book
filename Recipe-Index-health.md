@@ -158,6 +158,7 @@
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
 - [Chicken Pot Pie](recipes/chicken-pot-pies.md)
 - [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
+- [Chilaquiles Master Recipe](recipes/chilaquiles-master-recipe.md)
 - [Chile Relleno](recipes/chile-relleno.md)
 - [Chili Powder (Ancho-Based)](recipes/chili-powder-ancho-based.md)
 - [Claypot Lobster Maenam](recipes/claypot-lobster-maenam.md)

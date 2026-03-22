@@ -214,6 +214,7 @@
 - [Causa Rellena (Peruvian Potato Terrine)](recipes/causa-rellena-peruvian-potato-terrine.md)
 - [Chicken Enchiladas](recipes/chicken-enchiladas.md)
 - [Chicken Mole (Oaxacan-Style)](recipes/chicken-mole-oaxacan-style.md)
+- [Chilaquiles Master Recipe](recipes/chilaquiles-master-recipe.md)
 - [Chile Relleno](recipes/chile-relleno.md)
 - [Fajitas](recipes/fajitas.md)
 - [Gallo Pinto](recipes/gallo-pinto.md)

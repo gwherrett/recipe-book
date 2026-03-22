@@ -42,6 +42,7 @@
 ## Breakfast & Brunch
 
 - [Cantonese Steamed Egg with Chinese Doughnuts](recipes/cantonese-steamed-egg-with-chinese-doughnuts.md)
+- [Chilaquiles Master Recipe](recipes/chilaquiles-master-recipe.md)
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
 - [Egg Strata](recipes/egg-strata.md)
 - [Puffy Cakes](recipes/puffy-cakes.md)

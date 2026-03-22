@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**295 recipes**
+**296 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -54,6 +54,7 @@
 - [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
 - [Chicken with Dates, Saffron and Freekeh](recipes/chicken-with-dates-saffron-and-freekeh.md)
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)
+- [Chilaquiles Master Recipe](recipes/chilaquiles-master-recipe.md)
 - [Chile Relleno](recipes/chile-relleno.md)
 - [Chili Powder (Ancho-Based)](recipes/chili-powder-ancho-based.md)
 - [Chocolate Sauce](recipes/chocolate-sauce.md)
