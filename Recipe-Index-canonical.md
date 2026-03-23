@@ -260,7 +260,6 @@
 - [Celery & Stilton Soup](recipes/celery-stilton-soup.md)
 - [Cheese Crackers](recipes/cheese-crackers.md)
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
-- [Chicken Pot Pie](recipes/chicken-pot-pies.md)
 - [Chicken Stock](recipes/chicken-stock.md)
 - [Chili Powder (Ancho-Based)](recipes/chili-powder-ancho-based.md)
 - [Chocolate Sauce](recipes/chocolate-sauce.md)

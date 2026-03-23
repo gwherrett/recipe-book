@@ -116,7 +116,6 @@
 - [Chicken Enchiladas](recipes/chicken-enchiladas.md)
 - [Chicken Mole (Oaxacan-Style)](recipes/chicken-mole-oaxacan-style.md)
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
-- [Chicken Pot Pie](recipes/chicken-pot-pies.md)
 - [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
 - [Chicken with Dates, Saffron and Freekeh](recipes/chicken-with-dates-saffron-and-freekeh.md)
 - [Chile Relleno](recipes/chile-relleno.md)

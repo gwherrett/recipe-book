@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**295 recipes**
+**294 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -48,7 +48,6 @@
 - [Chicken Mole (Oaxacan-Style)](recipes/chicken-mole-oaxacan-style.md)
 - [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
-- [Chicken Pot Pie](recipes/chicken-pot-pies.md)
 - [Chicken Soup with Thai Basil](recipes/chicken-soup-with-thai-basil.md)
 - [Chicken Stock](recipes/chicken-stock.md)
 - [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)

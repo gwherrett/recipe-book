@@ -156,7 +156,6 @@
 - [Celery & Stilton Soup](recipes/celery-stilton-soup.md)
 - [Chicken Enchiladas](recipes/chicken-enchiladas.md)
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
-- [Chicken Pot Pie](recipes/chicken-pot-pies.md)
 - [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
 - [Chilaquiles Master Recipe](recipes/chilaquiles-master-recipe.md)
 - [Chile Relleno](recipes/chile-relleno.md)
