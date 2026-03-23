@@ -277,6 +277,7 @@
 - [Creamed Spinach](recipes/healthy-creamed-spinach.md)
 - [Creamy Horseradish Mashed Potatoes](recipes/creamy-horseradish-mashed-potatoes.md)
 - [Creole Sauce](recipes/creole-sauce.md)
+- [Dutch Baby Pancake](recipes/dutch-baby-pancake.md)
 - [Egg Strata](recipes/egg-strata.md)
 - [Frozen Banana Cocoa Ice Cream](recipes/frozen-banana-cocoa-ice-cream.md)
 - [Garlic Mashed Potatoes with Yogurt](recipes/garlic-mashed-potatoes-with-yogurt.md)

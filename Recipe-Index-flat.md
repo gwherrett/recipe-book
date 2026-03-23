@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**296 recipes**
+**297 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -82,6 +82,7 @@
 - [Dill Sour Cream Sauce](recipes/dill-sour-cream-sauce.md)
 - [Duck Breasts with Pomegranate Barberry Sauce](recipes/duck-breasts-with-pomegranate-barberry-sauce.md)
 - [Duck Oyakodon](recipes/duck-oyakodon.md)
+- [Dutch Baby Pancake](recipes/dutch-baby-pancake.md)
 - [Eel Sauce (Unagi Sauce)](recipes/eel-sauce-unagi-sauce.md)
 - [Egg Strata](recipes/egg-strata.md)
 - [Egg Tart](recipes/egg-tart.md)

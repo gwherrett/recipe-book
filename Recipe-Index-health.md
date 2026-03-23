@@ -267,6 +267,7 @@
 - [Classic Lasagna](recipes/classic-lasagna.md)
 - [Creamy Horseradish Mashed Potatoes](recipes/creamy-horseradish-mashed-potatoes.md)
 - [Cubano Sandwich](recipes/cubano-sandwich.md)
+- [Dutch Baby Pancake](recipes/dutch-baby-pancake.md)
 - [Egg Strata](recipes/egg-strata.md)
 - [Extra Stuffings for Zucchini Flowers](recipes/extra-stuffings-for-zucchini-flowers.md)
 - [French Onion Soup](recipes/french-onion-soup.md)

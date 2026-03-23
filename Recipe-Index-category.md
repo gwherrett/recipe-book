@@ -44,6 +44,7 @@
 - [Cantonese Steamed Egg with Chinese Doughnuts](recipes/cantonese-steamed-egg-with-chinese-doughnuts.md)
 - [Chilaquiles Master Recipe](recipes/chilaquiles-master-recipe.md)
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
+- [Dutch Baby Pancake](recipes/dutch-baby-pancake.md)
 - [Egg Strata](recipes/egg-strata.md)
 - [Puffy Cakes](recipes/puffy-cakes.md)
 - [Puffy Cakes (Kelly's Version of a Dutch Baby)](recipes/puffy-cakes-kellys-version-of-a-dutch-baby.md)
