@@ -42,10 +42,10 @@
 ## Breakfast & Brunch
 
 - [Cantonese Steamed Egg with Chinese Doughnuts](recipes/cantonese-steamed-egg-with-chinese-doughnuts.md)
+- [Chilaquiles Master Recipe](recipes/chilaquiles-master-recipe.md)
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
+- [Dutch Baby Pancake](recipes/dutch-baby-pancake.md)
 - [Egg Strata](recipes/egg-strata.md)
-- [Puffy Cakes](recipes/puffy-cakes.md)
-- [Puffy Cakes (Kelly's Version of a Dutch Baby)](recipes/puffy-cakes-kellys-version-of-a-dutch-baby.md)
 
 ## Dessert
 
@@ -219,6 +219,7 @@
 - [Pasta with Barese Sausage](recipes/pasta-with-barese-sausage.md)
 - [Rigatoni with Sausages and Red Peppers](recipes/rigatoni-with-sausages-and-red-peppers.md)
 - [Sausage, Cheese & Basil Lasagna](recipes/sausage-cheese-basil-lasagna.md)
+- [Shanghai Fried Noodles (Cu Chao Mian)](recipes/shanghai-fried-noodles.md)
 - [Smoked Gouda Mac n Cheese](recipes/smoked-gouda-mac-n-cheese.md)
 - [Spaetzle](recipes/spaetzle.md)
 - [Spaghetti alle Vongole](recipes/spaghetti-alle-vongole.md)

@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**294 recipes**
+**295 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -54,6 +54,7 @@
 - [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
 - [Chicken with Dates, Saffron and Freekeh](recipes/chicken-with-dates-saffron-and-freekeh.md)
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)
+- [Chilaquiles Master Recipe](recipes/chilaquiles-master-recipe.md)
 - [Chile Relleno](recipes/chile-relleno.md)
 - [Chili Powder (Ancho-Based)](recipes/chili-powder-ancho-based.md)
 - [Chocolate Sauce](recipes/chocolate-sauce.md)
@@ -81,6 +82,7 @@
 - [Dill Sour Cream Sauce](recipes/dill-sour-cream-sauce.md)
 - [Duck Breasts with Pomegranate Barberry Sauce](recipes/duck-breasts-with-pomegranate-barberry-sauce.md)
 - [Duck Oyakodon](recipes/duck-oyakodon.md)
+- [Dutch Baby Pancake](recipes/dutch-baby-pancake.md)
 - [Eel Sauce (Unagi Sauce)](recipes/eel-sauce-unagi-sauce.md)
 - [Egg Strata](recipes/egg-strata.md)
 - [Egg Tart](recipes/egg-tart.md)
@@ -192,8 +194,6 @@
 - [Pork Chops with Sage Mushroom Sauce](recipes/pork-chops-with-sage-mushroom-sauce.md)
 - [Pozole Rojo](recipes/pozole-rojo.md)
 - [Prawns in Coconut Masala](recipes/prawns-in-coconut-masala.md)
-- [Puffy Cakes](recipes/puffy-cakes.md)
-- [Puffy Cakes (Kelly's Version of a Dutch Baby)](recipes/puffy-cakes-kellys-version-of-a-dutch-baby.md)
 - [Pulled Pork](recipes/pulled-pork.md)
 - [Pulled Pork Shoulder with Spiced Cider Mop](recipes/pulled-pork-shoulder-with-spiced-cider-mop.md)
 - [Quick Fresh Chilli Sauce](recipes/quick-fresh-chilli-sauce.md)
@@ -225,6 +225,7 @@
 - [Seafood Paella (Paella de Marisco)](recipes/seafood-paella-paella-de-marisco.md)
 - [Seared Duck Breast Salad](recipes/seared-duck-breast-salad.md)
 - [Sesame and Miso Dressing](recipes/sesame-and-miso-dressing.md)
+- [Shanghai Fried Noodles (Cu Chao Mian)](recipes/shanghai-fried-noodles.md)
 - [Sherry Cake](recipes/sherry-cake.md)
 - [Shirazi Salad](recipes/shirazi-salad.md)
 - [Shoyu Ramen](recipes/shoyu-ramen.md)
