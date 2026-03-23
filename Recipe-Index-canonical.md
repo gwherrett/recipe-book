@@ -298,8 +298,6 @@
 - [Pecan Pie](recipes/pecan-pie.md)
 - [Pickled Salmon](recipes/pickled-salmon.md)
 - [Pie Crust](recipes/pie-crust.md)
-- [Puffy Cakes](recipes/puffy-cakes.md)
-- [Puffy Cakes (Kelly's Version of a Dutch Baby)](recipes/puffy-cakes-kellys-version-of-a-dutch-baby.md)
 - [Pulled Pork](recipes/pulled-pork.md)
 - [Pulled Pork Shoulder with Spiced Cider Mop](recipes/pulled-pork-shoulder-with-spiced-cider-mop.md)
 - [Raspberry and Blueberry Crumble](recipes/raspberry-and-blueberry-crumble.md)

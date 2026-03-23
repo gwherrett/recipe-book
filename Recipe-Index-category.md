@@ -46,8 +46,6 @@
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
 - [Dutch Baby Pancake](recipes/dutch-baby-pancake.md)
 - [Egg Strata](recipes/egg-strata.md)
-- [Puffy Cakes](recipes/puffy-cakes.md)
-- [Puffy Cakes (Kelly's Version of a Dutch Baby)](recipes/puffy-cakes-kellys-version-of-a-dutch-baby.md)
 
 ## Dessert
 

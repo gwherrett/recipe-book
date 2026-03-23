@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**297 recipes**
+**295 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -194,8 +194,6 @@
 - [Pork Chops with Sage Mushroom Sauce](recipes/pork-chops-with-sage-mushroom-sauce.md)
 - [Pozole Rojo](recipes/pozole-rojo.md)
 - [Prawns in Coconut Masala](recipes/prawns-in-coconut-masala.md)
-- [Puffy Cakes](recipes/puffy-cakes.md)
-- [Puffy Cakes (Kelly's Version of a Dutch Baby)](recipes/puffy-cakes-kellys-version-of-a-dutch-baby.md)
 - [Pulled Pork](recipes/pulled-pork.md)
 - [Pulled Pork Shoulder with Spiced Cider Mop](recipes/pulled-pork-shoulder-with-spiced-cider-mop.md)
 - [Quick Fresh Chilli Sauce](recipes/quick-fresh-chilli-sauce.md)

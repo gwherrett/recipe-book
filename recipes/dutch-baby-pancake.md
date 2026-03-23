@@ -30,10 +30,25 @@ A skillet-baked pancake that puffs up dramatically in the oven like a popover or
 - ½ teaspoon vanilla extract
 - 3 tablespoons (43g) unsalted butter
 
-### Toppings
+### Toppings (pick your favourites)
 
-- 2 tablespoons confectioners' sugar, for sifting
-- Optional: berries, whipped cream, maple syrup, and/or strawberry sauce
+**Sweet**
+- Confectioners' sugar (sifted over top)
+- Maple syrup
+- Fresh berries
+- Whipped cream
+- Strawberry, raspberry, or blueberry sauce
+- Lemon curd
+- Nutella & sliced banana
+- Butter & a sprinkle of cinnamon sugar
+- Sautéed apple slices & cinnamon
+- Salted caramel
+
+**Savory**
+- Homemade pesto & sautéed vegetables (spinach, mushrooms, peppers)
+- Fresh mozzarella, basil & cherry tomatoes
+- Cooked ham, Canadian bacon, or prosciutto & a drizzle of hollandaise sauce
+- Smoked salmon, sour cream, arugula & chives (see savory version note below)
 
 ---
 
