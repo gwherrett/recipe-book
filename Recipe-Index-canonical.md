@@ -227,7 +227,6 @@
 - [Pozole Rojo](recipes/pozole-rojo.md)
 - [Salsa Fresca (Pico de Gallo)](recipes/salsa-fresca-pico-de-gallo.md)
 - [Salsa Roja](recipes/salsa-roja.md)
-- [Shredded Chicken Legs](recipes/shredded-chicken-legs.md)
 - [Tomatillo Jam](recipes/tomatillo-jam.md)
 
 ## Middle Eastern

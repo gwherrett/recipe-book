@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**294 recipes**
+**293 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -228,7 +228,6 @@
 - [Sherry Cake](recipes/sherry-cake.md)
 - [Shirazi Salad](recipes/shirazi-salad.md)
 - [Shoyu Ramen](recipes/shoyu-ramen.md)
-- [Shredded Chicken Legs](recipes/shredded-chicken-legs.md)
 - [Shrimp Bisque](recipes/shrimp-bisque.md)
 - [Shrimp with Tomato Sauce](recipes/chinese-shrimp-with-tomato-sauce.md)
 - [Sichuan Green Beans](recipes/sichuan-green-beans.md)

@@ -172,7 +172,6 @@
 - [Salmon With Dijon Brown Sugar](recipes/salmon-with-dijon-brown-sugar.md)
 - [Seafood Paella (Paella de Marisco)](recipes/seafood-paella-paella-de-marisco.md)
 - [Shoyu Ramen](recipes/shoyu-ramen.md)
-- [Shredded Chicken Legs](recipes/shredded-chicken-legs.md)
 - [Shrimp with Tomato Sauce](recipes/chinese-shrimp-with-tomato-sauce.md)
 - [Simple Roast Chicken](recipes/simple-roast-chicken.md)
 - [Slow Cooker Chili](recipes/slow-cooker-chili.md)
