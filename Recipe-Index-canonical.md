@@ -227,7 +227,6 @@
 - [Pozole Rojo](recipes/pozole-rojo.md)
 - [Salsa Fresca (Pico de Gallo)](recipes/salsa-fresca-pico-de-gallo.md)
 - [Salsa Roja](recipes/salsa-roja.md)
-- [Shredded Chicken Legs](recipes/shredded-chicken-legs.md)
 - [Tomatillo Jam](recipes/tomatillo-jam.md)
 
 ## Middle Eastern
@@ -260,7 +259,6 @@
 - [Celery & Stilton Soup](recipes/celery-stilton-soup.md)
 - [Cheese Crackers](recipes/cheese-crackers.md)
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
-- [Chicken Pot Pie](recipes/chicken-pot-pies.md)
 - [Chicken Stock](recipes/chicken-stock.md)
 - [Chili Powder (Ancho-Based)](recipes/chili-powder-ancho-based.md)
 - [Chocolate Sauce](recipes/chocolate-sauce.md)
