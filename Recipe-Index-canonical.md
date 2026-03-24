@@ -21,7 +21,6 @@
 - [Southern / Cajun](#southern-cajun)
 - [Spanish](#spanish)
 - [Thai](#thai)
-- [Unassigned](#unassigned)
 - [Vietnamese](#vietnamese)
 
 ## African
@@ -115,6 +114,7 @@
 - [Ratatouille with Celery & Corn](recipes/ratatouille-with-celery-corn.md)
 - [Shrimp Bisque](recipes/shrimp-bisque.md)
 - [Simple Syrup](recipes/simple-syrup.md)
+- [Tapénade](recipes/tapenade.md)
 - [Warm Chocolate Cake](recipes/warm-chocolate-cake.md)
 - [Wine-Braised Lamb Shanks with Herbes de Provence](recipes/wine-braised-lamb-shanks-with-herbes-de-provence.md)
 
@@ -366,10 +366,6 @@
 - [Thai Dressing](recipes/thai-dressing.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
-
-## Unassigned
-
-- [tapenade](recipes/tapenade.md)
 
 ## Vietnamese
 

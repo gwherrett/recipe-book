@@ -7,7 +7,6 @@
 - [3 – Manage portion size       (Balanced but energy-dense; watch servings)](#3-manage-portion-size-balanced-but-energy-dense-watch-servings)
 - [2 – High in Fat/Sugar/Salt    (Rich, salty, or sugary; occasional)](#2-high-in-fat-sugar-salt-rich-salty-or-sugary-occasional)
 - [1 – Indulgence                (Desserts, deep-fried, very rich)](#1-indulgence-desserts-deep-fried-very-rich)
-- [0 – Unrated                   (Not evaluated yet)](#0-unrated-not-evaluated-yet)
 
 ## 5 – Eat More                  (Light, plant-forward, or very wholesome)
 
@@ -241,6 +240,7 @@
 - [Stewed Cinnamon-Scented Goat or Lamb Curry](recipes/stewed-cinnamon-scented-goat-or-lamb-curry.md)
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Tagliatelle Bolognese](recipes/tagliatelle-bolognese.md)
+- [Tapénade](recipes/tapenade.md)
 - [Tarragon & Pickle Potato Salad](recipes/tarragon-pickle-potato-salad.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
@@ -316,8 +316,4 @@
 - [Spiced Rum](recipes/spiced-rum.md)
 - [Tiramisu](recipes/tiramisu.md)
 - [Warm Chocolate Cake](recipes/warm-chocolate-cake.md)
-
-## 0 – Unrated                   (Not evaluated yet)
-
-- [tapenade](recipes/tapenade.md)
 

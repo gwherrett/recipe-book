@@ -15,7 +15,6 @@
 - [Snacks](#snacks)
 - [Soups & Stocks](#soups-stocks)
 - [Spice Mixes & Pastes](#spice-mixes-pastes)
-- [Uncategorized](#uncategorized)
 
 ## Appetizers
 
@@ -302,6 +301,7 @@
 - [Salsa Roja](recipes/salsa-roja.md)
 - [Salt, Pepper, and Lime Dipping Sauce (Muối Tiêu Chanh)](recipes/salt-pepper-and-lime-dipping-sauce-muoi-tieu-chanh.md)
 - [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
+- [Tapénade](recipes/tapenade.md)
 - [Tomatillo Jam](recipes/tomatillo-jam.md)
 - [Tzatziki](recipes/tzatziki.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
@@ -348,8 +348,4 @@
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
 - [Ribs - Dry Rub](recipes/rib-rub.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
-
-## Uncategorized
-
-- [tapenade](recipes/tapenade.md)
 
