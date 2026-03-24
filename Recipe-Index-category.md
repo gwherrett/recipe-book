@@ -271,6 +271,7 @@
 - [Sous Vide Vietnamese Chicken Wings](recipes/sous-vide-vietnamese-chicken-wings.md)
 - [Southwest Kale Salad](recipes/southwest-kale-salad.md)
 - [Spinach Goma-ae](recipes/spinach-goma-ae.md)
+- [Sticky Date Spiced Carrots](recipes/sticky-date-spiced-carrots.md)
 - [Succotash](recipes/succotash.md)
 - [Taro Root Cake](recipes/taro-root-cake.md)
 - [Tarragon & Pickle Potato Salad](recipes/tarragon-pickle-potato-salad.md)

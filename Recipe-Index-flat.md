@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**293 recipes**
+**294 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -252,6 +252,7 @@
 - [Spinach Goma-ae](recipes/spinach-goma-ae.md)
 - [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Stewed Cinnamon-Scented Goat or Lamb Curry](recipes/stewed-cinnamon-scented-goat-or-lamb-curry.md)
+- [Sticky Date Spiced Carrots](recipes/sticky-date-spiced-carrots.md)
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Succotash](recipes/succotash.md)
 - [Sweet Potato Blinis](recipes/sweet-potato-blinis.md)

@@ -116,6 +116,7 @@
 - [Smoked Sablefish](recipes/smoked-sablefish.md)
 - [Spaghetti alle Vongole](recipes/spaghetti-alle-vongole.md)
 - [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
+- [Sticky Date Spiced Carrots](recipes/sticky-date-spiced-carrots.md)
 - [Succotash](recipes/succotash.md)
 - [Sweet Potato Blinis](recipes/sweet-potato-blinis.md)
 - [Swimming Scallops with Tamarind Sweet Sauce](recipes/swimming-scallops-with-tamarind-sweet-sauce.md)
