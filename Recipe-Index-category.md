@@ -15,6 +15,7 @@
 - [Snacks](#snacks)
 - [Soups & Stocks](#soups-stocks)
 - [Spice Mixes & Pastes](#spice-mixes-pastes)
+- [Uncategorized](#uncategorized)
 
 ## Appetizers
 
@@ -347,4 +348,8 @@
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
 - [Ribs - Dry Rub](recipes/rib-rub.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
+
+## Uncategorized
+
+- [tapenade](recipes/tapenade.md)
 

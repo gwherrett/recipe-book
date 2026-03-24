@@ -21,6 +21,7 @@
 - [Southern / Cajun](#southern-cajun)
 - [Spanish](#spanish)
 - [Thai](#thai)
+- [Unassigned](#unassigned)
 - [Vietnamese](#vietnamese)
 
 ## African
@@ -365,6 +366,10 @@
 - [Thai Dressing](recipes/thai-dressing.md)
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
+
+## Unassigned
+
+- [tapenade](recipes/tapenade.md)
 
 ## Vietnamese
 
