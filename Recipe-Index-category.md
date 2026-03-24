@@ -41,7 +41,6 @@
 
 ## Breakfast & Brunch
 
-- [Cantonese Steamed Egg with Chinese Doughnuts](recipes/cantonese-steamed-egg-with-chinese-doughnuts.md)
 - [Chilaquiles Master Recipe](recipes/chilaquiles-master-recipe.md)
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
 - [Dutch Baby Pancake](recipes/dutch-baby-pancake.md)
@@ -112,6 +111,7 @@
 - [Blackened Sockeye Salmon](recipes/blackened-sockeye-salmon.md)
 - [Braised Sablefish in a Casserole with Local Chanterelles and Black Truffle Butter](recipes/braised-sablefish-in-a-casserole-with-local-chanterelles-and-black-truffle-butter.md)
 - [Cajun Jambalaya](recipes/cajun-jambalaya.md)
+- [Cantonese Steamed Egg with Chinese Doughnuts](recipes/cantonese-steamed-egg-with-chinese-doughnuts.md)
 - [Cha Ca La Vong (Vietnamese Turmeric Fish with Dill)](recipes/cha-ca-la-vong-vietnamese-turmeric-fish-with-dill.md)
 - [Chicken Enchiladas](recipes/chicken-enchiladas.md)
 - [Chicken Mole (Oaxacan-Style)](recipes/chicken-mole-oaxacan-style.md)
