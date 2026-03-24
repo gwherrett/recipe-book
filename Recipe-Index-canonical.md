@@ -61,7 +61,6 @@
 - [Egg Tart](recipes/egg-tart.md)
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
-- [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go.md)
 - [Mango Pudding](recipes/mango-pudding.md)
 - [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Winter Melon Soup (Cantonese)](recipes/winter-melon-soup-cantonese.md)

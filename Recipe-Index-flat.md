@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**294 recipes**
+**293 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -135,7 +135,6 @@
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
 - [Litti Chokha](recipes/litti-chokha.md)
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
-- [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go.md)
 - [Lobster Busara](recipes/lobster-busara.md)
 - [Lobster Mac n Cheese](recipes/lobster-mac-and-cheese.md)
 - [Lobster Pasta Sauce (Busara-Style)](recipes/lobster-pasta-sauce-busara-style.md)
