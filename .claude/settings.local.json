@@ -22,7 +22,10 @@
       "Bash(git commit:*)",
       "Bash(gh run list --limit 3)",
       "Bash(git checkout -- Recipe-Index-canonical.md Recipe-Index-category.md Recipe-Index-flat.md Recipe-Index-health.md)",
-      "WebFetch(domain:drive.google.com)"
+      "WebFetch(domain:drive.google.com)",
+      "WebSearch",
+      "WebFetch(domain:makeitscotch.com)",
+      "WebFetch(domain:www.mykitchenstories.com.au)"
     ]
   }
 }

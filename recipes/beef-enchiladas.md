@@ -2,7 +2,7 @@
 title: Beef Enchilada Filling Sauce
 cuisine: Mexican
 category: Mains
-slug: beef-enchilada-filling-sauce
+slug: beef-enchiladas
 health_rating: 3
 health_rating_label: Mixed / Context-Dependent
 ---
@@ -38,7 +38,21 @@ This sauce is designed to be the filling for rolled tortillas in enchiladas topp
 ## Optional Additions
 
 - **Diced roasted poblanos** or **chopped spinach** for depth.
-- **Black beans** or **cooked rice** to stretch the filling and add texture.
+- **Black beans**, **cooked rice**, or a small can of **diced green chiles** to stretch the filling and add texture.
 - Replace part of the beef with **chorizo** for a spicier flavor.
 
-This filling pairs well with rolled enchiladas topped with rojas and tomatillo sauce and baked with cheese.
+## Assembly & Baking
+
+Serves 4. Preheat oven to 350°F (175°C). Lightly grease a 9×13-inch baking dish.
+
+**Warming tortillas (important — prevents cracking):**
+- *Dry method:* Stack and microwave 20–30 seconds.
+- *Oiled method (best texture):* Film a skillet with a little oil and warm each side 10–15 seconds.
+
+Spread ½ cup sauce over the bottom of the dish. Dip or brush one side of each tortilla with sauce, add 2–3 tbsp filling and a pinch of cheese, roll snugly, and place seam-side down. Top with remaining sauce and cheese. Bake uncovered 18–22 minutes until cheese is melted and bubbly. Rest 5 minutes before serving.
+
+## Notes
+
+- **Cheese:** Monterey Jack melts well; Oaxaca/Asadero is most classic; cheddar adds sharpness but browns faster.
+- **Tangy sauce:** If using a sharp store-bought salsa verde, whisk in 2–3 tbsp crema or sour cream to mellow the acidity.
+- **Make-ahead:** Assemble, cover tightly, and refrigerate up to 24 hours. Bake 5 minutes longer from cold.
