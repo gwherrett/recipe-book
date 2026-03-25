@@ -138,6 +138,7 @@
 - [Baked Sausage-Stuffed Shells](recipes/baked-sausage-stuffed-shells.md)
 - [Basil Dressing](recipes/basil-dressing.md)
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
+- [Cacio e Pepe](recipes/cacio-e-pepe.md)
 - [Classic Lasagna](recipes/classic-lasagna.md)
 - [Extra Stuffings for Zucchini Flowers](recipes/extra-stuffings-for-zucchini-flowers.md)
 - [Farro Salad with Tomatoes and Herbs](recipes/farro-salad-with-tomatoes-and-herbs.md)
@@ -206,8 +207,7 @@
 ## Mexican
 
 - [Adobo Sauce](recipes/adobo-sauce.md)
-- [Beef Enchilada Filling Sauce](recipes/beef-enchilada-filling-sauce.md)
-- [Beef Enchiladas Verde](recipes/beef-enchiladas-verde.md)
+- [Beef Enchilada Filling Sauce](recipes/beef-enchiladas.md)
 - [Beef Fajitas](recipes/beef-fajitas.md)
 - [Caesar Dressing with Anchovy](recipes/caesar-dressing-with-anchovy.md)
 - [Camote con Chile y Limón (Sweet Potatoes)](recipes/camote-con-chile-y-limon-sweet-potatoes.md)

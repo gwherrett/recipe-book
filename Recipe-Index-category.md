@@ -102,8 +102,7 @@
 - [Baked Sausage-Stuffed Shells](recipes/baked-sausage-stuffed-shells.md)
 - [Barbancourt Chicken](recipes/barbancourt-chicken.md)
 - [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)
-- [Beef Enchilada Filling Sauce](recipes/beef-enchilada-filling-sauce.md)
-- [Beef Enchiladas Verde](recipes/beef-enchiladas-verde.md)
+- [Beef Enchilada Filling Sauce](recipes/beef-enchiladas.md)
 - [Beef Fajitas](recipes/beef-fajitas.md)
 - [Beyond Meat Dumplings](recipes/beyond-meat-dumplings.md)
 - [Black Chickpeas with Baharat and Orange](recipes/black-chickpeas-with-baharat-and-orange.md)
@@ -204,6 +203,7 @@
 ## Pasta
 
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
+- [Cacio e Pepe](recipes/cacio-e-pepe.md)
 - [Classic Lasagna](recipes/classic-lasagna.md)
 - [Gnocchi](recipes/gnocchi.md)
 - [Gnocchi with Tomato Sauce](recipes/gnocchi-with-tomato-sauce.md)
