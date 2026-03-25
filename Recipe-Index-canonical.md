@@ -61,7 +61,6 @@
 - [Egg Tart](recipes/egg-tart.md)
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
-- [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go.md)
 - [Mango Pudding](recipes/mango-pudding.md)
 - [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Winter Melon Soup (Cantonese)](recipes/winter-melon-soup-cantonese.md)
@@ -114,6 +113,7 @@
 - [Ratatouille with Celery & Corn](recipes/ratatouille-with-celery-corn.md)
 - [Shrimp Bisque](recipes/shrimp-bisque.md)
 - [Simple Syrup](recipes/simple-syrup.md)
+- [Tapénade](recipes/tapenade.md)
 - [Warm Chocolate Cake](recipes/warm-chocolate-cake.md)
 - [Wine-Braised Lamb Shanks with Herbes de Provence](recipes/wine-braised-lamb-shanks-with-herbes-de-provence.md)
 
@@ -239,6 +239,7 @@
 - [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
 - [Quick Fresh Chilli Sauce](recipes/quick-fresh-chilli-sauce.md)
+- [Sticky Date Spiced Carrots](recipes/sticky-date-spiced-carrots.md)
 - [Turkish Salad](recipes/turkish-salad.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)

@@ -2,7 +2,7 @@
 title: Cantonese Steamed Egg with Chinese Doughnuts
 slug: cantonese-steamed-egg-with-chinese-doughnuts
 cuisine: Cantonese
-category: Breakfast & Brunch
+category: Mains
 health_rating: 3
 health_rating_label: Mixed / Context-Dependent
 ---

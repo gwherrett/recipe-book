@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**293 recipes**
+**294 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -135,7 +135,6 @@
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
 - [Litti Chokha](recipes/litti-chokha.md)
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
-- [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go.md)
 - [Lobster Busara](recipes/lobster-busara.md)
 - [Lobster Mac n Cheese](recipes/lobster-mac-and-cheese.md)
 - [Lobster Pasta Sauce (Busara-Style)](recipes/lobster-pasta-sauce-busara-style.md)
@@ -253,6 +252,7 @@
 - [Spinach Goma-ae](recipes/spinach-goma-ae.md)
 - [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Stewed Cinnamon-Scented Goat or Lamb Curry](recipes/stewed-cinnamon-scented-goat-or-lamb-curry.md)
+- [Sticky Date Spiced Carrots](recipes/sticky-date-spiced-carrots.md)
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Succotash](recipes/succotash.md)
 - [Sweet Potato Blinis](recipes/sweet-potato-blinis.md)
@@ -260,6 +260,7 @@
 - [Tagliatelle Bolognese](recipes/tagliatelle-bolognese.md)
 - [Tagliatelle with Lemon, Shrimp and Arugula](recipes/tagliatelle-with-lemon-shrimp-and-arugula.md)
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
+- [Tapénade](recipes/tapenade.md)
 - [Taro Root Cake](recipes/taro-root-cake.md)
 - [Tarragon & Pickle Potato Salad](recipes/tarragon-pickle-potato-salad.md)
 - [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb-with-rice.md)
