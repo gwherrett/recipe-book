@@ -12,7 +12,6 @@
 - [Pasta](#pasta)
 - [Salads & Sides](#salads-sides)
 - [Sauces & Condiments](#sauces-condiments)
-- [Snacks](#snacks)
 - [Soups & Stocks](#soups-stocks)
 - [Spice Mixes & Pastes](#spice-mixes-pastes)
 
@@ -38,6 +37,7 @@
 - [Naan for Breadmaker](recipes/naan-for-breadmaker.md)
 - [Ooni Classic Dough](recipes/ooni-classic-dough.md)
 - [Pie Crust](recipes/pie-crust.md)
+- [Sweet Potato Blinis](recipes/sweet-potato-blinis.md)
 - [Yorkshire Pudding](recipes/yorkshire-pudding.md)
 
 ## Breakfast & Brunch
@@ -70,7 +70,6 @@
 - [Roasted Strawberry Mess with Sumac and Mint](recipes/roasted-strawberry-mess-with-sumac-and-mint.md)
 - [Salted Chocolate Chip Cookies](recipes/salted-chocolate-chip-cookies.md)
 - [Sherry Cake](recipes/sherry-cake.md)
-- [Simple Syrup](recipes/simple-syrup.md)
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
 - [Tiramisu](recipes/tiramisu.md)
 - [Warm Chocolate Cake](recipes/warm-chocolate-cake.md)
@@ -91,6 +90,7 @@
 ## Drinks
 
 - [Ginger–Honey Sparkler (Mocktail)](recipes/ginger-honey-sparkler-mocktail.md)
+- [Simple Syrup](recipes/simple-syrup.md)
 - [Spiced Rum](recipes/spiced-rum.md)
 
 ## Mains
@@ -310,10 +310,6 @@
 - [Tzatziki](recipes/tzatziki.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
-
-## Snacks
-
-- [Sweet Potato Blinis](recipes/sweet-potato-blinis.md)
 
 ## Soups & Stocks
 
