@@ -1,11 +1,10 @@
 # Recipe Index (Flat — Alphabetical)
 
-**298 recipes**
+**300 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
 - [Adobo Sauce](recipes/adobo-sauce.md)
-- [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
 - [Agedashi Tofu](recipes/agedashi-tofu.md)
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
@@ -88,6 +87,7 @@
 - [Egg Tart](recipes/egg-tart.md)
 - [Extra Stuffings for Zucchini Flowers](recipes/extra-stuffings-for-zucchini-flowers.md)
 - [Farro Salad with Tomatoes and Herbs](recipes/farro-salad-with-tomatoes-and-herbs.md)
+- [Filipino Adobo-Marinated Pork Chops](recipes/filipino-adobo-marinated-pork-chops.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
 - [Filipino Turkey Adobo](recipes/filipino-turkey-adobo.md)
 - [Five Spice Powder](recipes/chinese-five-spice-powder.md)
@@ -104,6 +104,7 @@
 - [Gnocchi with Tomato Sauce](recipes/gnocchi-with-tomato-sauce.md)
 - [Greek Yogurt Tartar Sauce](recipes/greek-yogurt-tartar-sauce.md)
 - [Green Apple & Spring Mix Salad with Thai Basil Dressing](recipes/green-apple-spring-mix-salad-with-thai-basil-dressing.md)
+- [Green Papaya Salad with Beef Jerky](recipes/green-papaya-salad-with-beef-jerky.md)
 - [Heart-Healthy Banana Bread](recipes/heart-healthy-banana-bread.md)
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
 - [Horseradish Corn Cheese Melt](recipes/horseradish-corn-cheese-melt.md)
@@ -142,6 +143,7 @@
 - [Low Country Boil](recipes/low-country-boil.md)
 - [Mac & Cheese with Za'atar Pesto](recipes/mac-and-cheese-with-zaatar-pesto.md)
 - [Mac n Cheese](recipes/mac-n-cheese.md)
+- [Malay Curry Beef Brisket](recipes/malay-curry-beef-brisket.md)
 - [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
 - [Mango Pudding](recipes/mango-pudding.md)
 - [Mango Salsa](recipes/mango-salsa.md)

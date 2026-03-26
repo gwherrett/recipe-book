@@ -3,12 +3,12 @@
 ## Cuisines
 
 - [African](#african)
+- [Asian](#asian)
 - [Balkan](#balkan)
 - [British](#british)
 - [Cantonese](#cantonese)
 - [Caribbean](#caribbean)
 - [Chinese](#chinese)
-- [Filipino](#filipino)
 - [French](#french)
 - [Indian](#indian)
 - [Italian](#italian)
@@ -26,6 +26,15 @@
 ## African
 
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
+
+## Asian
+
+- [Filipino Adobo-Marinated Pork Chops](recipes/filipino-adobo-marinated-pork-chops.md)
+- [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
+- [Filipino Turkey Adobo](recipes/filipino-turkey-adobo.md)
+- [Korean Marinade for Quail](recipes/korean-marinade-for-quail.md)
+- [Malay Curry Beef Brisket](recipes/malay-curry-beef-brisket.md)
+- [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
 
 ## Balkan
 
@@ -84,12 +93,8 @@
 
 ## Chinese
 
-- [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
 - [Beyond Meat Dumplings](recipes/beyond-meat-dumplings.md)
-- [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
 - [Five Spice Powder](recipes/chinese-five-spice-powder.md)
-- [Korean Marinade for Quail](recipes/korean-marinade-for-quail.md)
-- [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
 - [Pork Bone Soup](recipes/pork-bone-soup.md)
 - [Pork Bone Soup Jobs Tears](recipes/pork-bone-soup-jobs-tears.md)
 - [Shanghai Fried Noodles (Cu Chao Mian)](recipes/shanghai-fried-noodles.md)
@@ -98,10 +103,6 @@
 - [Spicy Cumin Lamb Biang Biang Noodles](recipes/cumin-lamb-biang-biang-noodles.md)
 - [Taro Root Cake](recipes/taro-root-cake.md)
 - [Udon BBQ Pork with Red Peppers](recipes/udon-bbq-pork-with-red-peppers.md)
-
-## Filipino
-
-- [Filipino Turkey Adobo](recipes/filipino-turkey-adobo.md)
 
 ## French
 
@@ -375,6 +376,7 @@
 
 - [Asian Grilled Steak Salad](recipes/asian-grilled-steak-salad.md)
 - [Fried Cauliflower with Fish Sauce Vinaigrette](recipes/fried-cauliflower-with-fish-sauce-vinaigrette.md)
+- [Green Papaya Salad with Beef Jerky](recipes/green-papaya-salad-with-beef-jerky.md)
 - [Salt, Pepper, and Lime Dipping Sauce (Muối Tiêu Chanh)](recipes/salt-pepper-and-lime-dipping-sauce-muoi-tieu-chanh.md)
 - [Sous Vide Vietnamese Chicken Wings](recipes/sous-vide-vietnamese-chicken-wings.md)
 - [Swimming Scallops with Tamarind Sweet Sauce](recipes/swimming-scallops-with-tamarind-sweet-sauce.md)

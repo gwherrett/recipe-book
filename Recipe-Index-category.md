@@ -96,7 +96,6 @@
 ## Mains
 
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
-- [Adobo-Marinated Pork Chops](recipes/adobo-marinated-pork-chops.md)
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
 - [Baked Portuguese Chicken (Macau Style)](recipes/baked-portuguese-chicken-macau-style.md)
@@ -130,6 +129,7 @@
 - [Curried Goat - Trinidad Style](recipes/curried-goat-trinidad-style.md)
 - [Duck Breasts with Pomegranate Barberry Sauce](recipes/duck-breasts-with-pomegranate-barberry-sauce.md)
 - [Duck Oyakodon](recipes/duck-oyakodon.md)
+- [Filipino Adobo-Marinated Pork Chops](recipes/filipino-adobo-marinated-pork-chops.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
 - [Filipino Turkey Adobo](recipes/filipino-turkey-adobo.md)
 - [Jamaican Oxtail Stew](recipes/jamaican-oxtail-stew.md)
@@ -144,6 +144,7 @@
 - [Litti Chokha](recipes/litti-chokha.md)
 - [Lobster Mac n Cheese](recipes/lobster-mac-and-cheese.md)
 - [Low Country Boil](recipes/low-country-boil.md)
+- [Malay Curry Beef Brisket](recipes/malay-curry-beef-brisket.md)
 - [Meatballs and Peas in Tomato Sauce (Pork & Lamb Sausage, 800 g)](recipes/meatballs-and-peas-in-tomato-sauce-pork-lamb-sausage-800-g.md)
 - [Mojo Pork Tacos](recipes/mojo-pork-tacos.md)
 - [Momofuku Bo Ssäm](recipes/momofuku-bo-ssam.md)
@@ -251,6 +252,7 @@
 - [Gambas en Escabeche (Spanish Pickled Shrimp)](recipes/gambas-en-escabeche-spanish-pickled-shrimp.md)
 - [Garlic Mashed Potatoes with Yogurt](recipes/garlic-mashed-potatoes-with-yogurt.md)
 - [Green Apple & Spring Mix Salad with Thai Basil Dressing](recipes/green-apple-spring-mix-salad-with-thai-basil-dressing.md)
+- [Green Papaya Salad with Beef Jerky](recipes/green-papaya-salad-with-beef-jerky.md)
 - [Insalata Capricciosa](recipes/insalata-capricciosa.md)
 - [Japanese Slaw with Brussels Sprouts](recipes/japanese-slaw-with-brussels-sprouts.md)
 - [Kale Apple Slaw](recipes/kale-apple-slaw.md)
