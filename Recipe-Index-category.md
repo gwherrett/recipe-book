@@ -28,7 +28,6 @@
 - [Mini Lamb, Ale & Parsnip Pies](recipes/mini-lamb-ale-parsnip-pies.md)
 - [Pesto–Ricotta Dip](recipes/pesto-ricotta-dip.md)
 - [Pickled Salmon](recipes/pickled-salmon.md)
-- [White Anchovy & Egg Pizza](recipes/white-anchovy-egg-pizza.md)
 - [White Bean Dip](recipes/white-bean-dip.md)
 
 ## Breads & Pastries
@@ -38,6 +37,7 @@
 - [Ooni Classic Dough](recipes/ooni-classic-dough.md)
 - [Pie Crust](recipes/pie-crust.md)
 - [Sweet Potato Blinis](recipes/sweet-potato-blinis.md)
+- [White Anchovy & Egg Pizza](recipes/white-anchovy-egg-pizza.md)
 - [Yorkshire Pudding](recipes/yorkshire-pudding.md)
 
 ## Breakfast & Brunch
