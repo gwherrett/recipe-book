@@ -1,6 +1,6 @@
 ---
 title: Filipino Turkey Adobo
-cuisine: Filipino
+cuisine: Asian
 category: Mains
 tags: Filipino, turkey, adobo, weeknight  
 slug: filipino-turkey-adobo

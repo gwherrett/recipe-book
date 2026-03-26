@@ -1,6 +1,6 @@
 ---
 title: Filipino Chicken Adobo
-cuisine: Chinese
+cuisine: Asian
 category: Mains
 tags: Filipino, chicken, adobo, weeknight  
 slug: filipino-chicken-adobo

@@ -1,6 +1,6 @@
 ---
 title: Malaysian Sambal Eggplant & Peppers
-cuisine: Chinese
+cuisine: Asian
 category: Salads & Sides
 slug: malaysian-sambal-eggplant-peppers
 health_rating: 4

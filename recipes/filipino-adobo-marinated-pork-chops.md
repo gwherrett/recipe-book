@@ -1,13 +1,13 @@
 ---
-title: Adobo-Marinated Pork Chops
-cuisine: Chinese
+title: Filipino Adobo-Marinated Pork Chops
+cuisine: Asian
 category: Mains
-slug: adobo-marinated-pork-chops
+slug: filipino-adobo-marinated-pork-chops
 health_rating: 3
 health_rating_label: Mixed / Context-Dependent
 ---
 
-# Adobo-Marinated Pork Chops
+# Filipino Adobo-Marinated Pork Chops
 
 A delicious pork chop recipe marinated in classic Filipino adobo flavors—savory, tangy, and slightly sweet.
 
