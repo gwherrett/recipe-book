@@ -1,7 +1,7 @@
 ---
 title: Simple Syrup
 cuisine: French
-category: Dessert
+category: Drinks
 slug: simple-syrup
 health_rating: 2
 health_rating_label: Rich / Heavy

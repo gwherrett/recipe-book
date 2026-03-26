@@ -2,7 +2,7 @@
 title: Sweet Potato Blinis
 slug: sweet-potato-blinis
 cuisine: North American
-category: Snacks
+category: Breads & Pastries
 tags:
 - sweet potato
 - pancakes
