@@ -1,56 +1,64 @@
 ---
 title: Aloo Gobi
+slug: aloo-gobi
 cuisine: Indian
 category: Mains
-slug: aloo-gobi
 health_rating: 4
 health_rating_label: Generally Healthy
 ---
 
 # Aloo Gobi (Potato & Cauliflower Curry)
 
-## Ingredients:
-- **2 medium potatoes** (peeled and cubed)
-- **1 medium cauliflower** (cut into florets)
-- **1 medium onion** (finely chopped)
-- **2 medium tomatoes** (chopped or pureed)
-- **2-3 cloves of garlic** (minced)
-- **1-inch piece of ginger** (grated)
-- **2-3 green chilies** (slit, optional for spice)
-- **2-3 tbsp cooking oil**
-- **1 tsp cumin seeds**
-- **1/2 tsp turmeric powder**
-- **1 tsp ground coriander**
-- **1 tsp ground cumin**
-- **1/2 tsp red chili powder** (adjust to taste)
-- **1 tsp garam masala**
-- **Salt** (to taste)
-- **Fresh cilantro leaves** (chopped, for garnish)
+**Source:** Adapted from Balbir Lalli (India Village Eatery), *Hastings Sunrise Cooks*, p. 53
 
-## Instructions:
-1. **Heat the Oil:**  
-   In a large pan or wok, heat oil on medium heat. Add cumin seeds and let them splutter.
+**Yield:** 4–6 servings
 
-2. **Sauté Aromatics:**  
-   Add chopped onions and sauté until golden brown. Stir in garlic, ginger, and green chilies. Cook for another minute.
+A traditional family recipe passed down through generations. A vegetarian dish built on cauliflower, potatoes, and onions with a rich spice base — best served with rice, naan, or roti.
 
-3. **Cook the Tomatoes:**  
-   Add the chopped or pureed tomatoes. Cook until the mixture thickens and the oil begins to separate.
+---
 
-4. **Add Spices:**  
-   Add turmeric, ground coriander, ground cumin, and red chili powder. Mix well.
+## Ingredients
 
-5. **Cook the Potatoes:**  
-   Add the potato cubes. Stir to coat them in the spice mixture. Cover and cook for 5 minutes, stirring occasionally.
+- 2 large potatoes, peeled and diced
+- 1 medium cauliflower, cut into florets
+- 1 large onion, diced
+- 2 medium tomatoes, chopped
+- 4 cloves garlic, minced
+- 2 tsp fresh ginger, minced
+- 2–3 green chilies, slit (optional)
+- 2–3 tbsp vegetable oil
+- 1 tsp cumin seeds
+- 1½ tsp turmeric
+- 1 tsp ground coriander
+- 1 tsp ground cumin
+- 1 tsp chili powder
+- 1 tsp garam masala
+- 1½ tsp salt, or to taste
+- 4 tsp fresh cilantro, chopped
 
-6. **Add the Cauliflower:**  
-   Add the cauliflower florets and mix well. Add a splash of water (2-3 tablespoons) to prevent sticking. Cover and cook on low-medium heat for 15-20 minutes or until the potatoes and cauliflower are tender. Stir occasionally.
+---
 
-7. **Finish with Garam Masala:**  
-   Sprinkle garam masala and mix gently. Adjust salt to taste.
+## Instructions
 
-8. **Garnish:**  
-   Garnish with fresh cilantro leaves before serving.
+1. **Bloom the cumin:** Heat oil in a large, deep pan over medium heat. Add cumin seeds and let them splutter.
 
-## Serving Suggestion:
-Serve hot with **naan**, **roti**, or steamed **basmati rice**. A side of yogurt or raita complements the flavors well.
+2. **Cook aromatics:** Add the garlic, ginger, and green chilies (if using). Cook until light brown, about 1–2 minutes.
+
+3. **Add onion and tomato:** Add the onion and tomato and cook until softened and the oil begins to separate.
+
+4. **Add spices:** Stir in the turmeric, ground coriander, ground cumin, chili powder, and salt. Cook for another minute or two. If it starts to burn, add up to ½ cup of water.
+
+5. **Cook the potatoes:** Add the potatoes and cook until halfway done, stirring occasionally.
+
+6. **Add the cauliflower:** Add the cauliflower florets and stir to combine. Continue cooking until both the potatoes and cauliflower are fully tender.
+
+7. **Finish:** Stir in the garam masala and mix gently. Adjust salt to taste.
+
+8. **Garnish and serve:** Garnish with chopped cilantro and serve hot.
+
+---
+
+## Notes
+
+- **Crispier variation:** Deep-fry the potatoes and cauliflower separately, then add them to the pot with the onion, tomato, and spice mixture.
+- Serve with naan, roti, or steamed basmati rice. A side of yogurt or raita complements the flavours well.
