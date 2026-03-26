@@ -109,10 +109,12 @@
 - [Ginger-Lime syrup](recipes/ginger-lime-syrup.md)
 - [Lemon Cream](recipes/lemon-cream.md)
 - [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)
+- [Pork Tenderloin a la Normande](recipes/pork-tenderloin-a-la-normande.md)
 - [Ratatouille](recipes/ratatouille.md)
 - [Ratatouille with Celery & Corn](recipes/ratatouille-with-celery-corn.md)
 - [Shrimp Bisque](recipes/shrimp-bisque.md)
 - [Simple Syrup](recipes/simple-syrup.md)
+- [Steamed Mussel in White Wine](recipes/steamed-mussel-in-white-wine.md)
 - [Tapénade](recipes/tapenade.md)
 - [Warm Chocolate Cake](recipes/warm-chocolate-cake.md)
 - [Wine-Braised Lamb Shanks with Herbes de Provence](recipes/wine-braised-lamb-shanks-with-herbes-de-provence.md)
@@ -170,6 +172,7 @@
 - [Tiramisu](recipes/tiramisu.md)
 - [Tuscan Panzanella](recipes/tuscan-panzanella.md)
 - [White Anchovy & Egg Pizza](recipes/white-anchovy-egg-pizza.md)
+- [Wild Mushroom Risotto](recipes/wild-mushroom-risotto.md)
 - [Zesty Italian Dressing](recipes/zesty-italian-dressing.md)
 
 ## Japanese
@@ -217,7 +220,6 @@
 - [Chicken Mole (Oaxacan-Style)](recipes/chicken-mole-oaxacan-style.md)
 - [Chilaquiles Master Recipe](recipes/chilaquiles-master-recipe.md)
 - [Chile Relleno](recipes/chile-relleno.md)
-- [Fajitas](recipes/fajitas.md)
 - [Gallo Pinto](recipes/gallo-pinto.md)
 - [Kale-Cabbage-Carrot Slaw](recipes/kale-cabbage-carrot-slaw.md)
 - [Lamb Shoulder Tacos (Cordero Guisado)](recipes/lamb-shoulder-tacos.md)
@@ -344,6 +346,7 @@
 
 ## Spanish
 
+- [Chicken and Chorizo Paella](recipes/chicken-and-chorizo-paella.md)
 - [Gambas en Escabeche (Spanish Pickled Shrimp)](recipes/gambas-en-escabeche-spanish-pickled-shrimp.md)
 - [Gazpacho](recipes/gazpacho.md)
 - [Paella de Marisco](recipes/seafood-paella.md)

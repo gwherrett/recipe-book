@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**295 recipes**
+**298 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -44,6 +44,7 @@
 - [Celery & Stilton Soup](recipes/celery-stilton-soup.md)
 - [Cha Ca La Vong (Vietnamese Turmeric Fish with Dill)](recipes/cha-ca-la-vong-vietnamese-turmeric-fish-with-dill.md)
 - [Cheese Crackers](recipes/cheese-crackers.md)
+- [Chicken and Chorizo Paella](recipes/chicken-and-chorizo-paella.md)
 - [Chicken Enchiladas](recipes/chicken-enchiladas.md)
 - [Chicken Mole (Oaxacan-Style)](recipes/chicken-mole-oaxacan-style.md)
 - [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
@@ -86,7 +87,6 @@
 - [Egg Strata](recipes/egg-strata.md)
 - [Egg Tart](recipes/egg-tart.md)
 - [Extra Stuffings for Zucchini Flowers](recipes/extra-stuffings-for-zucchini-flowers.md)
-- [Fajitas](recipes/fajitas.md)
 - [Farro Salad with Tomatoes and Herbs](recipes/farro-salad-with-tomatoes-and-herbs.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
 - [Filipino Turkey Adobo](recipes/filipino-turkey-adobo.md)
@@ -191,6 +191,7 @@
 - [Pork Bone Soup](recipes/pork-bone-soup.md)
 - [Pork Bone Soup Jobs Tears](recipes/pork-bone-soup-jobs-tears.md)
 - [Pork Chops with Sage Mushroom Sauce](recipes/pork-chops-with-sage-mushroom-sauce.md)
+- [Pork Tenderloin a la Normande](recipes/pork-tenderloin-a-la-normande.md)
 - [Pozole Rojo](recipes/pozole-rojo.md)
 - [Prawns in Coconut Masala](recipes/prawns-in-coconut-masala.md)
 - [Pulled Pork](recipes/pulled-pork.md)
@@ -252,6 +253,7 @@
 - [Spicy Cumin Lamb Biang Biang Noodles](recipes/cumin-lamb-biang-biang-noodles.md)
 - [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
 - [Spinach Goma-ae](recipes/spinach-goma-ae.md)
+- [Steamed Mussel in White Wine](recipes/steamed-mussel-in-white-wine.md)
 - [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Stewed Cinnamon-Scented Goat or Lamb Curry](recipes/stewed-cinnamon-scented-goat-or-lamb-curry.md)
 - [Sticky Date Spiced Carrots](recipes/sticky-date-spiced-carrots.md)
@@ -289,6 +291,7 @@
 - [Warm Chocolate Cake](recipes/warm-chocolate-cake.md)
 - [White Anchovy & Egg Pizza](recipes/white-anchovy-egg-pizza.md)
 - [White Bean Dip](recipes/white-bean-dip.md)
+- [Wild Mushroom Risotto](recipes/wild-mushroom-risotto.md)
 - [Wine-Braised Lamb Shanks with Herbes de Provence](recipes/wine-braised-lamb-shanks-with-herbes-de-provence.md)
 - [Winter Melon Soup (Cantonese)](recipes/winter-melon-soup-cantonese.md)
 - [Yellow Lentil & Chicken Soup](recipes/yellow-lentil-chicken-soup.md)
