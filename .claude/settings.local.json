@@ -25,7 +25,8 @@
       "WebFetch(domain:drive.google.com)",
       "WebSearch",
       "WebFetch(domain:makeitscotch.com)",
-      "WebFetch(domain:www.mykitchenstories.com.au)"
+      "WebFetch(domain:www.mykitchenstories.com.au)",
+      "WebFetch(domain:www.rickbayless.com)"
     ]
   }
 }
