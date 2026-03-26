@@ -152,6 +152,7 @@
 - [Lobster Pasta Sauce (Busara-Style)](recipes/lobster-pasta-sauce-busara-style.md)
 - [Meatballs and Peas in Tomato Sauce (Pork & Lamb Sausage, 800 g)](recipes/meatballs-and-peas-in-tomato-sauce-pork-lamb-sausage-800-g.md)
 - [Minestrone](recipes/minestrone.md)
+- [Ooni Classic Dough](recipes/ooni-classic-dough.md)
 - [Osso Buco](recipes/osso-buco.md)
 - [Panzanella](recipes/panzanella.md)
 - [Pasta with Barese Sausage](recipes/pasta-with-barese-sausage.md)
@@ -225,9 +226,9 @@
 - [Pickled Jalapeños](recipes/pickled-jalapenos.md)
 - [Pickled Red Onions](recipes/pickled-red-onions.md)
 - [Pozole Rojo](recipes/pozole-rojo.md)
+- [Roasted Tomatillo Salsa](recipes/roasted-tomatillo-salsa.md)
 - [Salsa Fresca (Pico de Gallo)](recipes/salsa-fresca-pico-de-gallo.md)
 - [Salsa Roja](recipes/salsa-roja.md)
-- [Tomatillo Jam](recipes/tomatillo-jam.md)
 
 ## Middle Eastern
 

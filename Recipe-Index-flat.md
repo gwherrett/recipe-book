@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**294 recipes**
+**295 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -166,6 +166,7 @@
 - [Naan for Breadmaker](recipes/naan-for-breadmaker.md)
 - [New England Clam Chowder](recipes/new-england-clam-chowder.md)
 - [New York Strip Loin with Pepper Marinade](recipes/new-york-strip-loin-with-pepper-marinade.md)
+- [Ooni Classic Dough](recipes/ooni-classic-dough.md)
 - [Osso Buco](recipes/osso-buco.md)
 - [Pad Krapow (Thai Basil Ground Turkey)](recipes/pad-krapow-thai-basil-ground-turkey.md)
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
@@ -207,6 +208,7 @@
 - [Roasted Celeriac with Thyme and Lemon](recipes/roasted-celeriac-with-thyme-and-lemon.md)
 - [Roasted Hispi Cabbage with Pine Nut Vinaigrette](recipes/roasted-hispi-cabbage-with-pine-nut-vinaigrette.md)
 - [Roasted Strawberry Mess with Sumac and Mint](recipes/roasted-strawberry-mess-with-sumac-and-mint.md)
+- [Roasted Tomatillo Salsa](recipes/roasted-tomatillo-salsa.md)
 - [Rockfish Teriyaki](recipes/rockfish-teriyaki.md)
 - [Ropa Vieja](recipes/ropa-vieja.md)
 - [Rosemary-Roasted Leg of Lamb with Balsamic Sauce](recipes/rosemary-roasted-leg-of-lamb-with-balsamic-sauce.md)
@@ -269,7 +271,6 @@
 - [Thai Green Curry Paste](recipes/thai-green-curry-paste.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
 - [Tiramisu](recipes/tiramisu.md)
-- [Tomatillo Jam](recipes/tomatillo-jam.md)
 - [Tostones (Fried Green Plantains)](recipes/tostones.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
 - [Tuna Burger](recipes/tuna-burger.md)

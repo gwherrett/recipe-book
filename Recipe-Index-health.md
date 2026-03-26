@@ -33,6 +33,7 @@
 - [Moroccan Chickpea Stew](recipes/moroccan-chickpea-stew.md)
 - [Pecorino Radicchio Cherry Salad](recipes/pecorino-radicchio-cherry-salad.md)
 - [Red Lentil Daal (Masoor Dal)](recipes/red-lentil-daal-masoor-dal.md)
+- [Roasted Tomatillo Salsa](recipes/roasted-tomatillo-salsa.md)
 - [Salsa Fresca (Pico de Gallo)](recipes/salsa-fresca-pico-de-gallo.md)
 - [Salsa Roja](recipes/salsa-roja.md)
 - [Shirazi Salad](recipes/shirazi-salad.md)
@@ -202,6 +203,7 @@
 - [Montreal Steak Seasoning](recipes/montreal-steak-seasoning.md)
 - [Naan for Breadmaker](recipes/naan-for-breadmaker.md)
 - [New England Clam Chowder](recipes/new-england-clam-chowder.md)
+- [Ooni Classic Dough](recipes/ooni-classic-dough.md)
 - [Osso Buco](recipes/osso-buco.md)
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
 - [Pad Thai](recipes/pad-thai.md)
@@ -290,7 +292,6 @@
 - [Smoked Gouda Mac n Cheese](recipes/smoked-gouda-mac-n-cheese.md)
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
 - [Taro Root Cake](recipes/taro-root-cake.md)
-- [Tomatillo Jam](recipes/tomatillo-jam.md)
 - [Tostones (Fried Green Plantains)](recipes/tostones.md)
 - [Turkey Tetrazzini with Macaroni & Pita Chip Crust](recipes/turkey-tetrazzini-with-macaroni.md)
 

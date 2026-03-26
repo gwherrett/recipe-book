@@ -36,6 +36,7 @@
 
 - [Kol Böreği (Potato, Spinach & Cheese Filo Pie)](recipes/kol-boregi-potato-spinach-cheese-filo-pie.md)
 - [Naan for Breadmaker](recipes/naan-for-breadmaker.md)
+- [Ooni Classic Dough](recipes/ooni-classic-dough.md)
 - [Pie Crust](recipes/pie-crust.md)
 - [Yorkshire Pudding](recipes/yorkshire-pudding.md)
 
@@ -296,13 +297,13 @@
 - [Mango Salsa](recipes/mango-salsa.md)
 - [Mint Chutney](recipes/mint-chutney.md)
 - [Quick Fresh Chilli Sauce](recipes/quick-fresh-chilli-sauce.md)
+- [Roasted Tomatillo Salsa](recipes/roasted-tomatillo-salsa.md)
 - [Sage-Infused Hot Pepper Sauce](recipes/sage-infused-hot-pepper-sauce.md)
 - [Salsa Fresca (Pico de Gallo)](recipes/salsa-fresca-pico-de-gallo.md)
 - [Salsa Roja](recipes/salsa-roja.md)
 - [Salt, Pepper, and Lime Dipping Sauce (Muối Tiêu Chanh)](recipes/salt-pepper-and-lime-dipping-sauce-muoi-tieu-chanh.md)
 - [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
 - [Tapénade](recipes/tapenade.md)
-- [Tomatillo Jam](recipes/tomatillo-jam.md)
 - [Tzatziki](recipes/tzatziki.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
