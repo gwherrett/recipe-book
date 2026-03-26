@@ -1,7 +1,7 @@
 ---
 title: White Anchovy & Egg Pizza
 cuisine: Italian
-category: Appetizers
+category: Breads & Pastries
 slug: white-anchovy-egg-pizza
 health_rating: 3
 health_rating_label: Mixed / Context-Dependent
