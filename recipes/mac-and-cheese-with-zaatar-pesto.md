@@ -13,7 +13,7 @@ health_rating_label: Rich / Heavy
 
 **Prep Time:** 25 minutes
 **Cook Time:** 55 minutes
-**Yield:** 6–8 servings
+**Yield:** 6 servings
 
 A one-pan stovetop mac and cheese made with cavatappi pasta cooked directly in milk, finished with cheddar, feta, and cumin. Served with a vibrant za'atar and coriander pesto and an optional golden panko crust.
 
