@@ -231,6 +231,7 @@
 - [Spaghetti Sauce](recipes/spaghetti-sauce.md)
 - [Spicy Cumin Lamb Biang Biang Noodles](recipes/cumin-lamb-biang-biang-noodles.md)
 - [Tagliatelle Bolognese](recipes/tagliatelle-bolognese.md)
+- [Turkey Tetrazzini (Classic)](recipes/turkey-tetrazzini-classic.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 
 ## Salads & Sides
