@@ -298,6 +298,7 @@
 - [Eel Sauce (Unagi Sauce)](recipes/eel-sauce-unagi-sauce.md)
 - [Greek Yogurt Tartar Sauce](recipes/greek-yogurt-tartar-sauce.md)
 - [Horseradish Cream Sauce](recipes/horseradish-cream-sauce.md)
+- [Hot Dog Relish](recipes/hot-dog-relish.md)
 - [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)
 - [Mango Salsa](recipes/mango-salsa.md)
 - [Mint Chutney](recipes/mint-chutney.md)

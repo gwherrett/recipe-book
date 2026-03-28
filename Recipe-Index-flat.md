@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**300 recipes**
+**301 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -109,6 +109,7 @@
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
 - [Horseradish Corn Cheese Melt](recipes/horseradish-corn-cheese-melt.md)
 - [Horseradish Cream Sauce](recipes/horseradish-cream-sauce.md)
+- [Hot Dog Relish](recipes/hot-dog-relish.md)
 - [Hot Sausage and Peppers Pasta](recipes/hot-sausage-and-peppers-pasta.md)
 - [Insalata Capricciosa](recipes/insalata-capricciosa.md)
 - [Jamaican Curry Powder](recipes/jamaican-curry-powder.md)

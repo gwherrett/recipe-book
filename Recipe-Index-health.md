@@ -277,6 +277,7 @@
 - [Ginger-Lime syrup](recipes/ginger-lime-syrup.md)
 - [Horseradish Corn Cheese Melt](recipes/horseradish-corn-cheese-melt.md)
 - [Horseradish Cream Sauce](recipes/horseradish-cream-sauce.md)
+- [Hot Dog Relish](recipes/hot-dog-relish.md)
 - [Juicy Burger](recipes/juicy-burger.md)
 - [Kol Böreği (Potato, Spinach & Cheese Filo Pie)](recipes/kol-boregi-potato-spinach-cheese-filo-pie.md)
 - [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)

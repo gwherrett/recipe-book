@@ -288,6 +288,7 @@
 - [Heart-Healthy Banana Bread](recipes/heart-healthy-banana-bread.md)
 - [Horseradish Corn Cheese Melt](recipes/horseradish-corn-cheese-melt.md)
 - [Horseradish Cream Sauce](recipes/horseradish-cream-sauce.md)
+- [Hot Dog Relish](recipes/hot-dog-relish.md)
 - [Juicy Burger](recipes/juicy-burger.md)
 - [Kale Apple Slaw](recipes/kale-apple-slaw.md)
 - [Lemon Loaf](recipes/lemon-loaf.md)
