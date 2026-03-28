@@ -27,6 +27,7 @@ A sweet-tangy relish with bell peppers, jalapeño heat, and depth from Turkish r
 - 1½ cups apple cider vinegar (5% acidity)
 - ½ cup granulated sugar
 - 1 tbsp mustard seeds
+- ½ tsp celery seed
 - ½ tsp sweet paprika
 - ½ tsp ground turmeric
 - ¼ tsp ground allspice
