@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**301 recipes**
+**300 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -66,7 +66,6 @@
 - [Corn Chip-Crusted Chicken](recipes/corn-chip-crusted-chicken.md)
 - [Corn Chowder](recipes/corn-chowder.md)
 - [Corn Relish](recipes/corn-relish.md)
-- [Corn Relish with Tomato, Jalapeño & Turkish Pepper Paste](recipes/corn-relish-with-tomato-jalapeno-turkish-pepper-paste.md)
 - [Cornbread Stuffing with Andouille, Fennel, and Bell Peppers](recipes/cornbread-stuffing-andouille-fennel-bell-peppers.md)
 - [Cornish Hens (Rotisserie Herb-Brined)](recipes/rotisserie-herb-brined-cornish-hens-scaled-for-2-birds.md)
 - [Cornish Hens (Rotisserie)](recipes/cornish-hens-rotisserie.md)

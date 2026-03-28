@@ -274,7 +274,6 @@
 - [Corn Chip-Crusted Chicken](recipes/corn-chip-crusted-chicken.md)
 - [Corn Chowder](recipes/corn-chowder.md)
 - [Corn Relish](recipes/corn-relish.md)
-- [Corn Relish with Tomato, Jalapeño & Turkish Pepper Paste](recipes/corn-relish-with-tomato-jalapeno-turkish-pepper-paste.md)
 - [Cornish Hens (Rotisserie Herb-Brined)](recipes/rotisserie-herb-brined-cornish-hens-scaled-for-2-birds.md)
 - [Cornish Hens (Rotisserie)](recipes/cornish-hens-rotisserie.md)
 - [Creamed Spinach](recipes/healthy-creamed-spinach.md)
