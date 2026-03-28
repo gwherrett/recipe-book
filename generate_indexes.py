@@ -16,6 +16,7 @@ Run locally with:
 from pathlib import Path
 from collections import defaultdict
 import re
+import subprocess
 import yaml  # pip install pyyaml
 
 RECIPE_DIR = Path("recipes")
@@ -48,6 +49,21 @@ def parse_markdown_with_yaml(path: Path):
             return meta, body
 
     return {}, text
+
+
+def git_mtime(path: Path) -> float:
+    """Return the Unix timestamp of the last git commit touching path, or file mtime."""
+    try:
+        result = subprocess.run(
+            ["git", "log", "-1", "--format=%ct", "--", str(path)],
+            capture_output=True, text=True, check=True
+        )
+        ts = result.stdout.strip()
+        if ts:
+            return float(ts)
+    except Exception:
+        pass
+    return path.stat().st_mtime
 
 
 def anchor_from_text(text: str) -> str:
@@ -90,13 +106,14 @@ def main():
                 "rel_path": rel_path,
                 "health_rating": health_rating,
                 "health_label": health_label,
+                "mtime": git_mtime(md_path),
             }
         )
 
-    # 1) Flat index (alphabetical)
+    # 1) Flat index (most recently updated first)
     total = len(entries)
-    flat_lines = ["# Recipe Index (Flat — Alphabetical)", "", f"**{total} recipes**", ""]
-    for e in sorted(entries, key=lambda x: x["title"].lower()):
+    flat_lines = ["# Recipe Index (Flat — Most Recently Updated)", "", f"**{total} recipes**", ""]
+    for e in sorted(entries, key=lambda x: x["mtime"], reverse=True):
         flat_lines.append(f'- [{e["title"]}]({e["rel_path"]})')
 
     FLAT_INDEX.write_text("\n".join(flat_lines) + "\n", encoding="utf-8")

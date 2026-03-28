@@ -10,13 +10,15 @@ health_rating_label: Rich / Heavy
 # Lobster Mac n Cheese  
 *By Rob Feenie*
 
-## Béchamel Sauce  
-- **4 cups** milk  
-- **2 cloves** garlic, peeled and crushed  
-- **4 tbsp** unsalted butter  
-- **4 tbsp** all-purpose flour  
-- Pinch of freshly grated nutmeg  
-- Salt and freshly ground white pepper, to taste  
+**Yield:** Serves 4
+
+## Béchamel Sauce
+- **4 cups** milk
+- **2 cloves** garlic, peeled and crushed
+- **4 tbsp** unsalted butter
+- **4 tbsp** all-purpose flour
+- Pinch of freshly grated nutmeg
+- Salt and freshly ground white pepper, to taste
 
 ### Method  
 1. Combine milk and garlic in a saucepan over medium heat. Bring to a boil, remove from heat, cover, and infuse for 10 minutes.  
@@ -28,16 +30,16 @@ health_rating_label: Rich / Heavy
 
 ---
 
-## Macaroni and Cheese  
-- **1 lb** live lobster  
-- **2 tsp** vegetable oil  
-- **8 oz** Irish or double‑smoked bacon, finely diced  
-- **4** shallots, finely chopped  
-- **1/4 cup** grated Emmental  
-- **1/4 cup** crumbled blue cheese  
-- **1/4 cup** grated sharp white cheddar  
-- **1/2 cup** grated pecorino Romano  
-- **12 oz** dried succhietto pasta, cooked al dente  
+## Macaroni and Cheese
+- **1 lb** live lobster
+- **2 tsp** vegetable oil
+- **8 oz** Irish or double‑smoked bacon, finely diced
+- **4** shallots, finely chopped
+- **¼ cup** grated Emmental
+- **¼ cup** crumbled blue cheese
+- **¼ cup** grated sharp white cheddar
+- **½ cup** grated pecorino Romano
+- **12 oz** dried succhietto pasta, cooked al dente
 
 ### Method  
 1. Boil salted water; cook lobster 3 minutes. Cool, remove meat, dice.  

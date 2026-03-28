@@ -1,48 +1,54 @@
 ---
 title: Corn Relish
-cuisine: North American
-category: Salads & Sides
 slug: corn-relish
-health_rating: 4
-health_rating_label: Generally Healthy
+cuisine: North American
+category: Sauces & Condiments
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
-# Classic Corn Relish (Water Bath Canning)
+# Corn Relish
 
-**Category**: Pickles & Condiments  
-**Tags**: Corn, Preserving, Canning, Relish  
-**Summary**: A sweet and tangy classic corn relish made with bell peppers, onions, and vinegar. Perfect for water bath canning. Serve with hot dogs, burgers, or grilled meats.
+**Yield:** ~4–5 cups | Fridge-stable up to 3–4 weeks
+
+A sweet-tangy relish with bell peppers, jalapeño heat, and depth from Turkish red pepper paste. Use green tomatoes for a sharper bite or ripe red for a sweeter, softer result.
+
+---
 
 ## Ingredients
 
-- 10 ears fresh corn (or ~6 cups corn kernels)
-- 1½ cups chopped celery  
-- 1½ cups chopped red bell pepper  
-- 1½ cups chopped green bell pepper  
-- 1 cup chopped onion  
-- 2½ cups apple cider vinegar  
-- ½ cup sugar  
-- 2 tbsp mustard seeds  
-- 1 tbsp celery seeds  
-- 1½ tsp salt  
-- 1 tsp turmeric (optional)
+- 4 cups corn kernels (fresh or frozen/thawed)
+- 1 cup tomatoes, seeded and chopped (green or ripe red)
+- ¾ cup red bell pepper, chopped
+- ¾ cup green bell pepper, chopped
+- ½ cup red onion, finely chopped
+- 1 jalapeño, minced (seeded for mild, unseeded for more heat)
+- 2 tbsp Turkish red pepper paste *(tatlı biber salçası)*
+- 1½ cups apple cider vinegar (5% acidity)
+- ½ cup granulated sugar
+- 1 tbsp mustard seeds
+- ½ tsp celery seed
+- ½ tsp sweet paprika
+- ½ tsp ground turmeric
+- ¼ tsp ground allspice
+- ½ tsp black pepper
+- 1 tsp kosher salt (reduce slightly if your pepper paste is salty)
+
+---
 
 ## Instructions
 
-1. **Prep** all vegetables and place in a large pot.
-2. Add vinegar, sugar, and spices. Bring to a boil.
-3. Reduce heat and simmer uncovered for 25–30 minutes.
-4. Ladle hot relish into sterilized jars, leaving ½-inch headspace.
-5. Process in boiling water bath for 15 minutes (adjust for altitude).
-6. Let jars cool undisturbed for 24 hours. Store in pantry up to 1 year.
+1. **Bloom the paste:** Heat 1 tsp oil in a large saucepan over medium heat. Add the Turkish pepper paste and sauté for 1–2 minutes until slightly darkened and fragrant.
 
-## Notes
+2. **Combine:** Add the corn, tomatoes, bell peppers, onion, jalapeño, vinegar, sugar, and all spices. Stir to combine.
 
-- Yields ~6–7 half-pint jars.
-- For extra kick, you can add 1 minced jalapeño.
-- Use clean, sterilized jars and lids suitable for water bath canning.
+3. **Cook:** Bring to a boil, then reduce heat to medium and simmer uncovered for 20–25 minutes, stirring occasionally, until thickened and the vegetables are tender.
+
+4. **Cool and store:** Remove from heat and let cool. Transfer to clean jars and refrigerate. Allow to rest 24 hours for best flavour. Keeps for up to 3–4 weeks.
 
 ## Serving Suggestions
 
-- Top hot dogs or burgers
-- Pair with baked beans or grilled sausages
+- On hot dogs, burgers, or grilled sausages
+- With grilled meats or fish
+- Spooned over bean dishes or grain bowls
+- As a condiment alongside tacos

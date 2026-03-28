@@ -9,17 +9,19 @@ health_rating_label: Rich / Heavy
 
 # Smoked Gouda Mac and Cheese
 
+**Yield:** Serves 4
+
 ## Ingredients
 - 8 ounces elbow macaroni (or your favorite pasta)
 - 2 tablespoons unsalted butter
 - 2 tablespoons all-purpose flour
 - 2 cups whole milk (warm)
-- 1/2 teaspoon garlic powder
-- 1/2 teaspoon smoked paprika (optional, for extra smokiness)
+- ½ teaspoon garlic powder
+- ½ teaspoon smoked paprika (optional, for extra smokiness)
 - Salt and pepper, to taste
-- 1 1/2 cups smoked gouda cheese, shredded
-- 1/2 cup sharp cheddar cheese, shredded (optional, for extra depth)
-- 1/4 cup breadcrumbs (optional, for topping)
+- 1½ cups smoked gouda cheese, shredded
+- ½ cup sharp cheddar cheese, shredded (optional, for extra depth)
+- ¼ cup breadcrumbs (optional, for topping)
 - 1 tablespoon olive oil or melted butter (optional, for topping)
 
 ## Instructions

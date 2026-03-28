@@ -1,26 +1,26 @@
 ---
-title: Turkey Tetrazzini with Macaroni & Pita Chip Crust
-slug: turkey-tetrazzini-with-macaroni
+title: Turkey Tetrazzini with Spaghetti & Pita Chip Crust
+slug: turkey-tetrazzini-with-spaghetti
 cuisine: North American
 category: Mains
 health_rating: 2
-health_rating_label: Rich/Heavy
+health_rating_label: Rich / Heavy
 ---
 
-# Turkey Tetrazzini with Macaroni & Pita Chip Crust
+# Turkey Tetrazzini with Spaghetti & Pita Chip Crust
 
 **Source:** Adapted from [Turkey Tetrazzini with Spinach by Sam Hu, Ahead of Thyme](https://www.aheadofthyme.com/turkey-tetrazzini-with-spinach/)
 
 **Total Time:** 1 hour 5 minutes
 **Yield:** 9 servings
 
-Creamy leftover turkey tetrazzini with spinach, adapted to use macaroni in place of spaghetti and evaporated milk for a slightly lighter cream sauce. Cheddar is stirred into the sauce for richness, and a crunchy topping of crushed pita chips and Parmesan replaces the classic mozzarella for extra texture and flavour.
+Creamy leftover turkey tetrazzini with spinach and evaporated milk for a slightly lighter cream sauce. Cheddar is stirred into the sauce for richness, and a crunchy topping of crushed pita chips and Parmesan replaces the classic mozzarella for extra texture and flavour.
 
 ---
 
 ## Ingredients
 
-- 500 g (1 lb) dry macaroni
+- 500 g (1 lb) dry spaghetti
 - 3 tablespoons olive oil, divided
 - 1 lb (450 g) white mushrooms, thinly sliced
 - 1 cup onion, finely chopped
@@ -47,7 +47,7 @@ Creamy leftover turkey tetrazzini with spinach, adapted to use macaroni in place
 
 1. **Preheat oven** to 350°F (175°C).
 
-2. **Cook the macaroni:** Bring a large pot of salted water to a boil over medium-high heat. Add macaroni and 1 tablespoon olive oil. Cook until al dente, about 8–10 minutes or according to package directions. Drain and rinse under cold water to stop cooking. Set aside.
+2. **Cook the spaghetti:** Bring a large pot of salted water to a boil over medium-high heat. Add spaghetti and 1 tablespoon olive oil. Cook until al dente, about 8–10 minutes or according to package directions. Drain and rinse under cold water to stop cooking. Set aside.
 
 3. **Sauté mushrooms:** Heat remaining 2 tablespoons olive oil in a large saucepan over medium-high heat for 2 minutes. Add mushrooms and sauté until golden brown, about 4–5 minutes.
 
@@ -57,7 +57,7 @@ Creamy leftover turkey tetrazzini with spinach, adapted to use macaroni in place
 
 6. **Make the sauce:** Whisk in evaporated milk and bring to a simmer over medium heat. Stir occasionally and simmer until thickened, about 8–12 minutes — the sauce should coat the back of a spoon. (Evaporated milk thickens more slowly than heavy cream; be patient and stir frequently to prevent scorching.) Remove from heat and stir in shredded cheddar until fully melted and smooth. Stir in spinach until wilted, about 1 minute.
 
-7. **Combine:** Add cooked macaroni and shredded turkey to the sauce. Toss until fully combined and evenly coated.
+7. **Combine:** Add cooked spaghetti and shredded turkey to the sauce. Toss until fully combined and evenly coated.
 
 8. **Assemble:** Transfer the mixture into a 9×13 casserole dish.
 
