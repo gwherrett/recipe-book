@@ -329,8 +329,7 @@
 - [Tuna Burger](recipes/tuna-burger.md)
 - [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 - [Turkey Salad with Preserved Lemon](recipes/turkey-salad.md)
-- [Turkey Tetrazzini (Classic)](recipes/turkey-tetrazzini-classic.md)
-- [Turkey Tetrazzini with Macaroni & Pita Chip Crust](recipes/turkey-tetrazzini-with-macaroni.md)
+- [Turkey Tetrazzini with Spaghetti & Pita Chip Crust](recipes/turkey-tetrazzini-with-spaghetti.md)
 - [Veggie Chili](recipes/veggie-chili.md)
 
 ## Persian

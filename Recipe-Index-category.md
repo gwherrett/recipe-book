@@ -198,7 +198,7 @@
 - [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 - [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)
 - [Turkey Salad with Preserved Lemon](recipes/turkey-salad.md)
-- [Turkey Tetrazzini with Macaroni & Pita Chip Crust](recipes/turkey-tetrazzini-with-macaroni.md)
+- [Turkey Tetrazzini with Spaghetti & Pita Chip Crust](recipes/turkey-tetrazzini-with-spaghetti.md)
 - [Udon BBQ Pork with Red Peppers](recipes/udon-bbq-pork-with-red-peppers.md)
 - [Veggie Chili](recipes/veggie-chili.md)
 - [Vermicelli Noodle Bowls](recipes/vermicelli-noodle-bowls.md)
@@ -231,7 +231,6 @@
 - [Spaghetti Sauce](recipes/spaghetti-sauce.md)
 - [Spicy Cumin Lamb Biang Biang Noodles](recipes/cumin-lamb-biang-biang-noodles.md)
 - [Tagliatelle Bolognese](recipes/tagliatelle-bolognese.md)
-- [Turkey Tetrazzini (Classic)](recipes/turkey-tetrazzini-classic.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 
 ## Salads & Sides

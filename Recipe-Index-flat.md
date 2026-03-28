@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**303 recipes**
+**302 recipes**
 
 - [3-Cheese Macaroni](recipes/3-cheese-macaroni.md)
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
@@ -283,8 +283,7 @@
 - [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 - [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)
 - [Turkey Salad with Preserved Lemon](recipes/turkey-salad.md)
-- [Turkey Tetrazzini (Classic)](recipes/turkey-tetrazzini-classic.md)
-- [Turkey Tetrazzini with Macaroni & Pita Chip Crust](recipes/turkey-tetrazzini-with-macaroni.md)
+- [Turkey Tetrazzini with Spaghetti & Pita Chip Crust](recipes/turkey-tetrazzini-with-spaghetti.md)
 - [Turkish Salad](recipes/turkish-salad.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 - [Tuscan Panzanella](recipes/tuscan-panzanella.md)
