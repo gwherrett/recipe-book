@@ -165,6 +165,7 @@
 - [Cornish Hens (Rotisserie)](recipes/cornish-hens-rotisserie.md)
 - [Creole Sauce](recipes/creole-sauce.md)
 - [Crispy Roast Potatoes with Rosemary and Za'atar](recipes/crispy-roast-potatoes-with-rosemary-and-zaatar.md)
+- [Cucumber-Lime Ring](recipes/cucumber-lime-ring.md)
 - [Curried Goat - Grenada Style](recipes/curried-goat-grenada-style.md)
 - [Curried Goat - Jamaica Style](recipes/curried-goat-jamaica-style.md)
 - [Curried Goat - Trinidad Style](recipes/curried-goat-trinidad-style.md)

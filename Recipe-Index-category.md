@@ -247,6 +247,7 @@
 - [Creamed Spinach](recipes/healthy-creamed-spinach.md)
 - [Creamy Horseradish Mashed Potatoes](recipes/creamy-horseradish-mashed-potatoes.md)
 - [Crispy Roast Potatoes with Rosemary and Za'atar](recipes/crispy-roast-potatoes-with-rosemary-and-zaatar.md)
+- [Cucumber-Lime Ring](recipes/cucumber-lime-ring.md)
 - [Farro Salad with Tomatoes and Herbs](recipes/farro-salad-with-tomatoes-and-herbs.md)
 - [Fried Cauliflower with Fish Sauce Vinaigrette](recipes/fried-cauliflower-with-fish-sauce-vinaigrette.md)
 - [Gallo Pinto](recipes/gallo-pinto.md)
