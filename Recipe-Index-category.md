@@ -220,7 +220,6 @@
 - [Lobster Busara](recipes/lobster-busara.md)
 - [Lobster Pasta Sauce (Busara-Style)](recipes/lobster-pasta-sauce-busara-style.md)
 - [Mac & Cheese with Za'atar Pesto](recipes/mac-and-cheese-with-zaatar-pesto.md)
-- [Mac n Cheese](recipes/mac-n-cheese.md)
 - [Pasta with Barese Sausage](recipes/pasta-with-barese-sausage.md)
 - [Rigatoni with Sausages and Red Peppers](recipes/rigatoni-with-sausages-and-red-peppers.md)
 - [Sausage, Cheese & Basil Lasagna](recipes/sausage-cheese-basil-lasagna.md)

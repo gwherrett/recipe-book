@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**302 recipes**
+**301 recipes**
 
 - [3-Cheese Macaroni](recipes/3-cheese-macaroni.md)
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
@@ -144,7 +144,6 @@
 - [Long Bean, Cucumber & Tomato Salad](recipes/long-bean-cucumber-tomato-salad.md)
 - [Low Country Boil](recipes/low-country-boil.md)
 - [Mac & Cheese with Za'atar Pesto](recipes/mac-and-cheese-with-zaatar-pesto.md)
-- [Mac n Cheese](recipes/mac-n-cheese.md)
 - [Malay Curry Beef Brisket](recipes/malay-curry-beef-brisket.md)
 - [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
 - [Mango Pudding](recipes/mango-pudding.md)

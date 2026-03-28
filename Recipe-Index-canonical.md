@@ -294,7 +294,6 @@
 - [Kale Apple Slaw](recipes/kale-apple-slaw.md)
 - [Lemon Loaf](recipes/lemon-loaf.md)
 - [Lobster Mac n Cheese](recipes/lobster-mac-and-cheese.md)
-- [Mac n Cheese](recipes/mac-n-cheese.md)
 - [Maple Pudding](recipes/maple-pudding.md)
 - [Mixed Greens with Pecans, Goat Cheese, and Dried Cranberries](recipes/mixed-greens-with-pecans-goat-cheese-and-dried-cranberries.md)
 - [Montreal Steak Seasoning](recipes/montreal-steak-seasoning.md)

@@ -284,7 +284,6 @@
 - [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)
 - [Lobster Mac n Cheese](recipes/lobster-mac-and-cheese.md)
 - [Mac & Cheese with Za'atar Pesto](recipes/mac-and-cheese-with-zaatar-pesto.md)
-- [Mac n Cheese](recipes/mac-n-cheese.md)
 - [Malay Curry Beef Brisket](recipes/malay-curry-beef-brisket.md)
 - [Mango Syrup](recipes/mango-syrup.md)
 - [Moist & Tender Brown Butter Cornbread](recipes/cornbread.md)
