@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**300 recipes**
+**301 recipes**
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
@@ -17,6 +17,7 @@
 - [Baked Sausage-Stuffed Shells](recipes/baked-sausage-stuffed-shells.md)
 - [Barbancourt Chicken](recipes/barbancourt-chicken.md)
 - [Barbecue Rub](recipes/barbecue-rub.md)
+- [Barbecued Chicken Legs](recipes/barbecued-chicken-legs.md)
 - [Basil Dressing](recipes/basil-dressing.md)
 - [BBQ Pork Pastry](recipes/bbq-pork-pastry.md)
 - [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)

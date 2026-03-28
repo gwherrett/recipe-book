@@ -101,6 +101,7 @@
 - [Baked Portuguese Chicken (Macau Style)](recipes/baked-portuguese-chicken-macau-style.md)
 - [Baked Sausage-Stuffed Shells](recipes/baked-sausage-stuffed-shells.md)
 - [Barbancourt Chicken](recipes/barbancourt-chicken.md)
+- [Barbecued Chicken Legs](recipes/barbecued-chicken-legs.md)
 - [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)
 - [Beef Enchilada Filling Sauce](recipes/beef-enchiladas.md)
 - [Beef Fajitas](recipes/beef-fajitas.md)
