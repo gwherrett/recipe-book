@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Alphabetical)
 
-**301 recipes**
+**302 recipes**
 
+- [3-Cheese Macaroni](recipes/3-cheese-macaroni.md)
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
 - [Adobo Sauce](recipes/adobo-sauce.md)

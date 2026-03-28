@@ -208,6 +208,7 @@
 
 ## Pasta
 
+- [3-Cheese Macaroni](recipes/3-cheese-macaroni.md)
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
 - [Cacio e Pepe](recipes/cacio-e-pepe.md)
 - [Classic Lasagna](recipes/classic-lasagna.md)

@@ -260,6 +260,7 @@
 
 ## 2 – High in Fat/Sugar/Salt    (Rich, salty, or sugary; occasional)
 
+- [3-Cheese Macaroni](recipes/3-cheese-macaroni.md)
 - [Baked Sausage-Stuffed Shells](recipes/baked-sausage-stuffed-shells.md)
 - [BBQ Pork Pastry](recipes/bbq-pork-pastry.md)
 - [Beef Curry Puff](recipes/beef-curry-puff.md)
