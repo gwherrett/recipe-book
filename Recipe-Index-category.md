@@ -214,6 +214,7 @@
 - [Classic Lasagna](recipes/classic-lasagna.md)
 - [Gnocchi](recipes/gnocchi.md)
 - [Gnocchi with Tomato Sauce](recipes/gnocchi-with-tomato-sauce.md)
+- [Ham Tetrazzini](recipes/ham-tetrazzini.md)
 - [Hot Sausage and Peppers Pasta](recipes/hot-sausage-and-peppers-pasta.md)
 - [Lamb Meatballs in Tomato Sauce](recipes/lamb-meatballs-in-tomato-sauce.md)
 - [Lemon Risotto with Summer Squash](recipes/lemon-risotto-with-summer-squash.md)

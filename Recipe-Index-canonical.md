@@ -286,6 +286,7 @@
 - [Frozen Banana Cocoa Ice Cream](recipes/frozen-banana-cocoa-ice-cream.md)
 - [Garlic Mashed Potatoes with Yogurt](recipes/garlic-mashed-potatoes-with-yogurt.md)
 - [Ginger–Honey Sparkler (Mocktail)](recipes/ginger-honey-sparkler-mocktail.md)
+- [Ham Tetrazzini](recipes/ham-tetrazzini.md)
 - [Heart-Healthy Banana Bread](recipes/heart-healthy-banana-bread.md)
 - [Horseradish Corn Cheese Melt](recipes/horseradish-corn-cheese-melt.md)
 - [Horseradish Cream Sauce](recipes/horseradish-cream-sauce.md)

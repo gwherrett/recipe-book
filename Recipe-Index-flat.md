@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Alphabetical)
 
-**301 recipes**
+**302 recipes**
 
 - [3-Cheese Macaroni](recipes/3-cheese-macaroni.md)
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
@@ -106,6 +106,7 @@
 - [Greek Yogurt Tartar Sauce](recipes/greek-yogurt-tartar-sauce.md)
 - [Green Apple & Spring Mix Salad with Thai Basil Dressing](recipes/green-apple-spring-mix-salad-with-thai-basil-dressing.md)
 - [Green Papaya Salad with Beef Jerky](recipes/green-papaya-salad-with-beef-jerky.md)
+- [Ham Tetrazzini](recipes/ham-tetrazzini.md)
 - [Heart-Healthy Banana Bread](recipes/heart-healthy-banana-bread.md)
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
 - [Horseradish Corn Cheese Melt](recipes/horseradish-corn-cheese-melt.md)

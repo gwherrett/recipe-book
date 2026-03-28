@@ -276,6 +276,7 @@
 - [Extra Stuffings for Zucchini Flowers](recipes/extra-stuffings-for-zucchini-flowers.md)
 - [French Onion Soup](recipes/french-onion-soup.md)
 - [Ginger-Lime syrup](recipes/ginger-lime-syrup.md)
+- [Ham Tetrazzini](recipes/ham-tetrazzini.md)
 - [Horseradish Corn Cheese Melt](recipes/horseradish-corn-cheese-melt.md)
 - [Horseradish Cream Sauce](recipes/horseradish-cream-sauce.md)
 - [Hot Dog Relish](recipes/hot-dog-relish.md)
