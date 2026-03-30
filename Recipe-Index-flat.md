@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**303 recipes**
+**304 recipes**
 
+- [Khoresh Aloo (Persian Prune & Split Pea Stew)](recipes/khoresh-aloo-persian-prune-and-split-pea-stew.md)
 - [Cucumber-Lime Ring](recipes/cucumber-lime-ring.md)
 - [Turkey Tetrazzini with Spaghetti & Pita Chip Crust](recipes/turkey-tetrazzini-with-spaghetti.md)
 - [Ham Tetrazzini](recipes/ham-tetrazzini.md)

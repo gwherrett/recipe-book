@@ -139,6 +139,7 @@
 - [Japanese-Glazed Cedar Plank Salmon](recipes/japanese-glazed-cedar-plank-salmon.md)
 - [Jerk Chicken](recipes/jerk-chicken.md)
 - [Juicy Burger](recipes/juicy-burger.md)
+- [Khoresh Aloo (Persian Prune & Split Pea Stew)](recipes/khoresh-aloo-persian-prune-and-split-pea-stew.md)
 - [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
 - [Lamb Shoulder Tacos (Cordero Guisado)](recipes/lamb-shoulder-tacos.md)
 - [Lamb Stew Rendang](recipes/lamb-stew-rendang.md)

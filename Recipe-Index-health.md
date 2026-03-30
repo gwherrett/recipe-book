@@ -187,6 +187,7 @@
 - [Jamaican Oxtail Stew](recipes/jamaican-oxtail-stew.md)
 - [Japanese Curry Powder](recipes/japanese-curry-powder.md)
 - [Jerk Chicken](recipes/jerk-chicken.md)
+- [Khoresh Aloo (Persian Prune & Split Pea Stew)](recipes/khoresh-aloo-persian-prune-and-split-pea-stew.md)
 - [Lamb Meatballs in Tomato Sauce](recipes/lamb-meatballs-in-tomato-sauce.md)
 - [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
 - [Lamb Shoulder Tacos (Cordero Guisado)](recipes/lamb-shoulder-tacos.md)

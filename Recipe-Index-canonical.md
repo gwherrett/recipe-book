@@ -336,6 +336,7 @@
 ## Persian
 
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
+- [Khoresh Aloo (Persian Prune & Split Pea Stew)](recipes/khoresh-aloo-persian-prune-and-split-pea-stew.md)
 - [Persian Dill Rice with Fish (Sabzi Polo Mahi)](recipes/persian-dill-rice-with-fish-sabzi-polo-mahi.md)
 - [Persian Lamb Shanks](recipes/persian-lamb-shanks.md)
 - [Shirazi Salad](recipes/shirazi-salad.md)
