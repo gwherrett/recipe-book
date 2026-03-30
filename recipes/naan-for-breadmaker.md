@@ -1,6 +1,6 @@
 ---
 title: Naan for Breadmaker
-cuisine: Indian
+cuisine: Indian / Pakistani
 category: Breads & Pastries
 slug: naan-for-breadmaker
 health_rating: 3

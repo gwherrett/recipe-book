@@ -1,7 +1,7 @@
 ---
 title: Stewed Cinnamon-Scented Goat or Lamb Curry
 slug: stewed-cinnamon-scented-goat-or-lamb-curry
-cuisine: Indian
+cuisine: Indian / Pakistani
 category: Mains
 health_rating: 3
 health_rating_label: Mixed / Context-Dependent

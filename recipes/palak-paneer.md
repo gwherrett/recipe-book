@@ -1,6 +1,6 @@
 ---
 title: Palak Paneer
-cuisine: Indian
+cuisine: Indian / Pakistani
 category: Mains
 slug: palak-paneer
 health_rating: 3

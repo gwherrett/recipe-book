@@ -1,6 +1,6 @@
 ---
 title: Chicken Tikka Masala
-cuisine: Indian
+cuisine: Indian / Pakistani
 category: Mains
 slug: chicken-tikka-masala
 health_rating: 3

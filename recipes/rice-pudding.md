@@ -1,7 +1,7 @@
 ---
 title: Rice Pudding
 slug: rice-pudding
-cuisine: Indian
+cuisine: Indian / Pakistani
 category: Dessert
 health_rating: 2
 health_rating_label: Rich / Heavy

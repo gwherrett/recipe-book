@@ -1,6 +1,6 @@
 ---
 title: Mulligatawny Soup
-cuisine: Indian
+cuisine: Indian / Pakistani
 category: Soups & Stocks
 slug: mulligatawny-soup
 health_rating: 4
