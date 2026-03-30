@@ -154,6 +154,7 @@
 - [Chicken and Chorizo Paella](recipes/chicken-and-chorizo-paella.md)
 - [Chicken Enchiladas](recipes/chicken-enchiladas.md)
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
+- [Chicken Salan (Pakistani Chicken Shorba Curry)](recipes/chicken-salan.md)
 - [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
 - [Chilaquiles Master Recipe](recipes/chilaquiles-master-recipe.md)
 - [Chile Relleno](recipes/chile-relleno.md)

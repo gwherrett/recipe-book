@@ -1,7 +1,7 @@
 ---
 title: Vij Family's Chicken Curry
 slug: vij-familys-chicken-curry
-cuisine: Indian
+cuisine: Indian / Pakistani
 category: Mains
 health_rating: 3
 health_rating_label: Mixed / Context-Dependent

@@ -29,7 +29,7 @@ health_rating_label: <matching label>
 
 ## Canonical cuisine list
 
-African, Asian, Balkan, British, **Cantonese**, Caribbean, Chinese, Filipino, French, Indian, Italian, Japanese, Mediterranean, Mexican, Middle Eastern, North American, Persian, Southern / Cajun, Spanish, Thai, Vietnamese
+African, Asian, Balkan, British, **Cantonese**, Caribbean, Chinese, Filipino, French, Indian / Pakistani, Italian, Japanese, Mediterranean, Mexican, Middle Eastern, North American, Persian, Southern / Cajun, Spanish, Thai, Vietnamese
 
 > **Important:** If a recipe being added uses a cuisine not in this list, flag it to the user before writing the file. Do not silently pick the closest match — ask whether to use an existing cuisine or add a new one.
 

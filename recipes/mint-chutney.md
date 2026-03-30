@@ -1,6 +1,6 @@
 ---
 title: Mint Chutney
-cuisine: Indian
+cuisine: Indian / Pakistani
 category: Sauces & Condiments
 slug: mint-chutney
 health_rating: 5

@@ -10,7 +10,7 @@
 - [Caribbean](#caribbean)
 - [Chinese](#chinese)
 - [French](#french)
-- [Indian](#indian)
+- [Indian / Pakistani](#indian-pakistani)
 - [Italian](#italian)
 - [Japanese](#japanese)
 - [Mediterranean](#mediterranean)
@@ -120,10 +120,11 @@
 - [Warm Chocolate Cake](recipes/warm-chocolate-cake.md)
 - [Wine-Braised Lamb Shanks with Herbes de Provence](recipes/wine-braised-lamb-shanks-with-herbes-de-provence.md)
 
-## Indian
+## Indian / Pakistani
 
 - [Aloo Gobi](recipes/aloo-gobi.md)
 - [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
+- [Chicken Salan (Pakistani Chicken Shorba Curry)](recipes/chicken-salan.md)
 - [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
 - [Litti Chokha](recipes/litti-chokha.md)
 - [Mint Chutney](recipes/mint-chutney.md)

@@ -1,6 +1,6 @@
 ---
 title: Red Lentil Daal (Masoor Dal)
-cuisine: Indian
+cuisine: Indian / Pakistani
 category: Mains
 slug: red-lentil-daal-masoor-dal
 health_rating: 5
