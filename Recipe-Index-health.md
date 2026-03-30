@@ -2,13 +2,13 @@
 
 ## Health Ratings
 
-- [5 – Eat More                  (Light, plant-forward, or very wholesome)](#5-eat-more-light-plant-forward-or-very-wholesome)
-- [4 – Healthy                   (Good everyday choice)](#4-healthy-good-everyday-choice)
-- [3 – Manage portion size       (Balanced but energy-dense; watch servings)](#3-manage-portion-size-balanced-but-energy-dense-watch-servings)
-- [2 – High in Fat/Sugar/Salt    (Rich, salty, or sugary; occasional)](#2-high-in-fat-sugar-salt-rich-salty-or-sugary-occasional)
-- [1 – Indulgence                (Desserts, deep-fried, very rich)](#1-indulgence-desserts-deep-fried-very-rich)
+- [5 – Very Healthy Everyday](#5-very-healthy-everyday)
+- [4 – Generally Healthy](#4-generally-healthy)
+- [3 – Mixed / Context-Dependent](#3-mixed-context-dependent)
+- [2 – Rich / Heavy](#2-rich-heavy)
+- [1 – Treat / Indulgent](#1-treat-indulgent)
 
-## 5 – Eat More                  (Light, plant-forward, or very wholesome)
+## 5 – Very Healthy Everyday
 
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Adobo Sauce](recipes/adobo-sauce.md)
@@ -46,7 +46,7 @@
 - [Yellow Lentil & Chicken Soup](recipes/yellow-lentil-chicken-soup.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 
-## 4 – Healthy                   (Good everyday choice)
+## 4 – Generally Healthy
 
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
@@ -132,7 +132,7 @@
 - [Zesty Italian Dressing](recipes/zesty-italian-dressing.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
 
-## 3 – Manage portion size       (Balanced but energy-dense; watch servings)
+## 3 – Mixed / Context-Dependent
 
 - [Aromatic Rice](recipes/aromatic-rice.md)
 - [Baked Portuguese Chicken (Macau Style)](recipes/baked-portuguese-chicken-macau-style.md)
@@ -261,7 +261,7 @@
 - [Yorkshire Pudding](recipes/yorkshire-pudding.md)
 - [Yucca with Garlic Sauce (Yuca con Mojo)](recipes/yuca-con-mojo.md)
 
-## 2 – High in Fat/Sugar/Salt    (Rich, salty, or sugary; occasional)
+## 2 – Rich / Heavy
 
 - [3-Cheese Macaroni](recipes/3-cheese-macaroni.md)
 - [Baked Sausage-Stuffed Shells](recipes/baked-sausage-stuffed-shells.md)
@@ -305,7 +305,7 @@
 - [Turkey Tetrazzini with Spaghetti & Pita Chip Crust](recipes/turkey-tetrazzini-with-spaghetti.md)
 - [Wild Mushroom Risotto](recipes/wild-mushroom-risotto.md)
 
-## 1 – Indulgence                (Desserts, deep-fried, very rich)
+## 1 – Treat / Indulgent
 
 - [Butter Brown Sugar Apples](recipes/butter-brown-sugar-apples.md)
 - [Chocolate Sauce](recipes/chocolate-sauce.md)
