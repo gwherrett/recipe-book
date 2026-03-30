@@ -21,9 +21,10 @@ Craft your own exquisite limoncello at home with just three ingredients. Dive in
 ## Ingredients
 
 - 6 organic lemons
-- 500 ml grain alcohol
-- 550 ml water
-- 400 g sugar
+- 750 ml vodka
+- 250 ml water
+- 250 g sugar, adjust to taste
+- Citric acid, to taste (optional — for extra tartness)
 
 ---
 
@@ -47,5 +48,6 @@ Craft your own exquisite limoncello at home with just three ingredients. Dive in
 - Don't waste your peeled lemons — store some in the fridge for a few days or squeeze the rest and freeze the juice in an ice cube tray.
 - For a stronger taste, use the same amount of water as alcohol (1:1 ratio).
 - Store one bottle in the fridge and the rest in a dry, cool place.
-- For a tarter, less sweet limoncello, reduce the sugar to 250–300 g. You can also add a small amount of freshly squeezed lemon juice to the finished batch for extra citric sharpness.
+- This recipe is intentionally less sweet than traditional limoncello. Taste before bottling and add more sugar syrup if needed, or a pinch of citric acid (start with ¼ tsp, dissolved in a little water) for extra tartness without diluting the alcohol.
+- Vodka produces a slightly softer extraction than grain alcohol — extend the infusion to 3–4 weeks if you want a more intense lemon flavour.
 - Chill the glasses in the freezer for 30 minutes before serving.
