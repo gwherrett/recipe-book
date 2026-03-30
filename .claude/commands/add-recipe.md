@@ -124,3 +124,4 @@ One or two sentences describing what the dish is and what makes it interesting. 
 - **Source line:** If a URL is present in the text, format it as `**Source:** [Name](URL)`. If only a name/book/show is mentioned, use `**Source:** Name`. If no source info is present, omit the line entirely.
 - **Slug:** Derive from the title — lowercase, spaces replaced with hyphens, special characters removed. For "za'atar" use "zaatar", for "Mac & Cheese" use "mac-and-cheese".
 - **After writing the file:** Confirm the file path and show the user the frontmatter so they can verify the metadata before committing.
+- **Do not regenerate indexes:** Never run `generate_indexes.py` or update any index file. The GitHub Action handles this automatically on push.
