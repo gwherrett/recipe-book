@@ -151,6 +151,7 @@
 - [Insalata Capricciosa](recipes/insalata-capricciosa.md)
 - [Lamb Meatballs in Tomato Sauce](recipes/lamb-meatballs-in-tomato-sauce.md)
 - [Lemon Risotto with Summer Squash](recipes/lemon-risotto-with-summer-squash.md)
+- [Limoncello](recipes/limoncello.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
 - [Lobster Pasta Sauce (Busara-Style)](recipes/lobster-pasta-sauce-busara-style.md)
 - [Meatballs and Peas in Tomato Sauce (Pork & Lamb Sausage, 800 g)](recipes/meatballs-and-peas-in-tomato-sauce-pork-lamb-sausage-800-g.md)
@@ -336,6 +337,7 @@
 ## Persian
 
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
+- [Lamb, Lentil & Date Syrup Stew](recipes/lamb-lentil-date-syrup.md)
 - [Persian Dill Rice with Fish (Sabzi Polo Mahi)](recipes/persian-dill-rice-with-fish-sabzi-polo-mahi.md)
 - [Persian Lamb Shanks](recipes/persian-lamb-shanks.md)
 - [Shirazi Salad](recipes/shirazi-salad.md)

@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**303 recipes**
+**305 recipes**
 
 - [3-Cheese Macaroni](recipes/3-cheese-macaroni.md)
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
@@ -130,6 +130,7 @@
 - [Kale-Cabbage-Carrot Slaw](recipes/kale-cabbage-carrot-slaw.md)
 - [Kol Böreği (Potato, Spinach & Cheese Filo Pie)](recipes/kol-boregi-potato-spinach-cheese-filo-pie.md)
 - [Korean Marinade for Quail](recipes/korean-marinade-for-quail.md)
+- [Lamb, Lentil & Date Syrup Stew](recipes/lamb-lentil-date-syrup.md)
 - [Lamb Meatballs in Tomato Sauce](recipes/lamb-meatballs-in-tomato-sauce.md)
 - [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
 - [Lamb Shoulder Tacos (Cordero Guisado)](recipes/lamb-shoulder-tacos.md)
@@ -140,6 +141,7 @@
 - [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)
 - [Lemony Marinated Feta](recipes/lemony-marinated-feta.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
+- [Limoncello](recipes/limoncello.md)
 - [Litti Chokha](recipes/litti-chokha.md)
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
 - [Lobster Busara](recipes/lobster-busara.md)

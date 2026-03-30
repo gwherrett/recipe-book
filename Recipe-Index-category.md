@@ -90,6 +90,7 @@
 ## Drinks
 
 - [Ginger–Honey Sparkler (Mocktail)](recipes/ginger-honey-sparkler-mocktail.md)
+- [Limoncello](recipes/limoncello.md)
 - [Simple Syrup](recipes/simple-syrup.md)
 - [Spiced Rum](recipes/spiced-rum.md)
 
@@ -142,6 +143,7 @@
 - [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
 - [Lamb Shoulder Tacos (Cordero Guisado)](recipes/lamb-shoulder-tacos.md)
 - [Lamb Stew Rendang](recipes/lamb-stew-rendang.md)
+- [Lamb, Lentil & Date Syrup Stew](recipes/lamb-lentil-date-syrup.md)
 - [Litti Chokha](recipes/litti-chokha.md)
 - [Lobster Mac n Cheese](recipes/lobster-mac-and-cheese.md)
 - [Low Country Boil](recipes/low-country-boil.md)
