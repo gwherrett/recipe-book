@@ -1,18 +1,13 @@
 ---
 title: Cha Ca La Vong (Vietnamese Turmeric Fish with Dill)
-cuisine: Thai
+cuisine: Vietnamese
 category: Mains
 slug: cha-ca-la-vong-vietnamese-turmeric-fish-with-dill
 health_rating: 5
-health_rating_label: Eat Everyday
+health_rating_label: Very Healthy Everyday
 ---
 
 # Cha Ca La Vong (Vietnamese Turmeric Fish with Dill)
-
-**Category:** Vietnamese Mains  
-**Tags:** Fish, Dill, Turmeric, Hanoi, Noodles
-
----
 
 ### Summary
 A famous Hanoi specialty featuring turmeric-marinated fish served with fresh dill, scallions, rice noodles, and nuoc cham. This fragrant, herb-forward dish is often cooked tableside and best enjoyed with peanuts, herbs, and a squeeze of lime.
