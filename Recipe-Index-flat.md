@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**304 recipes**
+**305 recipes**
 
 - [3-Cheese Macaroni](recipes/3-cheese-macaroni.md)
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
@@ -141,6 +141,7 @@
 - [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)
 - [Lemony Marinated Feta](recipes/lemony-marinated-feta.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
+- [Limoncello](recipes/limoncello.md)
 - [Litti Chokha](recipes/litti-chokha.md)
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
 - [Lobster Busara](recipes/lobster-busara.md)

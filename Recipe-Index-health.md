@@ -313,6 +313,7 @@
 - [Egg Tart](recipes/egg-tart.md)
 - [Lemon Cream](recipes/lemon-cream.md)
 - [Lemon Loaf](recipes/lemon-loaf.md)
+- [Limoncello](recipes/limoncello.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
 - [Mango Pudding](recipes/mango-pudding.md)
 - [Maple Pudding](recipes/maple-pudding.md)

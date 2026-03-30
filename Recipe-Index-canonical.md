@@ -151,6 +151,7 @@
 - [Insalata Capricciosa](recipes/insalata-capricciosa.md)
 - [Lamb Meatballs in Tomato Sauce](recipes/lamb-meatballs-in-tomato-sauce.md)
 - [Lemon Risotto with Summer Squash](recipes/lemon-risotto-with-summer-squash.md)
+- [Limoncello](recipes/limoncello.md)
 - [Limoncello Tiramisu](recipes/limoncello-tiramisu.md)
 - [Lobster Pasta Sauce (Busara-Style)](recipes/lobster-pasta-sauce-busara-style.md)
 - [Meatballs and Peas in Tomato Sauce (Pork & Lamb Sausage, 800 g)](recipes/meatballs-and-peas-in-tomato-sauce-pork-lamb-sausage-800-g.md)

@@ -90,6 +90,7 @@
 ## Drinks
 
 - [Ginger–Honey Sparkler (Mocktail)](recipes/ginger-honey-sparkler-mocktail.md)
+- [Limoncello](recipes/limoncello.md)
 - [Simple Syrup](recipes/simple-syrup.md)
 - [Spiced Rum](recipes/spiced-rum.md)
 
