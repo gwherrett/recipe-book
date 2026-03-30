@@ -1,13 +1,13 @@
 ---
-title: Khoresh Aloo (Persian Prune & Split Pea Stew)
-slug: khoresh-aloo-persian-prune-and-split-pea-stew
+title: Lamb, Lentil & Date Syrup Stew
+slug: lamb-lentil-date-syrup
 cuisine: Persian
 category: Mains
 health_rating: 3
 health_rating_label: Mixed / Context-Dependent
 ---
 
-# Khoresh Aloo (Persian Prune & Split Pea Stew)
+# Lamb, Lentil & Date Syrup Stew
 
 **Prep Time:** 15 minutes
 **Cook Time:** 2 hours 15 minutes
