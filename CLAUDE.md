@@ -56,3 +56,11 @@ The integer and label must match the same row exactly.
 
 - **Cantonese** covers Cantonese, Hong Kong, and Macau dishes — do not use Chinese for these.
 - **Asian** is a fallback for pan-Asian dishes that don't fit a specific cuisine.
+
+## Finding recipes from the web
+
+When the user asks to find or source a recipe from the web:
+
+1. **Search first, fetch second.** Run a web search and present the top results as a numbered list of links with a one-line description each. Let the user pick before attempting to fetch any page.
+2. **If a fetch fails (403 or other error),** do not silently retry other URLs. Show the user the list of candidate links from the search results and ask them to choose one to try next, or to visit the link directly and paste the recipe text.
+3. **Never spend more than two fetch attempts** before stopping and handing the links to the user.
