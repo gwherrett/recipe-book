@@ -4,7 +4,7 @@ cuisine: North American
 category: Dessert
 slug: citrus-curd-three-ways
 health_rating: 1
-health_rating_label: Sweet, Fat, Yum!
+health_rating_label: Treat / Indulgent
 ---
 
 # Citrus Curd (Three Ways)

@@ -4,7 +4,7 @@ cuisine: Chinese
 category: Salads & Sides
 slug: sichuan-green-beans
 health_rating: 4
-health_rating_label: Healthy
+health_rating_label: Generally Healthy
 ---
 
 # Sichuan-Style Green Beans

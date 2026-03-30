@@ -4,7 +4,7 @@ cuisine: North American
 category: Soups & Stocks
 slug: corn-chowder
 health_rating: 4
-health_rating_label: Healthy
+health_rating_label: Generally Healthy
 ---
 
 **Corn Chowder**

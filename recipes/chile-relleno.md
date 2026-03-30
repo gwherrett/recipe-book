@@ -11,7 +11,7 @@ slug: chile-relleno
 source: Carla Rodriguez, Mom's Tamales (Los Angeles, CA)
 show: "Diners, Drive-Ins and Dives \u2013 You Picked 'Em"
 health_rating: 3
-health_rating_label: Manage portion size
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Chile Relleno

@@ -4,7 +4,7 @@ cuisine: North American
 category: Dessert
 slug: raspberry-and-blueberry-crumble
 health_rating: 1
-health_rating_label: Indulgence
+health_rating_label: Treat / Indulgent
 ---
 
 # Raspberry and Blueberry Crumble

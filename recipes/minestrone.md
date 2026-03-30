@@ -5,7 +5,7 @@ category: Soups & Stocks
 slug: minestrone
 source: Nigella Lawson, How To Eat (1998)
 health_rating: 4
-health_rating_label: Healthy
+health_rating_label: Generally Healthy
 ---
 
 # Minestrone

@@ -10,7 +10,7 @@ tags:
 - basil
 - spicy
 health_rating: 4
-health_rating_label: Healthy
+health_rating_label: Generally Healthy
 ---
 
 ## Thai Basil Ground Turkey (Pad Krapow-Style)

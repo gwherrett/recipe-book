@@ -4,7 +4,7 @@ cuisine: Thai
 category: Mains
 slug: momofuku-bo-ssam
 health_rating: 3
-health_rating_label: Manage portion size
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Momofuku Bo Ssäm

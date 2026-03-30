@@ -11,7 +11,7 @@ slug: air-fryer-buffalo-cauliflower
 servings: "2\u20134"
 time: 25 minutes
 health_rating: 4
-health_rating_label: Healthy
+health_rating_label: Generally Healthy
 ---
 
 # Air Fryer Buffalo Cauliflower (Classic Version)

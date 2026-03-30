@@ -12,7 +12,7 @@ tags:
 servings: "4"
 time: 30 minutes
 health_rating: 5
-health_rating_label: Very Healthy
+health_rating_label: Very Healthy Everyday
 ---
 
 # Vermicelli Noodle Bowls
