@@ -230,6 +230,7 @@
 - [Sesame and Miso Dressing](recipes/sesame-and-miso-dressing.md)
 - [Shanghai Fried Noodles (Cu Chao Mian)](recipes/shanghai-fried-noodles.md)
 - [Shrimp Bisque](recipes/shrimp-bisque.md)
+- [Shrimp Cocktail Sauce](recipes/shrimp-cocktail-sauce.md)
 - [Shrimp with Tomato Sauce](recipes/chinese-shrimp-with-tomato-sauce.md)
 - [Slow Cooker Chili](recipes/slow-cooker-chili.md)
 - [Smoked Chicken (Rotisserie)](recipes/smoked-chicken-rotisserie.md)

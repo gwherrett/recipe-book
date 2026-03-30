@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**306 recipes**
+**307 recipes**
 
+- [Shrimp Cocktail Sauce](recipes/shrimp-cocktail-sauce.md)
 - [Chicken Salan (Pakistani Chicken Shorba Curry)](recipes/chicken-salan.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
 - [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)

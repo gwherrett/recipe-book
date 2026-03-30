@@ -313,6 +313,7 @@
 - [Salsa Fresca (Pico de Gallo)](recipes/salsa-fresca-pico-de-gallo.md)
 - [Salsa Roja](recipes/salsa-roja.md)
 - [Salt, Pepper, and Lime Dipping Sauce (Muối Tiêu Chanh)](recipes/salt-pepper-and-lime-dipping-sauce-muoi-tieu-chanh.md)
+- [Shrimp Cocktail Sauce](recipes/shrimp-cocktail-sauce.md)
 - [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
 - [Tapénade](recipes/tapenade.md)
 - [Tzatziki](recipes/tzatziki.md)

@@ -317,6 +317,7 @@
 - [Salted Chocolate Chip Cookies](recipes/salted-chocolate-chip-cookies.md)
 - [Seared Duck Breast Salad](recipes/seared-duck-breast-salad.md)
 - [Sherry Cake](recipes/sherry-cake.md)
+- [Shrimp Cocktail Sauce](recipes/shrimp-cocktail-sauce.md)
 - [Slow Cooker Chili](recipes/slow-cooker-chili.md)
 - [Smoked Chicken (Rotisserie)](recipes/smoked-chicken-rotisserie.md)
 - [Smoked Goose (Rotisserie)](recipes/smoked-goose-rotisserie.md)
