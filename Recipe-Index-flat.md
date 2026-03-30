@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**305 recipes**
+**306 recipes**
 
+- [Chicken Salan (Pakistani Chicken Shorba Curry)](recipes/chicken-salan.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
 - [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
 - [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)

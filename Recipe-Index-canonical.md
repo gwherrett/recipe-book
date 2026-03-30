@@ -124,6 +124,7 @@
 
 - [Aloo Gobi](recipes/aloo-gobi.md)
 - [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
+- [Chicken Salan (Pakistani Chicken Shorba Curry)](recipes/chicken-salan.md)
 - [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
 - [Litti Chokha](recipes/litti-chokha.md)
 - [Mint Chutney](recipes/mint-chutney.md)
