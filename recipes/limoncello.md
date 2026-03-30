@@ -12,7 +12,7 @@ health_rating_label: Treat / Indulgent
 **Source:** [Antonella — Sicilian Cook in Tuscany](https://www.antonella.cooking/recipe/how-to-make-a-perfect-limoncello/)
 
 **Prep Time:** 2 hours (plus 15 days infusion)
-**Yield:** ~3 litres
+**Yield:** ~1.5 litres
 
 Craft your own exquisite limoncello at home with just three ingredients. Dive into the essence of Sicilian lemons and savor the taste of summer.
 
@@ -20,10 +20,10 @@ Craft your own exquisite limoncello at home with just three ingredients. Dive in
 
 ## Ingredients
 
-- 12 organic lemons
-- 1 l grain alcohol
-- 1.1 l water
-- 800 g sugar
+- 6 organic lemons
+- 500 ml grain alcohol
+- 550 ml water
+- 400 g sugar
 
 ---
 
@@ -47,5 +47,5 @@ Craft your own exquisite limoncello at home with just three ingredients. Dive in
 - Don't waste your peeled lemons — store some in the fridge for a few days or squeeze the rest and freeze the juice in an ice cube tray.
 - For a stronger taste, use the same amount of water as alcohol (1:1 ratio).
 - Store one bottle in the fridge and the rest in a dry, cool place.
-- For a tarter, less sweet limoncello, reduce the sugar to 500–600 g. You can also add a small amount of freshly squeezed lemon juice to the finished batch for extra citric sharpness.
+- For a tarter, less sweet limoncello, reduce the sugar to 250–300 g. You can also add a small amount of freshly squeezed lemon juice to the finished batch for extra citric sharpness.
 - Chill the glasses in the freezer for 30 minutes before serving.
