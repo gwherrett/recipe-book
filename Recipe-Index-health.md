@@ -298,6 +298,7 @@
 - [Pork Tenderloin a la Normande](recipes/pork-tenderloin-a-la-normande.md)
 - [Rice Pudding](recipes/rice-pudding.md)
 - [Sausage, Cheese & Basil Lasagna](recipes/sausage-cheese-basil-lasagna.md)
+- [Schwarties Hash Browns](recipes/schwarties-hash-browns.md)
 - [Simple Syrup](recipes/simple-syrup.md)
 - [Smoked Gouda Mac n Cheese](recipes/smoked-gouda-mac-n-cheese.md)
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)

@@ -315,6 +315,7 @@
 - [Salmon with Anchovy-Garlic Butter](recipes/salmon-with-anchovy-garlic-butter.md)
 - [Salmon With Dijon Brown Sugar](recipes/salmon-with-dijon-brown-sugar.md)
 - [Salted Chocolate Chip Cookies](recipes/salted-chocolate-chip-cookies.md)
+- [Schwarties Hash Browns](recipes/schwarties-hash-browns.md)
 - [Seared Duck Breast Salad](recipes/seared-duck-breast-salad.md)
 - [Sherry Cake](recipes/sherry-cake.md)
 - [Shrimp Cocktail Sauce](recipes/shrimp-cocktail-sauce.md)

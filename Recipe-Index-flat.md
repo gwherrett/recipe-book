@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**307 recipes**
+**308 recipes**
 
+- [Schwarties Hash Browns](recipes/schwarties-hash-browns.md)
 - [Shrimp Cocktail Sauce](recipes/shrimp-cocktail-sauce.md)
 - [Chicken Salan (Pakistani Chicken Shorba Curry)](recipes/chicken-salan.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
