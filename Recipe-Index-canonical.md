@@ -305,6 +305,7 @@
 - [Montreal Steak Seasoning](recipes/montreal-steak-seasoning.md)
 - [New England Clam Chowder](recipes/new-england-clam-chowder.md)
 - [New York Strip Loin with Pepper Marinade](recipes/new-york-strip-loin-with-pepper-marinade.md)
+- [Peanut Butter Cookies](recipes/peanut-butter-cookies.md)
 - [Pecan Pie](recipes/pecan-pie.md)
 - [Pickled Salmon](recipes/pickled-salmon.md)
 - [Pie Crust](recipes/pie-crust.md)

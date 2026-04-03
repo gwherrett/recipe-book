@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**309 recipes**
+**310 recipes**
 
+- [Peanut Butter Cookies](recipes/peanut-butter-cookies.md)
 - [Malaysian Fish Curry](recipes/malaysian-fish-curry.md)
 - [Earthen Pot Fish Curry](recipes/earthen-pot-fish-curry.md)
 - [Shrimp Cocktail Sauce](recipes/shrimp-cocktail-sauce.md)
