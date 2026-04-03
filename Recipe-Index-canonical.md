@@ -35,6 +35,7 @@
 - [Filipino Turkey Adobo](recipes/filipino-turkey-adobo.md)
 - [Korean Marinade for Quail](recipes/korean-marinade-for-quail.md)
 - [Malay Curry Beef Brisket](recipes/malay-curry-beef-brisket.md)
+- [Malaysian Fish Curry](recipes/malaysian-fish-curry.md)
 - [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
 
 ## Balkan

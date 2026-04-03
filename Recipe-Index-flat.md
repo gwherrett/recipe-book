@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**308 recipes**
+**309 recipes**
 
+- [Malaysian Fish Curry](recipes/malaysian-fish-curry.md)
 - [Earthen Pot Fish Curry](recipes/earthen-pot-fish-curry.md)
 - [Shrimp Cocktail Sauce](recipes/shrimp-cocktail-sauce.md)
 - [Chicken Salan (Pakistani Chicken Shorba Curry)](recipes/chicken-salan.md)

@@ -150,6 +150,7 @@
 - [Lobster Mac n Cheese](recipes/lobster-mac-and-cheese.md)
 - [Low Country Boil](recipes/low-country-boil.md)
 - [Malay Curry Beef Brisket](recipes/malay-curry-beef-brisket.md)
+- [Malaysian Fish Curry](recipes/malaysian-fish-curry.md)
 - [Meatballs and Peas in Tomato Sauce (Pork & Lamb Sausage, 800 g)](recipes/meatballs-and-peas-in-tomato-sauce-pork-lamb-sausage-800-g.md)
 - [Mojo Pork Tacos](recipes/mojo-pork-tacos.md)
 - [Momofuku Bo Ssäm](recipes/momofuku-bo-ssam.md)

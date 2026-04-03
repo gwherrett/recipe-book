@@ -199,6 +199,7 @@
 - [Lobster Busara](recipes/lobster-busara.md)
 - [Lobster Pasta Sauce (Busara-Style)](recipes/lobster-pasta-sauce-busara-style.md)
 - [Low Country Boil](recipes/low-country-boil.md)
+- [Malaysian Fish Curry](recipes/malaysian-fish-curry.md)
 - [Massaman Curry Paste](recipes/massaman-curry-paste.md)
 - [Meatballs and Peas in Tomato Sauce (Pork & Lamb Sausage, 800 g)](recipes/meatballs-and-peas-in-tomato-sauce-pork-lamb-sausage-800-g.md)
 - [Mini Lamb, Ale & Parsnip Pies](recipes/mini-lamb-ale-parsnip-pies.md)
