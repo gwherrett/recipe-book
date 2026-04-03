@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**310 recipes**
+**311 recipes**
 
+- [Chocolate Cupcakes by Aria](recipes/chocolate-cupcakes-aria.md)
 - [Peanut Butter Cookies](recipes/peanut-butter-cookies.md)
 - [Malaysian Fish Curry](recipes/malaysian-fish-curry.md)
 - [Earthen Pot Fish Curry](recipes/earthen-pot-fish-curry.md)

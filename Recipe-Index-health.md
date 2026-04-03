@@ -311,6 +311,7 @@
 ## 1 – Indulgence                (Desserts, deep-fried, very rich)
 
 - [Butter Brown Sugar Apples](recipes/butter-brown-sugar-apples.md)
+- [Chocolate Cupcakes by Aria](recipes/chocolate-cupcakes-aria.md)
 - [Chocolate Sauce](recipes/chocolate-sauce.md)
 - [Citrus Curd (Three Ways)](recipes/citrus-curd-three-ways.md)
 - [Classic Sugar Cookie Recipe](recipes/classic-sugar-cookie-recipe.md)

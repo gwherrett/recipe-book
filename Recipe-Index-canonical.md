@@ -272,6 +272,7 @@
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
 - [Chicken Stock](recipes/chicken-stock.md)
 - [Chili Powder (Ancho-Based)](recipes/chili-powder-ancho-based.md)
+- [Chocolate Cupcakes by Aria](recipes/chocolate-cupcakes-aria.md)
 - [Chocolate Sauce](recipes/chocolate-sauce.md)
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
 - [Citrus Curd (Three Ways)](recipes/citrus-curd-three-ways.md)

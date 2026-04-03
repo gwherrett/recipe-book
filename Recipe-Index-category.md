@@ -51,6 +51,7 @@
 
 - [Butter Brown Sugar Apples](recipes/butter-brown-sugar-apples.md)
 - [Canning Pears](recipes/canning-pears.md)
+- [Chocolate Cupcakes by Aria](recipes/chocolate-cupcakes-aria.md)
 - [Citrus Curd (Three Ways)](recipes/citrus-curd-three-ways.md)
 - [Classic Sugar Cookie Recipe](recipes/classic-sugar-cookie-recipe.md)
 - [Egg Tart](recipes/egg-tart.md)
