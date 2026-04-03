@@ -29,11 +29,13 @@
 
 ## Asian
 
+- [Earthen Pot Fish Curry](recipes/earthen-pot-fish-curry.md)
 - [Filipino Adobo-Marinated Pork Chops](recipes/filipino-adobo-marinated-pork-chops.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
 - [Filipino Turkey Adobo](recipes/filipino-turkey-adobo.md)
 - [Korean Marinade for Quail](recipes/korean-marinade-for-quail.md)
 - [Malay Curry Beef Brisket](recipes/malay-curry-beef-brisket.md)
+- [Malaysian Fish Curry](recipes/malaysian-fish-curry.md)
 - [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
 
 ## Balkan
@@ -270,6 +272,7 @@
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
 - [Chicken Stock](recipes/chicken-stock.md)
 - [Chili Powder (Ancho-Based)](recipes/chili-powder-ancho-based.md)
+- [Chocolate Cupcakes by Aria](recipes/chocolate-cupcakes-aria.md)
 - [Chocolate Sauce](recipes/chocolate-sauce.md)
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
 - [Citrus Curd (Three Ways)](recipes/citrus-curd-three-ways.md)
@@ -303,6 +306,7 @@
 - [Montreal Steak Seasoning](recipes/montreal-steak-seasoning.md)
 - [New England Clam Chowder](recipes/new-england-clam-chowder.md)
 - [New York Strip Loin with Pepper Marinade](recipes/new-york-strip-loin-with-pepper-marinade.md)
+- [Peanut Butter Cookies](recipes/peanut-butter-cookies.md)
 - [Pecan Pie](recipes/pecan-pie.md)
 - [Pickled Salmon](recipes/pickled-salmon.md)
 - [Pie Crust](recipes/pie-crust.md)

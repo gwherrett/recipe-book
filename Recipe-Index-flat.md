@@ -1,7 +1,11 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**307 recipes**
+**311 recipes**
 
+- [Chocolate Cupcakes by Aria](recipes/chocolate-cupcakes-aria.md)
+- [Peanut Butter Cookies](recipes/peanut-butter-cookies.md)
+- [Malaysian Fish Curry](recipes/malaysian-fish-curry.md)
+- [Earthen Pot Fish Curry](recipes/earthen-pot-fish-curry.md)
 - [Shrimp Cocktail Sauce](recipes/shrimp-cocktail-sauce.md)
 - [Chicken Salan (Pakistani Chicken Shorba Curry)](recipes/chicken-salan.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
