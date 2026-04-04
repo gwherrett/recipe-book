@@ -256,6 +256,7 @@
 - [Crispy Roast Potatoes with Rosemary and Za'atar](recipes/crispy-roast-potatoes-with-rosemary-and-zaatar.md)
 - [Cucumber-Lime Ring](recipes/cucumber-lime-ring.md)
 - [Farro Salad with Tomatoes and Herbs](recipes/farro-salad-with-tomatoes-and-herbs.md)
+- [Fattoush-Style Green Cabbage Slaw](recipes/fattoush-style-green-cabbage-slaw.md)
 - [Fried Cauliflower with Fish Sauce Vinaigrette](recipes/fried-cauliflower-with-fish-sauce-vinaigrette.md)
 - [Gallo Pinto](recipes/gallo-pinto.md)
 - [Gambas en Escabeche (Spanish Pickled Shrimp)](recipes/gambas-en-escabeche-spanish-pickled-shrimp.md)

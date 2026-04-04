@@ -20,6 +20,7 @@
 - [Chicken Stock](recipes/chicken-stock.md)
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)
 - [Farro Salad with Tomatoes and Herbs](recipes/farro-salad-with-tomatoes-and-herbs.md)
+- [Fattoush-Style Green Cabbage Slaw](recipes/fattoush-style-green-cabbage-slaw.md)
 - [Frozen Banana Cocoa Ice Cream](recipes/frozen-banana-cocoa-ice-cream.md)
 - [Green Apple & Spring Mix Salad with Thai Basil Dressing](recipes/green-apple-spring-mix-salad-with-thai-basil-dressing.md)
 - [Japanese Slaw with Brussels Sprouts](recipes/japanese-slaw-with-brussels-sprouts.md)
