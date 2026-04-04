@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**311 recipes**
+**312 recipes**
 
+- [Fattoush-Style Green Cabbage Slaw](recipes/fattoush-style-green-cabbage-slaw.md)
 - [Chocolate Cupcakes by Aria](recipes/chocolate-cupcakes-aria.md)
 - [Peanut Butter Cookies](recipes/peanut-butter-cookies.md)
 - [Malaysian Fish Curry](recipes/malaysian-fish-curry.md)
