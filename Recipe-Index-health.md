@@ -176,7 +176,6 @@
 - [Dill Sour Cream Sauce](recipes/dill-sour-cream-sauce.md)
 - [Duck Breasts with Pomegranate Barberry Sauce](recipes/duck-breasts-with-pomegranate-barberry-sauce.md)
 - [Duck Oyakodon](recipes/duck-oyakodon.md)
-- [Earthen Pot Fish Curry](recipes/earthen-pot-fish-curry.md)
 - [Eel Sauce (Unagi Sauce)](recipes/eel-sauce-unagi-sauce.md)
 - [Filipino Adobo-Marinated Pork Chops](recipes/filipino-adobo-marinated-pork-chops.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)

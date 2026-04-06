@@ -29,7 +29,6 @@
 
 ## Asian
 
-- [Earthen Pot Fish Curry](recipes/earthen-pot-fish-curry.md)
 - [Filipino Adobo-Marinated Pork Chops](recipes/filipino-adobo-marinated-pork-chops.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
 - [Filipino Turkey Adobo](recipes/filipino-turkey-adobo.md)
