@@ -124,6 +124,7 @@
 - [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
 - [Chicken with Dates, Saffron and Freekeh](recipes/chicken-with-dates-saffron-and-freekeh.md)
 - [Chile Relleno](recipes/chile-relleno.md)
+- [Classic Shrimp Creole](recipes/classic-shrimp-creole.md)
 - [Claypot Lobster Maenam](recipes/claypot-lobster-maenam.md)
 - [Corn Chip-Crusted Chicken](recipes/corn-chip-crusted-chicken.md)
 - [Cornish Hens (Rotisserie Herb-Brined)](recipes/rotisserie-herb-brined-cornish-hens-scaled-for-2-birds.md)

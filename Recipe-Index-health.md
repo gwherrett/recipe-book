@@ -161,6 +161,7 @@
 - [Chilaquiles Master Recipe](recipes/chilaquiles-master-recipe.md)
 - [Chile Relleno](recipes/chile-relleno.md)
 - [Chili Powder (Ancho-Based)](recipes/chili-powder-ancho-based.md)
+- [Classic Shrimp Creole](recipes/classic-shrimp-creole.md)
 - [Claypot Lobster Maenam](recipes/claypot-lobster-maenam.md)
 - [Corn Relish](recipes/corn-relish.md)
 - [Cornbread Stuffing with Andouille, Fennel, and Bell Peppers](recipes/cornbread-stuffing-andouille-fennel-bell-peppers.md)

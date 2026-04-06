@@ -353,6 +353,7 @@
 ## Southern / Cajun
 
 - [Cajun Jambalaya](recipes/cajun-jambalaya.md)
+- [Classic Shrimp Creole](recipes/classic-shrimp-creole.md)
 - [Cornbread Stuffing with Andouille, Fennel, and Bell Peppers](recipes/cornbread-stuffing-andouille-fennel-bell-peppers.md)
 - [Low Country Boil](recipes/low-country-boil.md)
 - [Moist & Tender Brown Butter Cornbread](recipes/cornbread.md)
