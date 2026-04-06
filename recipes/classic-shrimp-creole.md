@@ -17,7 +17,7 @@ health_rating_label: Mixed / Context-Dependent
 
 A classic Louisiana Creole dish built on a dark roux and the holy trinity of onion, celery, and bell pepper, simmered into a rich tomato sauce and finished with fresh shrimp. Served over rice.
 
-> *Scaled from the original 8-serving recipe. Canned tomato quantities are approximate — using a full can of diced tomatoes (14½ oz) instead of ¾ of a can works fine.*
+> *Scaled from the original 8-serving recipe.*
 
 ---
 
@@ -29,8 +29,8 @@ A classic Louisiana Creole dish built on a dark roux and the holy trinity of oni
 - ¾ cup chopped celery
 - 9 tablespoons chopped green onions
 - 1 medium green bell pepper, chopped
-- 1½ cloves garlic, minced
-- 1 can (approx. 11 oz) diced tomatoes, undrained (¾ of a 14½-oz can)
+- 2 cloves garlic, minced
+- 1 can (14½ oz) diced tomatoes, undrained
 - 6 oz tomato sauce (¾ of an 8-oz can)
 - 4½ oz tomato paste (¾ of a 6-oz can)
 - ¾ cup water, or shrimp stock
