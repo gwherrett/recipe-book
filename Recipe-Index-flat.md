@@ -1,7 +1,11 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**311 recipes**
+**314 recipes**
 
+- [Classic Shrimp Creole](recipes/classic-shrimp-creole.md)
+- [Creole Sauce](recipes/creole-sauce.md)
+- [Traditional Lebanese Cabbage Salad](recipes/traditional-lebanese-cabbage-salad.md)
+- [Fattoush-Style Green Cabbage Slaw](recipes/fattoush-style-green-cabbage-slaw.md)
 - [Chocolate Cupcakes by Aria](recipes/chocolate-cupcakes-aria.md)
 - [Peanut Butter Cookies](recipes/peanut-butter-cookies.md)
 - [Malaysian Fish Curry](recipes/malaysian-fish-curry.md)
@@ -280,7 +284,6 @@
 - [Cornbread Stuffing with Andouille, Fennel, and Bell Peppers](recipes/cornbread-stuffing-andouille-fennel-bell-peppers.md)
 - [Cornish Hens (Rotisserie)](recipes/cornish-hens-rotisserie.md)
 - [Creamy Horseradish Mashed Potatoes](recipes/creamy-horseradish-mashed-potatoes.md)
-- [Creole Sauce](recipes/creole-sauce.md)
 - [Cubano Sandwich](recipes/cubano-sandwich.md)
 - [Dill Sour Cream Sauce](recipes/dill-sour-cream-sauce.md)
 - [Duck Oyakodon](recipes/duck-oyakodon.md)
