@@ -249,6 +249,7 @@
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
 - [Quick Fresh Chilli Sauce](recipes/quick-fresh-chilli-sauce.md)
 - [Sticky Date Spiced Carrots](recipes/sticky-date-spiced-carrots.md)
+- [Traditional Lebanese Cabbage Salad](recipes/traditional-lebanese-cabbage-salad.md)
 - [Turkish Salad](recipes/turkish-salad.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)

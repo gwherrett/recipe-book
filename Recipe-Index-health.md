@@ -41,6 +41,7 @@
 - [Southwest Kale Salad](recipes/southwest-kale-salad.md)
 - [Southwestern Black Bean & Corn Chili](recipes/southwestern-black-bean-corn-chili.md)
 - [Spinach Goma-ae](recipes/spinach-goma-ae.md)
+- [Traditional Lebanese Cabbage Salad](recipes/traditional-lebanese-cabbage-salad.md)
 - [Vermicelli Noodle Bowls](recipes/vermicelli-noodle-bowls.md)
 - [White Bean Dip](recipes/white-bean-dip.md)
 - [Winter Melon Soup (Cantonese)](recipes/winter-melon-soup-cantonese.md)
