@@ -191,6 +191,7 @@
 - [Japanese Slaw with Brussels Sprouts](recipes/japanese-slaw-with-brussels-sprouts.md)
 - [Japanese-Glazed Cedar Plank Salmon](recipes/japanese-glazed-cedar-plank-salmon.md)
 - [Miso Marinade for Sablefish](recipes/miso-marinade-for-sablefish.md)
+- [Mochi (Ice Cream Filling)](recipes/mochi-ice-cream-filling.md)
 - [Rockfish Teriyaki](recipes/rockfish-teriyaki.md)
 - [Saba No Miso-ni](recipes/saba-no-miso-ni.md)
 - [Sesame and Miso Dressing](recipes/sesame-and-miso-dressing.md)

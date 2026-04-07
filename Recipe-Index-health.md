@@ -297,6 +297,7 @@
 - [Mac & Cheese with Za'atar Pesto](recipes/mac-and-cheese-with-zaatar-pesto.md)
 - [Malay Curry Beef Brisket](recipes/malay-curry-beef-brisket.md)
 - [Mango Syrup](recipes/mango-syrup.md)
+- [Mochi (Ice Cream Filling)](recipes/mochi-ice-cream-filling.md)
 - [Moist & Tender Brown Butter Cornbread](recipes/cornbread.md)
 - [New York Strip Loin with Pepper Marinade](recipes/new-york-strip-loin-with-pepper-marinade.md)
 - [Pesto–Ricotta Dip](recipes/pesto-ricotta-dip.md)
