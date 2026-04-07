@@ -12,6 +12,7 @@
 - [Pasta](#pasta)
 - [Salads & Sides](#salads-sides)
 - [Sauces & Condiments](#sauces-condiments)
+- [Snacks](#snacks)
 - [Soups & Stocks](#soups-stocks)
 - [Spice Mixes & Pastes](#spice-mixes-pastes)
 
@@ -46,6 +47,7 @@
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
 - [Dutch Baby Pancake](recipes/dutch-baby-pancake.md)
 - [Egg Strata](recipes/egg-strata.md)
+- [Mediterranean Egg White Muffins](recipes/mediterranean-egg-white-muffins.md)
 
 ## Dessert
 
@@ -325,6 +327,10 @@
 - [Tzatziki](recipes/tzatziki.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
+
+## Snacks
+
+- [Shredded Radish Pastry](recipes/shredded-radish-pastry.md)
 
 ## Soups & Stocks
 

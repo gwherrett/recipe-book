@@ -1,7 +1,9 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**313 recipes**
+**315 recipes**
 
+- [Mediterranean Egg White Muffins](recipes/mediterranean-egg-white-muffins.md)
+- [Shredded Radish Pastry](recipes/shredded-radish-pastry.md)
 - [Classic Shrimp Creole](recipes/classic-shrimp-creole.md)
 - [Creole Sauce](recipes/creole-sauce.md)
 - [Traditional Lebanese Cabbage Salad](recipes/traditional-lebanese-cabbage-salad.md)

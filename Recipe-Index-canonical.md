@@ -72,6 +72,7 @@
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
 - [Mango Pudding](recipes/mango-pudding.md)
+- [Shredded Radish Pastry](recipes/shredded-radish-pastry.md)
 - [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Winter Melon Soup (Cantonese)](recipes/winter-melon-soup-cantonese.md)
 
@@ -203,6 +204,7 @@
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)
 - [Lemony Marinated Feta](recipes/lemony-marinated-feta.md)
 - [Lobster Busara](recipes/lobster-busara.md)
+- [Mediterranean Egg White Muffins](recipes/mediterranean-egg-white-muffins.md)
 - [Moroccan Carrot Soup](recipes/moroccan-carrot-soup.md)
 - [Moroccan Chickpea Stew](recipes/moroccan-chickpea-stew.md)
 - [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
