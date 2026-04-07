@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**315 recipes**
+**316 recipes**
 
+- [Mochi (Ice Cream Filling)](recipes/mochi-ice-cream-filling.md)
 - [Mediterranean Egg White Muffins](recipes/mediterranean-egg-white-muffins.md)
 - [Shredded Radish Pastry](recipes/shredded-radish-pastry.md)
 - [Classic Shrimp Creole](recipes/classic-shrimp-creole.md)
