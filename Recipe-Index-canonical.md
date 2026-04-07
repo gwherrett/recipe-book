@@ -29,7 +29,6 @@
 
 ## Asian
 
-- [Earthen Pot Fish Curry](recipes/earthen-pot-fish-curry.md)
 - [Filipino Adobo-Marinated Pork Chops](recipes/filipino-adobo-marinated-pork-chops.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
 - [Filipino Turkey Adobo](recipes/filipino-turkey-adobo.md)
@@ -244,10 +243,12 @@
 - [Black Chickpeas with Baharat and Orange](recipes/black-chickpeas-with-baharat-and-orange.md)
 - [Chicken with Dates, Saffron and Freekeh](recipes/chicken-with-dates-saffron-and-freekeh.md)
 - [Duck Breasts with Pomegranate Barberry Sauce](recipes/duck-breasts-with-pomegranate-barberry-sauce.md)
+- [Fattoush-Style Green Cabbage Slaw](recipes/fattoush-style-green-cabbage-slaw.md)
 - [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
 - [Quick Fresh Chilli Sauce](recipes/quick-fresh-chilli-sauce.md)
 - [Sticky Date Spiced Carrots](recipes/sticky-date-spiced-carrots.md)
+- [Traditional Lebanese Cabbage Salad](recipes/traditional-lebanese-cabbage-salad.md)
 - [Turkish Salad](recipes/turkish-salad.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
@@ -351,6 +352,7 @@
 ## Southern / Cajun
 
 - [Cajun Jambalaya](recipes/cajun-jambalaya.md)
+- [Classic Shrimp Creole](recipes/classic-shrimp-creole.md)
 - [Cornbread Stuffing with Andouille, Fennel, and Bell Peppers](recipes/cornbread-stuffing-andouille-fennel-bell-peppers.md)
 - [Low Country Boil](recipes/low-country-boil.md)
 - [Moist & Tender Brown Butter Cornbread](recipes/cornbread.md)
