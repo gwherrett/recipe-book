@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**316 recipes**
+**317 recipes**
 
+- [Carrot Ginger Dressing](recipes/carrot-ginger-dressing.md)
 - [Mochi (Ice Cream Filling)](recipes/mochi-ice-cream-filling.md)
 - [Mediterranean Egg White Muffins](recipes/mediterranean-egg-white-muffins.md)
 - [Shredded Radish Pastry](recipes/shredded-radish-pastry.md)

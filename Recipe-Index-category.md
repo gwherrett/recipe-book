@@ -84,6 +84,7 @@
 - [Basil Dressing](recipes/basil-dressing.md)
 - [Blue Cheese Dressing](recipes/blue-cheese-dressing.md)
 - [Caesar Dressing with Anchovy](recipes/caesar-dressing-with-anchovy.md)
+- [Carrot Ginger Dressing](recipes/carrot-ginger-dressing.md)
 - [Korean Marinade for Quail](recipes/korean-marinade-for-quail.md)
 - [Mango Syrup](recipes/mango-syrup.md)
 - [Miso Marinade for Sablefish](recipes/miso-marinade-for-sablefish.md)
