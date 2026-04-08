@@ -129,7 +129,7 @@
 - [Thai Dressing](recipes/thai-dressing.md)
 - [Tuna Burger](recipes/tuna-burger.md)
 - [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
-- [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)
+- [Turkey Paitan Shio Ramen](recipes/turkey-paitan-ramen.md)
 - [Turkish Salad](recipes/turkish-salad.md)
 - [Tuscan Panzanella](recipes/tuscan-panzanella.md)
 - [Veggie Chili](recipes/veggie-chili.md)

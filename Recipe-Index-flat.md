@@ -2,6 +2,7 @@
 
 **317 recipes**
 
+- [Turkey Paitan Shio Ramen](recipes/turkey-paitan-ramen.md)
 - [Carrot Ginger Dressing](recipes/carrot-ginger-dressing.md)
 - [Mochi (Ice Cream Filling)](recipes/mochi-ice-cream-filling.md)
 - [Mediterranean Egg White Muffins](recipes/mediterranean-egg-white-muffins.md)
@@ -225,7 +226,6 @@
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)
 - [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
-- [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 - [Tuscan Panzanella](recipes/tuscan-panzanella.md)
 - [Udon BBQ Pork with Red Peppers](recipes/udon-bbq-pork-with-red-peppers.md)

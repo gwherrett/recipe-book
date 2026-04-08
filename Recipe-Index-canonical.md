@@ -198,7 +198,7 @@
 - [Sesame and Miso Dressing](recipes/sesame-and-miso-dressing.md)
 - [Shoyu Ramen](recipes/shoyu-ramen.md)
 - [Spinach Goma-ae](recipes/spinach-goma-ae.md)
-- [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)
+- [Turkey Paitan Shio Ramen](recipes/turkey-paitan-ramen.md)
 
 ## Mediterranean
 
