@@ -183,6 +183,7 @@
 ## Japanese
 
 - [Agedashi Tofu](recipes/agedashi-tofu.md)
+- [Carrot Ginger Dressing](recipes/carrot-ginger-dressing.md)
 - [Duck Oyakodon](recipes/duck-oyakodon.md)
 - [Eel Sauce (Unagi Sauce)](recipes/eel-sauce-unagi-sauce.md)
 - [Japanese Curry](recipes/japanese-curry.md)
