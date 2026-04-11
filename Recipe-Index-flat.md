@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**318 recipes**
+**319 recipes**
 
+- [Classic Gremolata](recipes/classic-gremolata.md)
 - [Buttermilk Coleslaw with Brussels Sprouts](recipes/buttermilk-coleslaw-with-brussels-sprouts.md)
 - [Turkey Paitan Shio Ramen](recipes/turkey-paitan-ramen.md)
 - [Carrot Ginger Dressing](recipes/carrot-ginger-dressing.md)

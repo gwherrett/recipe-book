@@ -145,6 +145,7 @@
 - [Basil Dressing](recipes/basil-dressing.md)
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
 - [Cacio e Pepe](recipes/cacio-e-pepe.md)
+- [Classic Gremolata](recipes/classic-gremolata.md)
 - [Classic Lasagna](recipes/classic-lasagna.md)
 - [Extra Stuffings for Zucchini Flowers](recipes/extra-stuffings-for-zucchini-flowers.md)
 - [Farro Salad with Tomatoes and Herbs](recipes/farro-salad-with-tomatoes-and-herbs.md)
