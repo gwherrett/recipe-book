@@ -1,8 +1,9 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**317 recipes**
+**318 recipes**
 
-- [Buttermilk Coleslaw with Brussels Sprouts](recipes/traditional-coleslaw.md)
+- [Buttermilk Coleslaw with Brussels Sprouts](recipes/buttermilk-coleslaw-with-brussels-sprouts.md)
+- [Traditional Coleslaw](recipes/traditional-coleslaw.md)
 - [Turkey Paitan Shio Ramen](recipes/turkey-paitan-ramen.md)
 - [Carrot Ginger Dressing](recipes/carrot-ginger-dressing.md)
 - [Mochi (Ice Cream Filling)](recipes/mochi-ice-cream-filling.md)
