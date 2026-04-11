@@ -308,6 +308,7 @@
 - [Adobo Sauce](recipes/adobo-sauce.md)
 - [Baba Ganoush](recipes/baba-ganoush.md)
 - [Chocolate Sauce](recipes/chocolate-sauce.md)
+- [Classic Gremolata](recipes/classic-gremolata.md)
 - [Corn Relish](recipes/corn-relish.md)
 - [Creole Sauce](recipes/creole-sauce.md)
 - [Dill Sour Cream Sauce](recipes/dill-sour-cream-sauce.md)

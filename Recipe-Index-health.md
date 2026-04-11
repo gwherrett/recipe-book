@@ -19,6 +19,7 @@
 - [Chicken Soup with Thai Basil](recipes/chicken-soup-with-thai-basil.md)
 - [Chicken Stock](recipes/chicken-stock.md)
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)
+- [Classic Gremolata](recipes/classic-gremolata.md)
 - [Farro Salad with Tomatoes and Herbs](recipes/farro-salad-with-tomatoes-and-herbs.md)
 - [Fattoush-Style Green Cabbage Slaw](recipes/fattoush-style-green-cabbage-slaw.md)
 - [Frozen Banana Cocoa Ice Cream](recipes/frozen-banana-cocoa-ice-cream.md)
