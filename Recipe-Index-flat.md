@@ -3,7 +3,6 @@
 **318 recipes**
 
 - [Buttermilk Coleslaw with Brussels Sprouts](recipes/buttermilk-coleslaw-with-brussels-sprouts.md)
-- [Traditional Coleslaw](recipes/traditional-coleslaw.md)
 - [Turkey Paitan Shio Ramen](recipes/turkey-paitan-ramen.md)
 - [Carrot Ginger Dressing](recipes/carrot-ginger-dressing.md)
 - [Mochi (Ice Cream Filling)](recipes/mochi-ice-cream-filling.md)
@@ -226,6 +225,7 @@
 - [Tavë Kosi (Albanian Baked Lamb)](recipes/tave-kosi-albanian-baked-lamb.md)
 - [Thai Dressing](recipes/thai-dressing.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
+- [Traditional Coleslaw](recipes/traditional-coleslaw.md)
 - [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
 - [Turkish-Inspired Bolognese](recipes/turkish-inspired-bolognese.md)
 - [Tuscan Panzanella](recipes/tuscan-panzanella.md)
