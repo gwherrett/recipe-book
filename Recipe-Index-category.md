@@ -250,6 +250,7 @@
 - [Aromatic Rice](recipes/aromatic-rice.md)
 - [Asian Grilled Steak Salad](recipes/asian-grilled-steak-salad.md)
 - [Brussels Sprouts Slaw](recipes/brussels-sprouts-slaw.md)
+- [Buttermilk Coleslaw with Brussels Sprouts](recipes/buttermilk-coleslaw-with-brussels-sprouts.md)
 - [Camote con Chile y Limón (Sweet Potatoes)](recipes/camote-con-chile-y-limon-sweet-potatoes.md)
 - [Causa Rellena (Peruvian Potato Terrine)](recipes/causa-rellena-peruvian-potato-terrine.md)
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)

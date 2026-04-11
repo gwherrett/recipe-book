@@ -270,6 +270,7 @@
 - [Braised Sablefish in a Casserole with Local Chanterelles and Black Truffle Butter](recipes/braised-sablefish-in-a-casserole-with-local-chanterelles-and-black-truffle-butter.md)
 - [Brussels Sprouts Slaw](recipes/brussels-sprouts-slaw.md)
 - [Butter Brown Sugar Apples](recipes/butter-brown-sugar-apples.md)
+- [Buttermilk Coleslaw with Brussels Sprouts](recipes/buttermilk-coleslaw-with-brussels-sprouts.md)
 - [Canning Pears](recipes/canning-pears.md)
 - [Carrots Spice Blend](recipes/carrots-spice-blend.md)
 - [Celery & Stilton Soup](recipes/celery-stilton-soup.md)

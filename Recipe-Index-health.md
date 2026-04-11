@@ -148,6 +148,7 @@
 - [Beef Fajitas](recipes/beef-fajitas.md)
 - [Beyond Meat Dumplings](recipes/beyond-meat-dumplings.md)
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
+- [Buttermilk Coleslaw with Brussels Sprouts](recipes/buttermilk-coleslaw-with-brussels-sprouts.md)
 - [Caesar Dressing with Anchovy](recipes/caesar-dressing-with-anchovy.md)
 - [Cajun Jambalaya](recipes/cajun-jambalaya.md)
 - [Canning Pears](recipes/canning-pears.md)
