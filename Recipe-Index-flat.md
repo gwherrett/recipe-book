@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**319 recipes**
+**318 recipes**
 
+- [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb.md)
 - [Classic Gremolata](recipes/classic-gremolata.md)
 - [Buttermilk Coleslaw with Brussels Sprouts](recipes/buttermilk-coleslaw-with-brussels-sprouts.md)
 - [Turkey Paitan Shio Ramen](recipes/turkey-paitan-ramen.md)
@@ -222,8 +223,6 @@
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
 - [Taro Root Cake](recipes/taro-root-cake.md)
 - [Tarragon & Pickle Potato Salad](recipes/tarragon-pickle-potato-salad.md)
-- [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb-with-rice.md)
-- [Tavë Kosi (Albanian Baked Lamb)](recipes/tave-kosi-albanian-baked-lamb.md)
 - [Thai Dressing](recipes/thai-dressing.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
 - [Traditional Coleslaw](recipes/traditional-coleslaw.md)

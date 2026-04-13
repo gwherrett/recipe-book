@@ -45,8 +45,7 @@
 - [Mini Phyllo Apple Tarts (Par-Bake Method)](recipes/mini-phyllo-apple-tarts-par-bake-method.md)
 - [Phyllo Pastry Shells (Muffin Tin Method)](recipes/phyllo-pastry-shells-muffin-tin-method.md)
 - [Tarragon & Pickle Potato Salad](recipes/tarragon-pickle-potato-salad.md)
-- [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb-with-rice.md)
-- [Tavë Kosi (Albanian Baked Lamb)](recipes/tave-kosi-albanian-baked-lamb.md)
+- [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb.md)
 
 ## British
 
