@@ -334,6 +334,8 @@
 ## Snacks
 
 - [Shredded Radish Pastry](recipes/shredded-radish-pastry.md)
+- [Suya-Spiced Nuts](recipes/suya-spiced-nuts.md)
+- [Za'atar Fire Crackers](recipes/zaatar-fire-crackers.md)
 
 ## Soups & Stocks
 

@@ -1,7 +1,9 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**318 recipes**
+**320 recipes**
 
+- [Suya-Spiced Nuts](recipes/suya-spiced-nuts.md)
+- [Za'atar Fire Crackers](recipes/zaatar-fire-crackers.md)
 - [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb.md)
 - [Classic Gremolata](recipes/classic-gremolata.md)
 - [Buttermilk Coleslaw with Brussels Sprouts](recipes/buttermilk-coleslaw-with-brussels-sprouts.md)
