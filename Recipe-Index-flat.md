@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**318 recipes**
+**319 recipes**
 
+- [Big Mac Sauce](recipes/big-mac-sauce.md)
 - [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb.md)
 - [Classic Gremolata](recipes/classic-gremolata.md)
 - [Buttermilk Coleslaw with Brussels Sprouts](recipes/buttermilk-coleslaw-with-brussels-sprouts.md)
