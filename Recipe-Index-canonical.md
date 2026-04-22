@@ -154,6 +154,7 @@
 - [Gnocchi with Tomato Sauce](recipes/gnocchi-with-tomato-sauce.md)
 - [Hot Sausage and Peppers Pasta](recipes/hot-sausage-and-peppers-pasta.md)
 - [Insalata Capricciosa](recipes/insalata-capricciosa.md)
+- [Kale Salad, Savio-Style](recipes/kale-salad-savio-style.md)
 - [Lamb Meatballs in Tomato Sauce](recipes/lamb-meatballs-in-tomato-sauce.md)
 - [Lemon Risotto with Summer Squash](recipes/lemon-risotto-with-summer-squash.md)
 - [Limoncello](recipes/limoncello.md)
