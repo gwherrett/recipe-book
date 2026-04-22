@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**322 recipes**
+**323 recipes**
 
+- [Kale Salad, Savio-Style](recipes/kale-salad-savio-style.md)
 - [Vinegar-Roasted Potatoes with Herbs](recipes/vinegar-roasted-potatoes-with-herbs.md)
 - [Big Mac Sauce](recipes/big-mac-sauce.md)
 - [Suya-Spiced Nuts](recipes/suya-spiced-nuts.md)

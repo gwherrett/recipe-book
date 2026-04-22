@@ -83,6 +83,7 @@
 - [Japanese Curry](recipes/japanese-curry.md)
 - [Japanese Lamb Curry](recipes/japanese-lamb-curry.md)
 - [Japanese-Glazed Cedar Plank Salmon](recipes/japanese-glazed-cedar-plank-salmon.md)
+- [Kale Salad, Savio-Style](recipes/kale-salad-savio-style.md)
 - [Lemon Risotto with Summer Squash](recipes/lemon-risotto-with-summer-squash.md)
 - [Litti Chokha](recipes/litti-chokha.md)
 - [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)

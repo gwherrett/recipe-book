@@ -270,6 +270,7 @@
 - [Insalata Capricciosa](recipes/insalata-capricciosa.md)
 - [Japanese Slaw with Brussels Sprouts](recipes/japanese-slaw-with-brussels-sprouts.md)
 - [Kale Apple Slaw](recipes/kale-apple-slaw.md)
+- [Kale Salad, Savio-Style](recipes/kale-salad-savio-style.md)
 - [Kale-Cabbage-Carrot Slaw](recipes/kale-cabbage-carrot-slaw.md)
 - [Long Bean, Cucumber & Tomato Salad](recipes/long-bean-cucumber-tomato-salad.md)
 - [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
