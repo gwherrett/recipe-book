@@ -1,5 +1,9 @@
 # Recipe Index (Flat — Most Recently Updated)
 
+**320 recipes**
+
+- [Suya-Spiced Nuts](recipes/suya-spiced-nuts.md)
+- [Za'atar Fire Crackers](recipes/zaatar-fire-crackers.md)
 **319 recipes**
 
 - [Big Mac Sauce](recipes/big-mac-sauce.md)

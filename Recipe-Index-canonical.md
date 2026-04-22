@@ -26,6 +26,7 @@
 ## African
 
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
+- [Suya-Spiced Nuts](recipes/suya-spiced-nuts.md)
 
 ## Asian
 
@@ -255,6 +256,7 @@
 - [Traditional Lebanese Cabbage Salad](recipes/traditional-lebanese-cabbage-salad.md)
 - [Turkish Salad](recipes/turkish-salad.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
+- [Za'atar Fire Crackers](recipes/zaatar-fire-crackers.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
 
 ## North American
