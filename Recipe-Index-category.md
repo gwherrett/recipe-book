@@ -300,6 +300,7 @@
 - [Traditional Lebanese Cabbage Salad](recipes/traditional-lebanese-cabbage-salad.md)
 - [Turkish Salad](recipes/turkish-salad.md)
 - [Tuscan Panzanella](recipes/tuscan-panzanella.md)
+- [Vinegar-Roasted Potatoes with Herbs](recipes/vinegar-roasted-potatoes-with-herbs.md)
 - [Yucca with Garlic Sauce (Yuca con Mojo)](recipes/yuca-con-mojo.md)
 
 ## Sauces & Condiments
