@@ -59,6 +59,7 @@
 - [Simple Roast Chicken](recipes/simple-roast-chicken.md)
 - [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
+- [Vinegar-Roasted Potatoes with Herbs](recipes/vinegar-roasted-potatoes-with-herbs.md)
 - [Yorkshire Pudding](recipes/yorkshire-pudding.md)
 
 ## Cantonese

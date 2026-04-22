@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**321 recipes**
+**322 recipes**
 
+- [Vinegar-Roasted Potatoes with Herbs](recipes/vinegar-roasted-potatoes-with-herbs.md)
 - [Big Mac Sauce](recipes/big-mac-sauce.md)
 - [Suya-Spiced Nuts](recipes/suya-spiced-nuts.md)
 - [Za'atar Fire Crackers](recipes/zaatar-fire-crackers.md)

@@ -265,6 +265,7 @@
 - [Tzatziki](recipes/tzatziki.md)
 - [Udon BBQ Pork with Red Peppers](recipes/udon-bbq-pork-with-red-peppers.md)
 - [Vij Family's Chicken Curry](recipes/vij-familys-chicken-curry.md)
+- [Vinegar-Roasted Potatoes with Herbs](recipes/vinegar-roasted-potatoes-with-herbs.md)
 - [White Anchovy & Egg Pizza](recipes/white-anchovy-egg-pizza.md)
 - [Wine-Braised Lamb Shanks with Herbes de Provence](recipes/wine-braised-lamb-shanks-with-herbes-de-provence.md)
 - [Yorkshire Pudding](recipes/yorkshire-pudding.md)
