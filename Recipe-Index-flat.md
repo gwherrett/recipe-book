@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**323 recipes**
+**324 recipes**
 
+- [Roasted and Reverse Seared Prime Rib](recipes/roasted-and-reverse-seared-prime-rib.md)
 - [Kale Salad, Savio-Style](recipes/kale-salad-savio-style.md)
 - [Vinegar-Roasted Potatoes with Herbs](recipes/vinegar-roasted-potatoes-with-herbs.md)
 - [Big Mac Sauce](recipes/big-mac-sauce.md)
