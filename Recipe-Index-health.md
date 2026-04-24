@@ -309,6 +309,7 @@
 - [Phyllo Pastry Shells (Muffin Tin Method)](recipes/phyllo-pastry-shells-muffin-tin-method.md)
 - [Pork Tenderloin a la Normande](recipes/pork-tenderloin-a-la-normande.md)
 - [Rice Pudding](recipes/rice-pudding.md)
+- [Roasted and Reverse Seared Prime Rib](recipes/roasted-and-reverse-seared-prime-rib.md)
 - [Sausage, Cheese & Basil Lasagna](recipes/sausage-cheese-basil-lasagna.md)
 - [Simple Syrup](recipes/simple-syrup.md)
 - [Smoked Gouda Mac n Cheese](recipes/smoked-gouda-mac-n-cheese.md)

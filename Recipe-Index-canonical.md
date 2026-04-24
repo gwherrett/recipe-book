@@ -325,6 +325,7 @@
 - [Pulled Pork Shoulder with Spiced Cider Mop](recipes/pulled-pork-shoulder-with-spiced-cider-mop.md)
 - [Raspberry and Blueberry Crumble](recipes/raspberry-and-blueberry-crumble.md)
 - [Ribs - Dry Rub](recipes/rib-rub.md)
+- [Roasted and Reverse Seared Prime Rib](recipes/roasted-and-reverse-seared-prime-rib.md)
 - [Roasted Carrots with Spice Blend](recipes/roasted-carrots-with-spice-blend.md)
 - [Salmon Chowder](recipes/salmon-chowder.md)
 - [Salmon with Anchovy-Garlic Butter](recipes/salmon-with-anchovy-garlic-butter.md)
