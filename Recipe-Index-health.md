@@ -167,6 +167,7 @@
 - [Chili Powder (Ancho-Based)](recipes/chili-powder-ancho-based.md)
 - [Classic Shrimp Creole](recipes/classic-shrimp-creole.md)
 - [Claypot Lobster Maenam](recipes/claypot-lobster-maenam.md)
+- [Coriander Roast Potatoes](recipes/coriander-roast-potatoes.md)
 - [Corn Relish](recipes/corn-relish.md)
 - [Cornbread Stuffing with Andouille, Fennel, and Bell Peppers](recipes/cornbread-stuffing-andouille-fennel-bell-peppers.md)
 - [Cornish Hens (Rotisserie Herb-Brined)](recipes/rotisserie-herb-brined-cornish-hens-scaled-for-2-birds.md)
