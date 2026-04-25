@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**324 recipes**
+**325 recipes**
 
+- [Coriander Roast Potatoes](recipes/coriander-roast-potatoes.md)
 - [Roasted and Reverse Seared Prime Rib](recipes/roasted-and-reverse-seared-prime-rib.md)
 - [Kale Salad, Savio-Style](recipes/kale-salad-savio-style.md)
 - [Vinegar-Roasted Potatoes with Herbs](recipes/vinegar-roasted-potatoes-with-herbs.md)

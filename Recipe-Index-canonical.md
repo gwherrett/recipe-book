@@ -207,6 +207,7 @@
 
 - [Avgolemono (Greek Lemon Chicken Soup)](recipes/avgolemono-greek-lemon-chicken-soup.md)
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)
+- [Coriander Roast Potatoes](recipes/coriander-roast-potatoes.md)
 - [Lemony Marinated Feta](recipes/lemony-marinated-feta.md)
 - [Lobster Busara](recipes/lobster-busara.md)
 - [Mediterranean Egg White Muffins](recipes/mediterranean-egg-white-muffins.md)
