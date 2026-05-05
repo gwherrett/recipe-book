@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**326 recipes**
+**327 recipes**
 
+- [Eggplant Lasagna](recipes/eggplant-lasagna.md)
 - [Hellimli Yorkshire Puddings](recipes/hellimli-yorkshire-puddings.md)
 - [Coriander Roast Potatoes](recipes/coriander-roast-potatoes.md)
 - [Roasted and Reverse Seared Prime Rib](recipes/roasted-and-reverse-seared-prime-rib.md)

@@ -224,6 +224,7 @@
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
 - [Cacio e Pepe](recipes/cacio-e-pepe.md)
 - [Classic Lasagna](recipes/classic-lasagna.md)
+- [Eggplant Lasagna](recipes/eggplant-lasagna.md)
 - [Gnocchi](recipes/gnocchi.md)
 - [Gnocchi with Tomato Sauce](recipes/gnocchi-with-tomato-sauce.md)
 - [Ham Tetrazzini](recipes/ham-tetrazzini.md)

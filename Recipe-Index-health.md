@@ -289,6 +289,7 @@
 - [Cubano Sandwich](recipes/cubano-sandwich.md)
 - [Dutch Baby Pancake](recipes/dutch-baby-pancake.md)
 - [Egg Strata](recipes/egg-strata.md)
+- [Eggplant Lasagna](recipes/eggplant-lasagna.md)
 - [Extra Stuffings for Zucchini Flowers](recipes/extra-stuffings-for-zucchini-flowers.md)
 - [French Onion Soup](recipes/french-onion-soup.md)
 - [Ginger-Lime syrup](recipes/ginger-lime-syrup.md)
