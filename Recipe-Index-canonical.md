@@ -26,6 +26,7 @@
 ## African
 
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
+- [Suya-Spiced Nuts](recipes/suya-spiced-nuts.md)
 
 ## Asian
 
@@ -45,12 +46,12 @@
 - [Mini Phyllo Apple Tarts (Par-Bake Method)](recipes/mini-phyllo-apple-tarts-par-bake-method.md)
 - [Phyllo Pastry Shells (Muffin Tin Method)](recipes/phyllo-pastry-shells-muffin-tin-method.md)
 - [Tarragon & Pickle Potato Salad](recipes/tarragon-pickle-potato-salad.md)
-- [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb-with-rice.md)
-- [Tavë Kosi (Albanian Baked Lamb)](recipes/tave-kosi-albanian-baked-lamb.md)
+- [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb.md)
 
 ## British
 
 - [Crispy Roast Potatoes with Rosemary and Za'atar](recipes/crispy-roast-potatoes-with-rosemary-and-zaatar.md)
+- [Hellimli Yorkshire Puddings](recipes/hellimli-yorkshire-puddings.md)
 - [Mac & Cheese with Za'atar Pesto](recipes/mac-and-cheese-with-zaatar-pesto.md)
 - [Mini Lamb, Ale & Parsnip Pies](recipes/mini-lamb-ale-parsnip-pies.md)
 - [Roasted Celeriac with Thyme and Lemon](recipes/roasted-celeriac-with-thyme-and-lemon.md)
@@ -59,6 +60,7 @@
 - [Simple Roast Chicken](recipes/simple-roast-chicken.md)
 - [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
+- [Vinegar-Roasted Potatoes with Herbs](recipes/vinegar-roasted-potatoes-with-herbs.md)
 - [Yorkshire Pudding](recipes/yorkshire-pudding.md)
 
 ## Cantonese
@@ -153,6 +155,7 @@
 - [Gnocchi with Tomato Sauce](recipes/gnocchi-with-tomato-sauce.md)
 - [Hot Sausage and Peppers Pasta](recipes/hot-sausage-and-peppers-pasta.md)
 - [Insalata Capricciosa](recipes/insalata-capricciosa.md)
+- [Kale Salad, Savio-Style](recipes/kale-salad-savio-style.md)
 - [Lamb Meatballs in Tomato Sauce](recipes/lamb-meatballs-in-tomato-sauce.md)
 - [Lemon Risotto with Summer Squash](recipes/lemon-risotto-with-summer-squash.md)
 - [Limoncello](recipes/limoncello.md)
@@ -205,6 +208,7 @@
 
 - [Avgolemono (Greek Lemon Chicken Soup)](recipes/avgolemono-greek-lemon-chicken-soup.md)
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)
+- [Coriander Roast Potatoes](recipes/coriander-roast-potatoes.md)
 - [Lemony Marinated Feta](recipes/lemony-marinated-feta.md)
 - [Lobster Busara](recipes/lobster-busara.md)
 - [Mediterranean Egg White Muffins](recipes/mediterranean-egg-white-muffins.md)
@@ -256,6 +260,7 @@
 - [Traditional Lebanese Cabbage Salad](recipes/traditional-lebanese-cabbage-salad.md)
 - [Turkish Salad](recipes/turkish-salad.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
+- [Za'atar Fire Crackers](recipes/zaatar-fire-crackers.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
 
 ## North American
@@ -265,6 +270,7 @@
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
 - [Barbecue Rub](recipes/barbecue-rub.md)
 - [Barbecued Chicken Legs](recipes/barbecued-chicken-legs.md)
+- [Big Mac Sauce](recipes/big-mac-sauce.md)
 - [Black Cod on Cedar Plank (Barbecue)](recipes/black-cod-on-cedar-plank-barbecue.md)
 - [Blackened Sockeye Salmon](recipes/blackened-sockeye-salmon.md)
 - [Blue Cheese Dressing](recipes/blue-cheese-dressing.md)
@@ -321,6 +327,7 @@
 - [Pulled Pork Shoulder with Spiced Cider Mop](recipes/pulled-pork-shoulder-with-spiced-cider-mop.md)
 - [Raspberry and Blueberry Crumble](recipes/raspberry-and-blueberry-crumble.md)
 - [Ribs - Dry Rub](recipes/rib-rub.md)
+- [Roasted and Reverse Seared Prime Rib](recipes/roasted-and-reverse-seared-prime-rib.md)
 - [Roasted Carrots with Spice Blend](recipes/roasted-carrots-with-spice-blend.md)
 - [Salmon Chowder](recipes/salmon-chowder.md)
 - [Salmon with Anchovy-Garlic Butter](recipes/salmon-with-anchovy-garlic-butter.md)

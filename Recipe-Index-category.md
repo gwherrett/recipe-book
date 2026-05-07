@@ -33,6 +33,7 @@
 
 ## Breads & Pastries
 
+- [Hellimli Yorkshire Puddings](recipes/hellimli-yorkshire-puddings.md)
 - [Kol Böreği (Potato, Spinach & Cheese Filo Pie)](recipes/kol-boregi-potato-spinach-cheese-filo-pie.md)
 - [Naan for Breadmaker](recipes/naan-for-breadmaker.md)
 - [Ooni Classic Dough](recipes/ooni-classic-dough.md)
@@ -178,6 +179,7 @@
 - [Pulled Pork](recipes/pulled-pork.md)
 - [Pulled Pork Shoulder with Spiced Cider Mop](recipes/pulled-pork-shoulder-with-spiced-cider-mop.md)
 - [Red Lentil Daal (Masoor Dal)](recipes/red-lentil-daal-masoor-dal.md)
+- [Roasted and Reverse Seared Prime Rib](recipes/roasted-and-reverse-seared-prime-rib.md)
 - [Rockfish Teriyaki](recipes/rockfish-teriyaki.md)
 - [Ropa Vieja](recipes/ropa-vieja.md)
 - [Rosemary-Roasted Leg of Lamb with Balsamic Sauce](recipes/rosemary-roasted-leg-of-lamb-with-balsamic-sauce.md)
@@ -202,8 +204,7 @@
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
 - [Swimming Scallops with Tamarind Sweet Sauce](recipes/swimming-scallops-with-tamarind-sweet-sauce.md)
 - [Tagliatelle with Lemon, Shrimp and Arugula](recipes/tagliatelle-with-lemon-shrimp-and-arugula.md)
-- [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb-with-rice.md)
-- [Tavë Kosi (Albanian Baked Lamb)](recipes/tave-kosi-albanian-baked-lamb.md)
+- [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb.md)
 - [Thai Green Curry with Duck Legs](recipes/thai-green-curry-with-duck-legs.md)
 - [Tuna Burger](recipes/tuna-burger.md)
 - [Turkey Chili (Slow-Cooked with Guajillo & Smoked Paprika)](recipes/turkey-chili.md)
@@ -255,6 +256,7 @@
 - [Causa Rellena (Peruvian Potato Terrine)](recipes/causa-rellena-peruvian-potato-terrine.md)
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)
 - [Coleslaw with Apples & Dried Cranberries](recipes/coleslaw-with-apples-and-dried-cranberries.md)
+- [Coriander Roast Potatoes](recipes/coriander-roast-potatoes.md)
 - [Cornbread Stuffing with Andouille, Fennel, and Bell Peppers](recipes/cornbread-stuffing-andouille-fennel-bell-peppers.md)
 - [Creamed Spinach](recipes/healthy-creamed-spinach.md)
 - [Creamy Horseradish Mashed Potatoes](recipes/creamy-horseradish-mashed-potatoes.md)
@@ -271,6 +273,7 @@
 - [Insalata Capricciosa](recipes/insalata-capricciosa.md)
 - [Japanese Slaw with Brussels Sprouts](recipes/japanese-slaw-with-brussels-sprouts.md)
 - [Kale Apple Slaw](recipes/kale-apple-slaw.md)
+- [Kale Salad, Savio-Style](recipes/kale-salad-savio-style.md)
 - [Kale-Cabbage-Carrot Slaw](recipes/kale-cabbage-carrot-slaw.md)
 - [Long Bean, Cucumber & Tomato Salad](recipes/long-bean-cucumber-tomato-salad.md)
 - [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
@@ -301,12 +304,14 @@
 - [Traditional Lebanese Cabbage Salad](recipes/traditional-lebanese-cabbage-salad.md)
 - [Turkish Salad](recipes/turkish-salad.md)
 - [Tuscan Panzanella](recipes/tuscan-panzanella.md)
+- [Vinegar-Roasted Potatoes with Herbs](recipes/vinegar-roasted-potatoes-with-herbs.md)
 - [Yucca with Garlic Sauce (Yuca con Mojo)](recipes/yuca-con-mojo.md)
 
 ## Sauces & Condiments
 
 - [Adobo Sauce](recipes/adobo-sauce.md)
 - [Baba Ganoush](recipes/baba-ganoush.md)
+- [Big Mac Sauce](recipes/big-mac-sauce.md)
 - [Chocolate Sauce](recipes/chocolate-sauce.md)
 - [Classic Gremolata](recipes/classic-gremolata.md)
 - [Corn Relish](recipes/corn-relish.md)
@@ -335,6 +340,8 @@
 ## Snacks
 
 - [Shredded Radish Pastry](recipes/shredded-radish-pastry.md)
+- [Suya-Spiced Nuts](recipes/suya-spiced-nuts.md)
+- [Za'atar Fire Crackers](recipes/zaatar-fire-crackers.md)
 
 ## Soups & Stocks
 
