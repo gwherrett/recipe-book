@@ -276,6 +276,7 @@
 ## 2 – High in Fat/Sugar/Salt    (Rich, salty, or sugary; occasional)
 
 - [3-Cheese Macaroni](recipes/3-cheese-macaroni.md)
+- [All-Day Meat Lasagna](recipes/classic-lasagna.md)
 - [Baked Sausage-Stuffed Shells](recipes/baked-sausage-stuffed-shells.md)
 - [BBQ Pork Pastry](recipes/bbq-pork-pastry.md)
 - [Beef Curry Puff](recipes/beef-curry-puff.md)
@@ -284,7 +285,6 @@
 - [Cacio e Pepe](recipes/cacio-e-pepe.md)
 - [Cheese Crackers](recipes/cheese-crackers.md)
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
-- [Classic Lasagna](recipes/classic-lasagna.md)
 - [Creamy Horseradish Mashed Potatoes](recipes/creamy-horseradish-mashed-potatoes.md)
 - [Cubano Sandwich](recipes/cubano-sandwich.md)
 - [Dutch Baby Pancake](recipes/dutch-baby-pancake.md)

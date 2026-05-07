@@ -2,6 +2,7 @@
 
 **326 recipes**
 
+- [All-Day Meat Lasagna](recipes/classic-lasagna.md)
 - [Hellimli Yorkshire Puddings](recipes/hellimli-yorkshire-puddings.md)
 - [Coriander Roast Potatoes](recipes/coriander-roast-potatoes.md)
 - [Roasted and Reverse Seared Prime Rib](recipes/roasted-and-reverse-seared-prime-rib.md)
@@ -289,7 +290,6 @@
 - [Chicken Soup with Thai Basil](recipes/chicken-soup-with-thai-basil.md)
 - [Chicken Stock](recipes/chicken-stock.md)
 - [Shrimp with Tomato Sauce](recipes/chinese-shrimp-with-tomato-sauce.md)
-- [Classic Lasagna](recipes/classic-lasagna.md)
 - [Classic Sugar Cookie Recipe](recipes/classic-sugar-cookie-recipe.md)
 - [Claypot Lobster Maenam](recipes/claypot-lobster-maenam.md)
 - [Corn Chip-Crusted Chicken](recipes/corn-chip-crusted-chicken.md)
