@@ -333,6 +333,7 @@
 - [Shrimp Cocktail Sauce](recipes/shrimp-cocktail-sauce.md)
 - [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
 - [Tapénade](recipes/tapenade.md)
+- [Traditional Toum (Lebanese Garlic Sauce)](recipes/traditional-toum.md)
 - [Tzatziki](recipes/tzatziki.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)

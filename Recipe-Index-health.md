@@ -319,6 +319,7 @@
 - [Tapioca Pearls with Coconut Milk](recipes/tapioca-pearls-with-coconut-milk.md)
 - [Taro Root Cake](recipes/taro-root-cake.md)
 - [Tostones (Fried Green Plantains)](recipes/tostones.md)
+- [Traditional Toum (Lebanese Garlic Sauce)](recipes/traditional-toum.md)
 - [Turkey Tetrazzini with Spaghetti & Pita Chip Crust](recipes/turkey-tetrazzini-with-spaghetti.md)
 - [Wild Mushroom Risotto](recipes/wild-mushroom-risotto.md)
 - [Za'atar Fire Crackers](recipes/zaatar-fire-crackers.md)

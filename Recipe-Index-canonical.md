@@ -258,6 +258,7 @@
 - [Quick Fresh Chilli Sauce](recipes/quick-fresh-chilli-sauce.md)
 - [Sticky Date Spiced Carrots](recipes/sticky-date-spiced-carrots.md)
 - [Traditional Lebanese Cabbage Salad](recipes/traditional-lebanese-cabbage-salad.md)
+- [Traditional Toum (Lebanese Garlic Sauce)](recipes/traditional-toum.md)
 - [Turkish Salad](recipes/turkish-salad.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
 - [Za'atar Fire Crackers](recipes/zaatar-fire-crackers.md)

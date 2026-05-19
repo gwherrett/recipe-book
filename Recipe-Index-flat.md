@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**326 recipes**
+**327 recipes**
 
+- [Traditional Toum (Lebanese Garlic Sauce)](recipes/traditional-toum.md)
 - [All-Day Meat Lasagna](recipes/classic-lasagna.md)
 - [Hellimli Yorkshire Puddings](recipes/hellimli-yorkshire-puddings.md)
 - [Coriander Roast Potatoes](recipes/coriander-roast-potatoes.md)
