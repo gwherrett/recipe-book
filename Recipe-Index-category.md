@@ -143,6 +143,7 @@
 - [Filipino Adobo-Marinated Pork Chops](recipes/filipino-adobo-marinated-pork-chops.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
 - [Filipino Turkey Adobo](recipes/filipino-turkey-adobo.md)
+- [Grilled Beef Galbi (Korean-Style Marinated Short Ribs)](recipes/grilled-beef-galbi.md)
 - [Jamaican Oxtail Stew](recipes/jamaican-oxtail-stew.md)
 - [Japanese Curry](recipes/japanese-curry.md)
 - [Japanese Lamb Curry](recipes/japanese-lamb-curry.md)

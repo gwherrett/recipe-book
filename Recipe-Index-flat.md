@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**327 recipes**
+**328 recipes**
 
+- [Grilled Beef Galbi (Korean-Style Marinated Short Ribs)](recipes/grilled-beef-galbi.md)
 - [Traditional Toum (Lebanese Garlic Sauce)](recipes/traditional-toum.md)
 - [All-Day Meat Lasagna](recipes/classic-lasagna.md)
 - [Hellimli Yorkshire Puddings](recipes/hellimli-yorkshire-puddings.md)
