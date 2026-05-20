@@ -33,6 +33,7 @@
 - [Filipino Adobo-Marinated Pork Chops](recipes/filipino-adobo-marinated-pork-chops.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
 - [Filipino Turkey Adobo](recipes/filipino-turkey-adobo.md)
+- [Grilled Beef Galbi (Korean-Style Marinated Short Ribs)](recipes/grilled-beef-galbi.md)
 - [Korean Marinade for Quail](recipes/korean-marinade-for-quail.md)
 - [Malay Curry Beef Brisket](recipes/malay-curry-beef-brisket.md)
 - [Malaysian Fish Curry](recipes/malaysian-fish-curry.md)
