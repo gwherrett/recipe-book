@@ -26,14 +26,17 @@
 ## African
 
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
+- [Suya-Spiced Nuts](recipes/suya-spiced-nuts.md)
 
 ## Asian
 
 - [Filipino Adobo-Marinated Pork Chops](recipes/filipino-adobo-marinated-pork-chops.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
 - [Filipino Turkey Adobo](recipes/filipino-turkey-adobo.md)
+- [Grilled Beef Galbi (Korean-Style Marinated Short Ribs)](recipes/grilled-beef-galbi.md)
 - [Korean Marinade for Quail](recipes/korean-marinade-for-quail.md)
 - [Malay Curry Beef Brisket](recipes/malay-curry-beef-brisket.md)
+- [Malaysian Fish Curry](recipes/malaysian-fish-curry.md)
 - [Malaysian Sambal Eggplant & Peppers](recipes/malaysian-sambal-eggplant-peppers.md)
 
 ## Balkan
@@ -44,12 +47,12 @@
 - [Mini Phyllo Apple Tarts (Par-Bake Method)](recipes/mini-phyllo-apple-tarts-par-bake-method.md)
 - [Phyllo Pastry Shells (Muffin Tin Method)](recipes/phyllo-pastry-shells-muffin-tin-method.md)
 - [Tarragon & Pickle Potato Salad](recipes/tarragon-pickle-potato-salad.md)
-- [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb-with-rice.md)
-- [Tavë Kosi (Albanian Baked Lamb)](recipes/tave-kosi-albanian-baked-lamb.md)
+- [Tavë Kosi (Albanian Baked Lamb with Rice)](recipes/tave-kosi-albanian-baked-lamb.md)
 
 ## British
 
 - [Crispy Roast Potatoes with Rosemary and Za'atar](recipes/crispy-roast-potatoes-with-rosemary-and-zaatar.md)
+- [Hellimli Yorkshire Puddings](recipes/hellimli-yorkshire-puddings.md)
 - [Mac & Cheese with Za'atar Pesto](recipes/mac-and-cheese-with-zaatar-pesto.md)
 - [Mini Lamb, Ale & Parsnip Pies](recipes/mini-lamb-ale-parsnip-pies.md)
 - [Roasted Celeriac with Thyme and Lemon](recipes/roasted-celeriac-with-thyme-and-lemon.md)
@@ -58,6 +61,7 @@
 - [Simple Roast Chicken](recipes/simple-roast-chicken.md)
 - [Spicy Curry Ketchup](recipes/spicy-curry-ketchup.md)
 - [Stout-Marinated Steak Tips](recipes/stout-marinated-steak-tips.md)
+- [Vinegar-Roasted Potatoes with Herbs](recipes/vinegar-roasted-potatoes-with-herbs.md)
 - [Yorkshire Pudding](recipes/yorkshire-pudding.md)
 
 ## Cantonese
@@ -71,6 +75,7 @@
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
 - [Lo Bak Go (Turnip Cake)](recipes/lo-bak-go-turnip-cake.md)
 - [Mango Pudding](recipes/mango-pudding.md)
+- [Shredded Radish Pastry](recipes/shredded-radish-pastry.md)
 - [Steamed Pork Patty (蒸肉餅)](recipes/chinese-steamed-pork-patty.md)
 - [Winter Melon Soup (Cantonese)](recipes/winter-melon-soup-cantonese.md)
 
@@ -139,17 +144,19 @@
 
 ## Italian
 
+- [All-Day Meat Lasagna](recipes/classic-lasagna.md)
 - [Baked Sausage-Stuffed Shells](recipes/baked-sausage-stuffed-shells.md)
 - [Basil Dressing](recipes/basil-dressing.md)
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
 - [Cacio e Pepe](recipes/cacio-e-pepe.md)
-- [Classic Lasagna](recipes/classic-lasagna.md)
+- [Classic Gremolata](recipes/classic-gremolata.md)
 - [Extra Stuffings for Zucchini Flowers](recipes/extra-stuffings-for-zucchini-flowers.md)
 - [Farro Salad with Tomatoes and Herbs](recipes/farro-salad-with-tomatoes-and-herbs.md)
 - [Gnocchi](recipes/gnocchi.md)
 - [Gnocchi with Tomato Sauce](recipes/gnocchi-with-tomato-sauce.md)
 - [Hot Sausage and Peppers Pasta](recipes/hot-sausage-and-peppers-pasta.md)
 - [Insalata Capricciosa](recipes/insalata-capricciosa.md)
+- [Kale Salad, Savio-Style](recipes/kale-salad-savio-style.md)
 - [Lamb Meatballs in Tomato Sauce](recipes/lamb-meatballs-in-tomato-sauce.md)
 - [Lemon Risotto with Summer Squash](recipes/lemon-risotto-with-summer-squash.md)
 - [Limoncello](recipes/limoncello.md)
@@ -181,6 +188,7 @@
 ## Japanese
 
 - [Agedashi Tofu](recipes/agedashi-tofu.md)
+- [Carrot Ginger Dressing](recipes/carrot-ginger-dressing.md)
 - [Duck Oyakodon](recipes/duck-oyakodon.md)
 - [Eel Sauce (Unagi Sauce)](recipes/eel-sauce-unagi-sauce.md)
 - [Japanese Curry](recipes/japanese-curry.md)
@@ -189,19 +197,22 @@
 - [Japanese Slaw with Brussels Sprouts](recipes/japanese-slaw-with-brussels-sprouts.md)
 - [Japanese-Glazed Cedar Plank Salmon](recipes/japanese-glazed-cedar-plank-salmon.md)
 - [Miso Marinade for Sablefish](recipes/miso-marinade-for-sablefish.md)
+- [Mochi (Ice Cream Filling)](recipes/mochi-ice-cream-filling.md)
 - [Rockfish Teriyaki](recipes/rockfish-teriyaki.md)
 - [Saba No Miso-ni](recipes/saba-no-miso-ni.md)
 - [Sesame and Miso Dressing](recipes/sesame-and-miso-dressing.md)
 - [Shoyu Ramen](recipes/shoyu-ramen.md)
 - [Spinach Goma-ae](recipes/spinach-goma-ae.md)
-- [Turkey Paitan Ramen (with Salt Flavouring Base)](recipes/turkey-paitan-ramen.md)
+- [Turkey Paitan Shio Ramen](recipes/turkey-paitan-ramen.md)
 
 ## Mediterranean
 
 - [Avgolemono (Greek Lemon Chicken Soup)](recipes/avgolemono-greek-lemon-chicken-soup.md)
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)
+- [Coriander Roast Potatoes](recipes/coriander-roast-potatoes.md)
 - [Lemony Marinated Feta](recipes/lemony-marinated-feta.md)
 - [Lobster Busara](recipes/lobster-busara.md)
+- [Mediterranean Egg White Muffins](recipes/mediterranean-egg-white-muffins.md)
 - [Moroccan Carrot Soup](recipes/moroccan-carrot-soup.md)
 - [Moroccan Chickpea Stew](recipes/moroccan-chickpea-stew.md)
 - [Peri-Peri Roast Chicken with Pan Sauce](recipes/peri-peri-roast-chicken-with-pan-sauce.md)
@@ -242,12 +253,16 @@
 - [Black Chickpeas with Baharat and Orange](recipes/black-chickpeas-with-baharat-and-orange.md)
 - [Chicken with Dates, Saffron and Freekeh](recipes/chicken-with-dates-saffron-and-freekeh.md)
 - [Duck Breasts with Pomegranate Barberry Sauce](recipes/duck-breasts-with-pomegranate-barberry-sauce.md)
+- [Fattoush-Style Green Cabbage Slaw](recipes/fattoush-style-green-cabbage-slaw.md)
 - [Lamb Shawarma (Rotisserie)](recipes/lamb-shawarma-rotisserie.md)
 - [Palestinian Chicken Spice Mix (Musakhan)](recipes/palestinian-chicken-spice-mix-musakhan.md)
 - [Quick Fresh Chilli Sauce](recipes/quick-fresh-chilli-sauce.md)
 - [Sticky Date Spiced Carrots](recipes/sticky-date-spiced-carrots.md)
+- [Traditional Lebanese Cabbage Salad](recipes/traditional-lebanese-cabbage-salad.md)
+- [Traditional Toum (Lebanese Garlic Sauce)](recipes/traditional-toum.md)
 - [Turkish Salad](recipes/turkish-salad.md)
 - [Yogurt Sauce for Fried Cauliflower](recipes/yogurt-sauce-for-fried-cauliflower.md)
+- [Za'atar Fire Crackers](recipes/zaatar-fire-crackers.md)
 - [Zhoug (Green Chili Sauce)](recipes/zhoug-green-chili-sauce.md)
 
 ## North American
@@ -257,12 +272,14 @@
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
 - [Barbecue Rub](recipes/barbecue-rub.md)
 - [Barbecued Chicken Legs](recipes/barbecued-chicken-legs.md)
+- [Big Mac Sauce](recipes/big-mac-sauce.md)
 - [Black Cod on Cedar Plank (Barbecue)](recipes/black-cod-on-cedar-plank-barbecue.md)
 - [Blackened Sockeye Salmon](recipes/blackened-sockeye-salmon.md)
 - [Blue Cheese Dressing](recipes/blue-cheese-dressing.md)
 - [Braised Sablefish in a Casserole with Local Chanterelles and Black Truffle Butter](recipes/braised-sablefish-in-a-casserole-with-local-chanterelles-and-black-truffle-butter.md)
 - [Brussels Sprouts Slaw](recipes/brussels-sprouts-slaw.md)
 - [Butter Brown Sugar Apples](recipes/butter-brown-sugar-apples.md)
+- [Buttermilk Coleslaw with Brussels Sprouts](recipes/buttermilk-coleslaw-with-brussels-sprouts.md)
 - [Canning Pears](recipes/canning-pears.md)
 - [Carrots Spice Blend](recipes/carrots-spice-blend.md)
 - [Celery & Stilton Soup](recipes/celery-stilton-soup.md)
@@ -270,6 +287,7 @@
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
 - [Chicken Stock](recipes/chicken-stock.md)
 - [Chili Powder (Ancho-Based)](recipes/chili-powder-ancho-based.md)
+- [Chocolate Cupcakes by Aria](recipes/chocolate-cupcakes-aria.md)
 - [Chocolate Sauce](recipes/chocolate-sauce.md)
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
 - [Citrus Curd (Three Ways)](recipes/citrus-curd-three-ways.md)
@@ -303,6 +321,7 @@
 - [Montreal Steak Seasoning](recipes/montreal-steak-seasoning.md)
 - [New England Clam Chowder](recipes/new-england-clam-chowder.md)
 - [New York Strip Loin with Pepper Marinade](recipes/new-york-strip-loin-with-pepper-marinade.md)
+- [Peanut Butter Cookies](recipes/peanut-butter-cookies.md)
 - [Pecan Pie](recipes/pecan-pie.md)
 - [Pickled Salmon](recipes/pickled-salmon.md)
 - [Pie Crust](recipes/pie-crust.md)
@@ -310,12 +329,14 @@
 - [Pulled Pork Shoulder with Spiced Cider Mop](recipes/pulled-pork-shoulder-with-spiced-cider-mop.md)
 - [Raspberry and Blueberry Crumble](recipes/raspberry-and-blueberry-crumble.md)
 - [Ribs - Dry Rub](recipes/rib-rub.md)
+- [Roasted and Reverse Seared Prime Rib](recipes/roasted-and-reverse-seared-prime-rib.md)
 - [Roasted Carrots with Spice Blend](recipes/roasted-carrots-with-spice-blend.md)
 - [Salmon Chowder](recipes/salmon-chowder.md)
 - [Salmon with Anchovy-Garlic Butter](recipes/salmon-with-anchovy-garlic-butter.md)
 - [Salmon With Dijon Brown Sugar](recipes/salmon-with-dijon-brown-sugar.md)
 - [Salted Chocolate Chip Cookies](recipes/salted-chocolate-chip-cookies.md)
 - [Schwarties Hash Browns](recipes/schwarties-hash-browns.md)
+- [Sautéed BC Spot Prawns with Garlic and Chile](recipes/sauteed-bc-spot-prawns-with-garlic-and-chile.md)
 - [Seared Duck Breast Salad](recipes/seared-duck-breast-salad.md)
 - [Sherry Cake](recipes/sherry-cake.md)
 - [Shrimp Cocktail Sauce](recipes/shrimp-cocktail-sauce.md)
@@ -348,6 +369,7 @@
 ## Southern / Cajun
 
 - [Cajun Jambalaya](recipes/cajun-jambalaya.md)
+- [Classic Shrimp Creole](recipes/classic-shrimp-creole.md)
 - [Cornbread Stuffing with Andouille, Fennel, and Bell Peppers](recipes/cornbread-stuffing-andouille-fennel-bell-peppers.md)
 - [Low Country Boil](recipes/low-country-boil.md)
 - [Moist & Tender Brown Butter Cornbread](recipes/cornbread.md)

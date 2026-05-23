@@ -55,5 +55,5 @@ A classic Louisiana-style Creole sauce, full of bold tomato flavor, herbs, and j
 
 ## 🔄 Optional Add-ins
 - A splash of white wine or lemon juice for acidity  
-- A dash of Creole mustard for complexity  
+- A dash of Creole mustard for complexity (substitute: whole-grain/grainy Dijon, or smooth Dijon mixed with a small amount of prepared horseradish)  
 - Chopped cooked shrimp or sausage to turn it into a full meal

@@ -1,5 +1,5 @@
 ---
-title: Turkey Paitan Ramen (with Salt Flavouring Base)
+title: Turkey Paitan Shio Ramen
 slug: turkey-paitan-ramen
 cuisine: Japanese
 category: Mains
@@ -10,7 +10,7 @@ tags:
 - broth
 - shio
 servings: 1
-time: "Prep 20 mins | Cook 1 hr 15 mins (pressure cooker) or 4.5\u20135 hrs (stovetop)"
+time: "Prep 20 mins | Cook 1 hr 15 mins (pressure cooker) or 4.5 hrs (stovetop)"
 health_rating: 4
 health_rating_label: Generally Healthy
 ---
