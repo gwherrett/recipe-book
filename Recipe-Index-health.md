@@ -315,6 +315,7 @@
 - [Rice Pudding](recipes/rice-pudding.md)
 - [Roasted and Reverse Seared Prime Rib](recipes/roasted-and-reverse-seared-prime-rib.md)
 - [Sausage, Cheese & Basil Lasagna](recipes/sausage-cheese-basil-lasagna.md)
+- [Schwarties Hash Browns](recipes/schwarties-hash-browns.md)
 - [Simple Syrup](recipes/simple-syrup.md)
 - [Smoked Gouda Mac n Cheese](recipes/smoked-gouda-mac-n-cheese.md)
 - [Suya-Spiced Nuts](recipes/suya-spiced-nuts.md)

@@ -1,6 +1,6 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**329 recipes**
+**330 recipes**
 
 - [Sautéed BC Spot Prawns with Garlic and Chile](recipes/sauteed-bc-spot-prawns-with-garlic-and-chile.md)
 - [Grilled Beef Galbi (Korean-Style Marinated Short Ribs)](recipes/grilled-beef-galbi.md)
@@ -29,6 +29,7 @@
 - [Chocolate Cupcakes by Aria](recipes/chocolate-cupcakes-aria.md)
 - [Peanut Butter Cookies](recipes/peanut-butter-cookies.md)
 - [Malaysian Fish Curry](recipes/malaysian-fish-curry.md)
+- [Schwarties Hash Browns](recipes/schwarties-hash-browns.md)
 - [Shrimp Cocktail Sauce](recipes/shrimp-cocktail-sauce.md)
 - [Chicken Salan (Pakistani Chicken Shorba Curry)](recipes/chicken-salan.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
