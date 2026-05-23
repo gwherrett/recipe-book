@@ -2,7 +2,7 @@
 
 **329 recipes**
 
-- [Grilled BC Spot Prawns with Garlic Butter](recipes/grilled-bc-spot-prawns-with-garlic-butter.md)
+- [Sautéed BC Spot Prawns with Garlic and Chile](recipes/sauteed-bc-spot-prawns-with-garlic-and-chile.md)
 - [Grilled Beef Galbi (Korean-Style Marinated Short Ribs)](recipes/grilled-beef-galbi.md)
 - [Traditional Toum (Lebanese Garlic Sauce)](recipes/traditional-toum.md)
 - [All-Day Meat Lasagna](recipes/classic-lasagna.md)
