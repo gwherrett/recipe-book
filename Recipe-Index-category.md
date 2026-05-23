@@ -187,6 +187,7 @@
 - [Saba No Miso-ni](recipes/saba-no-miso-ni.md)
 - [Salmon with Anchovy-Garlic Butter](recipes/salmon-with-anchovy-garlic-butter.md)
 - [Salmon With Dijon Brown Sugar](recipes/salmon-with-dijon-brown-sugar.md)
+- [Sautéed BC Spot Prawns with Garlic and Chile](recipes/sauteed-bc-spot-prawns-with-garlic-and-chile.md)
 - [Seafood Paella (Paella de Marisco)](recipes/seafood-paella-paella-de-marisco.md)
 - [Shoyu Ramen](recipes/shoyu-ramen.md)
 - [Shrimp with Tomato Sauce](recipes/chinese-shrimp-with-tomato-sauce.md)
