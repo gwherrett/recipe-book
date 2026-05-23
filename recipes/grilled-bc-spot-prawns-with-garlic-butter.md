@@ -3,8 +3,8 @@ title: Grilled BC Spot Prawns with Garlic Butter
 slug: grilled-bc-spot-prawns-with-garlic-butter
 cuisine: North American
 category: Mains
-health_rating: 2
-health_rating_label: Rich / Heavy
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Grilled BC Spot Prawns with Garlic Butter
@@ -13,17 +13,18 @@ health_rating_label: Rich / Heavy
 **Cook Time:** 10 minutes
 **Yield:** 2–4 servings
 
-Fresh BC spot prawn tails grilled over high heat and finished with a rich garlic butter — best enjoyed family style at a summer BBQ.
+Fresh BC spot prawn tails grilled over high heat with olive oil, garlic, chile, and lemon — best enjoyed family style at a summer BBQ.
 
 ---
 
 ## Ingredients
 
-- 1 pound frozen BC spot prawn tails
-- ½ cup butter
-- 6 tablespoons olive oil (divided)
-- 3 cloves garlic, chopped
-- Salt and pepper
+- ¼ cup olive oil
+- 1 to 2 pounds BC spot prawns
+- Salt
+- 4 to 6 cloves garlic, roughly chopped or sliced thin
+- 1 or 2 small hot chiles, sliced thin, or 2 dried hot chiles, crumbled
+- Juice of 1 lemon
 
 ---
 
@@ -31,19 +32,17 @@ Fresh BC spot prawn tails grilled over high heat and finished with a rich garlic
 
 1. **Thaw prawns:** Thaw your 1-pound container of frozen BC Spot Prawns.
 
-2. **Season prawns:** Add the prawns to a bowl and dress with 2 tablespoons of olive oil, salt, and pepper.
+2. **Season prawns:** Add the prawns to a bowl, drizzle with some of the olive oil, and season with salt.
 
-3. **Make garlic butter:** Add ½ cup of butter and 4 tablespoons of olive oil to a bowl with the chopped garlic, season with salt and pepper.
+3. **Make garlic-chile oil:** Warm the remaining olive oil in a small pan over medium heat. Add the garlic and chiles and cook until simmering and fragrant, then set aside while the prawns cook.
 
-4. **Cook garlic butter:** Cook the butter and garlic on medium heat until simmering, then set aside while the prawns are cooking.
+4. **Grill prawns:** Cook the prawns on the BBQ at medium heat and close the lid for 2 minutes.
 
-5. **Grill prawns:** Cook the prawns on the BBQ at medium heat and close the lid for 2 minutes.
+5. **Flip and finish:** Flip the prawns after 2 minutes and close the BBQ lid again for an additional 2 minutes.
 
-6. **Flip and finish:** Flip the prawns after 2 minutes and close the BBQ lid again for an additional 2 minutes.
+6. **Reheat oil:** Reheat the garlic-chile oil until hot.
 
-7. **Reheat butter:** Reheat the garlic butter and bring to a slow boil.
-
-8. **Serve:** Pull the prawns off the BBQ and pour the hot garlic butter on top of the prawns.
+7. **Serve:** Pull the prawns off the BBQ, squeeze the lemon juice over them, and pour the hot garlic-chile oil on top.
 
 ---
 
