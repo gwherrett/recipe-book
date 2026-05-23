@@ -307,6 +307,7 @@
 - [Frozen Banana Cocoa Ice Cream](recipes/frozen-banana-cocoa-ice-cream.md)
 - [Garlic Mashed Potatoes with Yogurt](recipes/garlic-mashed-potatoes-with-yogurt.md)
 - [Ginger–Honey Sparkler (Mocktail)](recipes/ginger-honey-sparkler-mocktail.md)
+- [Grilled BC Spot Prawns with Garlic Butter](recipes/grilled-bc-spot-prawns-with-garlic-butter.md)
 - [Ham Tetrazzini](recipes/ham-tetrazzini.md)
 - [Heart-Healthy Banana Bread](recipes/heart-healthy-banana-bread.md)
 - [Horseradish Corn Cheese Melt](recipes/horseradish-corn-cheese-melt.md)

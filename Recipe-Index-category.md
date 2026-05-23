@@ -143,6 +143,7 @@
 - [Filipino Adobo-Marinated Pork Chops](recipes/filipino-adobo-marinated-pork-chops.md)
 - [Filipino Chicken Adobo](recipes/filipino-chicken-adobo.md)
 - [Filipino Turkey Adobo](recipes/filipino-turkey-adobo.md)
+- [Grilled BC Spot Prawns with Garlic Butter](recipes/grilled-bc-spot-prawns-with-garlic-butter.md)
 - [Grilled Beef Galbi (Korean-Style Marinated Short Ribs)](recipes/grilled-beef-galbi.md)
 - [Jamaican Oxtail Stew](recipes/jamaican-oxtail-stew.md)
 - [Japanese Curry](recipes/japanese-curry.md)

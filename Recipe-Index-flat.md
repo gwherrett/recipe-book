@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**328 recipes**
+**329 recipes**
 
+- [Grilled BC Spot Prawns with Garlic Butter](recipes/grilled-bc-spot-prawns-with-garlic-butter.md)
 - [Grilled Beef Galbi (Korean-Style Marinated Short Ribs)](recipes/grilled-beef-galbi.md)
 - [Traditional Toum (Lebanese Garlic Sauce)](recipes/traditional-toum.md)
 - [All-Day Meat Lasagna](recipes/classic-lasagna.md)
