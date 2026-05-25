@@ -105,6 +105,7 @@
 
 - [Adas Polo ba Khorma (Persian Lentil Rice with Dates)](recipes/adas-polo-ba-khorma-persian-lentil-rice-with-dates.md)
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
+- [Aloo Gajar Matar (Indian Potatoes, Carrots & Peas)](recipes/aloo-gajar-matar.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
 - [Baked Portuguese Chicken (Macau Style)](recipes/baked-portuguese-chicken-macau-style.md)
 - [Baked Sausage-Stuffed Shells](recipes/baked-sausage-stuffed-shells.md)

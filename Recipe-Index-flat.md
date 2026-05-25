@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**330 recipes**
+**331 recipes**
 
+- [Aloo Gajar Matar (Indian Potatoes, Carrots & Peas)](recipes/aloo-gajar-matar.md)
 - [Sautéed BC Spot Prawns with Garlic and Chile](recipes/sauteed-bc-spot-prawns-with-garlic-and-chile.md)
 - [Grilled Beef Galbi (Korean-Style Marinated Short Ribs)](recipes/grilled-beef-galbi.md)
 - [Traditional Toum (Lebanese Garlic Sauce)](recipes/traditional-toum.md)
