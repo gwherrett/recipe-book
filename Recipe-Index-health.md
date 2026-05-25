@@ -56,6 +56,7 @@
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
 - [Agedashi Tofu](recipes/agedashi-tofu.md)
 - [Air Fryer Buffalo Cauliflower](recipes/air-fryer-buffalo-cauliflower.md)
+- [Aloo Gajar Matar (Indian Potatoes, Carrots & Peas)](recipes/aloo-gajar-matar.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
 - [Avgolemono (Greek Lemon Chicken Soup)](recipes/avgolemono-greek-lemon-chicken-soup.md)
 - [Baba Ganoush](recipes/baba-ganoush.md)

@@ -127,6 +127,7 @@
 
 ## Indian / Pakistani
 
+- [Aloo Gajar Matar (Indian Potatoes, Carrots & Peas)](recipes/aloo-gajar-matar.md)
 - [Aloo Gobi](recipes/aloo-gobi.md)
 - [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
 - [Chicken Salan (Pakistani Chicken Shorba Curry)](recipes/chicken-salan.md)
