@@ -2,11 +2,11 @@
 
 ## Health Ratings
 
-- [5 – Eat More                  (Light, plant-forward, or very wholesome)](#5-eat-more-light-plant-forward-or-very-wholesome)
-- [4 – Healthy                   (Good everyday choice)](#4-healthy-good-everyday-choice)
-- [3 – Manage portion size       (Balanced but energy-dense; watch servings)](#3-manage-portion-size-balanced-but-energy-dense-watch-servings)
-- [2 – High in Fat/Sugar/Salt    (Rich, salty, or sugary; occasional)](#2-high-in-fat-sugar-salt-rich-salty-or-sugary-occasional)
-- [1 – Indulgence                (Desserts, deep-fried, very rich)](#1-indulgence-desserts-deep-fried-very-rich)
+- [5 – Eat More                  (Light, plant-forward, or very wholesome)](#5--eat-more------------------light-plant-forward-or-very-wholesome)
+- [4 – Healthy                   (Good everyday choice)](#4--healthy-------------------good-everyday-choice)
+- [3 – Manage portion size       (Balanced but energy-dense; watch servings)](#3--manage-portion-size-------balanced-but-energy-dense-watch-servings)
+- [2 – High in Fat/Sugar/Salt    (Rich, salty, or sugary; occasional)](#2--high-in-fatsugarsalt----rich-salty-or-sugary-occasional)
+- [1 – Indulgence                (Desserts, deep-fried, very rich)](#1--indulgence----------------desserts-deep-fried-very-rich)
 
 ## 5 – Eat More                  (Light, plant-forward, or very wholesome)
 
