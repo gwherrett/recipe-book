@@ -3,18 +3,18 @@
 ## Categories
 
 - [Appetizers](#appetizers)
-- [Breads & Pastries](#breads-pastries)
-- [Breakfast & Brunch](#breakfast-brunch)
+- [Breads & Pastries](#breads--pastries)
+- [Breakfast & Brunch](#breakfast--brunch)
 - [Dessert](#dessert)
-- [Dressings & Marinades](#dressings-marinades)
+- [Dressings & Marinades](#dressings--marinades)
 - [Drinks](#drinks)
 - [Mains](#mains)
 - [Pasta](#pasta)
-- [Salads & Sides](#salads-sides)
-- [Sauces & Condiments](#sauces-condiments)
+- [Salads & Sides](#salads--sides)
+- [Sauces & Condiments](#sauces--condiments)
 - [Snacks](#snacks)
-- [Soups & Stocks](#soups-stocks)
-- [Spice Mixes & Pastes](#spice-mixes-pastes)
+- [Soups & Stocks](#soups--stocks)
+- [Spice Mixes & Pastes](#spice-mixes--pastes)
 
 ## Appetizers
 
