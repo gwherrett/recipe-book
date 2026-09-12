@@ -67,8 +67,18 @@ def git_mtime(path: Path) -> float:
 
 
 def anchor_from_text(text: str) -> str:
-    """Make a GitHub-style anchor from a heading text."""
-    anchor = re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
+    """Make a GitHub-style anchor from a heading text.
+
+    Mirrors GitHub's actual heading-slug algorithm: lowercase, strip
+    characters that aren't word chars/spaces/hyphens (without collapsing
+    the whitespace that removal leaves behind), then turn each space into
+    a hyphen one-for-one. This matters for headings like "Indian /
+    Pakistani": removing the slash leaves two spaces, which GitHub
+    renders as a double hyphen ("indian--pakistani"), not the single
+    hyphen a naive collapse would produce.
+    """
+    anchor = re.sub(r"[^\w\s-]", "", text.lower())
+    anchor = anchor.replace(" ", "-")
     return anchor
 
 
