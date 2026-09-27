@@ -1,13 +1,13 @@
 ---
-title: Celery, Potato & Dill Soup
-slug: celery-potato-dill-soup
+title: Celery and Potato Soup
+slug: celery-and-potato-soup
 cuisine: Mediterranean
 category: Soups & Stocks
 health_rating: 5
 health_rating_label: Very Healthy Everyday
 ---
 
-# Celery, Potato & Dill Soup
+# Celery and Potato Soup
 
 **Source:** Adapted from [MasterClass Celery Soup](https://www.masterclass.com/articles/celery-soup-recipe) and Crema di Sedano (Italian cookbook)
 
