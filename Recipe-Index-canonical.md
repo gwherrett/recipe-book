@@ -209,7 +209,7 @@
 ## Mediterranean
 
 - [Avgolemono (Greek Lemon Chicken Soup)](recipes/avgolemono-greek-lemon-chicken-soup.md)
-- [Celery, Potato & Dill Soup](recipes/celery-potato-dill-soup.md)
+- [Celery and Potato Soup](recipes/celery-and-potato-soup.md)
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)
 - [Coriander Roast Potatoes](recipes/coriander-roast-potatoes.md)
 - [Lemony Marinated Feta](recipes/lemony-marinated-feta.md)

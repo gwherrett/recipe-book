@@ -15,7 +15,7 @@
 - [Asian Grilled Steak Salad](recipes/asian-grilled-steak-salad.md)
 - [Basil Dressing](recipes/basil-dressing.md)
 - [Black Chickpeas with Baharat and Orange](recipes/black-chickpeas-with-baharat-and-orange.md)
-- [Celery, Potato & Dill Soup](recipes/celery-potato-dill-soup.md)
+- [Celery and Potato Soup](recipes/celery-and-potato-soup.md)
 - [Cha Ca La Vong (Vietnamese Turmeric Fish with Dill)](recipes/cha-ca-la-vong-vietnamese-turmeric-fish-with-dill.md)
 - [Chicken Soup with Thai Basil](recipes/chicken-soup-with-thai-basil.md)
 - [Chicken Stock](recipes/chicken-stock.md)

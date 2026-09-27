@@ -353,7 +353,7 @@
 - [African Sweet Potato and Peanut Soup](recipes/african-sweet-potato-and-peanut-soup.md)
 - [Avgolemono (Greek Lemon Chicken Soup)](recipes/avgolemono-greek-lemon-chicken-soup.md)
 - [Celery & Stilton Soup](recipes/celery-stilton-soup.md)
-- [Celery, Potato & Dill Soup](recipes/celery-potato-dill-soup.md)
+- [Celery and Potato Soup](recipes/celery-and-potato-soup.md)
 - [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
 - [Chicken Soup with Thai Basil](recipes/chicken-soup-with-thai-basil.md)
 - [Chicken Stock](recipes/chicken-stock.md)
