@@ -61,15 +61,3 @@ A flavourful, simple, and satisfying weeknight Italian pasta: leek and thyme lam
 - Leftovers can be stored in the refrigerator for up to 3 days and reheated gently.
 - **Nutrition (per 1½ cup serving):** 500 calories, 25 g fat (8 g saturated), 60 g carbohydrates, 5 g fibre, 25 g protein, 5 g sugar, 600 mg sodium, 80 mg cholesterol.
 
----
-
-## Frequently Asked Questions
-
-**Can I use a different pasta shape?**
-Rigatoni or pappardelle both work well. The sauce is chunky, so you want something with grooves or surface area that holds onto it. Avoid long thin shapes like spaghetti.
-
-**How do I store leftovers?**
-Keep the sauce and pasta separate if you can. The pasta absorbs liquid as it sits. Stored together in the fridge, it lasts about three days. Reheat with a bit of water in a covered pan.
-
-**Can I make this less spicy?**
-Skip the chilli flakes entirely, or cut them to a small pinch. The lamb sausage already brings its own seasoning, so the dish won't taste flat without the heat.
