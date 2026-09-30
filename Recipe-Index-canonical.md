@@ -150,6 +150,7 @@
 - [Basil Dressing](recipes/basil-dressing.md)
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
 - [Cacio e Pepe](recipes/cacio-e-pepe.md)
+- [Casarecce with Lamb Sausage and Baby Kale](recipes/casarecce-with-lamb-sausage-and-baby-kale.md)
 - [Classic Gremolata](recipes/classic-gremolata.md)
 - [Extra Stuffings for Zucchini Flowers](recipes/extra-stuffings-for-zucchini-flowers.md)
 - [Farro Salad with Tomatoes and Herbs](recipes/farro-salad-with-tomatoes-and-herbs.md)
