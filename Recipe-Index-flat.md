@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**332 recipes**
+**333 recipes**
 
+- [Casarecce with Lamb Sausage and Baby Kale](recipes/casarecce-with-lamb-sausage-and-baby-kale.md)
 - [Celery, Potato & Dill Soup](recipes/celery-potato-dill-soup.md)
 - [Aloo Gajar Matar (Indian Potatoes, Carrots & Peas)](recipes/aloo-gajar-matar.md)
 - [Sautéed BC Spot Prawns with Garlic and Chile](recipes/sauteed-bc-spot-prawns-with-garlic-and-chile.md)

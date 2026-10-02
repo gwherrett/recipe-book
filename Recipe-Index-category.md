@@ -227,6 +227,7 @@
 - [All-Day Meat Lasagna](recipes/classic-lasagna.md)
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
 - [Cacio e Pepe](recipes/cacio-e-pepe.md)
+- [Casarecce with Lamb Sausage and Baby Kale](recipes/casarecce-with-lamb-sausage-and-baby-kale.md)
 - [Gnocchi](recipes/gnocchi.md)
 - [Gnocchi with Tomato Sauce](recipes/gnocchi-with-tomato-sauce.md)
 - [Ham Tetrazzini](recipes/ham-tetrazzini.md)

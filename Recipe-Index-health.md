@@ -158,6 +158,7 @@
 - [Canning Pears](recipes/canning-pears.md)
 - [Cantonese Steamed Egg with Chinese Doughnuts](recipes/cantonese-steamed-egg-with-chinese-doughnuts.md)
 - [Carrots Spice Blend](recipes/carrots-spice-blend.md)
+- [Casarecce with Lamb Sausage and Baby Kale](recipes/casarecce-with-lamb-sausage-and-baby-kale.md)
 - [Causa Rellena (Peruvian Potato Terrine)](recipes/causa-rellena-peruvian-potato-terrine.md)
 - [Celery & Stilton Soup](recipes/celery-stilton-soup.md)
 - [Chicken and Chorizo Paella](recipes/chicken-and-chorizo-paella.md)
