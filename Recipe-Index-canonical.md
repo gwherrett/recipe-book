@@ -334,6 +334,7 @@
 - [Ribs - Dry Rub](recipes/rib-rub.md)
 - [Roasted and Reverse Seared Prime Rib](recipes/roasted-and-reverse-seared-prime-rib.md)
 - [Roasted Carrots with Spice Blend](recipes/roasted-carrots-with-spice-blend.md)
+- [Sage-Oil Sous Vide Turkey Drumsticks, Pulled, with Cider-Maple Sauce](recipes/sage-oil-sous-vide-turkey-drumsticks-pulled-with-cider-maple-sauce.md)
 - [Salmon Chowder](recipes/salmon-chowder.md)
 - [Salmon with Anchovy-Garlic Butter](recipes/salmon-with-anchovy-garlic-butter.md)
 - [Salmon With Dijon Brown Sugar](recipes/salmon-with-dijon-brown-sugar.md)
