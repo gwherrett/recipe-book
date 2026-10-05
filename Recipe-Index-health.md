@@ -239,6 +239,7 @@
 - [Roasted Carrots with Spice Blend](recipes/roasted-carrots-with-spice-blend.md)
 - [Roasted Celeriac with Thyme and Lemon](recipes/roasted-celeriac-with-thyme-and-lemon.md)
 - [Rosemary-Roasted Leg of Lamb with Balsamic Sauce](recipes/rosemary-roasted-leg-of-lamb-with-balsamic-sauce.md)
+- [Sage-Oil Sous Vide Turkey Drumsticks, Pulled, with Cider-Maple Sauce](recipes/sage-oil-sous-vide-turkey-drumsticks-pulled-with-cider-maple-sauce.md)
 - [Salmon Chowder](recipes/salmon-chowder.md)
 - [Sesame and Miso Dressing](recipes/sesame-and-miso-dressing.md)
 - [Shanghai Fried Noodles (Cu Chao Mian)](recipes/shanghai-fried-noodles.md)

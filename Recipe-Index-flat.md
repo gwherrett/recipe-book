@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**333 recipes**
+**334 recipes**
 
+- [Sage-Oil Sous Vide Turkey Drumsticks, Pulled, with Cider-Maple Sauce](recipes/sage-oil-sous-vide-turkey-drumsticks-pulled-with-cider-maple-sauce.md)
 - [Casarecce with Lamb Sausage and Baby Kale](recipes/casarecce-with-lamb-sausage-and-baby-kale.md)
 - [Celery, Potato & Dill Soup](recipes/celery-potato-dill-soup.md)
 - [Aloo Gajar Matar (Indian Potatoes, Carrots & Peas)](recipes/aloo-gajar-matar.md)

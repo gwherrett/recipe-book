@@ -186,6 +186,7 @@
 - [Ropa Vieja](recipes/ropa-vieja.md)
 - [Rosemary-Roasted Leg of Lamb with Balsamic Sauce](recipes/rosemary-roasted-leg-of-lamb-with-balsamic-sauce.md)
 - [Saba No Miso-ni](recipes/saba-no-miso-ni.md)
+- [Sage-Oil Sous Vide Turkey Drumsticks, Pulled, with Cider-Maple Sauce](recipes/sage-oil-sous-vide-turkey-drumsticks-pulled-with-cider-maple-sauce.md)
 - [Salmon with Anchovy-Garlic Butter](recipes/salmon-with-anchovy-garlic-butter.md)
 - [Salmon With Dijon Brown Sugar](recipes/salmon-with-dijon-brown-sugar.md)
 - [Sautéed BC Spot Prawns with Garlic and Chile](recipes/sauteed-bc-spot-prawns-with-garlic-and-chile.md)
