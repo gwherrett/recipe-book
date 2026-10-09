@@ -70,6 +70,7 @@
 - [BBQ Pork Pastry](recipes/bbq-pork-pastry.md)
 - [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)
 - [Beef Curry Puff](recipes/beef-curry-puff.md)
+- [Cantonese Smoked Rotisserie Goose](recipes/cantonese-smoked-rotisserie-goose.md)
 - [Cantonese Steamed Egg with Chinese Doughnuts](recipes/cantonese-steamed-egg-with-chinese-doughnuts.md)
 - [Egg Tart](recipes/egg-tart.md)
 - [Hong Kong Café Macaroni Soup (Cha Chaan Teng)](recipes/hong-kong-cafe-macaroni-soup-cha-chaan-teng.md)
