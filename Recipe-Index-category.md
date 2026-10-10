@@ -257,6 +257,7 @@
 - [6 Plant Part Salad with Fresh Roots Famous Dressing](recipes/6-plant-part-salad.md)
 - [Aromatic Rice](recipes/aromatic-rice.md)
 - [Asian Grilled Steak Salad](recipes/asian-grilled-steak-salad.md)
+- [Braised Collard Greens With Ham Hocks](recipes/braised-collard-greens-with-ham-hocks.md)
 - [Brussels Sprouts Slaw](recipes/brussels-sprouts-slaw.md)
 - [Buttermilk Coleslaw with Brussels Sprouts](recipes/buttermilk-coleslaw-with-brussels-sprouts.md)
 - [Camote con Chile y Limón (Sweet Potatoes)](recipes/camote-con-chile-y-limon-sweet-potatoes.md)

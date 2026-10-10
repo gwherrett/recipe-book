@@ -63,6 +63,7 @@
 - [Baba Ganoush](recipes/baba-ganoush.md)
 - [Black Cod on Cedar Plank (Barbecue)](recipes/black-cod-on-cedar-plank-barbecue.md)
 - [Blackened Sockeye Salmon](recipes/blackened-sockeye-salmon.md)
+- [Braised Collard Greens With Ham Hocks](recipes/braised-collard-greens-with-ham-hocks.md)
 - [Braised Sablefish in a Casserole with Local Chanterelles and Black Truffle Butter](recipes/braised-sablefish-in-a-casserole-with-local-chanterelles-and-black-truffle-butter.md)
 - [Brussels Sprouts Slaw](recipes/brussels-sprouts-slaw.md)
 - [Camote con Chile y Limón (Sweet Potatoes)](recipes/camote-con-chile-y-limon-sweet-potatoes.md)
