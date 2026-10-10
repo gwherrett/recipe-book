@@ -1,7 +1,7 @@
 ---
 title: Shrimp Okra Gumbo
 slug: shrimp-okra-gumbo
-cuisine: North American
+cuisine: Southern / Cajun
 category: Mains
 health_rating: 4
 health_rating_label: Generally Healthy

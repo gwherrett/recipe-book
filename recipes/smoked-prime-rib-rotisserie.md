@@ -1,6 +1,6 @@
 ---
 title: Smoked Prime Rib (Rotisserie)
-cuisine: North American
+cuisine: Southern / Cajun
 category: Mains
 slug: smoked-prime-rib-rotisserie
 health_rating: 3

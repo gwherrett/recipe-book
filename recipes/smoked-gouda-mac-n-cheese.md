@@ -1,6 +1,6 @@
 ---
 title: Smoked Gouda Mac n Cheese
-cuisine: North American
+cuisine: Southern / Cajun
 category: Pasta
 slug: smoked-gouda-mac-n-cheese
 health_rating: 2

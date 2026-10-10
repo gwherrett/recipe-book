@@ -1,6 +1,6 @@
 ---
 title: Pulled Pork
-cuisine: North American
+cuisine: Southern / Cajun
 category: Mains
 slug: pulled-pork
 health_rating: 3

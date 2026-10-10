@@ -1,6 +1,6 @@
 ---
 title: Corn Chip-Crusted Chicken
-cuisine: North American
+cuisine: Southern / Cajun
 category: Mains
 slug: corn-chip-crusted-chicken
 health_rating: 4

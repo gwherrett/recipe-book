@@ -1,6 +1,6 @@
 ---
 title: Smoked Side Ribs
-cuisine: North American
+cuisine: Southern / Cajun
 category: Mains
 slug: smoked-side-ribs
 health_rating: 3

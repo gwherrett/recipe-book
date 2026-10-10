@@ -1,6 +1,6 @@
 ---
 title: Blackened Sockeye Salmon
-cuisine: North American
+cuisine: Southern / Cajun
 category: Mains
 slug: blackened-sockeye-salmon
 health_rating: 4

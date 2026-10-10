@@ -1,6 +1,6 @@
 ---
 title: Lobster Mac n Cheese
-cuisine: North American
+cuisine: Southern / Cajun
 category: Mains
 slug: lobster-mac-n-cheese
 health_rating: 2

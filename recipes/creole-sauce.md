@@ -1,6 +1,6 @@
 ---
 title: Creole Sauce
-cuisine: North American
+cuisine: Southern / Cajun
 category: Sauces & Condiments
 slug: creole-sauce
 health_rating: 3

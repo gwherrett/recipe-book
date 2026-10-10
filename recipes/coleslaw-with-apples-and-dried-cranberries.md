@@ -1,7 +1,7 @@
 ---
 title: Coleslaw with Apples & Dried Cranberries
 slug: coleslaw-with-apples-and-dried-cranberries
-cuisine: North American
+cuisine: Southern / Cajun
 category: Salads & Sides
 health_rating: 4
 health_rating_label: Generally Healthy

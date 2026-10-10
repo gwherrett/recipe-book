@@ -1,6 +1,6 @@
 ---
 title: Pecan Pie
-cuisine: North American
+cuisine: Southern / Cajun
 category: Dessert
 slug: pecan-pie
 health_rating: 1

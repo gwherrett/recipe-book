@@ -3,7 +3,7 @@ title: Traditional Coleslaw
 category: Salads & Sides
 summary: A classic coleslaw made with green cabbage, carrots, and a creamy dressing.
   Perfect for BBQs, fried chicken, or sandwiches.
-cuisine: North American
+cuisine: Southern / Cajun
 slug: traditional-coleslaw
 health_rating: 3
 health_rating_label: Mixed / Context-Dependent

@@ -9,6 +9,10 @@ health_rating_label: Mixed / Context-Dependent
 
 # Sage-Oil Sous Vide Turkey Drumsticks, Pulled, with Cider-Maple Sauce
 
+**Prep Time:** 12–24 hours (curing)
+**Cook Time:** 12 hours sous vide, plus about 25 minutes on the grill
+**Yield:** 4–6 servings
+
 Cured, cooked sous vide in sage oil until falling apart, charred on the grill, then pulled and tossed in an autumn pan sauce.
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Barbecued Chicken Legs
 slug: barbecued-chicken-legs
-cuisine: North American
+cuisine: Southern / Cajun
 category: Mains
 health_rating: 3
 health_rating_label: Mixed / Context-Dependent

@@ -1,6 +1,6 @@
 ---
 title: Pulled Pork Shoulder with Spiced Cider Mop
-cuisine: North American
+cuisine: Southern / Cajun
 category: Mains
 slug: pulled-pork-shoulder-with-spiced-cider-mop
 health_rating: 3

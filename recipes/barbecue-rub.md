@@ -1,6 +1,6 @@
 ---
 title: Barbecue Rub
-cuisine: North American
+cuisine: Southern / Cajun
 category: Spice Mixes & Pastes
 slug: barbecue-rub
 health_rating: 3
