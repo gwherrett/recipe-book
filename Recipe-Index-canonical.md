@@ -345,6 +345,7 @@
 - [Seared Duck Breast Salad](recipes/seared-duck-breast-salad.md)
 - [Sherry Cake](recipes/sherry-cake.md)
 - [Shrimp Cocktail Sauce](recipes/shrimp-cocktail-sauce.md)
+- [Shrimp Okra Gumbo](recipes/shrimp-okra-gumbo.md)
 - [Slow Cooker Chili](recipes/slow-cooker-chili.md)
 - [Smoked Chicken (Rotisserie)](recipes/smoked-chicken-rotisserie.md)
 - [Smoked Goose (Rotisserie)](recipes/smoked-goose-rotisserie.md)
@@ -378,7 +379,6 @@
 - [Cornbread Stuffing with Andouille, Fennel, and Bell Peppers](recipes/cornbread-stuffing-andouille-fennel-bell-peppers.md)
 - [Low Country Boil](recipes/low-country-boil.md)
 - [Moist & Tender Brown Butter Cornbread](recipes/cornbread.md)
-- [Shrimp Okra Gumbo](recipes/shrimp-okra-gumbo.md)
 - [Succotash](recipes/succotash.md)
 
 ## Spanish
