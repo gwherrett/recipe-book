@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**334 recipes**
+**335 recipes**
 
+- [Cantonese Smoked Rotisserie Goose](recipes/cantonese-smoked-rotisserie-goose.md)
 - [Sage-Oil Sous Vide Turkey Drumsticks, Pulled, with Cider-Maple Sauce](recipes/sage-oil-sous-vide-turkey-drumsticks-pulled-with-cider-maple-sauce.md)
 - [Casarecce with Lamb Sausage and Baby Kale](recipes/casarecce-with-lamb-sausage-and-baby-kale.md)
 - [Celery, Potato & Dill Soup](recipes/celery-potato-dill-soup.md)

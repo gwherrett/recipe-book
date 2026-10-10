@@ -288,6 +288,7 @@
 - [Big Mac Sauce](recipes/big-mac-sauce.md)
 - [Blue Cheese Dressing](recipes/blue-cheese-dressing.md)
 - [Cacio e Pepe](recipes/cacio-e-pepe.md)
+- [Cantonese Smoked Rotisserie Goose](recipes/cantonese-smoked-rotisserie-goose.md)
 - [Cheese Crackers](recipes/cheese-crackers.md)
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
 - [Creamy Horseradish Mashed Potatoes](recipes/creamy-horseradish-mashed-potatoes.md)
