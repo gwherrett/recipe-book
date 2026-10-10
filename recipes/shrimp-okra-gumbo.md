@@ -25,9 +25,9 @@ A rich-tasting shrimp gumbo seasoned and thickened with smothered okra and veget
 
 - 1 tablespoon canola or vegetable oil
 - 4 cups fresh or frozen sliced okra, or 16 ounces
-- ½ cup chopped onion
-- ¼ cup chopped celery
-- ¼ cup chopped bell pepper
+- 1½ cups chopped onion
+- ¾ cup chopped celery
+- ¾ cup chopped bell pepper
 - 1 cup chopped fresh or canned tomatoes
 - 2 garlic pods, pressed
 - ½ teaspoon salt
@@ -35,7 +35,7 @@ A rich-tasting shrimp gumbo seasoned and thickened with smothered okra and veget
 
 ### Gumbo
 
-- 2 cups smothered okra from the above recipe
+- All of the smothered okra from the above recipe
 - 2 pounds fresh shrimp, peeled and deveined
 - 4 cups (32 ounces) chicken broth
 - 1 cup water
@@ -54,7 +54,7 @@ A rich-tasting shrimp gumbo seasoned and thickened with smothered okra and veget
 
 3. **Brown the okra:** Cook until the okra is browned and no longer slimy, which takes about 30 minutes to 1 hour; add a small amount of water if the okra sticks to the bottom of the pot.
 
-4. **Add the vegetables:** Add onions, bell peppers, celery, and tomatoes, and cook for 20 minutes or more until the vegetables are soft and browned some more; again, add a small amount of water if the vegetables begin to stick to the pot.
+4. **Add the vegetables:** Add onions, bell peppers, celery, and tomatoes, and cook for 20 to 30 minutes until the vegetables are soft and browned some more; the larger volume of vegetables releases more moisture, so allow extra time for it to cook off. Again, add a small amount of water if the vegetables begin to stick to the pot.
 
 5. **Add the garlic:** Stir in the garlic and let it simmer for a few more minutes.
 
@@ -76,6 +76,7 @@ A rich-tasting shrimp gumbo seasoned and thickened with smothered okra and veget
 
 ## Notes
 
+- The trinity (onion, celery, bell pepper) is tripled from the original recipe, keeping the classic 2:1:1 ratio, and all of the smothered okra goes into the gumbo.
 - The more okra you cook with, the longer it takes to eliminate the slime.
 - Smother the okra ahead of time and refrigerate or freeze it to save time on gumbo prep.
 - Before adding them to the okra, pass your hand through the shrimp to ensure they are free of shells and black veins.
