@@ -378,6 +378,7 @@
 - [Cornbread Stuffing with Andouille, Fennel, and Bell Peppers](recipes/cornbread-stuffing-andouille-fennel-bell-peppers.md)
 - [Low Country Boil](recipes/low-country-boil.md)
 - [Moist & Tender Brown Butter Cornbread](recipes/cornbread.md)
+- [Shrimp Okra Gumbo](recipes/shrimp-okra-gumbo.md)
 - [Succotash](recipes/succotash.md)
 
 ## Spanish
