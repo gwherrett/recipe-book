@@ -2,6 +2,7 @@
 
 **337 recipes**
 
+- [Shrimp Okra Gumbo](recipes/shrimp-okra-gumbo.md)
 - [Barbecue Rub](recipes/barbecue-rub.md)
 - [Barbecued Chicken Legs](recipes/barbecued-chicken-legs.md)
 - [Blackened Sockeye Salmon](recipes/blackened-sockeye-salmon.md)
@@ -17,7 +18,6 @@
 - [Pulled Pork](recipes/pulled-pork.md)
 - [Ribs - Dry Rub](recipes/rib-rub.md)
 - [Sage-Oil Sous Vide Turkey Drumsticks, Pulled, with Cider-Maple Sauce](recipes/sage-oil-sous-vide-turkey-drumsticks-pulled-with-cider-maple-sauce.md)
-- [Shrimp Okra Gumbo](recipes/shrimp-okra-gumbo.md)
 - [Smoked Gouda Mac n Cheese](recipes/smoked-gouda-mac-n-cheese.md)
 - [Smoked Prime Rib (Rotisserie)](recipes/smoked-prime-rib-rotisserie.md)
 - [Smoked Side Ribs](recipes/smoked-side-ribs.md)
