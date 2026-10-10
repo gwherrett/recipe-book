@@ -193,6 +193,7 @@
 - [Sautéed BC Spot Prawns with Garlic and Chile](recipes/sauteed-bc-spot-prawns-with-garlic-and-chile.md)
 - [Seafood Paella (Paella de Marisco)](recipes/seafood-paella-paella-de-marisco.md)
 - [Shoyu Ramen](recipes/shoyu-ramen.md)
+- [Shrimp Okra Gumbo](recipes/shrimp-okra-gumbo.md)
 - [Shrimp with Tomato Sauce](recipes/chinese-shrimp-with-tomato-sauce.md)
 - [Simple Roast Chicken](recipes/simple-roast-chicken.md)
 - [Slow Cooker Chili](recipes/slow-cooker-chili.md)

@@ -119,6 +119,7 @@
 - [Seafood Paella (Paella de Marisco)](recipes/seafood-paella-paella-de-marisco.md)
 - [Seared Duck Breast Salad](recipes/seared-duck-breast-salad.md)
 - [Shoyu Ramen](recipes/shoyu-ramen.md)
+- [Shrimp Okra Gumbo](recipes/shrimp-okra-gumbo.md)
 - [Sichuan Green Beans](recipes/sichuan-green-beans.md)
 - [Simple Roast Chicken](recipes/simple-roast-chicken.md)
 - [Smoked Sablefish](recipes/smoked-sablefish.md)
