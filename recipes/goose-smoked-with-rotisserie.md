@@ -9,7 +9,7 @@ health_rating_label: Rich / Heavy
 
 # Goose (Smoked with Rotisserie)
 
-**Source:** Geoff's smoked goose, with techniques adapted from Hong Kong–style roast goose and Serious Eats (crisp-skinned roast goose)
+**Source:** Geoff's smoked goose, with techniques adapted from Hong Kong–style roast goose and Serious Eats (crisp-skinned roast goose); jus adapted from Hot Rod's Recipes (copycat St-Hubert BBQ sauce)
 
 **Prep Time:** 2 days (includes 36–48 hour dry brine)
 **Cook Time:** 2–2½ hours, plus 20 minutes resting
@@ -62,24 +62,26 @@ A whole goose smoked on a rotisserie on a gas barbecue, flavoured with Geoff's P
 ### St-Hubert-style BBQ jus (optional)
 
 - Reserved neck, wing tips, wishbone and giblets (liver not used)
-- 1 tbsp minced goose fat
+- 1 tbsp minced goose fat, plus 1 tbsp rendered goose fat
 - 1 onion, sliced
 - 2 cups low-sodium chicken stock
-- 1½ cups water
-- 2 tbsp tomato paste
-- 2 tbsp ketchup
-- 1 tbsp brown sugar
-- 1 tbsp apple cider vinegar
-- 1 tsp Worcestershire sauce
-- 1 tsp onion powder
-- ½ tsp garlic powder
-- 1 tsp sweet paprika
-- ½ tsp chili powder
-- ¾ tsp finely ground black pepper
-- Pinch of cayenne
-- Pinch of ground cloves (optional)
-- 2 tbsp cornstarch mixed with 3 tbsp cold water
-- Salt, to taste
+- 2½ cups water, plus more as needed
+- ¼ cup tomato juice
+- 1 tbsp white sugar
+- 1½ tsp paprika
+- ¾ tsp salt, or to taste
+- ¼ tsp dried basil
+- ¼ tsp dried parsley flakes
+- ¼ tsp Geoff's Poultry Mix (or store-bought poultry seasoning)
+- ¼ tsp ground thyme
+- ¼ tsp ground ginger
+- ¼ tsp dry mustard
+- ¼ tsp onion powder
+- 1 bay leaf
+- ¾ tsp Worcestershire sauce
+- ½ tsp Tabasco, or to taste
+- 2 tsp fresh lemon juice
+- 2 tbsp cornstarch mixed with 2 tbsp cold water
 
 **Special Equipment:**
 
@@ -126,19 +128,21 @@ A whole goose smoked on a rotisserie on a gas barbecue, flavoured with Geoff's P
 
 ### St-Hubert-style BBQ jus (optional)
 
-A thin, glossy, tangy-sweet and peppery dipping sauce in the style of St-Hubert BBQ sauce, built on a goose stock instead of a packet. Make it while the goose dry-brines; it keeps 5 days in the fridge.
+A thin, glossy, tangy dipping sauce based on Hot Rod's Recipes' copycat St-Hubert BBQ sauce. Goose stock replaces the water and bouillon, and goose fat replaces the vegetable oil. Make it while the goose dry-brines; it keeps 5 days in the fridge.
 
 1. **Brown the trimmings:** Cut the neck and wing tips into 7 cm (3 in) pieces. In a saucepan, render **1 tbsp minced goose fat** over medium heat. Add the neck, wing tips, wishbone, heart and gizzard, and brown well, 8–10 minutes.
 
 2. **Brown the onion:** Add **1 sliced onion** and cook until deep golden, about 10 minutes.
 
-3. **Simmer the stock:** Add **2 cups low-sodium chicken stock and 1½ cups water**, scraping up the browned bits. Simmer, partly covered, for 2 hours, topping up with water to keep the bones mostly submerged.
+3. **Simmer the stock:** Add **2 cups low-sodium chicken stock and 2½ cups water**, scraping up the browned bits. Simmer, partly covered, for 2 hours, topping up with water to keep the bones mostly submerged.
 
-4. **Strain:** Strain, pressing on the solids, and skim off all the fat. You should have about 2 cups of stock. Return it to the pan.
+4. **Strain:** Strain, pressing on the solids, and skim off all the fat. Measure and add water to make **3 cups**. Return it to the pan.
 
-5. **Season:** Whisk in **2 tbsp tomato paste, 2 tbsp ketchup, 1 tbsp brown sugar, 1 tbsp apple cider vinegar, 1 tsp Worcestershire sauce, 1 tsp onion powder, ½ tsp garlic powder, 1 tsp sweet paprika, ½ tsp chili powder, ¾ tsp black pepper**, a pinch of cayenne and the cloves, if using. Simmer 10 minutes.
+5. **Season:** Whisk in **¼ cup tomato juice, 1 tbsp sugar, 1½ tsp paprika, ¾ tsp salt, ¼ tsp each basil, parsley, Poultry Mix, ground thyme, ground ginger, dry mustard and onion powder, 1 bay leaf, ¾ tsp Worcestershire and ½ tsp Tabasco**. Bring to a boil, then simmer 5 minutes. Remove the bay leaf and stir in **2 tsp lemon juice**.
 
-6. **Thicken:** Stir the **cornstarch slurry**, then whisk it into the simmering sauce. Simmer 1–2 minutes until glossy and just thick enough to coat a spoon — it should stay pourable, thinner than a bottled barbecue sauce. Season with salt, then taste and adjust: more vinegar for tang, sugar for sweetness, pepper for bite.
+6. **Thicken:** Stir the **cornstarch slurry**, then whisk it into the sauce. Cook over medium-high heat, stirring constantly, about 5 minutes until slightly thickened. It thickens more as it cools.
+
+7. **Finish:** Once it has cooled slightly, whisk in **1 tbsp rendered goose fat**. Taste for salt and Tabasco. Serve warm.
 
 ---
 
@@ -151,5 +155,5 @@ A thin, glossy, tangy-sweet and peppery dipping sauce in the style of St-Hubert 
 - **Why blanch and render low:** blanching tightens the skin and starts the render. The long stretch at 275–300°F melts out the thick fat layer before the high-heat finish crisps the skin.
 - **Why glaze only at the end:** maple syrup brushed on early will char on a gas grill over 2 hours.
 - **Wood:** apple and cherry give a mild, sweet smoke. Hickory is stronger — use it alone for a bolder flavour, or mix it half and half with apple.
-- **About the jus:** St-Hubert sauce is a cornstarch-thickened poultry gravy seasoned with tomato, vinegar, sugar and lots of black pepper, rather than a thick smoky barbecue sauce. Cornstarch (not a flour roux) gives its glossy, translucent finish. It is also good for dipping fries.
+- **About the jus:** St-Hubert sauce is a thin, cornstarch-thickened poultry sauce with a little tomato, herbs and a touch of heat, not a thick smoky barbecue sauce. Cornstarch (not a flour roux) gives its glossy, translucent finish. It is also good for dipping fries. Copycat recipe: [Hot Rod's Recipes](https://www.hotrodsrecipes.com/copycat-st-hubert-bbq-sauce/).
 - **Rendered fat:** strain the drip-pan fat and the trimmed cavity fat (rendered slowly in a pan) and keep it for roast potatoes.
