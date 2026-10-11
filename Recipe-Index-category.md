@@ -252,8 +252,8 @@
 
 - [Bean, Cucumber & Tomato Salad](recipes/bean-cucumber-and-tomato-salad.md)
 - [Brussels Sprouts Slaw](recipes/brussels-sprouts-slaw.md)
+- [Brussels Sprouts Slaw (Buttermilk)](recipes/brussels-sprouts-slaw-buttermilk.md)
 - [Brussels Sprouts Slaw (Japanese)](recipes/brussels-sprouts-slaw-japanese.md)
-- [Buttermilk Coleslaw with Brussels Sprouts](recipes/buttermilk-coleslaw-with-brussels-sprouts.md)
 - [Cabbage Salad (Lebanese)](recipes/cabbage-salad-lebanese.md)
 - [Camote con Chile y Limón (Sweet Potatoes)](recipes/camote-con-chile-y-limon-sweet-potatoes.md)
 - [Carrots (Roasted with Spice Blend)](recipes/carrots-roasted-with-spice-blend.md)
@@ -298,7 +298,6 @@
 - [Potatoes (Mashed with Garlic and Yogurt)](recipes/potatoes-mashed-with-garlic-and-yogurt.md)
 - [Potatoes (Mashed with Horseradish)](recipes/potatoes-mashed-with-horseradish.md)
 - [Potatoes (Vinegar-Roasted with Herbs)](recipes/potatoes-vinegar-roasted-with-herbs.md)
-- [Ratatouille](recipes/ratatouille.md)
 - [Ratatouille with Celery & Corn](recipes/ratatouille-with-celery-and-corn.md)
 - [Rice (Aromatic)](recipes/rice-aromatic.md)
 - [Rice and Peas](recipes/rice-and-peas.md)
@@ -365,8 +364,7 @@
 - [Minestrone](recipes/minestrone.md)
 - [Mulligatawny Soup](recipes/mulligatawny-soup.md)
 - [New England Clam Chowder](recipes/new-england-clam-chowder.md)
-- [Pork Bone Soup](recipes/pork-bone-soup.md)
-- [Pork Bone Soup Jobs Tears](recipes/pork-bone-soup-jobs-tears.md)
+- [Pork Bone Soup with Job's Tears](recipes/pork-bone-soup-with-jobs-tears.md)
 - [Pozole Rojo](recipes/pozole-rojo.md)
 - [Salmon Chowder](recipes/salmon-chowder.md)
 - [Shrimp Bisque](recipes/shrimp-bisque.md)
@@ -377,7 +375,6 @@
 ## Spice Mixes & Pastes
 
 - [Barbecue Rub](recipes/barbecue-rub.md)
-- [Carrots Spice Blend](recipes/carrots-spice-blend.md)
 - [Chicken Spice Mix (Palestinian Musakhan)](recipes/chicken-spice-mix-palestinian-musakhan.md)
 - [Chili Powder (Ancho-Based)](recipes/chili-powder-ancho-based.md)
 - [Curry Powder (Jamaican)](recipes/curry-powder-jamaican.md)
