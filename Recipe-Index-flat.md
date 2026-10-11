@@ -1,14 +1,14 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**337 recipes**
+**335 recipes**
 
+- [Goose (Smoked with Rotisserie)](recipes/goose-smoked-with-rotisserie.md)
 - [Shrimp Okra Gumbo](recipes/shrimp-okra-gumbo.md)
 - [Barbecue Rub](recipes/barbecue-rub.md)
 - [Barbecued Chicken Legs](recipes/barbecued-chicken-legs.md)
 - [Blackened Sockeye Salmon](recipes/blackened-sockeye-salmon.md)
 - [Braised Collard Greens With Ham Hocks](recipes/braised-collard-greens-with-ham-hocks.md)
 - [Buttermilk Coleslaw with Brussels Sprouts](recipes/buttermilk-coleslaw-with-brussels-sprouts.md)
-- [Cantonese Smoked Rotisserie Goose](recipes/cantonese-smoked-rotisserie-goose.md)
 - [Coleslaw with Apples & Dried Cranberries](recipes/coleslaw-with-apples-and-dried-cranberries.md)
 - [Corn Chip-Crusted Chicken](recipes/corn-chip-crusted-chicken.md)
 - [Creole Sauce](recipes/creole-sauce.md)
@@ -233,9 +233,7 @@
 - [Chickpea Salad](recipes/simple-chickpea-salad.md)
 - [Slow Cooker Chili](recipes/slow-cooker-chili.md)
 - [Smoked Chicken (Rotisserie)](recipes/smoked-chicken-rotisserie.md)
-- [Smoked Goose (Rotisserie)](recipes/smoked-goose-rotisserie.md)
 - [Smoked Sablefish](recipes/smoked-sablefish.md)
-- [Smoked Goose: Tips & Preparation Guide](recipes/smoking-goose-tips-preparation-guide.md)
 - [Sous Vide Vietnamese Chicken Wings](recipes/sous-vide-vietnamese-chicken-wings.md)
 - [Southwest Kale Salad](recipes/southwest-kale-salad.md)
 - [Southwestern Black Bean & Corn Chili](recipes/southwestern-black-bean-corn-chili.md)
