@@ -122,6 +122,7 @@ One or two sentences describing what the dish is and what makes it interesting. 
 - **Ingredient sub-sections:** Use `### Sub-section Name` when the recipe has clearly distinct component groups (e.g. "For the sauce", "Topping").
 - **Extra sections:** Preserve any Notes, Tips, Variations, Storage, Make-Ahead, or Serving Suggestions sections from the original. Use the source's heading name.
 - **Source line:** If a URL is present in the text, format it as `**Source:** [Name](URL)`. If only a name/book/show is mentioned, use `**Source:** Name`. If no source info is present, omit the line entirely.
-- **Slug:** Derive from the title — lowercase, spaces replaced with hyphens, special characters removed. For "za'atar" use "zaatar", for "Mac & Cheese" use "mac-and-cheese".
+- **Title:** When possible, put the main ingredient first, with the method or style after it — e.g. "Goose (Smoked with Rotisserie)" rather than "Smoked Rotisserie Goose". Leading with the ingredient makes the indexes easier to scan than to search.
+- **Slug:** Derive from the title, so it also leads with the main ingredient — lowercase, spaces replaced with hyphens, special characters removed. For "za'atar" use "zaatar", for "Mac & Cheese" use "mac-and-cheese".
 - **After writing the file:** Confirm the file path and show the user the frontmatter so they can verify the metadata before committing.
 - **Do not regenerate indexes:** Never run `generate_indexes.py` or update any index file. The GitHub Action handles this automatically on push.
