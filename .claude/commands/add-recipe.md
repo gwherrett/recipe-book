@@ -29,7 +29,7 @@ health_rating_label: <matching label>
 
 ### Canonical cuisines
 
-African, Asian, Balkan, British, Cantonese, Caribbean, Chinese, Filipino, French, Indian, Italian, Japanese, Mediterranean, Mexican, Middle Eastern, North American, Persian, Southern / Cajun, Spanish, Thai, Vietnamese
+African, Asian, Balkan, British, Cantonese, Caribbean, Chinese, Filipino, French, Indian / Pakistani, Italian, Japanese, Mediterranean, Mexican, Middle Eastern, North American, Persian, Southern / Cajun, Spanish, Thai, Vietnamese
 
 Pick the closest match. If the recipe blends two cuisines, choose the dominant one or the most specific fit.
 
