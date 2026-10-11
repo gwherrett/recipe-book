@@ -2,6 +2,7 @@
 
 **330 recipes**
 
+- [Goose (Smoked with Rotisserie)](recipes/goose-smoked-with-rotisserie.md)
 - [Apple Tarts (Mini Phyllo, Par-Bake Method)](recipes/apple-tarts-mini-phyllo-par-bake-method.md)
 - [Apples (Butter Brown Sugar)](recipes/apples-butter-brown-sugar.md)
 - [Basil Dressing](recipes/basil-dressing.md)
@@ -200,7 +201,6 @@
 - [Yellow Lentil & Chicken Soup](recipes/yellow-lentil-and-chicken-soup.md)
 - [Yucca with Garlic Sauce (Yuca con Mojo)](recipes/yucca-with-garlic-sauce-yuca-con-mojo.md)
 - [Zucchini Flowers (Extra Stuffings)](recipes/zucchini-flowers-extra-stuffings.md)
-- [Goose (Smoked with Rotisserie)](recipes/goose-smoked-with-rotisserie.md)
 - [Shrimp Okra Gumbo](recipes/shrimp-okra-gumbo.md)
 - [Barbecue Rub](recipes/barbecue-rub.md)
 - [Coleslaw with Apples & Dried Cranberries](recipes/coleslaw-with-apples-and-dried-cranberries.md)
