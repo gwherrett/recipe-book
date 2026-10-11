@@ -3,8 +3,8 @@ title: Cucumber-Lime Ring
 slug: cucumber-lime-ring
 cuisine: North American
 category: Salads & Sides
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Cucumber-Lime Ring

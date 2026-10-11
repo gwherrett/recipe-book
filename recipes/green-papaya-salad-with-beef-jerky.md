@@ -3,8 +3,8 @@ title: Green Papaya Salad with Beef Jerky
 slug: green-papaya-salad-with-beef-jerky
 cuisine: Vietnamese
 category: Salads & Sides
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Green Papaya Salad with Beef Jerky

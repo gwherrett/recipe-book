@@ -3,8 +3,8 @@ title: Chicken (Corn Chip-Crusted)
 cuisine: Southern / Cajun
 category: Mains
 slug: chicken-corn-chip-crusted
-health_rating: 4
-health_rating_label: Generally Healthy
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Air Fryer Corn Chip Crusted Fried Chicken

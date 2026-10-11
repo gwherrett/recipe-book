@@ -3,8 +3,8 @@ title: Turkish Salad
 slug: turkish-salad
 cuisine: Middle Eastern
 category: Salads & Sides
-health_rating: 4
-health_rating_label: Generally Healthy
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Turkish Salad

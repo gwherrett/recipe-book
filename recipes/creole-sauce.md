@@ -3,8 +3,8 @@ title: Creole Sauce
 cuisine: Southern / Cajun
 category: Sauces & Condiments
 slug: creole-sauce
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Creole Sauce (with White Pepper)

@@ -3,8 +3,8 @@ title: Apples (Butter Brown Sugar)
 cuisine: North American
 category: Dessert
 slug: apples-butter-brown-sugar
-health_rating: 1
-health_rating_label: Treat / Indulgent
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Apples (Butter Brown Sugar)

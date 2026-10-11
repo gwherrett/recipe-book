@@ -3,8 +3,8 @@ title: Lemon Risotto with Summer Squash
 cuisine: Italian
 category: Pasta
 slug: lemon-risotto-with-summer-squash
-health_rating: 4
-health_rating_label: Generally Healthy
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Lemon Risotto with Summer Squash

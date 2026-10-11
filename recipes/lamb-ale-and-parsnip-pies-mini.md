@@ -3,8 +3,8 @@ title: Lamb, Ale & Parsnip Pies (Mini)
 cuisine: British
 category: Appetizers
 slug: lamb-ale-and-parsnip-pies-mini
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Mini Lamb, Ale & Parsnip Pies (Muffin‑Tin)

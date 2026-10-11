@@ -3,8 +3,8 @@ title: Chicken (Baked Macau Style)
 slug: chicken-baked-macau-style
 cuisine: Cantonese
 category: Mains
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Chicken (Baked Macau Style)

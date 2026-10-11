@@ -3,8 +3,8 @@ title: Pecan Pie
 cuisine: Southern / Cajun
 category: Dessert
 slug: pecan-pie
-health_rating: 1
-health_rating_label: Treat / Indulgent
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Pecan Pie (No Corn Syrup)

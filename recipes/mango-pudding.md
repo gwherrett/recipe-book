@@ -3,8 +3,8 @@ title: Mango Pudding
 slug: mango-pudding
 cuisine: Cantonese
 category: Dessert
-health_rating: 1
-health_rating_label: Treat / Indulgent
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Mango Pudding

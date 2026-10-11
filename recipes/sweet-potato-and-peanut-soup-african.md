@@ -3,8 +3,8 @@ title: Sweet Potato and Peanut Soup (African)
 slug: sweet-potato-and-peanut-soup-african
 cuisine: African
 category: Soups & Stocks
-health_rating: 4
-health_rating_label: Generally Healthy
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Sweet Potato and Peanut Soup (African)

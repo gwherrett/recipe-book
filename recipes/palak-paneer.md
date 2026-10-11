@@ -4,7 +4,7 @@ cuisine: Indian / Pakistani
 category: Mains
 slug: palak-paneer
 health_rating: 3
-health_rating_label: Moderately Healthy
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Palak Paneer (Spinach Paneer)

@@ -3,8 +3,8 @@ title: Hot Pepper Sauce (Sage-Infused)
 cuisine: Italian
 category: Sauces & Condiments
 slug: hot-pepper-sauce-sage-infused
-health_rating: 4
-health_rating_label: Generally Healthy
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Hot Pepper Sauce (Sage-Infused)

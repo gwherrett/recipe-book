@@ -3,8 +3,8 @@ title: Massaman Curry Paste
 cuisine: Thai
 category: Spice Mixes & Pastes
 slug: massaman-curry-paste
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Massaman Curry Paste

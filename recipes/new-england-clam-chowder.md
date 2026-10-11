@@ -3,8 +3,8 @@ title: New England Clam Chowder
 slug: new-england-clam-chowder
 cuisine: North American
 category: Soups & Stocks
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # New England Clam Chowder

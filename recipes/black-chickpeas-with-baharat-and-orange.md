@@ -3,8 +3,8 @@ title: Black Chickpeas with Baharat and Orange
 slug: black-chickpeas-with-baharat-and-orange
 cuisine: Middle Eastern
 category: Mains
-health_rating: 5
-health_rating_label: Very Healthy Everyday
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Black Chickpeas with Baharat and Orange

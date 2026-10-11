@@ -3,8 +3,8 @@ title: Miso Marinade for Sablefish
 cuisine: Japanese
 category: Dressings & Marinades
 slug: miso-marinade-for-sablefish
-health_rating: 4
-health_rating_label: Generally Healthy
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Classic Miso Marinade for Sablefish (Black Cod)

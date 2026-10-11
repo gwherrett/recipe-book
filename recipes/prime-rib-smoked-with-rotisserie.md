@@ -3,8 +3,8 @@ title: Prime Rib (Smoked with Rotisserie)
 cuisine: Southern / Cajun
 category: Mains
 slug: prime-rib-smoked-with-rotisserie
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Texas-Style Rotisserie Smoked Prime Rib (2–3 Ribs)

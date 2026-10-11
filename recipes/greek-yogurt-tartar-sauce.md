@@ -4,7 +4,7 @@ cuisine: Balkan
 category: Sauces & Condiments
 slug: greek-yogurt-tartar-sauce
 health_rating: 4
-health_rating_label: Healthy
+health_rating_label: Generally Healthy
 ---
 
 # Greek Yogurt Tartar Sauce (Healthy)

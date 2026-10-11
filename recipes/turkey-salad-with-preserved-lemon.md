@@ -11,8 +11,8 @@ tags:
 - sandwich
 servings: "2\u20133"
 time: 15 minutes
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Turkey Salad with Preserved Lemon  

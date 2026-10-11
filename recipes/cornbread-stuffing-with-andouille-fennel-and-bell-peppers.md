@@ -16,8 +16,8 @@ tags:
 - bell pepper
 - thanksgiving
 - side
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 ## Ingredients

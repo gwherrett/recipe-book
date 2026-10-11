@@ -3,8 +3,8 @@ title: Veggie Chili
 cuisine: North American
 category: Mains
 slug: veggie-chili
-health_rating: 4
-health_rating_label: Generally Healthy
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Veggie Chili (Kidney Beans Only)

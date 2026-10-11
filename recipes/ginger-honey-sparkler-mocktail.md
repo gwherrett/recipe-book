@@ -3,8 +3,8 @@ title: "Ginger\u2013Honey Sparkler (Mocktail)"
 cuisine: North American
 category: Drinks
 slug: ginger-honey-sparkler-mocktail
-health_rating: 4
-health_rating_label: Generally Healthy
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Ginger–Honey Sparkler (Mocktail)

@@ -3,8 +3,8 @@ title: "Pickled Jalape\xF1os"
 cuisine: Mexican
 category: Salads & Sides
 slug: pickled-jalapenos
-health_rating: 4
-health_rating_label: Generally Healthy
+health_rating: 5
+health_rating_label: Very Healthy Everyday
 ---
 
 # Pickled Jalapeños (Mexican Style with Lime & Coriander)

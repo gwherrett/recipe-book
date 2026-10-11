@@ -10,8 +10,8 @@ tags:
 slug: cauliflower-buffalo-wing-style
 servings: "2\u20134"
 time: 25 minutes
-health_rating: 4
-health_rating_label: Healthy
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Air Fryer Buffalo Cauliflower (Classic Version)

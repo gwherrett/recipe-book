@@ -3,8 +3,8 @@ title: Kale Salad (Southwest)
 cuisine: North American
 category: Salads & Sides
 slug: kale-salad-southwest
-health_rating: 5
-health_rating_label: Very Healthy Everyday
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Kale Salad (Southwest)

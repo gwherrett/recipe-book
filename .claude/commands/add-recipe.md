@@ -58,6 +58,10 @@ Appetizers, Breads & Pastries, Breakfast & Brunch, Dessert, Dressings & Marinade
 
 **Important:** 5 is the healthiest, 1 is the least healthy. The `health_rating` integer and `health_rating_label` must correspond exactly to the same row in the table above.
 
+**Rate by composition:** Rate the recipe as written, not per serving. A sauce or dressing that is mostly mayo, butter or sour cream is 2, however little of it you eat.
+
+**Spice mixes and rubs:** Plain spices, dried chilies and herbs are 5. Blends heavy in salt or sugar, such as barbecue rubs and seasoning salts, are 3.
+
 ---
 
 ## Body format

@@ -3,8 +3,8 @@ title: Causa Rellena (Peruvian Potato Terrine)
 cuisine: Mexican
 category: Salads & Sides
 slug: causa-rellena-peruvian-potato-terrine
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Three-Layer Causa Rellena (Peruvian Potato Terrine)

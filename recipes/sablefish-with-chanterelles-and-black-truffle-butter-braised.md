@@ -4,7 +4,7 @@ cuisine: North American
 category: Mains
 slug: sablefish-with-chanterelles-and-black-truffle-butter-braised
 health_rating: 4
-health_rating_label: Healthy
+health_rating_label: Generally Healthy
 ---
 
 # Sablefish with Chanterelles and Black Truffle Butter (Braised)

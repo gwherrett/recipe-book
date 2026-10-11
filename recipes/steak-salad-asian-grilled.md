@@ -3,8 +3,8 @@ title: Steak Salad (Asian Grilled)
 slug: steak-salad-asian-grilled
 cuisine: Vietnamese
 category: Salads & Sides
-health_rating: 5
-health_rating_label: Very Healthy Everyday
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Steak Salad (Asian Grilled)

@@ -3,8 +3,8 @@ title: Side Ribs (Smoked)
 cuisine: Southern / Cajun
 category: Mains
 slug: side-ribs-smoked
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Smoked Side Ribs on the Barbecue

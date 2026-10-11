@@ -3,8 +3,8 @@ title: Wild Mushroom Risotto
 slug: wild-mushroom-risotto
 cuisine: Italian
 category: Mains
-health_rating: 2
-health_rating_label: Rich / Heavy
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Wild Mushroom Risotto

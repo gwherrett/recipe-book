@@ -3,8 +3,8 @@ title: Shoyu Ramen
 cuisine: Japanese
 category: Mains
 slug: shoyu-ramen
-health_rating: 4
-health_rating_label: Generally Healthy
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Easy Shoyu Ramen

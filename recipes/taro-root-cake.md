@@ -3,8 +3,8 @@ title: Taro Root Cake
 cuisine: Chinese
 category: Salads & Sides
 slug: taro-root-cake
-health_rating: 2
-health_rating_label: Rich / Heavy
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Taro Root Cake

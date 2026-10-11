@@ -4,7 +4,7 @@ cuisine: North American
 category: Mains
 slug: cornish-hens-rotisserie-herb-brined
 health_rating: 3
-health_rating_label: Manage portion size
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Rotisserie Herb-Brined Cornish Hens (Scaled for 2 Birds)

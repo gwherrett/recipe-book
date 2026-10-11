@@ -12,7 +12,7 @@ tags:
 servings: 4
 time: 15 minutes
 health_rating: 5
-health_rating_label: Eat Everyday
+health_rating_label: Very Healthy Everyday
 ---
 
 # Japanese Spinach Salad with Sesame Dressing (Gomaae)

@@ -3,8 +3,8 @@ title: Turkey Tetrazzini with Spaghetti & Pita Chip Crust
 slug: turkey-tetrazzini-with-spaghetti-and-pita-chip-crust
 cuisine: North American
 category: Mains
-health_rating: 2
-health_rating_label: Rich / Heavy
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Turkey Tetrazzini with Spaghetti & Pita Chip Crust

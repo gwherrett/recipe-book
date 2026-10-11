@@ -3,8 +3,8 @@ title: Caesar Dressing with Anchovy
 cuisine: Mexican
 category: Dressings & Marinades
 slug: caesar-dressing-with-anchovy
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Caesar Dressing with Anchovy

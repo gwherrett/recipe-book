@@ -3,8 +3,8 @@ title: Rigatoni with Sausages and Red Peppers
 slug: rigatoni-with-sausages-and-red-peppers
 cuisine: Italian
 category: Pasta
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Rigatoni with Sausages and Red Peppers

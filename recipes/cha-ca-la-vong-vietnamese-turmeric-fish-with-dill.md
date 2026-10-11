@@ -4,7 +4,7 @@ cuisine: Thai
 category: Mains
 slug: cha-ca-la-vong-vietnamese-turmeric-fish-with-dill
 health_rating: 5
-health_rating_label: Eat Everyday
+health_rating_label: Very Healthy Everyday
 ---
 
 # Cha Ca La Vong (Vietnamese Turmeric Fish with Dill)

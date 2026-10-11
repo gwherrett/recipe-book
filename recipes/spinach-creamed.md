@@ -4,7 +4,7 @@ cuisine: North American
 category: Salads & Sides
 slug: spinach-creamed
 health_rating: 4
-health_rating_label: Healthy
+health_rating_label: Generally Healthy
 ---
 
 # Spinach (Creamed)

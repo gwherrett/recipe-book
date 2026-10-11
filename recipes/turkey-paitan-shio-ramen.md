@@ -11,8 +11,8 @@ tags:
 - shio
 servings: 1
 time: "Prep 20 mins | Cook 1 hr 15 mins (pressure cooker) or 4.5 hrs (stovetop)"
-health_rating: 4
-health_rating_label: Generally Healthy
+health_rating: 3
+health_rating_label: Mixed / Context-Dependent
 ---
 
 # Turkey Paitan Ramen  

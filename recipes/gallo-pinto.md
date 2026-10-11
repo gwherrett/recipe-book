@@ -3,8 +3,8 @@ title: Gallo Pinto
 cuisine: Mexican
 category: Salads & Sides
 slug: gallo-pinto
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 4
+health_rating_label: Generally Healthy
 ---
 
 # Gallo Pinto with Cumin, Coriander, and Rice Cooked in Chicken Broth

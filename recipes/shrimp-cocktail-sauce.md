@@ -3,8 +3,8 @@ title: Shrimp Cocktail Sauce
 slug: shrimp-cocktail-sauce
 cuisine: North American
 category: Sauces & Condiments
-health_rating: 3
-health_rating_label: Mixed / Context-Dependent
+health_rating: 2
+health_rating_label: Rich / Heavy
 ---
 
 # Shrimp Cocktail Sauce

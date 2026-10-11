@@ -1,11 +1,11 @@
 ---
-title: Buttermilk Coleslaw with Brussels Sprouts
+title: Brussels Sprouts Slaw (Buttermilk)
 category: Salads & Sides
 summary: A creamy buttermilk coleslaw using a mix of green cabbage and shaved brussels
   sprouts. Cabbage is salted and drained first so the slaw stays crisp and never
   watery. Perfect for BBQs, fried chicken, or sandwiches.
 cuisine: Southern / Cajun
-slug: buttermilk-coleslaw-with-brussels-sprouts
+slug: brussels-sprouts-slaw-buttermilk
 health_rating: 3
 health_rating_label: Mixed / Context-Dependent
 ---
