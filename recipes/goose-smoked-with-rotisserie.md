@@ -59,19 +59,27 @@ A whole goose smoked on a rotisserie on a gas barbecue, flavoured with Geoff's P
 
 - 2 tbsp maple syrup
 
-### Cider goose jus (optional)
+### St-Hubert-style BBQ jus (optional)
 
-- Reserved neck, wing tips, wishbone and giblets
-- 1 tbsp minced goose fat, plus 2 tbsp rendered goose fat
+- Reserved neck, wing tips, wishbone and giblets (liver not used)
+- 1 tbsp minced goose fat
 - 1 onion, sliced
-- 3 sprigs thyme
-- 4 sage leaves
-- ½ cup dry hard cider
-- 1 tbsp Calvados or brandy (optional)
 - 2 cups low-sodium chicken stock
-- 1 cup water
-- 2 tbsp all-purpose flour
-- Salt and black pepper, to taste
+- 1½ cups water
+- 2 tbsp tomato paste
+- 2 tbsp ketchup
+- 1 tbsp brown sugar
+- 1 tbsp apple cider vinegar
+- 1 tsp Worcestershire sauce
+- 1 tsp onion powder
+- ½ tsp garlic powder
+- 1 tsp sweet paprika
+- ½ tsp chili powder
+- ¾ tsp finely ground black pepper
+- Pinch of cayenne
+- Pinch of ground cloves (optional)
+- 2 tbsp cornstarch mixed with 3 tbsp cold water
+- Salt, to taste
 
 **Special Equipment:**
 
@@ -114,23 +122,23 @@ A whole goose smoked on a rotisserie on a gas barbecue, flavoured with Geoff's P
 
 11. **Glaze and crisp (last 20–30 minutes):** When the thigh reads about **165°F**, brush **2 tbsp maple syrup** onto the turning goose 2–3 times, 10 minutes apart. Turn the rear burner (or end burner) to high and raise the barbecue to about **375–425°F** until the skin is deep mahogany and crisp. Watch closely — maple burns fast. The goose is done when the thigh reads **at least 175°F** and the breast **165°F**. Total cook time is roughly 2–2½ hours for a 3 kg bird; go by temperature, not the clock.
 
-12. **Rest, chop and serve:** Lift the spit off, remove the forks and twine, and rest the goose for **20 minutes**. Chop through the bone into bite-sized pieces with a heavy cleaver. Serve with the cider goose jus.
+12. **Rest, chop and serve:** Lift the spit off, remove the forks and twine, and rest the goose for **20 minutes**. Chop through the bone into bite-sized pieces with a heavy cleaver. Serve with the St-Hubert-style BBQ jus for dipping.
 
-### Cider goose jus (optional)
+### St-Hubert-style BBQ jus (optional)
 
-Make this while the goose dry-brines; it keeps 5 days in the fridge.
+A thin, glossy, tangy-sweet and peppery dipping sauce in the style of St-Hubert BBQ sauce, built on a goose stock instead of a packet. Make it while the goose dry-brines; it keeps 5 days in the fridge.
 
-1. **Brown the trimmings:** Cut the neck and wing tips into 7 cm (3 in) pieces. In a saucepan, render **1 tbsp minced goose fat** over medium heat. Add the neck, wing tips, wishbone, heart and gizzard (keep the liver aside), and brown well, 8–10 minutes.
+1. **Brown the trimmings:** Cut the neck and wing tips into 7 cm (3 in) pieces. In a saucepan, render **1 tbsp minced goose fat** over medium heat. Add the neck, wing tips, wishbone, heart and gizzard, and brown well, 8–10 minutes.
 
-2. **Add the aromatics:** Add **1 sliced onion, 3 sprigs thyme and 4 sage leaves**. Cook until the onion browns, about 10 minutes.
+2. **Brown the onion:** Add **1 sliced onion** and cook until deep golden, about 10 minutes.
 
-3. **Deglaze and simmer:** Deglaze with **½ cup dry hard cider** and **1 tbsp Calvados or brandy**, if using. Add **2 cups low-sodium chicken stock and 1 cup water**. Simmer, partly covered, for 2 hours, topping up with water to keep the bones mostly submerged.
+3. **Simmer the stock:** Add **2 cups low-sodium chicken stock and 1½ cups water**, scraping up the browned bits. Simmer, partly covered, for 2 hours, topping up with water to keep the bones mostly submerged.
 
-4. **Strain:** Strain, pressing on the solids, and skim off the fat. You should have about 2 cups of stock.
+4. **Strain:** Strain, pressing on the solids, and skim off all the fat. You should have about 2 cups of stock. Return it to the pan.
 
-5. **Thicken:** To finish, cook **2 tbsp rendered goose fat** with **2 tbsp flour** until light brown, about 5 minutes. Gradually whisk in the hot stock. Simmer until slightly thickened, 3–6 minutes.
+5. **Season:** Whisk in **2 tbsp tomato paste, 2 tbsp ketchup, 1 tbsp brown sugar, 1 tbsp apple cider vinegar, 1 tsp Worcestershire sauce, 1 tsp onion powder, ½ tsp garlic powder, 1 tsp sweet paprika, ½ tsp chili powder, ¾ tsp black pepper**, a pinch of cayenne and the cloves, if using. Simmer 10 minutes.
 
-6. **Finish:** Add the finely chopped liver if you like and simmer 1 minute more. Season with salt and black pepper.
+6. **Thicken:** Stir the **cornstarch slurry**, then whisk it into the simmering sauce. Simmer 1–2 minutes until glossy and just thick enough to coat a spoon — it should stay pourable, thinner than a bottled barbecue sauce. Season with salt, then taste and adjust: more vinegar for tang, sugar for sweetness, pepper for bite.
 
 ---
 
@@ -143,4 +151,5 @@ Make this while the goose dry-brines; it keeps 5 days in the fridge.
 - **Why blanch and render low:** blanching tightens the skin and starts the render. The long stretch at 275–300°F melts out the thick fat layer before the high-heat finish crisps the skin.
 - **Why glaze only at the end:** maple syrup brushed on early will char on a gas grill over 2 hours.
 - **Wood:** apple and cherry give a mild, sweet smoke. Hickory is stronger — use it alone for a bolder flavour, or mix it half and half with apple.
+- **About the jus:** St-Hubert sauce is a cornstarch-thickened poultry gravy seasoned with tomato, vinegar, sugar and lots of black pepper, rather than a thick smoky barbecue sauce. Cornstarch (not a flour roux) gives its glossy, translucent finish. It is also good for dipping fries.
 - **Rendered fat:** strain the drip-pan fat and the trimmed cavity fat (rendered slowly in a pan) and keep it for roast potatoes.
