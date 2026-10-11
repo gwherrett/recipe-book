@@ -122,7 +122,13 @@ One or two sentences describing what the dish is and what makes it interesting. 
 - **Ingredient sub-sections:** Use `### Sub-section Name` when the recipe has clearly distinct component groups (e.g. "For the sauce", "Topping").
 - **Extra sections:** Preserve any Notes, Tips, Variations, Storage, Make-Ahead, or Serving Suggestions sections from the original. Use the source's heading name.
 - **Source line:** If a URL is present in the text, format it as `**Source:** [Name](URL)`. If only a name/book/show is mentioned, use `**Source:** Name`. If no source info is present, omit the line entirely.
-- **Title:** When possible, put the main ingredient first, with the method or style after it — e.g. "Goose (Smoked with Rotisserie)" rather than "Smoked Rotisserie Goose". Leading with the ingredient makes the indexes easier to scan than to search.
-- **Slug:** Derive from the title, so it also leads with the main ingredient — lowercase, spaces replaced with hyphens, special characters removed. For "za'atar" use "zaatar", for "Mac & Cheese" use "mac-and-cheese".
+- **Title:** When possible, put the main ingredient first. Leading with the ingredient makes the indexes easier to scan than to search.
+  - Put the method, style or cuisine after it in parentheses — "Goose (Smoked with Rotisserie)", not "Smoked Rotisserie Goose"; "Chicken Adobo (Filipino)", not "Filipino Chicken Adobo". If the title already has a translation in parentheses, fold the descriptor into it — "Chicken Curry (Pakistani Salan)".
+  - Drop method words that don't tell recipes apart — "Mussels in White Wine", not "Steamed Mussels in White Wine"; "Goat or Lamb Curry (Cinnamon-Scented)", not "Stewed Cinnamon-Scented Goat or Lamb Curry". Keep a method when it is the point of the recipe — "Prime Rib (Smoked with Rotisserie)".
+  - Drop filler adjectives — Classic, Simple, Traditional, Juicy, Healthy, Quick, Moist & Tender.
+  - A cuisine the dish name already implies can be left out — "Jambalaya", not "Cajun Jambalaya".
+  - Leave named dishes as they are — Pad Thai, Jerk Chicken, French Onion Soup, Pulled Pork, Montreal Steak Seasoning.
+  - Keep "Pickled" in front so pickles group together — "Pickled Red Onions".
+- **Slug:** Derive from the title, so it also leads with the main ingredient — lowercase, spaces and dashes replaced with hyphens, special characters removed. For "za'atar" use "zaatar", for "Mac & Cheese" use "mac-and-cheese", for "Pesto–Ricotta Dip" use "pesto-ricotta-dip".
 - **After writing the file:** Confirm the file path and show the user the frontmatter so they can verify the metadata before committing.
 - **Do not regenerate indexes:** Never run `generate_indexes.py` or update any index file. The GitHub Action handles this automatically on push.

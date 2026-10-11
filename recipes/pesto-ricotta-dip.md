@@ -2,7 +2,7 @@
 title: "Pesto\u2013Ricotta Dip"
 cuisine: Italian
 category: Appetizers
-slug: pestoricotta-dip
+slug: pesto-ricotta-dip
 health_rating: 2
 health_rating_label: Rich / Heavy
 ---

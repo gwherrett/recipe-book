@@ -5,7 +5,7 @@ categories:
 - Sauces & Fillings
 cuisine: French
 category: Dessert
-slug: lemon-cream-pierre-herme-adaptation
+slug: lemon-cream
 tags:
 - Lemon
 - Cream

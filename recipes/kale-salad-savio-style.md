@@ -1,5 +1,5 @@
 ---
-title: Kale Salad, Savio-Style
+title: Kale Salad (Savio-Style)
 slug: kale-salad-savio-style
 cuisine: Italian
 category: Salads & Sides
@@ -7,7 +7,7 @@ health_rating: 4
 health_rating_label: Generally Healthy
 ---
 
-# Kale Salad, Savio-Style
+# Kale Salad (Savio-Style)
 
 **Source:** [Scout Magazine](https://scoutmagazine.ca/we-tried-to-make-savio-volpes-awesome-kale-salad-at-home-with-delicious-results/)
 
