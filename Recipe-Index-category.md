@@ -107,6 +107,7 @@
 - [Aloo Gobi](recipes/aloo-gobi.md)
 - [Beef Brisket (Malay Curry)](recipes/beef-brisket-malay-curry.md)
 - [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)
+- [Beef Cheek and Pumpkin Massaman Curry](recipes/beef-cheek-and-pumpkin-massaman-curry.md)
 - [Beef Enchilada Filling Sauce](recipes/beef-enchilada-filling-sauce.md)
 - [Beef Fajitas](recipes/beef-fajitas.md)
 - [Beef Galbi (Korean-Style Marinated Short Ribs)](recipes/beef-galbi-korean-style-marinated-short-ribs.md)

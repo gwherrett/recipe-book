@@ -262,6 +262,7 @@
 - [BBQ Pork Pastry](recipes/bbq-pork-pastry.md)
 - [Beef Brisket (Malay Curry)](recipes/beef-brisket-malay-curry.md)
 - [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)
+- [Beef Cheek and Pumpkin Massaman Curry](recipes/beef-cheek-and-pumpkin-massaman-curry.md)
 - [Beef Curry Puff](recipes/beef-curry-puff.md)
 - [Beef Galbi (Korean-Style Marinated Short Ribs)](recipes/beef-galbi-korean-style-marinated-short-ribs.md)
 - [Big Mac Sauce](recipes/big-mac-sauce.md)

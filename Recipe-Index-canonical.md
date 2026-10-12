@@ -387,6 +387,7 @@
 ## Thai
 
 - [Bean, Cucumber & Tomato Salad](recipes/bean-cucumber-and-tomato-salad.md)
+- [Beef Cheek and Pumpkin Massaman Curry](recipes/beef-cheek-and-pumpkin-massaman-curry.md)
 - [Bo Ssäm (Momofuku)](recipes/bo-ssam-momofuku.md)
 - [Cha Ca La Vong (Vietnamese Turmeric Fish with Dill)](recipes/cha-ca-la-vong-vietnamese-turmeric-fish-with-dill.md)
 - [Chicken Soup with Thai Basil](recipes/chicken-soup-with-thai-basil.md)
