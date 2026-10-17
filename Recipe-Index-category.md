@@ -365,6 +365,7 @@
 - [Mulligatawny Soup](recipes/mulligatawny-soup.md)
 - [New England Clam Chowder](recipes/new-england-clam-chowder.md)
 - [Pork Bone Soup with Job's Tears](recipes/pork-bone-soup-with-jobs-tears.md)
+- [Potato-Leek Soup](recipes/potato-leek-soup.md)
 - [Pozole Rojo](recipes/pozole-rojo.md)
 - [Salmon Chowder](recipes/salmon-chowder.md)
 - [Shrimp Bisque](recipes/shrimp-bisque.md)

@@ -220,6 +220,7 @@
 - [Pork Chops with Sage Mushroom Sauce](recipes/pork-chops-with-sage-mushroom-sauce.md)
 - [Pork Patty (Steamed, 蒸肉餅)](recipes/pork-patty-steamed.md)
 - [Potato Salad (Tarragon & Pickle)](recipes/potato-salad-tarragon-and-pickle.md)
+- [Potato-Leek Soup](recipes/potato-leek-soup.md)
 - [Potatoes (Coriander Roast)](recipes/potatoes-coriander-roast.md)
 - [Potatoes (Crispy Roast with Rosemary and Za'atar)](recipes/potatoes-crispy-roast-with-rosemary-and-zaatar.md)
 - [Potatoes (Vinegar-Roasted with Herbs)](recipes/potatoes-vinegar-roasted-with-herbs.md)

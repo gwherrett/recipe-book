@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**330 recipes**
+**331 recipes**
 
+- [Potato-Leek Soup](recipes/potato-leek-soup.md)
 - [Goose (Smoked with Rotisserie)](recipes/goose-smoked-with-rotisserie.md)
 - [Apple Tarts (Mini Phyllo, Par-Bake Method)](recipes/apple-tarts-mini-phyllo-par-bake-method.md)
 - [Apples (Butter Brown Sugar)](recipes/apples-butter-brown-sugar.md)
