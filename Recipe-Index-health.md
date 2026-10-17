@@ -105,6 +105,7 @@
 - [Pickled Salmon](recipes/pickled-salmon.md)
 - [Pork Bone Soup with Job's Tears](recipes/pork-bone-soup-with-jobs-tears.md)
 - [Pork Tacos (Mojo)](recipes/pork-tacos-mojo.md)
+- [Potato-Leek Soup](recipes/potato-leek-soup.md)
 - [Potatoes (Mashed with Garlic and Yogurt)](recipes/potatoes-mashed-with-garlic-and-yogurt.md)
 - [Prawns in Coconut Masala](recipes/prawns-in-coconut-masala.md)
 - [Quail Marinade (Korean)](recipes/quail-marinade-korean.md)

@@ -116,6 +116,7 @@
 - [Lemon-Thyme Syrup](recipes/lemon-thyme-syrup.md)
 - [Mussels in White Wine](recipes/mussels-in-white-wine.md)
 - [Pork Tenderloin a la Normande](recipes/pork-tenderloin-a-la-normande.md)
+- [Potato-Leek Soup](recipes/potato-leek-soup.md)
 - [Ratatouille with Celery & Corn](recipes/ratatouille-with-celery-and-corn.md)
 - [Shrimp Bisque](recipes/shrimp-bisque.md)
 - [Simple Syrup](recipes/simple-syrup.md)
