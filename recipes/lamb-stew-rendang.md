@@ -1,6 +1,6 @@
 ---
 title: Lamb Stew Rendang
-cuisine: Thai
+cuisine: Asian
 category: Mains
 slug: lamb-stew-rendang
 health_rating: 2

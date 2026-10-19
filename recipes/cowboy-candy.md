@@ -22,7 +22,7 @@ equipment:
   - heatproof jug or ladle
   - 3 x 250 ml (8 oz) jars with lids
 health_rating: 1
-health_rating_label: "Treat / Very Sweet"
+health_rating_label: "Treat / Indulgent"
 ---
 
 # Cowboy Candy (Candied Jalapeños)

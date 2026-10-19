@@ -1,3 +1,12 @@
+---
+title: Tabil (Tunisian Spice Mix)
+slug: tabil-spice-mix
+cuisine: African
+category: Spice Mixes & Pastes
+health_rating: 5
+health_rating_label: Very Healthy Everyday
+---
+
 # Tabil (Tunisian Spice Mix)
 
 **Makes:** ~4 tablespoons
