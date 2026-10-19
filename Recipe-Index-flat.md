@@ -1,7 +1,10 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**337 recipes**
+**340 recipes**
 
+- [Larb Gai (Thai Chicken Lettuce Wraps)](recipes/larb-gai-thai-chicken-lettuce-wraps.md)
+- [Pla Neung Manao (Steamed Fish with Lime & Garlic)](recipes/pla-neung-manao-steamed-fish-with-lime-and-garlic.md)
+- [Tom Yum Goong (Hot & Sour Shrimp Soup)](recipes/tom-yum-goong-hot-and-sour-shrimp-soup.md)
 - [Bo Ssäm (Momofuku)](recipes/bo-ssam-momofuku.md)
 - [Carrot Salad with Dates, Pistachios & Tahini-Lemon Dressing](recipes/carrot-salad-dates-pistachios-tahini.md)
 - [Cha Ca La Vong (Vietnamese Turmeric Fish with Dill)](recipes/cha-ca-la-vong-vietnamese-turmeric-fish-with-dill.md)
