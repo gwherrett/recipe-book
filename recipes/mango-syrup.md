@@ -1,6 +1,6 @@
 ---
 title: Mango Syrup
-cuisine: Thai
+cuisine: North American
 category: Dressings & Marinades
 slug: mango-syrup
 health_rating: 2

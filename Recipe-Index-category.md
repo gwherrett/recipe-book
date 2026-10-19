@@ -34,6 +34,7 @@
 ## Breads & Pastries
 
 - [Hellimli Yorkshire Puddings](recipes/hellimli-yorkshire-puddings.md)
+- [Jalapeño Cornbread with Brown Butter Jalapeño Honey](recipes/jalapeno-cornbread-brown-butter-jalapeno-honey.md)
 - [Kol Böreği (Potato, Spinach & Cheese Filo Pie)](recipes/kol-boregi-potato-spinach-and-cheese-filo-pie.md)
 - [Naan for Breadmaker](recipes/naan-for-breadmaker.md)
 - [Pie Crust](recipes/pie-crust.md)
@@ -174,6 +175,7 @@
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
 - [Pad Thai](recipes/pad-thai.md)
 - [Palak Paneer](recipes/palak-paneer.md)
+- [Pita Crisp–Crusted Chicken (Classic Herb Mix)](recipes/pita-crisp-crusted-chicken.md)
 - [Pork Chop Adobo (Filipino)](recipes/pork-chop-adobo-filipino.md)
 - [Pork Chops with Sage Mushroom Sauce](recipes/pork-chops-with-sage-mushroom-sauce.md)
 - [Pork Patty (Steamed, 蒸肉餅)](recipes/pork-patty-steamed.md)
@@ -256,6 +258,7 @@
 - [Brussels Sprouts Slaw (Japanese)](recipes/brussels-sprouts-slaw-japanese.md)
 - [Cabbage Salad (Lebanese)](recipes/cabbage-salad-lebanese.md)
 - [Camote con Chile y Limón (Sweet Potatoes)](recipes/camote-con-chile-y-limon-sweet-potatoes.md)
+- [Carrot Salad with Dates, Pistachios & Tahini-Lemon Dressing](recipes/carrot-salad-dates-pistachios-tahini.md)
 - [Carrots (Roasted with Spice Blend)](recipes/carrots-roasted-with-spice-blend.md)
 - [Carrots (Sticky Date Spiced)](recipes/carrots-sticky-date-spiced.md)
 - [Cauliflower with Fish Sauce Vinaigrette (Fried)](recipes/cauliflower-with-fish-sauce-vinaigrette-fried.md)
@@ -319,6 +322,7 @@
 - [Chilli Sauce (Fresh)](recipes/chilli-sauce-fresh.md)
 - [Chocolate Sauce](recipes/chocolate-sauce.md)
 - [Corn Relish](recipes/corn-relish.md)
+- [Cowboy Candy (Candied Jalapeños)](recipes/cowboy-candy.md)
 - [Creole Sauce](recipes/creole-sauce.md)
 - [Curry Ketchup (Spicy)](recipes/curry-ketchup-spicy.md)
 - [Dill Sour Cream Sauce](recipes/dill-sour-cream-sauce.md)
@@ -382,7 +386,9 @@
 - [Curry Powder (Japanese)](recipes/curry-powder-japanese.md)
 - [Five Spice Powder](recipes/five-spice-powder.md)
 - [Green Curry Paste (Thai)](recipes/green-curry-paste-thai.md)
+- [KFC-Style Herb Blend](recipes/kfc-style-herb-blend.md)
 - [Massaman Curry Paste](recipes/massaman-curry-paste.md)
 - [Montreal Steak Seasoning](recipes/montreal-steak-seasoning.md)
 - [Ribs (Dry Rub)](recipes/ribs-dry-rub.md)
+- [Tabil (Tunisian Spice Mix)](recipes/tabil-spice-mix.md)
 

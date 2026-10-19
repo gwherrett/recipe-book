@@ -1,6 +1,6 @@
 ---
 title: Bo Ssäm (Momofuku)
-cuisine: Thai
+cuisine: Asian
 category: Mains
 slug: bo-ssam-momofuku
 health_rating: 2

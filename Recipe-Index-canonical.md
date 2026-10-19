@@ -27,14 +27,17 @@
 
 - [Nuts (Suya-Spiced)](recipes/nuts-suya-spiced.md)
 - [Sweet Potato and Peanut Soup (African)](recipes/sweet-potato-and-peanut-soup-african.md)
+- [Tabil (Tunisian Spice Mix)](recipes/tabil-spice-mix.md)
 
 ## Asian
 
 - [Beef Brisket (Malay Curry)](recipes/beef-brisket-malay-curry.md)
 - [Beef Galbi (Korean-Style Marinated Short Ribs)](recipes/beef-galbi-korean-style-marinated-short-ribs.md)
+- [Bo Ssäm (Momofuku)](recipes/bo-ssam-momofuku.md)
 - [Chicken Adobo (Filipino)](recipes/chicken-adobo-filipino.md)
 - [Eggplant & Peppers (Malaysian Sambal)](recipes/eggplant-and-peppers-malaysian-sambal.md)
 - [Fish Curry (Malaysian)](recipes/fish-curry-malaysian.md)
+- [Lamb Stew Rendang](recipes/lamb-stew-rendang.md)
 - [Pork Chop Adobo (Filipino)](recipes/pork-chop-adobo-filipino.md)
 - [Quail Marinade (Korean)](recipes/quail-marinade-korean.md)
 - [Turkey Adobo (Filipino)](recipes/turkey-adobo-filipino.md)
@@ -252,6 +255,7 @@
 - [Baba Ganoush](recipes/baba-ganoush.md)
 - [Black Chickpeas with Baharat and Orange](recipes/black-chickpeas-with-baharat-and-orange.md)
 - [Cabbage Salad (Lebanese)](recipes/cabbage-salad-lebanese.md)
+- [Carrot Salad with Dates, Pistachios & Tahini-Lemon Dressing](recipes/carrot-salad-dates-pistachios-tahini.md)
 - [Carrots (Sticky Date Spiced)](recipes/carrots-sticky-date-spiced.md)
 - [Chicken Spice Mix (Palestinian Musakhan)](recipes/chicken-spice-mix-palestinian-musakhan.md)
 - [Chicken with Dates, Saffron and Freekeh](recipes/chicken-with-dates-saffron-and-freekeh.md)
@@ -308,8 +312,10 @@
 - [Hot Dog Relish](recipes/hot-dog-relish.md)
 - [Kale Apple Slaw](recipes/kale-apple-slaw.md)
 - [Kale Salad (Southwest)](recipes/kale-salad-southwest.md)
+- [KFC-Style Herb Blend](recipes/kfc-style-herb-blend.md)
 - [Lemon Loaf](recipes/lemon-loaf.md)
 - [Macaroni (3-Cheese)](recipes/macaroni-3-cheese.md)
+- [Mango Syrup](recipes/mango-syrup.md)
 - [Maple Pudding](recipes/maple-pudding.md)
 - [Mixed Greens with Pecans, Goat Cheese, and Dried Cranberries](recipes/mixed-greens-with-pecans-goat-cheese-and-dried-cranberries.md)
 - [Montreal Steak Seasoning](recipes/montreal-steak-seasoning.md)
@@ -319,6 +325,7 @@
 - [Pears (Canned)](recipes/pears-canned.md)
 - [Pickled Salmon](recipes/pickled-salmon.md)
 - [Pie Crust](recipes/pie-crust.md)
+- [Pita Crisp–Crusted Chicken (Classic Herb Mix)](recipes/pita-crisp-crusted-chicken.md)
 - [Plant Salad with Fresh Roots Dressing](recipes/plant-salad-with-fresh-roots-dressing.md)
 - [Potatoes (Mashed with Garlic and Yogurt)](recipes/potatoes-mashed-with-garlic-and-yogurt.md)
 - [Potatoes (Mashed with Horseradish)](recipes/potatoes-mashed-with-horseradish.md)
@@ -361,7 +368,9 @@
 - [Collard Greens with Ham Hocks (Braised)](recipes/collard-greens-with-ham-hocks-braised.md)
 - [Cornbread (Brown Butter)](recipes/cornbread-brown-butter.md)
 - [Cornbread Stuffing with Andouille, Fennel, and Bell Peppers](recipes/cornbread-stuffing-with-andouille-fennel-and-bell-peppers.md)
+- [Cowboy Candy (Candied Jalapeños)](recipes/cowboy-candy.md)
 - [Creole Sauce](recipes/creole-sauce.md)
+- [Jalapeño Cornbread with Brown Butter Jalapeño Honey](recipes/jalapeno-cornbread-brown-butter-jalapeno-honey.md)
 - [Jambalaya](recipes/jambalaya.md)
 - [Lobster Mac n Cheese](recipes/lobster-mac-n-cheese.md)
 - [Low Country Boil](recipes/low-country-boil.md)
@@ -388,15 +397,11 @@
 ## Thai
 
 - [Bean, Cucumber & Tomato Salad](recipes/bean-cucumber-and-tomato-salad.md)
-- [Bo Ssäm (Momofuku)](recipes/bo-ssam-momofuku.md)
-- [Cha Ca La Vong (Vietnamese Turmeric Fish with Dill)](recipes/cha-ca-la-vong-vietnamese-turmeric-fish-with-dill.md)
 - [Chicken Soup with Thai Basil](recipes/chicken-soup-with-thai-basil.md)
 - [Duck Legs (Thai Green Curry)](recipes/duck-legs-thai-green-curry.md)
 - [Green Apple & Spring Mix Salad with Thai Basil Dressing](recipes/green-apple-and-spring-mix-salad-with-thai-basil-dressing.md)
 - [Green Curry Paste (Thai)](recipes/green-curry-paste-thai.md)
-- [Lamb Stew Rendang](recipes/lamb-stew-rendang.md)
 - [Lobster (Claypot, Maenam)](recipes/lobster-claypot-maenam.md)
-- [Mango Syrup](recipes/mango-syrup.md)
 - [Massaman Curry Paste](recipes/massaman-curry-paste.md)
 - [Pad Krapow (Thai Basil Ground Turkey)](recipes/pad-krapow-thai-basil-ground-turkey.md)
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
@@ -406,6 +411,7 @@
 ## Vietnamese
 
 - [Cauliflower with Fish Sauce Vinaigrette (Fried)](recipes/cauliflower-with-fish-sauce-vinaigrette-fried.md)
+- [Cha Ca La Vong (Vietnamese Turmeric Fish with Dill)](recipes/cha-ca-la-vong-vietnamese-turmeric-fish-with-dill.md)
 - [Chicken Wings (Sous Vide Vietnamese)](recipes/chicken-wings-sous-vide-vietnamese.md)
 - [Green Papaya Salad with Beef Jerky](recipes/green-papaya-salad-with-beef-jerky.md)
 - [Salt, Pepper, and Lime Dipping Sauce (Muối Tiêu Chanh)](recipes/salt-pepper-and-lime-dipping-sauce-muoi-tieu-chanh.md)
