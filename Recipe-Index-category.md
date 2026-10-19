@@ -161,6 +161,7 @@
 - [Lamb Shoulder Tacos (Cordero Guisado)](recipes/lamb-shoulder-tacos-cordero-guisado.md)
 - [Lamb Stew Rendang](recipes/lamb-stew-rendang.md)
 - [Lamb, Lentil & Date Syrup Stew](recipes/lamb-lentil-and-date-syrup-stew.md)
+- [Larb Gai (Thai Chicken Lettuce Wraps)](recipes/larb-gai-thai-chicken-lettuce-wraps.md)
 - [Leg of Lamb with Balsamic Sauce](recipes/leg-of-lamb-with-balsamic-sauce.md)
 - [Litti Chokha](recipes/litti-chokha.md)
 - [Lobster (Claypot, Maenam)](recipes/lobster-claypot-maenam.md)
@@ -176,6 +177,7 @@
 - [Pad Thai](recipes/pad-thai.md)
 - [Palak Paneer](recipes/palak-paneer.md)
 - [Pita Crisp–Crusted Chicken (Classic Herb Mix)](recipes/pita-crisp-crusted-chicken.md)
+- [Pla Neung Manao (Steamed Fish with Lime & Garlic)](recipes/pla-neung-manao-steamed-fish-with-lime-and-garlic.md)
 - [Pork Chop Adobo (Filipino)](recipes/pork-chop-adobo-filipino.md)
 - [Pork Chops with Sage Mushroom Sauce](recipes/pork-chops-with-sage-mushroom-sauce.md)
 - [Pork Patty (Steamed, 蒸肉餅)](recipes/pork-patty-steamed.md)
@@ -374,6 +376,7 @@
 - [Salmon Chowder](recipes/salmon-chowder.md)
 - [Shrimp Bisque](recipes/shrimp-bisque.md)
 - [Sweet Potato and Peanut Soup (African)](recipes/sweet-potato-and-peanut-soup-african.md)
+- [Tom Yum Goong (Hot & Sour Shrimp Soup)](recipes/tom-yum-goong-hot-and-sour-shrimp-soup.md)
 - [Winter Melon Soup (Cantonese)](recipes/winter-melon-soup-cantonese.md)
 - [Yellow Lentil & Chicken Soup](recipes/yellow-lentil-and-chicken-soup.md)
 

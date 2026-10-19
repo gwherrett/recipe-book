@@ -401,12 +401,15 @@
 - [Duck Legs (Thai Green Curry)](recipes/duck-legs-thai-green-curry.md)
 - [Green Apple & Spring Mix Salad with Thai Basil Dressing](recipes/green-apple-and-spring-mix-salad-with-thai-basil-dressing.md)
 - [Green Curry Paste (Thai)](recipes/green-curry-paste-thai.md)
+- [Larb Gai (Thai Chicken Lettuce Wraps)](recipes/larb-gai-thai-chicken-lettuce-wraps.md)
 - [Lobster (Claypot, Maenam)](recipes/lobster-claypot-maenam.md)
 - [Massaman Curry Paste](recipes/massaman-curry-paste.md)
 - [Pad Krapow (Thai Basil Ground Turkey)](recipes/pad-krapow-thai-basil-ground-turkey.md)
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
 - [Pad Thai](recipes/pad-thai.md)
+- [Pla Neung Manao (Steamed Fish with Lime & Garlic)](recipes/pla-neung-manao-steamed-fish-with-lime-and-garlic.md)
 - [Thai Dressing](recipes/thai-dressing.md)
+- [Tom Yum Goong (Hot & Sour Shrimp Soup)](recipes/tom-yum-goong-hot-and-sour-shrimp-soup.md)
 
 ## Vietnamese
 
