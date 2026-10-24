@@ -17,7 +17,7 @@ A variation of [Meat Lasagna (All-Day)](meat-lasagna-all-day.md) made with groun
 - 2 tablespoons extra-virgin olive oil
 - 4 tablespoons butter
 - 1 1/2 pounds ground beef (85/15)
-- 1/2 pound semi-cured (Spanish-style) chorizo, casing removed, cut into 1/4-inch dice
+- 1/2 pound semi-cured Portuguese chouriço (or Spanish chorizo), casing removed, cut into 1/4-inch dice
 - 1 large onion, finely chopped (about 1 1/2 cups)
 - 2 large carrots, peeled and cut into 1/4-inch dice (about 1 cup)
 - 3 large ribs celery, peeled and cut into 1/4-inch dice (about 1 cup)
