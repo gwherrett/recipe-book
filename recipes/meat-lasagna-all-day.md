@@ -14,8 +14,10 @@ health_rating_label: Rich / Heavy
 ### Ragù Bolognese
 - 2 tablespoons extra-virgin olive oil
 - 4 tablespoons butter
-- 1 1/2 pounds ground beef (85/15)
-- 1/2 pound fresh chorizo sausage, casings removed
+- 2/3 pound ground lamb (or 85/15 ground beef)
+- 2/3 pound ground pork
+- 2/3 pound ground veal
+- 4 ounces chicken livers, finely chopped (optional)
 - 1 large onion, finely chopped (about 1 1/2 cups)
 - 2 large carrots, peeled and cut into 1/4-inch dice (about 1 cup)
 - 3 large ribs celery, peeled and cut into 1/4-inch dice (about 1 cup)
@@ -55,7 +57,7 @@ health_rating_label: Rich / Heavy
 ## Instructions
 
 ### Ragù Bolognese
-1. Heat butter and olive oil in a large Dutch oven over high heat until butter stops foaming. Add ground beef and chorizo; cook, breaking up meat, until no longer pink and the chorizo has rendered its fat, 7–10 minutes.
+1. Heat butter and olive oil in a large Dutch oven over high heat until butter stops foaming. Add lamb, pork, veal, and chicken livers; cook, breaking up meat, until no longer pink, 7–10 minutes.
 2. Remove from heat, transfer meat to a strainer set over a bowl and drain. Return drained liquid to the Dutch oven.
 3. Add onions, carrots, celery, garlic, sage, and red pepper flakes. Cook over medium heat, stirring frequently, until vegetables are softened but not browned, about 10 minutes.
 4. Return meat to pan. Add tomatoes, wine, milk, stock, and bay leaves; bring to a simmer over high heat. Reduce heat to low, partially cover, and simmer 2 1/2–3 hours, stirring occasionally, until liquid is just below the level of the meat (about 2 quarts of sauce). Add extra stock if needed.
@@ -83,5 +85,3 @@ health_rating_label: Rich / Heavy
 - For the best ricotta, make fresh or use a brand with no gums or stabilizers (milk, salt, and acid/starter only).
 - A layer of fat may form on top of the ragù during its long simmer — do not skim it off; it emulsifies in at the end.
 - The ragù can be made up to a week ahead and refrigerated; it improves with time.
-- Use fresh (raw) Mexican-style chorizo so it breaks up and melts into the ragù. If using cured Spanish chorizo instead, finely dice it and add it with the vegetables in step 3.
-- Chorizo brings its own heat and paprika, so taste before adding the red pepper flakes.
