@@ -1,15 +1,15 @@
 ---
-title: Beef & Chorizo Lasagna (All-Day)
+title: Beef & Chouriço Lasagna
 cuisine: Italian
 category: Pasta
-slug: beef-and-chorizo-lasagna-all-day
+slug: beef-and-chourico-lasagna
 health_rating: 2
 health_rating_label: Rich / Heavy
 ---
 
-# Beef & Chorizo Lasagna (All-Day)
+# Beef & Chouriço Lasagna
 
-A variation of [Meat Lasagna (All-Day)](meat-lasagna-all-day.md) made with ground beef and chorizo. The sofrito is cooked first and set aside so the meat can be cooked on its own, its fat managed, and its cooking slowed with milk and wine to keep it tender before everything comes together.
+A variation of [Meat Lasagna (All-Day)](meat-lasagna-all-day.md) made with ground beef and Portuguese chouriço. The sofrito is cooked first and set aside so the meat can be cooked on its own, its fat managed, and its cooking slowed with milk and wine to keep it tender before everything comes together.
 
 ## Ingredients
 
@@ -58,7 +58,7 @@ A variation of [Meat Lasagna (All-Day)](meat-lasagna-all-day.md) made with groun
 
 ### Ragù Bolognese
 1. **Sofrito:** Heat butter and olive oil in a large Dutch oven over medium heat until butter stops foaming. Add onions, carrots, and celery; cook, stirring frequently, until softened but not browned, 8–10 minutes. Add garlic for the last minute. Stop when the vegetables are nearly done — they will finish cooking later. Scoop the sofrito into a bowl, leaving as much fat in the pot as you can.
-2. **Meat:** Return the pot to medium-low heat. Add the diced chorizo and cook, stirring, until it starts to release its red fat, 2–3 minutes (don't let it crisp). Raise heat to medium, add the ground beef, and cook gently, breaking up the meat, just until it loses its raw pink colour, 5–7 minutes. Do not brown hard — high heat tightens the beef and makes it gristly. Tilt the pot and spoon off excess fat, leaving 1–2 tablespoons (chorizo fat adds flavour).
+2. **Meat:** Return the pot to medium-low heat. Add the diced chouriço and cook, stirring, until it starts to release its red fat, 2–3 minutes (don't let it crisp). Raise heat to medium, add the ground beef, and cook gently, breaking up the meat, just until it loses its raw pink colour, 5–7 minutes. Do not brown hard — high heat tightens the beef and makes it gristly. Tilt the pot and spoon off excess fat, leaving 1–2 tablespoons (chouriço fat adds flavour).
 3. **Milk, then wine:** Add milk and bring to a gentle simmer, stirring, until mostly absorbed, about 10–15 minutes. Add wine and simmer until most of the alcohol smell has cooked off and the liquid has reduced by about half, about 10 minutes. The liquid slows the cooking and keeps the meat tender.
 4. **Sofrito back in:** Return the sofrito to the pot along with the sage, red pepper flakes, and bay leaves. Stir and cook together for 3–5 minutes so the flavours meld.
 5. **Tomatoes:** Add tomatoes and stock; bring to a simmer. Reduce heat to low, partially cover, and simmer 2 1/2–3 hours, stirring occasionally, until liquid is just below the level of the meat (about 2 quarts of sauce). Add extra stock if needed.
@@ -86,7 +86,7 @@ A variation of [Meat Lasagna (All-Day)](meat-lasagna-all-day.md) made with groun
 - For the best ricotta, make fresh or use a brand with no gums or stabilizers (milk, salt, and acid/starter only).
 - A layer of fat may form on top of the ragù during its long simmer — do not skim it off; it emulsifies in at the end.
 - The ragù can be made up to a week ahead and refrigerated; it improves with time.
-- Semi-cured chorizo goes in first so its paprika-rich fat seasons the beef; dicing it small lets it soften into the ragù over the long simmer. If using fresh (raw) Mexican-style chorizo instead, remove the casings and add it with the beef.
+- Semi-cured chouriço goes in first so its paprika-rich fat seasons the beef; dicing it small lets it soften into the ragù over the long simmer. If using fresh (raw) Mexican-style chorizo instead, remove the casings and add it with the beef.
 - Cooking the sofrito first and setting it aside lets you cook the meat on its own and control how much fat stays in the sauce.
-- Adding milk and wine as soon as the meat loses its pink keeps the beef from overcooking and turning gristly. Milk first is the classic Bolognese order; it also mellows the chorizo.
-- Chorizo brings its own heat and paprika, so taste before adding the red pepper flakes.
+- Adding milk and wine as soon as the meat loses its pink keeps the beef from overcooking and turning gristly. Milk first is the classic Bolognese order; it also mellows the chouriço.
+- Chouriço is usually milder than Spanish chorizo and often smoked, so taste after the sofrito goes back in and add red pepper flakes if you want more heat.
