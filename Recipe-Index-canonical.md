@@ -147,8 +147,7 @@
 ## Italian
 
 - [Basil Dressing](recipes/basil-dressing.md)
-- [Beef & Chorizo Lasagna (All-Day)](recipes/beef-and-chorizo-lasagna-all-day.md)
-- [Beef, Chorizo, Cheese & Basil Lasagna](recipes/beef-chorizo-cheese-and-basil-lasagna.md)
+- [Beef & Chouriço Lasagna](recipes/beef-and-chourico-lasagna.md)
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
 - [Cacio e Pepe](recipes/cacio-e-pepe.md)
 - [Casarecce with Lamb Sausage and Baby Kale](recipes/casarecce-with-lamb-sausage-and-baby-kale.md)

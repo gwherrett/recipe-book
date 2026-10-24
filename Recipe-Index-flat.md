@@ -1,9 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**342 recipes**
+**341 recipes**
 
-- [Beef & Chorizo Lasagna (All-Day)](recipes/beef-and-chorizo-lasagna-all-day.md)
-- [Beef, Chorizo, Cheese & Basil Lasagna](recipes/beef-chorizo-cheese-and-basil-lasagna.md)
+- [Beef & Chouriço Lasagna](recipes/beef-and-chourico-lasagna.md)
 - [Meat Lasagna (All-Day)](recipes/meat-lasagna-all-day.md)
 - [Larb Gai (Thai Chicken Lettuce Wraps)](recipes/larb-gai-thai-chicken-lettuce-wraps.md)
 - [Pla Neung Manao (Steamed Fish with Lime & Garlic)](recipes/pla-neung-manao-steamed-fish-with-lime-and-garlic.md)
