@@ -3,7 +3,6 @@
 **341 recipes**
 
 - [Beef & Chouriço Lasagna](recipes/beef-and-chourico-lasagna.md)
-- [Meat Lasagna (All-Day)](recipes/meat-lasagna-all-day.md)
 - [Larb Gai (Thai Chicken Lettuce Wraps)](recipes/larb-gai-thai-chicken-lettuce-wraps.md)
 - [Pla Neung Manao (Steamed Fish with Lime & Garlic)](recipes/pla-neung-manao-steamed-fish-with-lime-and-garlic.md)
 - [Tom Yum Goong (Hot & Sour Shrimp Soup)](recipes/tom-yum-goong-hot-and-sour-shrimp-soup.md)
@@ -175,6 +174,7 @@
 - [Lobster Mac n Cheese](recipes/lobster-mac-n-cheese.md)
 - [Macaroni (3-Cheese)](recipes/macaroni-3-cheese.md)
 - [Mackerel with Peppers & Onions (Plancha)](recipes/mackerel-with-peppers-and-onions-plancha.md)
+- [Meat Lasagna (All-Day)](recipes/meat-lasagna-all-day.md)
 - [Mussels in White Wine](recipes/mussels-in-white-wine.md)
 - [Nuts (Suya-Spiced)](recipes/nuts-suya-spiced.md)
 - [Panzanella (Tuscan)](recipes/panzanella-tuscan.md)
