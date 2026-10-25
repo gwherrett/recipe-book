@@ -226,6 +226,7 @@
 
 ## Pasta
 
+- [Beef & Chouriço Lasagna](recipes/beef-and-chourico-lasagna.md)
 - [Bolognese (Turkish-Inspired)](recipes/bolognese-turkish-inspired.md)
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
 - [Cacio e Pepe](recipes/cacio-e-pepe.md)

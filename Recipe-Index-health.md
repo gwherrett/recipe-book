@@ -268,6 +268,7 @@
 - [Apple Tarts (Mini Phyllo, Par-Bake Method)](recipes/apple-tarts-mini-phyllo-par-bake-method.md)
 - [Apples (Butter Brown Sugar)](recipes/apples-butter-brown-sugar.md)
 - [BBQ Pork Pastry](recipes/bbq-pork-pastry.md)
+- [Beef & Chouriço Lasagna](recipes/beef-and-chourico-lasagna.md)
 - [Beef Brisket (Malay Curry)](recipes/beef-brisket-malay-curry.md)
 - [Beef Brisket with Coconut](recipes/beef-brisket-with-coconut.md)
 - [Beef Curry Puff](recipes/beef-curry-puff.md)
