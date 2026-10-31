@@ -1,7 +1,7 @@
 ---
 title: Black Bean Salad (Mango, Corn, Chili & Lime)
 slug: black-bean-salad-mango-corn-chili-and-lime
-cuisine: North American
+cuisine: Mexican
 category: Salads & Sides
 health_rating: 5
 health_rating_label: Very Healthy Everyday
