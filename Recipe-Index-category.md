@@ -256,6 +256,7 @@
 ## Salads & Sides
 
 - [Bean, Cucumber & Tomato Salad](recipes/bean-cucumber-and-tomato-salad.md)
+- [Black Bean Salad (Mango, Corn, Chili & Lime)](recipes/black-bean-salad-mango-corn-chili-and-lime.md)
 - [Brussels Sprouts Slaw](recipes/brussels-sprouts-slaw.md)
 - [Brussels Sprouts Slaw (Buttermilk)](recipes/brussels-sprouts-slaw-buttermilk.md)
 - [Brussels Sprouts Slaw (Japanese)](recipes/brussels-sprouts-slaw-japanese.md)

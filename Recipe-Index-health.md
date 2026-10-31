@@ -13,6 +13,7 @@
 - [Adobo Sauce](recipes/adobo-sauce.md)
 - [Bean, Cucumber & Tomato Salad](recipes/bean-cucumber-and-tomato-salad.md)
 - [Black Bean & Corn Chili (Southwestern)](recipes/black-bean-and-corn-chili-southwestern.md)
+- [Black Bean Salad (Mango, Corn, Chili & Lime)](recipes/black-bean-salad-mango-corn-chili-and-lime.md)
 - [Brussels Sprouts Slaw (Japanese)](recipes/brussels-sprouts-slaw-japanese.md)
 - [Carrot Soup (Moroccan)](recipes/carrot-soup-moroccan.md)
 - [Celery, Potato & Dill Soup](recipes/celery-potato-and-dill-soup.md)

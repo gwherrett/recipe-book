@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**341 recipes**
+**342 recipes**
 
+- [Black Bean Salad (Mango, Corn, Chili & Lime)](recipes/black-bean-salad-mango-corn-chili-and-lime.md)
 - [Beef & Chouriço Lasagna](recipes/beef-and-chourico-lasagna.md)
 - [Larb Gai (Thai Chicken Lettuce Wraps)](recipes/larb-gai-thai-chicken-lettuce-wraps.md)
 - [Pla Neung Manao (Steamed Fish with Lime & Garlic)](recipes/pla-neung-manao-steamed-fish-with-lime-and-garlic.md)
