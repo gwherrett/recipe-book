@@ -277,6 +277,7 @@
 - [Banana Bread](recipes/banana-bread.md)
 - [Big Mac Sauce](recipes/big-mac-sauce.md)
 - [Black Bean & Corn Chili (Southwestern)](recipes/black-bean-and-corn-chili-southwestern.md)
+- [Black Bean Salad (Mango, Corn, Chili & Lime)](recipes/black-bean-salad-mango-corn-chili-and-lime.md)
 - [Black Cod (Cedar Plank Barbecue)](recipes/black-cod-cedar-plank-barbecue.md)
 - [Blue Cheese Dressing](recipes/blue-cheese-dressing.md)
 - [Brussels Sprouts Slaw](recipes/brussels-sprouts-slaw.md)
