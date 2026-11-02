@@ -120,6 +120,7 @@
 - [Ratatouille with Celery & Corn](recipes/ratatouille-with-celery-and-corn.md)
 - [Rockfish Teriyaki](recipes/rockfish-teriyaki.md)
 - [Ropa Vieja](recipes/ropa-vieja.md)
+- [Saag Gosht (Lamb Offcuts, Pressure Cooker)](recipes/saag-gosht-lamb-offcuts-pressure-cooker.md)
 - [Saba No Miso-ni](recipes/saba-no-miso-ni.md)
 - [Sablefish (Smoked)](recipes/sablefish-smoked.md)
 - [Sablefish with Chanterelles and Black Truffle Butter (Braised)](recipes/sablefish-with-chanterelles-and-black-truffle-butter-braised.md)
