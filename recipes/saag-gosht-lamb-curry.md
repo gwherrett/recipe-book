@@ -1,13 +1,13 @@
 ---
-title: Saag Gosht (Lamb Offcuts, Pressure Cooker)
-slug: saag-gosht-lamb-offcuts-pressure-cooker
+title: Saag Gosht (Lamb Curry)
+slug: saag-gosht-lamb-curry
 cuisine: Indian / Pakistani
 category: Mains
 health_rating: 4
 health_rating_label: Generally Healthy
 ---
 
-# Saag Gosht (Lamb Offcuts, Pressure Cooker)
+# Saag Gosht (Lamb Curry)
 
 **Source:** Adapted from Easy Indian Cookbook (Lamb Palak) and Sanjeev Kapoor (No-Oil Saag Gosht)
 
