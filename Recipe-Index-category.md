@@ -191,6 +191,7 @@
 - [Red Lentil Daal (Masoor Dal)](recipes/red-lentil-daal-masoor-dal.md)
 - [Rockfish Teriyaki](recipes/rockfish-teriyaki.md)
 - [Ropa Vieja](recipes/ropa-vieja.md)
+- [Saag Gosht (Lamb Curry)](recipes/saag-gosht-lamb-curry.md)
 - [Saba No Miso-ni](recipes/saba-no-miso-ni.md)
 - [Sablefish (Smoked)](recipes/sablefish-smoked.md)
 - [Sablefish with Chanterelles and Black Truffle Butter (Braised)](recipes/sablefish-with-chanterelles-and-black-truffle-butter-braised.md)
