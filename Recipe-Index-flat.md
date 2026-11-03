@@ -2,7 +2,7 @@
 
 **343 recipes**
 
-- [Saag Gosht (Lamb Offcuts, Pressure Cooker)](recipes/saag-gosht-lamb-offcuts-pressure-cooker.md)
+- [Saag Gosht (Lamb Curry)](recipes/saag-gosht-lamb-curry.md)
 - [Black Bean Salad (Mango, Corn, Chili & Lime)](recipes/black-bean-salad-mango-corn-chili-and-lime.md)
 - [Beef & Chouriço Lasagna](recipes/beef-and-chourico-lasagna.md)
 - [Larb Gai (Thai Chicken Lettuce Wraps)](recipes/larb-gai-thai-chicken-lettuce-wraps.md)

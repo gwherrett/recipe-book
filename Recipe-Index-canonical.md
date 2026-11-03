@@ -143,7 +143,7 @@
 - [Prawns in Coconut Masala](recipes/prawns-in-coconut-masala.md)
 - [Red Lentil Daal (Masoor Dal)](recipes/red-lentil-daal-masoor-dal.md)
 - [Rice Pudding](recipes/rice-pudding.md)
-- [Saag Gosht (Lamb Offcuts, Pressure Cooker)](recipes/saag-gosht-lamb-offcuts-pressure-cooker.md)
+- [Saag Gosht (Lamb Curry)](recipes/saag-gosht-lamb-curry.md)
 
 ## Italian
 
