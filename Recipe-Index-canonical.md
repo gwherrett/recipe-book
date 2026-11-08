@@ -411,6 +411,7 @@
 - [Pad Krapow Moo Sap (Thai Basil Pork Stir-Fry)](recipes/pad-krapow-moo-sap-thai-basil-pork-stir-fry.md)
 - [Pad Thai](recipes/pad-thai.md)
 - [Pla Neung Manao (Steamed Fish with Lime & Garlic)](recipes/pla-neung-manao-steamed-fish-with-lime-and-garlic.md)
+- [Salmon Thai Green Curry](recipes/salmon-thai-green-curry.md)
 - [Thai Dressing](recipes/thai-dressing.md)
 - [Tom Yum Goong (Hot & Sour Shrimp Soup)](recipes/tom-yum-goong-hot-and-sour-shrimp-soup.md)
 

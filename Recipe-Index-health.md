@@ -127,6 +127,7 @@
 - [Sabzi Polo Mahi (Persian Dill Rice with Fish)](recipes/sabzi-polo-mahi-persian-dill-rice-with-fish.md)
 - [Salmon (Blackened Sockeye)](recipes/salmon-blackened-sockeye.md)
 - [Salmon (Japanese-Glazed Cedar Plank)](recipes/salmon-japanese-glazed-cedar-plank.md)
+- [Salmon Thai Green Curry](recipes/salmon-thai-green-curry.md)
 - [Salmon with Anchovy-Garlic Butter](recipes/salmon-with-anchovy-garlic-butter.md)
 - [Salmon With Dijon Brown Sugar](recipes/salmon-with-dijon-brown-sugar.md)
 - [Seafood Paella (Paella de Marisco)](recipes/seafood-paella-paella-de-marisco.md)
