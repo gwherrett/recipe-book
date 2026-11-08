@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**343 recipes**
+**344 recipes**
 
+- [Salmon Thai Green Curry](recipes/salmon-thai-green-curry.md)
 - [Saag Gosht (Lamb Curry)](recipes/saag-gosht-lamb-curry.md)
 - [Black Bean Salad (Mango, Corn, Chili & Lime)](recipes/black-bean-salad-mango-corn-chili-and-lime.md)
 - [Beef & Chouriço Lasagna](recipes/beef-and-chourico-lasagna.md)
