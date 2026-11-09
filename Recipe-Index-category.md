@@ -132,7 +132,7 @@
 - [Chicken Enchiladas](recipes/chicken-enchiladas.md)
 - [Chicken Legs (Barbecued)](recipes/chicken-legs-barbecued.md)
 - [Chicken Mole (Oaxacan-Style)](recipes/chicken-mole-oaxacan-style.md)
-- [Chicken Mole Negro (Oaxacan Black Mole)](recipes/chicken-mole-negro-oaxacan-black-mole.md)
+- [Chicken Mole Negro (Oaxacan)](recipes/chicken-mole-negro-oaxacan.md)
 - [Chicken Pot Pie](recipes/chicken-pot-pie.md)
 - [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
 - [Chicken with Dates, Saffron and Freekeh](recipes/chicken-with-dates-saffron-and-freekeh.md)

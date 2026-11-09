@@ -285,7 +285,7 @@
 - [Causa Rellena (Peruvian Potato Terrine)](recipes/causa-rellena-peruvian-potato-terrine.md)
 - [Cheese Crackers](recipes/cheese-crackers.md)
 - [Chicken (Baked Macau Style)](recipes/chicken-baked-macau-style.md)
-- [Chicken Mole Negro (Oaxacan Black Mole)](recipes/chicken-mole-negro-oaxacan-black-mole.md)
+- [Chicken Mole Negro (Oaxacan)](recipes/chicken-mole-negro-oaxacan.md)
 - [Chile Relleno](recipes/chile-relleno.md)
 - [Christmas Morning Wifesaver](recipes/christmas-morning-wifesaver.md)
 - [Cornbread (Brown Butter)](recipes/cornbread-brown-butter.md)

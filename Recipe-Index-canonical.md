@@ -239,7 +239,7 @@
 - [Causa Rellena (Peruvian Potato Terrine)](recipes/causa-rellena-peruvian-potato-terrine.md)
 - [Chicken Enchiladas](recipes/chicken-enchiladas.md)
 - [Chicken Mole (Oaxacan-Style)](recipes/chicken-mole-oaxacan-style.md)
-- [Chicken Mole Negro (Oaxacan Black Mole)](recipes/chicken-mole-negro-oaxacan-black-mole.md)
+- [Chicken Mole Negro (Oaxacan)](recipes/chicken-mole-negro-oaxacan.md)
 - [Chilaquiles Master Recipe](recipes/chilaquiles-master-recipe.md)
 - [Chile Relleno](recipes/chile-relleno.md)
 - [Gallo Pinto](recipes/gallo-pinto.md)
