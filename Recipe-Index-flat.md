@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**344 recipes**
+**345 recipes**
 
+- [Chicken Mole Negro (Oaxacan Black Mole)](recipes/chicken-mole-negro-oaxacan-black-mole.md)
 - [Salmon Thai Green Curry](recipes/salmon-thai-green-curry.md)
 - [Saag Gosht (Lamb Curry)](recipes/saag-gosht-lamb-curry.md)
 - [Black Bean Salad (Mango, Corn, Chili & Lime)](recipes/black-bean-salad-mango-corn-chili-and-lime.md)
