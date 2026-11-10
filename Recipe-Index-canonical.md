@@ -224,6 +224,7 @@
 - [Leg of Lamb with Balsamic Sauce](recipes/leg-of-lamb-with-balsamic-sauce.md)
 - [Lobster Busara](recipes/lobster-busara.md)
 - [Potatoes (Coriander Roast)](recipes/potatoes-coriander-roast.md)
+- [Shepherd's Pie (Turkish-Style) with Lamb Meatballs](recipes/shepherds-pie-turkish-style-with-lamb-meatballs.md)
 - [Tzatziki](recipes/tzatziki.md)
 - [White Bean Dip](recipes/white-bean-dip.md)
 - [Yellow Lentil & Chicken Soup](recipes/yellow-lentil-and-chicken-soup.md)

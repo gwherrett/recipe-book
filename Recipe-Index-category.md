@@ -204,6 +204,7 @@
 - [Salmon With Dijon Brown Sugar](recipes/salmon-with-dijon-brown-sugar.md)
 - [Sausage-Stuffed Shells (Baked)](recipes/sausage-stuffed-shells-baked.md)
 - [Seafood Paella (Paella de Marisco)](recipes/seafood-paella-paella-de-marisco.md)
+- [Shepherd's Pie (Turkish-Style) with Lamb Meatballs](recipes/shepherds-pie-turkish-style-with-lamb-meatballs.md)
 - [Shoyu Ramen](recipes/shoyu-ramen.md)
 - [Shrimp Creole](recipes/shrimp-creole.md)
 - [Shrimp Okra Gumbo](recipes/shrimp-okra-gumbo.md)
