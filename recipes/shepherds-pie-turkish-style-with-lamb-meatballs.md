@@ -1,7 +1,7 @@
 ---
 title: Shepherd's Pie (Turkish-Style) with Lamb Meatballs
 slug: shepherds-pie-turkish-style-with-lamb-meatballs
-cuisine: British
+cuisine: Mediterranean
 category: Mains
 health_rating: 3
 health_rating_label: Mixed / Context-Dependent
