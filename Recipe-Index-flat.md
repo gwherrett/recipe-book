@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**345 recipes**
+**346 recipes**
 
+- [Shepherd's Pie (Turkish-Style) with Lamb Meatballs](recipes/shepherds-pie-turkish-style-with-lamb-meatballs.md)
 - [Chicken Mole Negro (Oaxacan)](recipes/chicken-mole-negro-oaxacan.md)
 - [Salmon Thai Green Curry](recipes/salmon-thai-green-curry.md)
 - [Saag Gosht (Lamb Curry)](recipes/saag-gosht-lamb-curry.md)

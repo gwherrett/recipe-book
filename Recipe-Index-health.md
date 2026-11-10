@@ -244,6 +244,7 @@
 - [Salt, Pepper, and Lime Dipping Sauce (Muối Tiêu Chanh)](recipes/salt-pepper-and-lime-dipping-sauce-muoi-tieu-chanh.md)
 - [Sesame and Miso Dressing](recipes/sesame-and-miso-dressing.md)
 - [Shanghai Fried Noodles (Cu Chao Mian)](recipes/shanghai-fried-noodles-cu-chao-mian.md)
+- [Shepherd's Pie (Turkish-Style) with Lamb Meatballs](recipes/shepherds-pie-turkish-style-with-lamb-meatballs.md)
 - [Shoyu Ramen](recipes/shoyu-ramen.md)
 - [Shrimp Bisque](recipes/shrimp-bisque.md)
 - [Spaetzle](recipes/spaetzle.md)
