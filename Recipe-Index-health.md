@@ -105,6 +105,7 @@
 - [Mackerel with Peppers & Onions (Plancha)](recipes/mackerel-with-peppers-and-onions-plancha.md)
 - [Minestrone](recipes/minestrone.md)
 - [Mojo Marinade](recipes/mojo-marinade.md)
+- [Moros y Cristianos (Cuban Black Beans and Rice)](recipes/moros-y-cristianos-cuban-black-beans-and-rice.md)
 - [Mulligatawny Soup](recipes/mulligatawny-soup.md)
 - [Pad Krapow (Thai Basil Ground Turkey)](recipes/pad-krapow-thai-basil-ground-turkey.md)
 - [Panzanella (Tuscan)](recipes/panzanella-tuscan.md)

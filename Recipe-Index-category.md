@@ -297,6 +297,7 @@
 - [Kale Salad (Southwest)](recipes/kale-salad-southwest.md)
 - [Kale-Cabbage-Carrot Slaw](recipes/kale-cabbage-carrot-slaw.md)
 - [Mixed Greens with Pecans, Goat Cheese, and Dried Cranberries](recipes/mixed-greens-with-pecans-goat-cheese-and-dried-cranberries.md)
+- [Moros y Cristianos (Cuban Black Beans and Rice)](recipes/moros-y-cristianos-cuban-black-beans-and-rice.md)
 - [Panzanella](recipes/panzanella.md)
 - [Panzanella (Tuscan)](recipes/panzanella-tuscan.md)
 - [Pecorino Radicchio Cherry Salad](recipes/pecorino-radicchio-cherry-salad.md)
