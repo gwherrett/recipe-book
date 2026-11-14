@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**346 recipes**
+**347 recipes**
 
+- [Moros y Cristianos (Cuban Black Beans and Rice)](recipes/moros-y-cristianos-cuban-black-beans-and-rice.md)
 - [Shepherd's Pie (Turkish-Style) with Lamb Meatballs](recipes/shepherds-pie-turkish-style-with-lamb-meatballs.md)
 - [Chicken Mole Negro (Oaxacan)](recipes/chicken-mole-negro-oaxacan.md)
 - [Salmon Thai Green Curry](recipes/salmon-thai-green-curry.md)

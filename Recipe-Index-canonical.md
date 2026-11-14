@@ -91,6 +91,7 @@
 - [Goat Curry (Trinidad Style)](recipes/goat-curry-trinidad-style.md)
 - [Jerk Chicken](recipes/jerk-chicken.md)
 - [Mojo Marinade](recipes/mojo-marinade.md)
+- [Moros y Cristianos (Cuban Black Beans and Rice)](recipes/moros-y-cristianos-cuban-black-beans-and-rice.md)
 - [Oxtail Stew (Jamaican)](recipes/oxtail-stew-jamaican.md)
 - [Rice and Peas](recipes/rice-and-peas.md)
 - [Ropa Vieja](recipes/ropa-vieja.md)
