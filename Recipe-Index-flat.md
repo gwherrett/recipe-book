@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**347 recipes**
+**348 recipes**
 
+- [Blue Cheese Dressing (Universally Useful)](recipes/blue-cheese-dressing-universally-useful.md)
 - [Moros y Cristianos (Cuban Black Beans and Rice)](recipes/moros-y-cristianos-cuban-black-beans-and-rice.md)
 - [Shepherd's Pie (Turkish-Style) with Lamb Meatballs](recipes/shepherds-pie-turkish-style-with-lamb-meatballs.md)
 - [Chicken Mole Negro (Oaxacan)](recipes/chicken-mole-negro-oaxacan.md)

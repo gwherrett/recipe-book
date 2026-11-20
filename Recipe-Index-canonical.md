@@ -284,6 +284,7 @@
 - [Black Bean & Corn Chili (Southwestern)](recipes/black-bean-and-corn-chili-southwestern.md)
 - [Black Cod (Cedar Plank Barbecue)](recipes/black-cod-cedar-plank-barbecue.md)
 - [Blue Cheese Dressing](recipes/blue-cheese-dressing.md)
+- [Blue Cheese Dressing (Universally Useful)](recipes/blue-cheese-dressing-universally-useful.md)
 - [Brussels Sprouts Slaw](recipes/brussels-sprouts-slaw.md)
 - [Burger](recipes/burger.md)
 - [Carrots (Roasted with Spice Blend)](recipes/carrots-roasted-with-spice-blend.md)

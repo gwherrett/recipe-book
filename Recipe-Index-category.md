@@ -84,6 +84,7 @@
 
 - [Basil Dressing](recipes/basil-dressing.md)
 - [Blue Cheese Dressing](recipes/blue-cheese-dressing.md)
+- [Blue Cheese Dressing (Universally Useful)](recipes/blue-cheese-dressing-universally-useful.md)
 - [Caesar Dressing with Anchovy](recipes/caesar-dressing-with-anchovy.md)
 - [Carrot Ginger Dressing](recipes/carrot-ginger-dressing.md)
 - [Italian Dressing (Kraft Zesty)](recipes/italian-dressing-kraft-zesty.md)
