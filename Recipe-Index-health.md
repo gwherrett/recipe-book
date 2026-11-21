@@ -278,7 +278,6 @@
 - [Beef Galbi (Korean-Style Marinated Short Ribs)](recipes/beef-galbi-korean-style-marinated-short-ribs.md)
 - [Big Mac Sauce](recipes/big-mac-sauce.md)
 - [Blue Cheese Dressing](recipes/blue-cheese-dressing.md)
-- [Blue Cheese Dressing (Universally Useful)](recipes/blue-cheese-dressing-universally-useful.md)
 - [Bo Ssäm (Momofuku)](recipes/bo-ssam-momofuku.md)
 - [Burger](recipes/burger.md)
 - [Cacio e Pepe](recipes/cacio-e-pepe.md)
