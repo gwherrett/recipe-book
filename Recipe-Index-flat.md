@@ -2,13 +2,13 @@
 
 **345 recipes**
 
-- [Blue Cheese Dressing (Universally Useful)](recipes/blue-cheese-dressing-universally-useful.md)
-- [Moros y Cristianos (Cuban Black Beans and Rice)](recipes/moros-y-cristianos-cuban-black-beans-and-rice.md)
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
 - [Cornish Hens (Rotisserie Herb-Brined)](recipes/cornish-hens-rotisserie-herb-brined.md)
 - [Mulligatawny (Lentil & Coconut)](recipes/mulligatawny-lentil-and-coconut.md)
 - [Mulligatawny (Vintage)](recipes/mulligatawny-vintage.md)
 - [Panzanella](recipes/panzanella.md)
+- [Blue Cheese Dressing (Universally Useful)](recipes/blue-cheese-dressing-universally-useful.md)
+- [Moros y Cristianos (Cuban Black Beans and Rice)](recipes/moros-y-cristianos-cuban-black-beans-and-rice.md)
 - [Shepherd's Pie (Turkish-Style) with Lamb Meatballs](recipes/shepherds-pie-turkish-style-with-lamb-meatballs.md)
 - [Chicken Mole Negro (Oaxacan)](recipes/chicken-mole-negro-oaxacan.md)
 - [Salmon Thai Green Curry](recipes/salmon-thai-green-curry.md)
