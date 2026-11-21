@@ -140,7 +140,6 @@
 - [Chile Relleno](recipes/chile-relleno.md)
 - [Chili (Slow Cooker)](recipes/chili-slow-cooker.md)
 - [Cornish Hens (Rotisserie Herb-Brined)](recipes/cornish-hens-rotisserie-herb-brined.md)
-- [Cornish Hens (Rotisserie)](recipes/cornish-hens-rotisserie.md)
 - [Cubano Sandwich](recipes/cubano-sandwich.md)
 - [Duck Breasts with Pomegranate Barberry Sauce](recipes/duck-breasts-with-pomegranate-barberry-sauce.md)
 - [Duck Legs (Thai Green Curry)](recipes/duck-legs-thai-green-curry.md)
@@ -255,7 +254,6 @@
 - [Spaetzle](recipes/spaetzle.md)
 - [Spaghetti alle Vongole](recipes/spaghetti-alle-vongole.md)
 - [Spaghetti Sauce](recipes/spaghetti-sauce.md)
-- [Tagliatelle Bolognese](recipes/tagliatelle-bolognese.md)
 
 ## Salads & Sides
 
@@ -298,7 +296,6 @@
 - [Kale-Cabbage-Carrot Slaw](recipes/kale-cabbage-carrot-slaw.md)
 - [Mixed Greens with Pecans, Goat Cheese, and Dried Cranberries](recipes/mixed-greens-with-pecans-goat-cheese-and-dried-cranberries.md)
 - [Panzanella](recipes/panzanella.md)
-- [Panzanella (Tuscan)](recipes/panzanella-tuscan.md)
 - [Pecorino Radicchio Cherry Salad](recipes/pecorino-radicchio-cherry-salad.md)
 - [Pickled Jalapeños](recipes/pickled-jalapenos.md)
 - [Pickled Red Onions](recipes/pickled-red-onions.md)
@@ -366,7 +363,6 @@
 - [Carrot Soup (Moroccan)](recipes/carrot-soup-moroccan.md)
 - [Celery & Stilton Soup](recipes/celery-and-stilton-soup.md)
 - [Celery, Potato & Dill Soup](recipes/celery-potato-and-dill-soup.md)
-- [Chicken Mulligatawny](recipes/chicken-mulligatawny.md)
 - [Chicken Soup with Thai Basil](recipes/chicken-soup-with-thai-basil.md)
 - [Chicken Stock](recipes/chicken-stock.md)
 - [Corn Chowder](recipes/corn-chowder.md)
@@ -374,7 +370,8 @@
 - [Gazpacho](recipes/gazpacho.md)
 - [Macaroni Soup (Hong Kong Café, Cha Chaan Teng)](recipes/macaroni-soup-hong-kong-cafe-cha-chaan-teng.md)
 - [Minestrone](recipes/minestrone.md)
-- [Mulligatawny Soup](recipes/mulligatawny-soup.md)
+- [Mulligatawny (Lentil & Coconut)](recipes/mulligatawny-lentil-and-coconut.md)
+- [Mulligatawny (Vintage)](recipes/mulligatawny-vintage.md)
 - [New England Clam Chowder](recipes/new-england-clam-chowder.md)
 - [Pork Bone Soup with Job's Tears](recipes/pork-bone-soup-with-jobs-tears.md)
 - [Potato-Leek Soup](recipes/potato-leek-soup.md)
