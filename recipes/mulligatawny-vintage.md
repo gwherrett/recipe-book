@@ -1,13 +1,13 @@
 ---
-title: Chicken Mulligatawny
-slug: chicken-mulligatawny
+title: Mulligatawny (Vintage)
+slug: mulligatawny-vintage
 cuisine: Indian / Pakistani
 category: Soups & Stocks
 health_rating: 4
 health_rating_label: Generally Healthy
 ---
 
-# Chicken Mulligatawny
+# Mulligatawny (Vintage)
 
 A classic Anglo-Indian curried chicken soup with vegetables, apples, and warming spices. Mulligatawny means "pepper water" in Tamil, and this hearty soup is a beloved legacy of British colonial India.
 

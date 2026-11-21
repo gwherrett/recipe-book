@@ -1,8 +1,8 @@
 ---
-title: Mulligatawny Soup
+title: Mulligatawny (Lentil & Coconut)
 cuisine: Indian / Pakistani
 category: Soups & Stocks
-slug: mulligatawny-soup
+slug: mulligatawny-lentil-and-coconut
 health_rating: 4
 health_rating_label: Generally Healthy
 ---
