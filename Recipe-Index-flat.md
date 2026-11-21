@@ -1,7 +1,9 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**343 recipes**
+**345 recipes**
 
+- [Blue Cheese Dressing (Universally Useful)](recipes/blue-cheese-dressing-universally-useful.md)
+- [Moros y Cristianos (Cuban Black Beans and Rice)](recipes/moros-y-cristianos-cuban-black-beans-and-rice.md)
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
 - [Cornish Hens (Rotisserie Herb-Brined)](recipes/cornish-hens-rotisserie-herb-brined.md)
 - [Mulligatawny (Lentil & Coconut)](recipes/mulligatawny-lentil-and-coconut.md)

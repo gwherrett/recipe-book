@@ -84,6 +84,7 @@
 
 - [Basil Dressing](recipes/basil-dressing.md)
 - [Blue Cheese Dressing](recipes/blue-cheese-dressing.md)
+- [Blue Cheese Dressing (Universally Useful)](recipes/blue-cheese-dressing-universally-useful.md)
 - [Caesar Dressing with Anchovy](recipes/caesar-dressing-with-anchovy.md)
 - [Carrot Ginger Dressing](recipes/carrot-ginger-dressing.md)
 - [Italian Dressing (Kraft Zesty)](recipes/italian-dressing-kraft-zesty.md)
@@ -295,6 +296,7 @@
 - [Kale Salad (Southwest)](recipes/kale-salad-southwest.md)
 - [Kale-Cabbage-Carrot Slaw](recipes/kale-cabbage-carrot-slaw.md)
 - [Mixed Greens with Pecans, Goat Cheese, and Dried Cranberries](recipes/mixed-greens-with-pecans-goat-cheese-and-dried-cranberries.md)
+- [Moros y Cristianos (Cuban Black Beans and Rice)](recipes/moros-y-cristianos-cuban-black-beans-and-rice.md)
 - [Panzanella](recipes/panzanella.md)
 - [Pecorino Radicchio Cherry Salad](recipes/pecorino-radicchio-cherry-salad.md)
 - [Pickled Jalapeños](recipes/pickled-jalapenos.md)
