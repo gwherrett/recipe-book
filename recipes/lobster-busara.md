@@ -10,61 +10,54 @@ tags:
 - Tomato
 - White Wine
 servings: 4
-time: 45 minutes
+time: 40 minutes
 cuisine: Mediterranean
 slug: lobster-busara
 health_rating: 3
 health_rating_label: Mixed / Context-Dependent
 ---
 
-# Croatian Lobster Pasta (Dalmatian-Style)
+# Lobster na Buzaru (Croatian Red Buzara with Pasta)
 
-A coastal Croatian take on lobster pasta inspired by *brudet* flavors—tomato, white wine, olive oil, bay, and herbs—tossed with al dente pasta.
+**Source:** Adapted from [Kitchen Nostalgia's Scampi Buzara](https://www.kitchennostalgia.com/croatian-recipes/scampi-buzara.html), scaled up and made with lobster in place of scampi.
+
+*Buzara* is the Dalmatian way of cooking shellfish in their shells with olive oil, garlic, parsley, and wine, so the seafood stays the star. The *crvena* (red) version adds a little tomato paste. Scampi are the classic choice, but lobster works the same way. Buzara is traditionally served with pasta or polenta, and always with bread for the sauce.
 
 ## Ingredients
 
 ### Lobster
-- 2 whole lobsters (about 680 g / 1.5 lb each)
-- 2 tbsp olive oil
-- Fine sea salt & black pepper
+- 2 live lobsters (about 680 g / 1.5 lb each)
 
 ### Sauce
-- 3 tbsp olive oil
-- 1 medium onion, finely chopped
-- 3 cloves garlic, minced
-- 1 tsp sweet paprika
-- 1 tsp dried oregano
-- 1 tsp dried basil
-- 1/2 tsp dried thyme
-- 1/4–1/2 tsp red pepper flakes (optional, to taste)
-- 1 × 400 g can diced tomatoes (undrained)
-- 120 ml dry white wine
-- 240 ml seafood stock (or water)
-- 2 bay leaves
-- Zest of 1 lemon
+- 150 ml (⅔ cup) extra-virgin olive oil
+- 5 cloves garlic, minced
+- 3 tbsp tomato paste
+- 150 ml dry white wine (e.g., Pošip or Malvazija)
+- 2 tbsp red wine *(optional, for colour and tradition)*
+- 1½ tbsp cognac or brandy
+- 3 tbsp flat-leaf parsley, finely chopped
 - Fine sea salt & black pepper, to taste
-- Handful fresh flat-leaf parsley, chopped (for garnish)
+- 1–2 tbsp dry breadcrumbs, to thicken
 
-### Pasta
+### To serve
 - 450 g spaghetti or linguine
 - Salt for pasta water
+- Crusty bread
 
 ## Method
 
-1. **Par-cook the lobster (for easy shelling).** Bring a large pot of well‑salted water to a boil. Add lobsters and cook 5 minutes, until shells turn bright red. Transfer to a tray to cool slightly. Split lengthwise; remove and roughly chop the tail, claw, and knuckle meat. Discard the sac and vein; reserve shells for stock if you like.
-2. **Start the sauce.** Warm 3 tbsp olive oil in a wide sauté pan over medium heat. Sauté onion 5–7 minutes until translucent. Add garlic and cook 30 seconds until fragrant.
-3. **Season.** Stir in paprika, oregano, basil, thyme, and (optional) red pepper flakes; toast 30–60 seconds.
-4. **Deglaze and simmer.** Add tomatoes, wine, seafood stock, and bay leaves. Season with salt and pepper. Simmer 12–15 minutes, stirring occasionally, until slightly thickened and flavors meld.
-5. **Cook the pasta.** Meanwhile, boil pasta in generously salted water until *al dente*. Reserve ~240 ml (1 cup) pasta water; drain.
-6. **Finish with lobster.** Add chopped lobster to the sauce; simmer gently 2–3 minutes to warm through (avoid overcooking). Remove bay leaves. Add lemon zest.
-7. **Toss.** Add drained pasta to the pan and toss vigorously, loosening with reserved pasta water a splash at a time until glossy and lightly saucy.
-8. **Serve.** Off heat, drizzle with a little olive oil, shower with chopped parsley, and crack over black pepper. Taste and adjust salt/acid (a squeeze of lemon if needed).
+1. **Prepare the lobster.** Chill the lobsters in the freezer for 20–30 minutes to sedate them. Split each one lengthwise through the head and body with a heavy knife. Cut the tails into 3–4 pieces through the shell, and crack the claws. Discard the sac behind the eyes and the vein, but keep any tomalley and roe. The shells stay on, because they flavour the sauce.
+2. **Start the pasta water.** Bring a large pot of well-salted water to a boil.
+3. **Sear the lobster.** Heat the olive oil in a wide, deep pan over medium-high heat. Add the lobster pieces and toss for 2–3 minutes, until the shells turn red.
+4. **Garlic and tomato.** Lower the heat to medium. Add the garlic and tomato paste and stir for 1–2 minutes, until the paste darkens slightly and coats the shells.
+5. **Wine and cognac.** Season with salt and pepper. Pour in the white wine, red wine (if using), and cognac. Bring to a gentle simmer, cover, and cook for about 8–10 minutes, turning the pieces once, until the lobster meat is just opaque.
+6. **Cook the pasta.** While the lobster simmers, cook the pasta until just shy of *al dente*. Reserve about 240 ml (1 cup) of pasta water, then drain.
+7. **Finish the sauce.** Lift out the lobster pieces and keep them warm. Stir the parsley into the sauce. If it's thin, sprinkle in breadcrumbs a tablespoon at a time and simmer for a minute until it clings.
+8. **Toss and serve.** Add the pasta to the pan and toss, loosening with pasta water a splash at a time until glossy. Return the lobster on top, scatter with a little more parsley, and serve with bread and plenty of napkins.
 
 ## Notes & Tips
-- **Pasta shape:** Linguine or spaghetti are classic; bucatini or tagliatelle also work.
-- **Wine:** A crisp Croatian Pošip or any dry white (Pinot Grigio/Sauvignon Blanc) is ideal.
-- **Stock swap:** If you don’t have seafood stock, simmer the reserved shells with water, onion trimmings, and a bay leaf for 20 minutes while the sauce cooks.
-- **Heat level:** Croatian versions are typically mild—add chili flakes sparingly.
-- **Make-ahead:** Sauce (without lobster) keeps 2–3 days refrigerated; add lobster just before serving.
-
-Enjoy—*Dobar tek!* 🇭🇷
+- **Shells on:** Eating buzara is a hands-on affair. Put out picks, crackers, and a bowl for shells.
+- **Breadcrumbs:** They're a traditional thickener. Add them only if the sauce needs it.
+- **Other shellfish:** If lobster isn't available, large shell-on prawns (e.g., BC spot prawns) work well. They need only about 5 minutes in step 5.
+- **White buzara:** Leave out the tomato paste and red wine, and finish with a knob of butter.
+- **Wine to drink:** A crisp Croatian Pošip or Malvazija, or any dry white.
