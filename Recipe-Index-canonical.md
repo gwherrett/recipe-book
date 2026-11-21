@@ -401,6 +401,7 @@
 ## Thai
 
 - [Bean, Cucumber & Tomato Salad](recipes/bean-cucumber-and-tomato-salad.md)
+- [Beef Cheek and Pumpkin Massaman Curry](recipes/beef-cheek-and-pumpkin-massaman-curry.md)
 - [Chicken Soup with Thai Basil](recipes/chicken-soup-with-thai-basil.md)
 - [Duck Legs (Thai Green Curry)](recipes/duck-legs-thai-green-curry.md)
 - [Green Apple & Spring Mix Salad with Thai Basil Dressing](recipes/green-apple-and-spring-mix-salad-with-thai-basil-dressing.md)

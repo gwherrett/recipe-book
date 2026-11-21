@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**345 recipes**
+**346 recipes**
 
+- [Beef Cheek and Pumpkin Massaman Curry](recipes/beef-cheek-and-pumpkin-massaman-curry.md)
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
 - [Cornish Hens (Rotisserie Herb-Brined)](recipes/cornish-hens-rotisserie-herb-brined.md)
 - [Mulligatawny (Lentil & Coconut)](recipes/mulligatawny-lentil-and-coconut.md)
