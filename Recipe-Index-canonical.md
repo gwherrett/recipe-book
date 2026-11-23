@@ -342,6 +342,7 @@
 - [Salmon With Dijon Brown Sugar](recipes/salmon-with-dijon-brown-sugar.md)
 - [Sherry Cake](recipes/sherry-cake.md)
 - [Shrimp Cocktail Sauce](recipes/shrimp-cocktail-sauce.md)
+- [Spiced Rye](recipes/spiced-rye.md)
 - [Spinach (Creamed)](recipes/spinach-creamed.md)
 - [Spot Prawns with Garlic and Chile](recipes/spot-prawns-with-garlic-and-chile.md)
 - [Sugar Cookies](recipes/sugar-cookies.md)

@@ -366,6 +366,7 @@
 - [Pie Crust](recipes/pie-crust.md)
 - [Sherry Cake](recipes/sherry-cake.md)
 - [Spiced Rum](recipes/spiced-rum.md)
+- [Spiced Rye](recipes/spiced-rye.md)
 - [Sugar Cookies](recipes/sugar-cookies.md)
 - [Tiramisu](recipes/tiramisu.md)
 

@@ -101,6 +101,7 @@
 - [Limoncello](recipes/limoncello.md)
 - [Simple Syrup](recipes/simple-syrup.md)
 - [Spiced Rum](recipes/spiced-rum.md)
+- [Spiced Rye](recipes/spiced-rye.md)
 
 ## Mains
 

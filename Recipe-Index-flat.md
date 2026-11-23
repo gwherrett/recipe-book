@@ -1,7 +1,8 @@
 # Recipe Index (Flat — Most Recently Updated)
 
-**346 recipes**
+**347 recipes**
 
+- [Spiced Rye](recipes/spiced-rye.md)
 - [Beef Cheek and Pumpkin Massaman Curry](recipes/beef-cheek-and-pumpkin-massaman-curry.md)
 - [Bolognese Sauce](recipes/bolognese-sauce.md)
 - [Cornish Hens (Rotisserie Herb-Brined)](recipes/cornish-hens-rotisserie-herb-brined.md)
